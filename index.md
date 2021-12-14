@@ -12,7 +12,7 @@ permalink: /
 Das Toolkit Lernraumgestaltung soll gesammelte Informationen zur Gestaltung von Lernräumen im universitären Kontext zur Verfügung stellen um Praktiker in ihrer Arbeit zu unterstützen.
 {: .fs-6 .fw-300 }
 
-[Toolkit als PDF](https://github.com/kzinke/Toolkit_Lernraumgestaltung/blob/a14e0b607ebf6cc4b5c6ff3e3ef54bbdb5a3c18d/Toolkit_Lernraumgestaltung_%C3%9Cbersetzung_Version_2021-06.pdf){: .btn .btn-purple .fs-5 .mr-4}  [Auf Github ansehen](https://github.com/kzinke/Toolkit_Lernraumgestaltung){: .btn .fs-5}
+[Toolkit als PDF](docs/Toolkit_Lernraumgestaltung_%C3%9Cbersetzung_Version_2021-06.pdf){: .btn .btn-purple .fs-5 .mr-4}  [Auf Github ansehen](https://github.com/Lernraum-Toolkit/Lernraum-Toolkit.github.io){: .btn .fs-5}
 
 ---
 ## Über das Toolkit
@@ -35,6 +35,6 @@ Dr. Katharina Zinke
 
 Erarbeitet im Rahmen des Projektes „Learning Space Toolkit: Best Practice Kreativräume entwickeln und evaluieren“ (Universitätsbibliothek Tübingen) innerhalb des Förderprogramms des Landes Baden-Württemberg „Wissenschaftliche Bibliotheken gestalten den digitalen Wandel (BW-Big diWa)“
 
-Das komplette Dokument des Toolkits ist als OER veröffentlicht [https://www.oerbw.de/faq.html](https://www.oerbw.de/faq.html) und steht auch hier direkt zum Download [Download](https://github.com/kzinke/Toolkit_Lernraumgestaltung/blob/a14e0b607ebf6cc4b5c6ff3e3ef54bbdb5a3c18d/Toolkit_Lernraumgestaltung_%C3%9Cbersetzung_Version_2021-06.pdf) bereit.
+Das komplette Dokument des Toolkits ist als OER veröffentlicht [https://www.oerbw.de/faq.html](https://www.oerbw.de/faq.html) und steht auch hier direkt zum Download [Download](docs/Toolkit_Lernraumgestaltung_%C3%9Cbersetzung_Version_2021-06.pdf) bereit.
 
 ***
