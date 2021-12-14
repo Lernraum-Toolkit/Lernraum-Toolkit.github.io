@@ -39,7 +39,7 @@ wichtigen Teil der Post-Occupancy / Redesign-Evaluation bilden.
 
 [Link Beispiel Use Case Tool (pdf)](https://learningspacetoolkit.org/wp-content/uploads/Use-Case-Tool-Example.pdf)
 
-[Download Template Use Case Tool (pdf)](media/tools/DE_Use_Case_Tool.xlsx){: .btn .btn-purple .fs-5 .mr-4}
+[Download Template Use Case Tool (xlsx)](media/tools/DE_Use_Case_Tool.xlsx){: .btn .btn-purple .fs-5 .mr-4}
 
 **Personas entwickeln -** zur Verkörperung spezifischer
 Schlüsselmerkmale von Zielnutzergruppen
