@@ -70,13 +70,13 @@ die Designprojekte durchführen, darunter:
     zusammenarbeitet, um Personas zu entwerfen, beginnend mit der
     Zusammenarbeit in einer Workshop-Situation.
 
--   [Persona Creation Workshop Overview - deutsche Übersetzung (pptx)](media\tools\DE_Persona_Creation_Workshop.pptx)
+-   [Persona Creation Workshop Overview - deutsche Übersetzung (pptx)](media/tools/DE_Persona_Creation_Workshop.pptx)
    kann in einem Workshops zur Erstellung von Personas verwendet
     werden, um die Teilnehmer über den Prozess zu informieren und
     spezifische "Klebezettel"-Übungen zu beschreiben, die zur
     Entwicklung von Personas verwendet werden.
 
--   [Beispiel Undergraduate Personas (pdf, learningspacetoolkit.org](https://learningspacetoolkit.org/wp-content/uploads/NCSU-Libraries-personas-IMLS-.pdf)
+-   [Beispiel Undergraduate Personas (pdf, learningspacetoolkit.org)](https://learningspacetoolkit.org/wp-content/uploads/NCSU-Libraries-personas-IMLS-.pdf)
     – NCSU-Libraries veranschaulichen, wie endgültige Personas aussehen
     könnten.
 
