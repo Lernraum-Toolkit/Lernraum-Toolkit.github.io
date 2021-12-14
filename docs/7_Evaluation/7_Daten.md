@@ -39,7 +39,7 @@ wichtigen Teil der Post-Occupancy / Redesign-Evaluation bilden.
 
 [Link Beispiel Use Case Tool (pdf)](https://learningspacetoolkit.org/wp-content/uploads/Use-Case-Tool-Example.pdf)
 
-[Download Template Use Case Tool (pdf)](media/tools/DE_Use_Case_tool.xlsx){: .btn .btn-purple .fs-5 .mr-4}
+[Download Template Use Case Tool (pdf)](media/tools/DE_Use_Case_Tool.xlsx){: .btn .btn-purple .fs-5 .mr-4}
 
 **Personas entwickeln -** zur Verkörperung spezifischer
 Schlüsselmerkmale von Zielnutzergruppen
@@ -70,13 +70,13 @@ die Designprojekte durchführen, darunter:
     zusammenarbeitet, um Personas zu entwerfen, beginnend mit der
     Zusammenarbeit in einer Workshop-Situation.
 
--   [Persona Creation Workshop Overview - deutsche Übersetzung (pptx)](https://learningspacetoolkit.org/wp-content/uploads/IMLS-persona_process.pdf)
+-   [Persona Creation Workshop Overview - deutsche Übersetzung (pptx)](media\tools\DE_Persona_Creation_Workshop.pptx)
    kann in einem Workshops zur Erstellung von Personas verwendet
     werden, um die Teilnehmer über den Prozess zu informieren und
     spezifische "Klebezettel"-Übungen zu beschreiben, die zur
     Entwicklung von Personas verwendet werden.
 
--   [Beispiel Undergraduate Personas (learningspacetoolkit.org, pdf)](https://learningspacetoolkit.org/wp-content/uploads/NCSU-Libraries-personas-IMLS-.pdf)
+-   [Beispiel Undergraduate Personas (pdf, learningspacetoolkit.org](https://learningspacetoolkit.org/wp-content/uploads/NCSU-Libraries-personas-IMLS-.pdf)
     – NCSU-Libraries veranschaulichen, wie endgültige Personas aussehen
     könnten.
 
