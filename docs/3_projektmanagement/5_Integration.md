@@ -169,13 +169,10 @@ nachzuprüfen, ob das Design und der Betrieb des Raums mit den
 beabsichtigten Zielen übereinstimmen, und zu den Aktivitäten der
 Bedarfsanalyse zurückkehren.
 
-[Download Beispiel Integration Blueprint (docx)](/media/tools/DE_Integration_Blueptrint_Beispiel.docx){: .btn .btn-purple .fs-5 .mr-4}
+[Download Beispiel Integration Blueprint (docx)](/media/tools/DE_Integration_Blueprint_Beispiel.docx){: .btn .btn-purple .fs-5 .mr-4}
 
-[Integration Blueprint
-Template](https://docs.google.com/document/d/19Ov6jcJ1ZpQJB_yvaEFDGixFeLQj1TbgdgD50oambg0/edit)
-– Editierbares Template zur eigenen Benutzung. Bitte laden Sie die Datei
-als MS-Doc-Datei herunter oder loggen Sie sich in Ihr Google-Docs-Konto
-ein, um eine 'Kopie zu erstellen' und direkt zu bearbeiten..
+[Download Template Integration Blueprint (docx)](/media/tools/DE_Integration_Blueprint.docx){: .btn .btn-purple .fs-5 .mr-4}
+
 
 ### 3.5.4 Erfolgstipps
 

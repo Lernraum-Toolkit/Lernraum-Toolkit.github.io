@@ -38,6 +38,10 @@ angemessen darzustellen, indem man die Mitte der
 Lebenszyklus-Glockenkurve betrachtet, wobei die kurzlebigen und
 langlebigen Geräte an den Rändern der Kurve auslaufen.
 
+**Tool**
+
+[Download Life Cycle Tool (xlsx)](/media/tools/DE_Life-Cycle-Tool.xlsx){: .btn .btn-purple .fs-5 .mr-4}
+
 **Zu berücksichtigende Faktoren für die Lebenszykluskosten**
 
 | | |
@@ -54,9 +58,3 @@ langlebigen Geräte an den Rändern der Kurve auslaufen.
 | Effizienz         | Effizienz definiert Nachhaltigkeit als ein Maß für die Herstellung, Materialien, Verpackung/Versanddistanz, Recycling und den Energieverbrauch für eine bestimmte Art von Geräten. Häufig wird dies mit Staats- oder Industriestandards definiert, wie den Energieeffizienzklassen für Computerausrüstung. Um einen Raum zu bewerten, nimmt man den Durchschnitt der Bewertungen aller Geräte in diesem Raum. Hochgradig nachhaltige Technologie hat die besten Bewertungen in allen Kategorien; Technologien mit geringer Nachhaltigkeit haben tendenziell einen hohen Energieverbrauch für ihre Klasse, viel übermäßige Verpackung, nicht wiederverwertbare Materialien usw. |
 | Ausgereiftheit   | Zu den Faktoren der Ausgereiftheit gehören der Umfang und die "Neuheit" der Benutzercommunity, die Tiefe des Supportnetzes des Herstellers und die Länge der Wartungshistorie. Ausgereifte Technologien haben große Benutzer-Communities, viele Unternehmen oder Personen, die sachkundigen Support bieten können, im Gegensatz zu "nur diesem einen Typen", und eine lange Wartungshistorie mit regelmäßigen Upgrade-Veröffentlichungen, die Fehler behoben haben. |
 | Bauen oder kaufen | Bauen oder Kaufen ist eine klassische Nachhaltigkeitsfrage, die ein Gleichgewicht zwischen dem Streben nach Innovation (Produkte herstellen, die noch nicht auf dem Markt erhältlich sind) und Kauf (Technologien erwerben, die ein brauchbares Produkt auf dem Markt haben) herstellt. Ein ausgewogenes Portfolio kombiniert sinnvolle Elemente von gebauter und gekaufter Technologie. Konservative Portfolios haben lediglich gekaufte Technologien, um die Personalkosten für die Betreuung von selbst gebauten Technologien zu begrenzen. Innovative Umgebungen neigen dazu, ihre eigenen Technologien zu entwickeln, selbst wenn es auf dem Markt praktikable Alternativen gibt, in der Regel aufgrund des Wunsches nach spezifischen Funktionen oder hochgradig kundenspezifischen lokalen Anforderungen, die auf dem Markt nicht vorhanden sind. |
-
-**Tool**
-
-[Lebenszyklus
-Tool](https://learningspacetoolkit.org/wp-content/uploads/LifeCycleTool-1.xlsx)
-– zur Nutzung herunterladbares Tool (MS Excel).

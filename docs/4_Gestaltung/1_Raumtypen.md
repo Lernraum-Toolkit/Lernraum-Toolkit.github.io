@@ -124,11 +124,9 @@ heruntergeladen werden und als Notiz- und Brainstorming-Unterstützung
 bei der Erkundung von Inspirationsquellen für Projekte zur Gestaltung
 von Lernräumen (z.B. FLEXspace) dienen.
 
-[Space Template Example
-(PowerPoint)](https://learningspacetoolkit.org/wp-content/uploads/Space-Template-Example.ppt)
+[Download Space Template mit Beispiel (pptx)](/media/tools/DE_Space-Template_Beispiel.pptx){: .btn .btn-purple .fs-5 .mr-4}
 
-[Neighborhood Template Example
-(PowerPoint)](https://learningspacetoolkit.org/wp-content/uploads/Neighborhood-Template-Example.ppt)
+[Download Neighborhood Template mit Beispiel (pptx)](/media/tools/DE_Neighborhood-Template_Beispiel.pptx){: .btn .btn-purple .fs-5 .mr-4}
 
 **Lernraum-Taxonomie**
 

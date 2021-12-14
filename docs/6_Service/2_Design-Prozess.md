@@ -99,8 +99,7 @@ Werkzeug kann ServicePlot auf verschiedene Arten genutzt werden:
     zukünftigen Stand abzubilden, was einen Vergleich der beiden
     erlaubt, um eine Diskussion zum Organisationswandel zu leiten.
 
-<span id="_6.2.2_Personas" class="anchor"></span>**Ressourcen zum
-Erarbeiten einer Vision**
+**Ressourcen zum Erarbeiten einer Vision**
 
 -   [Auswahl von Tools](http://www.upyourservice.com/learning-library/customer-service-vision) von UpYourService
 
@@ -144,14 +143,9 @@ Arbeitsschichten und Fähigkeiten dienen.
 
 **Beispiel und Tool**
 
-[Service Location Planner Example](https://learningspacetoolkit.org/wp-content/uploads/Service-Location-Planner-Example1.pdf)
-– Beispiel zum Herunterladen (PDF)
+[Link Beispiel Service Location Planner (pdf)](https://learningspacetoolkit.org/wp-content/uploads/Service-Location-Planner-Example1.pdf)
 
-[Service Location Planner Example](https://docs.google.com/spreadsheet/ccc?key=0Atgu2Z3T5KgMdDRabDRUa2dIX1Y5STV2M2J5ak1wN0E)
-– Editierbares Template zur eigenen Benutzung. Bitte laden Sie die Datei
-als MS-Excel-Datei herunter oder loggen Sie sich in Ihr
-Google-Docs-Konto ein, um eine 'Kopie zu erstellen' und direkt zu
-bearbeiten.
+[Download Template Service Location Planner (xlsx)](media/tools/DE_Service_Location_Planner.xlsx){: .btn .btn-purple .fs-5 .mr-4}
 
 <img src="./media/image3.png" style="width:2.75539in;height:1.69792in" alt="Example Service Location Planner" />
 
@@ -187,15 +181,9 @@ Servicekonzepte verwendet werden, um sicherzustellen, dass sie alle
 Fragen oder Bedenken, die die Journey Maps aufwerfen, beantworten.
 
 **Beispiel und Tool**
+[Download Beispiel Journey Map (docx)](media/tools/DE_Journey_Map_Beispiel.docx){: .btn .btn-purple .fs-5 .mr-4}
 
-[Journey Map Example](https://learningspacetoolkit.org/wp-content/uploads/Journey-Map-Example1.pdf)
-– Beispiel zum Herunterladen (PDF).
-
-[Journey Map Template](https://docs.google.com/document/d/1duOctJbuD_LzX-68d-5CfFgiHQtL7mfReihTYDmiKt4/edit)
-– Editierbares Template zur eigenen Benutzung. Bitte laden Sie die Datei
-als MS-Excel-Datei herunter oder loggen Sie sich in Ihr
-Google-Docs-Konto ein, um eine 'Kopie zu erstellen' und direkt zu
-bearbeiten.
+[Download Template Journey Map (docx)](media/tools/DE_Journey_Map.docx){: .btn .btn-purple .fs-5 .mr-4}
 
 <img src="./media/image4.png" style="width:3.04167in;height:2.15682in" alt="example journey map" />
 
@@ -247,14 +235,9 @@ werden, ggf. mit jeweils angepasstem Detailgrad.
 
 **Beispiel und Tool**
 
-[Service Blueprint Example](https://learningspacetoolkit.org/wp-content/uploads/Service-Blueprint-Example2.pdf)
-– Beispiel zum Herunterladen (PDF).
+[Download Beispiel Service Blueprint (docx)](media/tools/DE_Service_Blueprint_Beispiel.docx){: .btn .btn-purple .fs-5 .mr-4}
 
-[Service Blueprint Template](https://docs.google.com/document/d/1d8smycRKz5W-WQBDkcfHh6om-1BZ0OfUi0os-h3EgLs/edit)
-– Editierbares Template zur eigenen Benutzung. Bitte laden Sie die Datei
-als MS-Excel-Datei herunter oder loggen Sie sich in Ihr
-Google-Docs-Konto ein, um eine 'Kopie zu erstellen' und direkt zu
-bearbeiten.
+[Download Template Service Blueprint (docx)](media/tools/DE_Service_Blueprint.docx){: .btn .btn-purple .fs-5 .mr-4}
 
 <img src="./media/image5.png" style="width:3.63542in;height:2.41916in" alt="C:\095BE625\30DB0234-6D90-42FF-B947-F0196E2C4680-Dateien\image012.png" />
 
