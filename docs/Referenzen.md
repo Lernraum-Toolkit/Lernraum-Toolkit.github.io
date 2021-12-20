@@ -7,8 +7,7 @@ nav_order: 11
 # Referenzen
 
 Arnstein, S. R. (1969). A Ladder Of Citizen Participation. *Journal of
-the American Institute of Planners*, *35*(4), 216–224.
-<https://doi.org/10.1080/01944366908977225>
+the American Institute of Planners*, *35*(4), 216–224. doi: [10.1080/01944366908977225](https://doi.org/10.1080/01944366908977225)
 
 AUDE. (2010). *Space Assessment Models and Space Profiles*.
 
@@ -28,7 +27,7 @@ G. Oblinger (Hrsg.), *Learning Spaces*. EDUCAUSE.
 
 Chickering, A. W., & Gamson, Z. F. (1987). Seven principles for good
 practice in undergraduate education. *American Association for Higher
-Education Bulletin*. <https://doi.org/10.1016/0307-4412(89)90094-0>
+Education Bulletin*. doi: [10.1016/0307-4412(89)90094-0](<https://doi.org/10.1016/0307-4412(89)90094-0>)
 
 Graetz, K. A. (2006). The Psychology of Learning Environments. In D. G.
 Oblinger (Hrsg.), *Learning Spaces*. EDUCAUSE.
@@ -48,7 +47,7 @@ Hrsg.).
 
 Langston, C. (2014). Measuring Good Architecture: Long life, loose fit,
 low energy. *European Journal of Sustainable Development*, *3*(4),
-163–163. <https://doi.org/10.14207/ejsd.2014.v3n4p163>
+163–163. doi: [10.14207/ejsd.2014.v3n4p163](https://doi.org/10.14207/ejsd.2014.v3n4p163)
 
 Lomas, C., & Oblinger, D. G. (2006). Student Practices and Their Impact
 on Learning Spaces. In D. G. Oblinger (Hrsg.), *Learning Spaces*.
@@ -74,8 +73,8 @@ evaluation models and practices for technology supported physical
 learning spaces (JELS). *JISC*. <http://oro.open.ac.uk/29996/2/>
 
 Priestley, M. (2011). Schools, teachers, and curriculum change: A
-balancing act? *Journal of Educational Change*, *12*(1), 1–23.
-<https://doi.org/10.1007/s10833-010-9140-z>
+balancing act? *Journal of Educational Change*, *12*(1), 1–23. doi:
+[10.1007/s10833-010-9140-z](https://doi.org/10.1007/s10833-010-9140-z)
 
 RIBA (Royal Institute of British Architects). (2013). *RIBA plan of work
 2013*. RIBA London. [Link zu Webseite](https://www.ribaplanofwork.com/)

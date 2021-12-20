@@ -65,4 +65,4 @@ wenn sie ihre individuellen Aufgaben erledigt hatten, und es war sehr
 schwer, sie zu einer anderen Arbeitsweise zu ermutigen.
 
 ---
-[^3]: Link zur [Beschreibung der Techno-Cafés][www.dur.ac.uk/alic/technocafe/](http://www.dur.ac.uk/alic/technocafe/) an der Durham University
+[^3]: Link zur [Beschreibung der Techno-Cafés](http://www.dur.ac.uk/alic/technocafe/) an der Durham University

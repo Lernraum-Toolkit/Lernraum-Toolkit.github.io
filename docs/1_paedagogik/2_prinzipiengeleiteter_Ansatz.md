@@ -230,7 +230,7 @@ sein, Studierende zu begeistern.
 
 ---
 
-[^4]: Auch wenn die Allgemeingültigkeit dieser Prinzipien, gerade im Hinblick auf deutsche Universitäts- und Lernkulturen, nicht unumstritten sind. Siehe z.B. dieser Blogbeitrag zu Unterschieden zwischen amerikanischen und deutschen Lernkulturen an Universitäten: [Link Blogbeitrag](http://www.ethnography.com/2013/02/did-chickering-and-gamsons-1987-seven-practices-of-good-undergraduate-education-dumb-down-american-education-a-view-from-germany/)
+[^4]: Auch wenn die Allgemeingültigkeit dieser Prinzipien, gerade im Hinblick auf deutsche Universitäts- und Lernkulturen, nicht unumstritten sind. Siehe z.B. dieser Blogbeitrag zu Unterschieden zwischen amerikanischen und deutschen Lernkulturen an Universitäten: [Link zu Blogbeitrag](http://www.ethnography.com/2013/02/did-chickering-and-gamsons-1987-seven-practices-of-good-undergraduate-education-dumb-down-american-education-a-view-from-germany/)
 
 [^5]: Value Engineering ist eine prozessorientierte Vorgehensweise, bei
     der unnötige Projektkosten identifiziert und reduziert werden, ohne

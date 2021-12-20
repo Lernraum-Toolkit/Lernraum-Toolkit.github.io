@@ -16,15 +16,15 @@ nav_order: 10
 
 -   Beispiel: Projekt der Stadt Karlsruhe zur Gestaltung der Innenstadt mit Befragung und Einbindung Studierender - dort findet sich der Ergebnisbericht, u.a. mit konkreten Ideen zu Lernräumen, die in partizipativem Prozess entstanden sind: **[Link zum Projektbericht](https://www.karlsruhe.de/b2/wissenschaft_bildung/wissenschaftsbuero/projekte_wb/innenstadtvonmorgen.de)**
 
--   Behavior Mapping und Befragungsstudie zur Arbeitsplatzgestaltung/Territoriale Abgrenzung von Arbeitsplätzen in einer Bibliothek: İmamoğlu, Ç., & Gürel, M. Ö. (2016). “Good fences make good neighbors”: Territorial dividers increase user satisfaction and efficiency in library study spaces. *The Journal of Academic Librarianship, 42*(1), 65-73. **[Link zum Artikel](https://www.sciencedirect.com/science/article/pii/S0099133315002414#f0005)**
+-   Behavior Mapping und Befragungsstudie zur Arbeitsplatzgestaltung/Territoriale Abgrenzung von Arbeitsplätzen in einer Bibliothek: İmamoğlu, Ç., & Gürel, M. Ö. (2016). “Good fences make good neighbors”: Territorial dividers increase user satisfaction and efficiency in library study spaces. *The Journal of Academic Librarianship, 42*(1), 65-73. doi: **[10.1016/j.acalib.2015.10.009](https://doi.org/10.1016/j.acalib.2015.10.009)**
 
--   Studie zu Lärmempfinden und Raummerkmale in offenen Lernarealen (inklusive verwendetem Fragebogen): Braat-Eggen, P. E., van Heijst, A., Hornikx, M., & Kohlrausch, A. (2017). Noise disturbance in open-plan study environments: A field study on noise sources, student tasks and room acoustic parameters. *Ergonomics, 60*(9), 1297-1314. **[Link zum Artikel](https://www.tandfonline.com/doi/full/10.1080/00140139.2017.1306631)**
+-   Studie zu Lärmempfinden und Raummerkmale in offenen Lernarealen (inklusive verwendetem Fragebogen): Braat-Eggen, P. E., van Heijst, A., Hornikx, M., & Kohlrausch, A. (2017). Noise disturbance in open-plan study environments: A field study on noise sources, student tasks and room acoustic parameters. *Ergonomics, 60*(9), 1297-1314. doi: **[10.1080/00140139.2017.1306631](https://doi.org/10.1080/00140139.2017.1306631)**
 
  
 
 **Ethnografische Forschungsmethoden:**
 
--   Ethnografische Forschungsmethoden mit Anwendungsbeispiel in einer öffentlichen Bibliothek: Wildemann, B. (2017). Die Bibliothek mit den Augen der Nutzer sehen. Ethnografische Forschungsmethoden im praktischen Einsatz. *Bibliotheksdienst*, *51*(7), 589-595. **<https://doi.org/10.1515/bd-2017-0063>**
+-   Ethnografische Forschungsmethoden mit Anwendungsbeispiel in einer öffentlichen Bibliothek: Wildemann, B. (2017). Die Bibliothek mit den Augen der Nutzer sehen. Ethnografische Forschungsmethoden im praktischen Einsatz. *Bibliotheksdienst*, *51*(7), 589-595. doi: **[10.1515/bd-2017-0063](https://doi.org/10.1515/bd-2017-0063)**
 
 -   Anschauliche Erklärung von ethnografischen Methoden: **[Link zu youtube Video](https://www.youtube.com/user/ProjektPerle2012/featured)**
 

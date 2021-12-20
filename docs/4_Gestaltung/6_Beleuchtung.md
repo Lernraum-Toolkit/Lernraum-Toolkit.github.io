@@ -119,7 +119,7 @@ London:
 
 -   Der Jisc-Learning-Spaces-Guide (2013) enthält einige Beispiele für  Beleuchtungslösungen in einer Reihe von Lernumgebungen. **[Link zum Jisc Learning spaces guide](https://www.jisc.ac.uk/guides/learning-spaces/lighting)**
 
--   Dehoff, P. (2016). Umgebungsbedingung: Licht. In P. Hauke & K. Werner (Ed.), *Praxishandbuch Bibliotheksbau* (pp. 271-280). Berlin, Boston: De Gruyter Saur. **[Link](https://doi.org/10.1515/9783110403183-020)**.
+-   Dehoff, P. (2016). Umgebungsbedingung: Licht. In P. Hauke & K. Werner (Ed.), *Praxishandbuch Bibliotheksbau* (pp. 271-280). Berlin, Boston: De Gruyter Saur. doi: **[10.1515/9783110403183-020](https://doi.org/10.1515/9783110403183-020)**.
 
 ---
 [^4]: Siehe z.B. [Blogbeitrag von Steve Maslin](https://stevemaslin.wordpress.com/2015/04/29/clear-as-daylight/)

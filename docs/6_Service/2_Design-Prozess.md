@@ -249,7 +249,7 @@ werden, ggf. mit jeweils angepasstem Detailgrad.
 
 -   Harvard Business Review Article: Shostack, L. G. (1984). Design Services that Deliver. Harvard Business Review(84115), 133-139. [Link zu Artikel](https://hbr.org/1984/01/designing-services-that-deliver)
 
--   Scott W. H. Young, Sara Mannheimer, Doralyn Rossmann, David Swedman & Justin D. Shanks (2020) Service Blueprinting: A Method for Assessing Library Technologies within an Interconnected Service Ecosystem, Public Library Quarterly, 39:3, 190-211, DOI:[10.1080/01616846.2019.1637222](https://doi.org/10.1080/01616846.2019.1637222)
+-   Scott W. H. Young, Sara Mannheimer, Doralyn Rossmann, David Swedman & Justin D. Shanks (2020) Service Blueprinting: A Method for Assessing Library Technologies within an Interconnected Service Ecosystem, Public Library Quarterly, 39(3), 190-211. doi:[10.1080/01616846.2019.1637222](https://doi.org/10.1080/01616846.2019.1637222)
 
 -   Im allgemeinen Überblick über Qualitätsmanagement des Bibliotheksportals gibt es einen [Abschnitt zu Service-Blueprinting](https://bibliotheksportal.de/ressourcen/management/marketing-baukasten/strategisches-marketing/qualitaetsmanagement/).
 

@@ -29,7 +29,7 @@ nav_order: 9
 -   Leitner, S., Lienhard, C., & Quadri, A. (2021). Neue Zugänge
     schaffen: Augmented und Virtual Reality an der ETH-Bibliothek.
     *O-Bib. Das Offene Bibliotheksjournal / Herausgeber VDB*, *8*(1),
-    1–18. **<https://doi.org/10.5282/o-bib/5648>**
+    1–18. doi: **[10.5282/o-bib/5648](https://doi.org/10.5282/o-bib/5648)**
 
 -   Paplowski, S. (2020). Beacons in Bibliotheken—Ein Überblick über die
     praktischen Einsatzmöglichkeiten der Indoor-Navigation in
@@ -41,6 +41,6 @@ nav_order: 9
 
 -   Wagner, J. (2019). „Bewegung fördert Lernen“ – \[Smarte\] Angebote bewegungsfördernder Geräte am Lernort Bibliothek. In: L. Freyberg & Wolf, S. *Smart Libraries: Konzepte, Methoden und Strategien* (Vol. 76). bit online Verlag.
 
--   Clement, K.A., Carr, S., Johnson, L., Carter, A., Dosch, B.R., Kaufman, J., Fleming-May, R., Mays, R. and Walker, T. (2018). Reading, writing, and … running? Assessing active space in libraries. *Performance Measurement and Metrics, 19*(3), 166-175. **<https://doi.org/10.1108/PMM-03-2018-0011>**
+-   Clement, K.A., Carr, S., Johnson, L., Carter, A., Dosch, B.R., Kaufman, J., Fleming-May, R., Mays, R. and Walker, T. (2018). Reading, writing, and … running? Assessing active space in libraries. *Performance Measurement and Metrics, 19*(3), 166-175. doi: **[10.1108/PMM-03-2018-0011](https://doi.org/10.1108/PMM-03-2018-0011)**
 >
 >  

@@ -467,7 +467,7 @@ Rochester](http://hdl.handle.net/1802/7520).*
 -   Foster, N., & Gibbons, S. (Eds.). (2007). *Studying students: The Undergraduate Research Project at the University of Rochester.*
     Chicago, IL: Association of College and Research Libraries. <http://hdl.handle.net/1802/7520>
 
--   Gabridge, T., Gaskell, M., & Stout, A. (2008). Information seeking through students’ eyes: the MIT photo diary study. *College & Research Libraries*, *69*(6), 510-523. <https://doi.org/10.5860/crl.69.6.510>
+-   Gabridge, T., Gaskell, M., & Stout, A. (2008). Information seeking through students’ eyes: the MIT photo diary study. *College & Research Libraries*, *69*(6), 510-523. doi: [10.5860/crl.69.6.510](https://doi.org/10.5860/crl.69.6.510)
 
 ## 7.6.6 Fokusgruppen
 
@@ -683,10 +683,9 @@ Gebäude X).
 
 -   Beispiel zur Evaluation der Nutzung der neu gestalteten Lernwelt der
     Hochschule der Medien Stuttgart mit Online-Befragung und
-    Leitfadeninterviews: Strahl, A. (2016). Flexible und vielfältige Ausstattung — Ein Schlüssel zur erfolgreichen Lernumgebung. *o-bib. Das offene Bibliotheksjournal / herausgegeben vom VDB*, *Bd. 3*,
-    225-242 Seiten. doi: [10.5282/O-BIB/2016H4S225-242](https://doi.org/10.5282/O-BIB/2016H4S225-242)
+    Leitfadeninterviews: Strahl, A. (2016). Flexible und vielfältige Ausstattung — Ein Schlüssel zur erfolgreichen Lernumgebung. *o-bib. Das offene Bibliotheksjournal, 3*, 225-242. doi: [10.5282/O-BIB/2016H4S225-242](https://doi.org/10.5282/O-BIB/2016H4S225-242)
 
--   Beispiel für Evaluation des Lernverhaltens nach Lernraumgestaltung in einer wissenschaftlichen Bibliothek: Montgomery, S. E. (2014). Library space assessment: User learning behaviors in the library. The Journal of Academic Librarianship, 40(1), 70-75. [Link zu Artikel](https://www.sciencedirect.com/science/article/pii/S0099133313001547)
+-   Beispiel für Evaluation des Lernverhaltens nach Lernraumgestaltung in einer wissenschaftlichen Bibliothek: Montgomery, S. E. (2014). Library space assessment: User learning behaviors in the library. The Journal of Academic Librarianship, 40(1), 70-75. doi: [10.1016/j.acalib.2013.11.003](https://doi.org/10.1016/j.acalib.2013.11.003)
 
 ---
 [^2]: Ethnographische Ansätze beinhalten Forschung, die versucht,
