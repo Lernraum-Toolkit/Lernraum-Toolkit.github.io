@@ -92,8 +92,7 @@ Wirtschaften bedeuten, da es kostspielig sein kann, Fehler im Nachhinein
 zu beheben. Gute professionelle Beratung in einem frühen Stadium sollte
 helfen, diese Art von Fehlern zu vermeiden.
 
-**Ausführungen zu “Assistive listening systems”** – rausgelassen (bei
-Interesse, s. UK Toolkit)
+*Ausführungen zu “Assistive listening systems”* aus der deutschen Übertragung rausgelassen (bei Interesse, siehe [UK Toolkit](https://www.ucisa.ac.uk/learningspace), Kapitel 4.7)
 
 ## Hinweise und Tipps
 

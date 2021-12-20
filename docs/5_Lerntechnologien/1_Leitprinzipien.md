@@ -68,5 +68,4 @@ Spezifikationen der Technologie selbst.*
     Benutzerzufriedenheit, Support-Service usw. - zur Verfeinerung und
     Verbesserung.
 
-**Abschnitt zu “Überdenken der Lehrpraxis mit Technologie”**
-rausgelassen (bei Interesse, s. UK Toolkit)
+*Abschnitt zu “Überdenken der Lehrpraxis mit Technologie”* aus deutscher Übertragung rausgelassen (bei Interesse, siehe [UK Toolkit](https://www.ucisa.ac.uk/learningspace), Kapitel 5.1)

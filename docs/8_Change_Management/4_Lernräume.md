@@ -65,5 +65,4 @@ sicherzustellen, dass die Studierenden auf jedem Gerät, das sie zu
 Hause, auf dem Campus oder anderswo benutzen, Zugang zu den gleichen
 Software-Einrichtungen haben.
 
-Abschnitt zu Stundenplanung/Raumvergabe rausgelassen (bei Interesse
-siehe UK Toolkit)
+*Abschnitt zu Stundenplanung/Raumvergabe* aus deutscher Übertragung rausgelassen (bei Interesse, siehe [UK Toolkit](https://www.ucisa.ac.uk/learningspace), Kapitel 7.5)

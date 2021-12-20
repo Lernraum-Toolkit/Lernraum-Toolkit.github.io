@@ -18,8 +18,7 @@ bedeutet nicht unbedingt ein umfangreiches Schulungsprogramm, sondern
 kann so einfach sein, wie Inspirationsquellen für die neuen
 Möglichkeiten aufzuzeigen.
 
-Ausführungen zu spezifischen Punkten zu akademischen Mitarbeitern
-rausgelassen (bei Interesse siehe UK Toolkit)
+*Ausführungen zu spezifischen Punkten zu akademischen Mitarbeitern* aus der deutschen Übertragung rausgelassen (bei Interesse, siehe [UK Toolkit](https://www.ucisa.ac.uk/learningspace), Kapitel 7.2)
 
 Die Serviceteams sämtlicher professioneller Dienste spielen ebenfalls
 eine wichtige Rolle, um den Einsatz von Technologie und flexiblen
