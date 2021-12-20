@@ -86,7 +86,7 @@ die Designprojekte durchführen, darunter:
 
 -   Persona Erstellungsprozess – Adlin, T., & Pruitt, J. (2010). *The essential persona lifecycle.* San Francisco, CA: Morgan Kaufmann.
 
--   Zaugg, H. (2016). Using persona descriptions to inform library space design. In The Future of Library Space. Emerald Group Publishing Limited. <https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=2833&context=facpub>
+-   Zaugg, H. (2016). Using persona descriptions to inform library space design. In The Future of Library Space. Emerald Group Publishing Limited. [Link zu Artikel](https://scholarsarchive.byu.edu/facpub/1807)
 
 -   Deutsche Blog-Artikel zur Erstellung von Personas (allgemein):
     - <https://blogs.tib.eu/wp/tib/2014/11/27/personas-geben-sie-den-nutzern-ein-gesicht/>

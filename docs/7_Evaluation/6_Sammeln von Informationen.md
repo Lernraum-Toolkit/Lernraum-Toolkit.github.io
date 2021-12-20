@@ -109,7 +109,7 @@ Ausschau halten. Diese Links sind nur Beispiele.*
 
 -   [MIT 2030 Report: Envisioning, Renewing, and Building For the Future](http://web.mit.edu/mit2030/)
 
--   [Making a Difference: The Strategic Plan of Duke     University](https://learningspacetoolkit.org/needs-assessment/data-gathering-tools-2/trends-and-reports/index.html)
+-   [Making a Difference: The Strategic Plan of Duke University](https://learningspacetoolkit.org/needs-assessment/data-gathering-tools-2/trends-and-reports/index.html)
 
 -   [NCSU’s Pathways to the Future Strategic Plan](http://info.ncsu.edu/strategic-planning/overview/pathway-to-the-future/)
 
@@ -342,7 +342,7 @@ Elemente, die von den Benutzern als unzureichend empfunden werden.
 
 -   Beispiel zur Evaluation der Nutzung der neu gestalteten Lernwelt der Hochschule der Medien Stuttgart mit Online-Befragung und Leitfadeninterviews: Strahl, A. (2016). Flexible und vielfältige Ausstattung—Ein Schlüssel zur erfolgreichen Lernumgebung. *o-bib. Das offene Bibliotheksjournal / herausgegeben vom VDB*, *Bd. 3*, 225-242 Seiten. doi: [10.5282/O-BIB/2016H4S225-242](https://doi.org/10.5282/O-BIB/2016H4S225-242)
 
--   Beispiel Interview mit einem Nutzer um Drucken für Nutzer zu verbessern: <http://designthinkingforlibraries.com/interviewing-a-patron>
+-   Beispiel Interview mit einem Nutzer um Drucken für Nutzer zu verbessern: [Beschreibung auf der Design Thinking for Libraries Webseite](http://designthinkingforlibraries.com/interviewing-a-patron)
 
 ## 7.6.5 Foto-Interviews / Fototagebuch
 
@@ -399,8 +399,7 @@ Rochester](http://hdl.handle.net/1802/7520).*
 -   Mit einem kleinen Team sollte man eine Liste mit 10-15
     Fotoanweisungen (d.h. "Ihr Lieblingsplatz zum Lernen") erstellen,
     die eine Reihe von Themen abdecken. Siehe Beispiele im [Learning
-    Space Toolkit’s Needs Assessment Data Gathering
-    Tools](https://learningspacetoolkit.org/wp-content/uploads/2011/10/PhotoInterviews-Examples.pdf).
+    Space Toolkit’s Needs Assessment Data Gathering Tools](https://learningspacetoolkit.org/wp-content/uploads/2011/10/PhotoInterviews-Examples.pdf).
     Vielleicht sollten die Evaluationsexperten der Universität
     konsultiert werden, um das Design der Studie und die Interpretation
     der Ergebnisse zu besprechen.
@@ -463,7 +462,7 @@ Rochester](http://hdl.handle.net/1802/7520).*
     – Beispielhafte Aufforderungen, die in den Bibliotheken der NCSU als Teil eines Foto-Interview-Projekts (Fototagebuch) verwendet wurden,
     das darauf ausgerichtet war, Meinungen und Perspektiven zu bestehenden Räumen und Dienstleistungen kennen zu lernen.
 
--   Bedi, S., & Webb, J. (2017). Through the Students’ Lens: Photographic Methods for Research in Library Spaces. *Evidence Based Library and Information Practice*, 12-2. <https://journals.library.ualberta.ca/eblip/index.php/EBLIP/article/view/28837/21341>
+-   Bedi, S., & Webb, J. (2017). Through the Students’ Lens: Photographic Methods for Research in Library Spaces. *Evidence Based Library and Information Practice*, 12-2. [Link zu Artikel](https://journals.library.ualberta.ca/eblip/index.php/EBLIP/article/view/28837/21341)
 
 -   Foster, N., & Gibbons, S. (Eds.). (2007). *Studying students: The Undergraduate Research Project at the University of Rochester.*
     Chicago, IL: Association of College and Research Libraries. <http://hdl.handle.net/1802/7520>
@@ -569,7 +568,7 @@ Projektentwurf zu integrieren.
 -   [ARL Learning Space Pre-Programming Tool Kit](https://www.arl.org/resources/arl-learning-space-pre-programming-tool-kit/)
     – Enthält einen nützlichen Überblick über die Durchführung von Fokusgruppen auf S. 14-16. 
 
--   Krueger, R.A.  (2002).  *Designing and conducting focus group interviews. * St. Paul: University of Minnesota. [www.eiu.edu/\~ihec/Krueger-FocusGroupInterviews.pdf](http://www.eiu.edu/~ihec/Krueger-FocusGroupInterviews.pdf)
+-   Krueger, R.A.  (2002).  *Designing and conducting focus group interviews. * St. Paul: University of Minnesota. [Link zu PDF](http://www.eiu.edu/~ihec/Krueger-FocusGroupInterviews.pdf)
 
 ## 7.6.7 Umfragen
 
@@ -687,7 +686,7 @@ Gebäude X).
     Leitfadeninterviews: Strahl, A. (2016). Flexible und vielfältige Ausstattung — Ein Schlüssel zur erfolgreichen Lernumgebung. *o-bib. Das offene Bibliotheksjournal / herausgegeben vom VDB*, *Bd. 3*,
     225-242 Seiten. doi: [10.5282/O-BIB/2016H4S225-242](https://doi.org/10.5282/O-BIB/2016H4S225-242)
 
--   Beispiel für Evaluation des Lernverhaltens nach Lernraumgestaltung in einer wissenschaftlichen Bibliothek: Montgomery, S. E. (2014). Library space assessment: User learning behaviors in the library. The Journal of Academic Librarianship, 40(1), 70-75. <https://www.sciencedirect.com/science/article/pii/S0099133313001547>
+-   Beispiel für Evaluation des Lernverhaltens nach Lernraumgestaltung in einer wissenschaftlichen Bibliothek: Montgomery, S. E. (2014). Library space assessment: User learning behaviors in the library. The Journal of Academic Librarianship, 40(1), 70-75. [Link zu Artikel](https://www.sciencedirect.com/science/article/pii/S0099133313001547)
 
 ---
 [^2]: Ethnographische Ansätze beinhalten Forschung, die versucht,
@@ -695,4 +694,4 @@ Gebäude X).
     externe Modelle vorzugeben. Solche Ansätze stützen sich in der Regel
     auf mehrere Evidenzquellen.
 
-[^3]: <http://tools.jiscinfonet.ac.uk/downloads/lsd/solstice-presentation.pdf>
+[^3]: Link zu [PDF](http://tools.jiscinfonet.ac.uk/downloads/lsd/solstice-presentation.pdf)

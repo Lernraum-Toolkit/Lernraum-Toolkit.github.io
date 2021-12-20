@@ -33,7 +33,7 @@ Es ist wichtig, darüber nachzudenken, wo Widerstände liegen - sind es
 Individuen oder die Strukturen und Systeme, in denen sie sich befinden,
 die sich dem Wandel widersetzen? Wir müssen das vereinfachte Verständnis
 vermeiden, das dazu neigt, Lehrende entweder als Barrieren oder als
-Akteure des Wandels zu verorten (Priestley, 2011).
+Akteure des Wandels zu verorten ([Priestley, 2011](../Referenzen.md)).
 
 Dies sind einige der Dinge, die uns Mitwirkenden des Toolkits über
 Veränderungen mitgeteilt haben:
@@ -113,5 +113,4 @@ bewegen, Veränderungen anzunehmen und zu begrüßen[^2]:
 
 ---
 [^2]: Jisc (updated 2014) Change management, The theory, methodologies
-    and techniques to help manage change effectively:
-    [www.jisc.ac.uk/guides/change-management/resistance-to-change](http://www.jisc.ac.uk/guides/change-management/resistance-to-change)
+    and techniques to help manage change effectively. [Link zu Guide](http://www.jisc.ac.uk/guides/change-management/resistance-to-change)

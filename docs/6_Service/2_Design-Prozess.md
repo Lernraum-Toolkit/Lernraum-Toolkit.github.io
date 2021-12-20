@@ -197,9 +197,9 @@ Fragen oder Bedenken, die die Journey Maps aufwerfen, beantworten.
 
 -   Harvard Business Review Blog Post über [Using Customer Journey Maps](http://blogs.hbr.org/cs/2010/11/using_customer_journey_maps_to.html)
 
--   Deutscher Blog Post über das Erstellen von Customer Journey Maps: <https://blog.hubspot.de/marketing/customer-journey-map-erstellen>
+-   [Deutscher Blog Post](https://blog.hubspot.de/marketing/customer-journey-map-erstellen) über das Erstellen von Customer Journey Maps
 
--   Beispiel des Einsatzes von Journey Mapping aus Brasilien: <http://designthinkingforlibraries.com/journey-mapping>
+-   Beispiel des Einsatzes von Journey Mapping aus Brasilien - [Beschreibung auf der Design Thinking for Libraries Webseite](http://designthinkingforlibraries.com/journey-mapping)
 
  
 
@@ -247,11 +247,11 @@ werden, ggf. mit jeweils angepasstem Detailgrad.
 
 -   Überblick auf dem [Desonance Blog](http://desonance.wordpress.com/2010/06/16/service-blueprinting/)
 
--   Harvard Business Review Article: Shostack, L. G. (1984). Design Services that Deliver. Harvard Business Review(84115), 133-139. <https://hbr.org/1984/01/designing-services-that-deliver>
+-   Harvard Business Review Article: Shostack, L. G. (1984). Design Services that Deliver. Harvard Business Review(84115), 133-139. [Link zu Artikel](https://hbr.org/1984/01/designing-services-that-deliver)
 
 -   Scott W. H. Young, Sara Mannheimer, Doralyn Rossmann, David Swedman & Justin D. Shanks (2020) Service Blueprinting: A Method for Assessing Library Technologies within an Interconnected Service Ecosystem, Public Library Quarterly, 39:3, 190-211, DOI:[10.1080/01616846.2019.1637222](https://doi.org/10.1080/01616846.2019.1637222)
 
--   Im allgemeinen Überblick über Qualitätsmanagement des Bibliotheksportals gibt es einen Abschnitt zu Service-Blueprinting: <https://bibliotheksportal.de/ressourcen/management/marketing-baukasten/strategisches-marketing/qualitaetsmanagement/>
+-   Im allgemeinen Überblick über Qualitätsmanagement des Bibliotheksportals gibt es einen [Abschnitt zu Service-Blueprinting](https://bibliotheksportal.de/ressourcen/management/marketing-baukasten/strategisches-marketing/qualitaetsmanagement/).
 
 **Weitere Ressourcen Prototyping**
 

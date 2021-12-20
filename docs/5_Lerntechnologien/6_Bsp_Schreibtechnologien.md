@@ -53,6 +53,6 @@ kleineren Unterrichtsräumen. Die Rolltafeln können an der Wand montiert
 oder am Boden aufgestellt werden.
 
 ---
-[^1]: <https://jiscinfonetcasestudies.pbworks.com/w/page/45468872/London%20School%20of%20Economics%20-%20Robinson%20Rooms>
+[^1]: Link zu [Case Study der Robinson Räume](https://jiscinfonetcasestudies.pbworks.com/w/page/45468872/London%20School%20of%20Economics%20-%20Robinson%20Rooms)
 
-[^2]: <https://blogs.city.ac.uk/learningatcity/2013/03/09/squiggle-glass/#.Xo8v23JCREY>
+[^2]: Link zu [Blog Artikel der City University über Glasschreibtafeln](https://blogs.city.ac.uk/learningatcity/2013/03/09/squiggle-glass/#.Xo8v23JCREY)

@@ -32,5 +32,4 @@ Lernräumen von Bedeutung sein.
 [^4]: Die University of Bradford verwendet iBeacons. Das Projekt, das
     Bradford zur Einführung von iBeacons durchgeführt hat, wurde mit dem
     Amber Miro Memorial Award 2015 ausgezeichnet. Ein kurzes Video
-    stellt das Projekt vor:
-    <https://www.youtube.com/watch?v=H2YMpGqfqzs&feature=youtu.be>
+    stellt das Projekt vor: [Link zu youtube Video](https://www.youtube.com/watch?v=H2YMpGqfqzs&feature=youtu.be)

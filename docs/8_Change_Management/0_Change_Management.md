@@ -105,5 +105,4 @@ zusammen mit edukativen Strategien legen werden.
 ---
 
 [^1]: Jisc (updated 2014) Change management, The theory, methodologies
-    and techniques to help manage change effectively:
-    [www.jisc.ac.uk/guides/change-management](http://www.jisc.ac.uk/guides/change-management)
+    and techniques to help manage change effectively. [Link zu Guide](http://www.jisc.ac.uk/guides/change-management)
