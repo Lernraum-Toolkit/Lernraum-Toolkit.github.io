@@ -25,8 +25,8 @@ wie Labore oder Räume, die für Kunstaufführungen gedacht sind, sind
 nicht explizit aufgeführt, aber es finden sich einige Beispiele guter
 Praxis für spezialisierte Räumen unter den Ressourcen.
 
-Eine Reihe von Leitfäden, die auf publizierten Raumnormen der AUDE
-(2010), RIBA und führenden Universitäten basieren, betonen die
+Eine Reihe von Leitfäden, die auf publizierten Raumnormen der [AUDE
+(2010)](../Referenzen.md), RIBA und führenden Universitäten basieren, betonen die
 Notwendigkeit, je nach geplanter Aktivität ausreichend Platz pro Person
 einzuplanen. Neben der Erfüllung von pädagogischen Anforderungen
 beachten diese auch Gesundheits- und Sicherheitsvorschriften für
@@ -57,11 +57,11 @@ die etwa folgende Ansätze einschließen können:
 
 -   studierendengeleitetes, interaktives Lernen
 
--   simulationsbasiertes Lernen (Van Note Chism, 2006)
+-   simulationsbasiertes Lernen ([Van Note Chism, 2006](../Referenzen.md))
 
 Die sozio-konstruktivistische Philosophie stellt die Vorstellung in
 Frage, dass ein Seminarraum eine klar definierte Frontseite haben sollte
-oder was Van Note Chism (2006) einen privilegierten Platz nennt. Viele
+oder was [Van Note Chism (2006)](../Referenzen.md) einen privilegierten Platz nennt. Viele
 innovative Seminarräume sind praktisch dezentral angeordnet. Die meisten
 Seminarräume haben trotzdem eine primäre Ausrichtung, in der es Sinn
 ergibt, die Lehreinrichtung und Bildschirme zu konzentrieren, oft als
@@ -81,7 +81,7 @@ zu verstecken und Mitarbeit im Seminar zu vermeiden.
 
 Wissenschaftler haben die psychologischen und pädagogischen Auswirkungen
 von Unterrichtsraumdichte untersucht, sowohl räumlich (Größe des Raums)
-als auch sozial (Zahl der Studierenden). Graetz (2006) empfiehlt als
+als auch sozial (Zahl der Studierenden). [Graetz (2006)](../Referenzen.md) empfiehlt als
 gute Richtgröße für soziale Dichte in Seminarräumen drei bis fünf
 Gruppen mit jeweils sechs bis zwölf Studierenden. Designer sollten auch
 auf die Gefahr von Überbelegung in Seminarräumen achten. Studien legen
@@ -109,7 +109,7 @@ Tische Zusammenarbeit fördern und Konfrontation reduzieren.
 Ungeachtet des Wertes digitaler Geräte zur Unterstützung von Lernen
 bieten sie auch vielfältige Ablenkungsmöglichkeiten, z.B. das
 verbreitete Phänomen, dass Studierende während der Sitzungen soziale
-Medien checken oder Onlinespiele spielen. Graetz (2006) weist darauf
+Medien checken oder Onlinespiele spielen. [Graetz (2006)](../Referenzen.md) weist darauf
 hin, dass Versuche, die Nutzung von Geräten während des Unterrichts
 durch Verordnungen oder Infrastruktur (z.B. einen „Internet Kill
 Switch“) zu unterbinden, teuer sind und wenig dazu beitragen das

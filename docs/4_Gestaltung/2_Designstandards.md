@@ -23,8 +23,7 @@ Anforderungen an einen Lernraum gehen weit über die Nutzbarkeit
 (Usability), Sicht- und Hörbarkeit hinaus. Die Anwendung
 unterschiedlicher didaktischer Stile und Technologien, die diese
 unterstützt, führt letztendlich zu differenzierten, ansprechenden und
-inspirierenden Lernräumen. Deshalb sind die in Kapitel 1 (Eine neue
-Pädagogik schaffen) behandelten Designprinzipien so wichtig und deshalb
+inspirierenden Lernräumen. Deshalb sind die in Kapitel 1 ([Eine neue Pädagogik schaffen](../1_paedagogik/0_paedagogik.md)) behandelten Designprinzipien so wichtig und deshalb
 ist die Inspiration und Motivation der Studierenden solch ein Kernziel.
 Räume müssen sowohl begeistern als auch funktional sein.
 
@@ -69,7 +68,7 @@ Merkmale des Raumes[^2]:
     bei der Auswahl von Möbeln für die Nutzung durch Studierende keine
     hohe Priorität, aber das Bereitstellen von bequemen Möbeln von hoher
     Qualität ist ein wichtiger Faktor um „time on task“ (etwa:
-    konzentriertes Arbeiten, Chickering & Gamson, 1987) in einem
+    konzentriertes Arbeiten, [Chickering & Gamson, 1987](../Referenzen.md)) in einem
     Lernraum zu gewährleisten.
 
 -   **Nähe** – Nutzer müssen bequem Zugang zu dem Raum haben: der beste
@@ -111,10 +110,9 @@ Merkmale des Raumes[^2]:
         den von ihnen ausgewerteten Evaluationen am meisten zum effektiven
         Lernen beizutragen schienen. Pearshouse, et al. (2009). A Study of
         Effective Evaluation Models and Practices for Technology Supported
-        Physical Learning Spaces. Report produced for Jisc:
-        <http://oro.open.ac.uk/29996/2/>
+        Physical Learning Spaces. Report produced for Jisc. **[Link zum Report](http://oro.open.ac.uk/29996/2/)**
 
-[^3]: Besucher des Rolex Centre, dem ikonischen Zentrum für
+[^3]: Besucher des [Rolex Centre](http://rolexlearningcenter.epfl.ch/), dem ikonischen Zentrum für
         Lernressourcen an der École Polytechnique Fédérale de Lausanne in
         der Schweiz, wundern sich oft über eine Reihe von scheinbaren
         Fahrspuren aus Gummi, die durch ansonsten minimalistische
@@ -124,5 +122,4 @@ Merkmale des Raumes[^2]:
         minimale Beschilderung verstärkt. In der Praxis erwies sich der Raum
         für sehbehinderte Benutzer als äußerst schwierig zu navigieren, und
         die Fahrspuren sind notwendig, um diesen Benutzern zu helfen, von
-        einem Gebäudeteil zum anderen zu gelangen:
-        <http://rolexlearningcenter.epfl.ch/>
+        einem Gebäudeteil zum anderen zu gelangen.

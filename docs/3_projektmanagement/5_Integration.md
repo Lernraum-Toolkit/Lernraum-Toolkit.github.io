@@ -21,12 +21,13 @@ Mit dem Learning Space Toolkit lässt sich der Bedarf an Raum-,
 Technologie- und Serviceangeboten ermitteln und dann planen, wie dieser
 Bedarf am besten gedeckt werden kann. Der Abschnitt Integration enthält
 Werkzeuge und Ressourcen, um dies ganzheitlich zu tun indem er dabei
-hilft, vier Verbindungen herzustellen - (1) Zusammenhänge zwischen dem
-identifizierten Bedarf und den vorgeschlagenen Lösungen, (2)
-Zusammenhänge zwischen dem entworfenen Raum, den Möbeln, der Technologie
-und den Dienstleistungen, (3) physische Zusammenhänge zwischen ähnlichen
-oder angrenzenden Räumen, um "die Teile zusammenzufügen" und (4)
-Zusammenhänge zwischen den Hauptakteuren, die an der Planung und
+hilft, vier Verbindungen herzustellen:
+1. Zusammenhänge zwischen dem
+identifizierten Bedarf und den vorgeschlagenen Lösungen
+2. Zusammenhänge zwischen dem entworfenen Raum, den Möbeln, der Technologie
+und den Dienstleistungen
+3. physische Zusammenhänge zwischen ähnlichen oder angrenzenden Räumen, um "die Teile zusammenzufügen", und
+4. Zusammenhänge zwischen den Hauptakteuren, die an der Planung und
 Implementierung eines Lernraums beteiligt sind.
 
 Dieser Abschnitt hilft dabei diese Zusammenhänge herzustellen, indem er

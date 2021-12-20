@@ -8,7 +8,18 @@ permalink: /docs/
 ---
 
 # Allgemeine Ressourcen
-**Allgemein**
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Übersicht
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
+## Allgemein
 
 -   Toolkit zu Design Thinking als Methode zur Weiterentwicklung/Ideenfindung mit Fokus auf Bibliotheken: <http://designthinkingforlibraries.com/(Englisch, Teile auch auf Deutsch)
 
@@ -36,8 +47,7 @@ skandinavischem Raum: <https://learning-research.center/database/>
     Literaturhinweisen zur Planung und Design von Bibliotheksgebäuden
     (Fokus USA)
 
-**Theoretischer Hintergrund zur Raumnutzung Studierender und
-Lernraumgestaltung und -management**
+## Theoretischer Hintergrund zur Raumnutzung Studierender und Lernraumgestaltung und -management
 
 -   sehr gute, konkrete Übertragung von architekturpsychologischen
     Erkenntnissen auf Bibliotheksgestaltung für eine mögliche
@@ -95,8 +105,7 @@ Lernraumgestaltung und -management**
 
  
 
-**Datenbanken und Übersichten über Lernräume, Einrichtungen bzw.
-Bauten**
+## Datenbanken und Übersichten über Lernräume, Einrichtungen bzw. Bauten
 
 -   FLEXspace (Flexible Learning Environments eXchange) ist ein Open
     Access Repository mit Beispielen von Bildern von Lernräumen und
@@ -114,7 +123,7 @@ Bauten**
     - <https://bibliotheksbau.blogspot.com/>
     - <https://bibliothek.htwk-leipzig.de/ueber-uns/kooperationen/bibliotheksbauarchiv/>
 
-**Praxisbeispiele / Good Practice**
+## Praxisbeispiele / Good Practice
 
 -   Vorstellung einiger europäischer Beispiele für Gestaltung von Lehr-
     und Lernzentren, u.a. LEO Lernort (Universität Kassel) und

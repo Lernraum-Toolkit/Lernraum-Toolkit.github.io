@@ -174,11 +174,11 @@ bieten:
 
 ## Ressourcen spezifisch für visuelle Standards
 
--   Die Spaces & Audiovisual Guidelines des University College London gibt allgemeine Hinweise zur Gestaltung von Räumen, die für den Unterricht genutzt werden, und enthält eine umfassende Diskussion über die Arten von audiovisuellen Ausstattungen, die für  verschiedene Arten von Räumen geeignet sind: University College London Spaces & Audio Visual Guidelines v3.0.1, Information Services Division Spaces & AV Team (2017): <https://www.ucl.ac.uk/isd/sites/isd/files/ucl-spaces-av-guidelines-v3-0-1.pdf>
+-   Die Spaces & Audiovisual Guidelines des University College London gibt allgemeine Hinweise zur Gestaltung von Räumen, die für den Unterricht genutzt werden, und enthält eine umfassende Diskussion über die Arten von audiovisuellen Ausstattungen, die für  verschiedene Arten von Räumen geeignet sind: University College London Spaces & Audio Visual Guidelines v3.0.1, Information Services Division Spaces & AV Team (2017). **[Link zu PDF](https://www.ucl.ac.uk/isd/sites/isd/files/ucl-spaces-av-guidelines-v3-0-1.pdf)**
 
--   AVIXA (Audiovisual and Integrated Experience Association) Standards für audiovisuelle Systeme, u.a.für Zuhörerräume und Bildgröße von Displays/Monitoren: <https://www.avixa.org/de/standards/aktuelle-standards>
+-   AVIXA (Audiovisual and Integrated Experience Association) Standards für audiovisuelle Systeme, u.a.für Zuhörerräume und Bildgröße von Displays/Monitoren. **[Link zu Webseite](https://www.avixa.org/de/standards/aktuelle-standards)**
 
--   Die Association for Audio Visual and Education Technology Management (AETM), Australien, bietet nützliche und gut recherchierte Leitlinien zu allen möglichen Aspekten der Integration von AV Systemen in Lernräume (Bilschirme, Beleuchtung, Akustik, Kontrollsysteme, etc.): <https://guidelines.aetm.org>
+-   Die Association for Audio Visual and Education Technology Management (AETM), Australien, bietet nützliche und gut recherchierte Leitlinien zu allen möglichen Aspekten der Integration von AV Systemen in Lernräume (Bilschirme, Beleuchtung, Akustik, Kontrollsysteme, etc.): **[Link zu Webseite](https://guidelines.aetm.org)**
 
 ---
 [^6]: Visualisierer kann man als digitale Overhead-Projektoren

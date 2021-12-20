@@ -47,7 +47,7 @@ School Hörsaal einen Workshop, bei dem Teilnehmer mit Hilfe von
 Knetmasse eine Metapher entwickelten.
 
 Ein Beispiel zur Nutzung einer Metapher, angelehnt an die Arbeit von
-Martin (2010) über Kreativität:
+[Martin (2010)](../Referenzen.md) über Kreativität:
 
 Lade Stakeholder dazu ein, über eine passende Metapher für den Lernraum
 nachzudenken und die Art der Aktivitäten aufzulisten, die ihnen dazu

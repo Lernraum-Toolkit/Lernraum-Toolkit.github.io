@@ -7,7 +7,7 @@ nav_order: 1
 
 # 1.1 Lernen „konstruieren“ / Constructing Learning
 
-Der Titel dieses Abschnitts ist angelehnt an Monahans (2002) Begriff der
+Der Titel dieses Abschnitts ist angelehnt an [Monahans (2002)](../Referenzen.md) Begriff der
 „Built Pedagogy“ (gebaute Pädagogik/Didaktik), der „architectural
 embodiments of educational philosophies“ bezeichnet. Mit anderen Worten,
 die Art in der ein Raum entworfen ist, formt das Lernen, das in diesem
@@ -35,7 +35,7 @@ Trennung von Service und Orten, an denen sich Mitarbeiter aufhalten,
 schafft ebenfalls eine Unterscheidung, die Studierende in die Rolle des
 Informationsempfängers versetzt statt in die eines Teils der
 Lerngemeinschaft geprägt von einem Ethos der forschungsorientierten
-Lehre (Van Note Chism, 2006).
+Lehre ([Van Note Chism, 2006](../Referenzen.md)).
 
 Die aktuellen Überlegungen zu „Good Practice“ in der Bildung betonen
 nachdrücklich das Lernen im Gegensatz zum Lehren und sehen den Lernenden
@@ -70,8 +70,7 @@ informellem Lernen stattfinden kann.
     an Aufgaben arbeiten, um ihr Verständnis des Kursinhalts zu klären
     und zu verinnerlichen, oder mit anderen an gemeinschaftlichen
     Aktivitäten arbeiten, die das Lernen gegenseitig motivieren und über
-    verschiedene Peer-Perspektiven nachdenken:
-    <http://bit.ly/cityuniactivelearn>
+    verschiedene Peer-Perspektiven nachdenken: [Überblick zum Konzept des aktiven Lernens bei der City University of London](https://www.city.ac.uk/about/vision-and-strategy/academic-excellence/education/collaborative-learning)
 
 [^3]: Problembasiertes Lernen - eine lernzentrierte Pädagogik, bei der
     die Lernenden über ein Thema durch die Erfahrung lernen, ein

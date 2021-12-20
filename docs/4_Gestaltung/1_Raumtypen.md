@@ -18,8 +18,7 @@ nav_order: 1
 
 Es ist wichtig zu beachten, dass ein bestimmter Raumtyp, der an einem
 Ort gut funktioniert, im Kontext eines anderen nicht unbedingt die beste
-Lösung ist. Man sollte Modellräume (wie die im FLEXspace-Projekt
-dokumentierten) ganzheitlich betrachten, die verschiedenen Eigenschaften
+Lösung ist. Man sollte Modell- oder Beispielräume (wie die in [FLEXspace](http://flexspace.org/) dokumentierten) ganzheitlich betrachten, die verschiedenen Eigenschaften
 des Raumes berücksichtigen und diese dann mit dem Raum vergleichen, den
 man selbst plant: den Zweck, die Nachhaltigkeit der Dienstleistungen,
 mit denen man ihn unterstützen will, und die Technologie und die
@@ -122,7 +121,7 @@ Gebrauch sind.
 Diese Templates für Raum- und Nachbarschaftsbeschreibungen können
 heruntergeladen werden und als Notiz- und Brainstorming-Unterstützung
 bei der Erkundung von Inspirationsquellen für Projekte zur Gestaltung
-von Lernräumen (z.B. FLEXspace) dienen.
+von Lernräumen (z.B. [FLEXspace](http://flexspace.org/)) dienen.
 
 [Download Space Template mit Beispiel (pptx)](/media/tools/DE_Space-Template_Beispiel.pptx){: .btn .btn-purple .fs-5 .mr-4}
 

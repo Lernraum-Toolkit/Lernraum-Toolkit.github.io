@@ -8,7 +8,7 @@ nav_order: 3
 # 4.3 Auf Dauer angelegt? 
 
 Der Ausdruck „long life, loose fit, low energy“ (etwa “Langes Leben,
-lockerer Sitz, niedrige Energie”, Langston, 2014), der 1972 durch den
+lockerer Sitz, niedrige Energie”, [Langston, 2014](../Referenzen.md)), der 1972 durch den
 RIBA Präsidenten Sir Alex Gordon geprägt wurde, fasst gutes Design
 zusammen, das berücksichtigt, dass Gebäude ein gewisses Maß an
 Beständigkeit brauchen und sich gleichzeitig im Laufe ihres Lebens an
@@ -16,7 +16,7 @@ eine Vielzahl von Nutzungen anpassen können.
 
 Beim Entwurf eines Gebäudes, ist es oft sinnvoll, es als eine Reihe von
 Komponenten oder Schichten mit unterschiedlicher Lebensdauer zu
-betrachten. Die Abbildung unten ist der Arbeit von Brand (1994)
+betrachten. Die Abbildung unten ist der Arbeit von [Brand (1994)](../Referenzen.md)
 entnommen und zeigt die Schichten einschließlich des geographischen
 Standorts, der permanent ist, der tragenden Struktur, die kostspielig zu
 verändern ist, eine externe Verkleidung, die sich aufgrund von Mode oder

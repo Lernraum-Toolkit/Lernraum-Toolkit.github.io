@@ -35,6 +35,6 @@ Dr. Katharina Zinke
 
 Erarbeitet im Rahmen des Projektes „Learning Space Toolkit: Best Practice Kreativräume entwickeln und evaluieren“ (Universitätsbibliothek Tübingen) innerhalb des Förderprogramms des Landes Baden-Württemberg „Wissenschaftliche Bibliotheken gestalten den digitalen Wandel (BW-Big diWa)“
 
-Das komplette Dokument des Toolkits ist als OER veröffentlicht [https://www.oerbw.de/faq.html](https://www.oerbw.de/faq.html) und steht auch hier direkt zum Download [Download](docs/Toolkit_Lernraumgestaltung_%C3%9Cbersetzung_Version_2021-06.pdf) bereit.
+Das komplette Dokument des Toolkits ist als OER auf dem Zentrale OER-Repositorium der Hochschulen in Baden-Württemberg (ZOERR) veröffentlicht ([Link](https://www.oerbw.de/faq.html)) und steht auch hier direkt zum [Download](docs/Toolkit_Lernraumgestaltung_%C3%9Cbersetzung_Version_2021-06.pdf) bereit.
 
 ***

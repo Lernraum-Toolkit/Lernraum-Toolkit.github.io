@@ -119,6 +119,6 @@ Interesse, s. UK Toolkit)
 
 ## Ressourcen spezifisch für Akustik/Audio
 
--   Akustische Designstandards für Lernräume in Bildungseinrichtungen, die vom Department for Education (UK) festgelegt wurden: [www.gov.uk/government/uploads/system/uploads/attachment_data/file/400784/BB93_February_2015.pdf](http://www.gov.uk/government/uploads/system/uploads/attachment_data/file/400784/BB93_February_2015.pdf)
+-   Akustische Designstandards für Lernräume in Bildungseinrichtungen, die vom Department for Education (UK) festgelegt wurden: **[Link zu PDF](http://www.gov.uk/government/uploads/system/uploads/attachment_data/file/400784/BB93_February_2015.pdf)
 
--   Ein paar allgemeine Guidelines für Akustik <http://www.designinglibraries.org.uk/documents/Good%20Acoustics.pdf>
+-   Ein paar allgemeine Guidelines für Akustik: **[Link zu PDF](http://www.designinglibraries.org.uk/documents/Good%20Acoustics.pdf)**

@@ -8,16 +8,6 @@ permalink: /docs/1_paedagogik
 ---
 
 # 1. Eine neue Pädagogik schaffen
-{: .no_toc }
-
-<details open markdown="block">
-  <summary>
-    Übersicht
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
 
 ## In Kürze
 - wir betrachten die Art und Weise in der die Gestaltung des physischen Raums das Lernen im Raum beeinflusst

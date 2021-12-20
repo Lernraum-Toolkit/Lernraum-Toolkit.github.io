@@ -7,7 +7,7 @@ nav_order: 2
 # 3.2 Projektphasen
 
 Typischerweise sind die Phasen eines Lernraumprojektes vergleichbar mit
-den im RIBA-Arbeitsplan skizzierten Phasen:
+den im [RIBA](../Referenzen.md)-Arbeitsplan skizzierten Phasen:
 
 1.  Strategische Definition (früher bekannt als
     Feststellungsverfahren/Machbarkeitsstudie)
@@ -179,7 +179,7 @@ für eine großes Lernraumprojekt dar, mit der Idee, dass Institutionen
 sich diesen umfangreichen „idealen“ Fall anschauen und ihn auf ihren
 Bedarf herunter skalieren können. Die Process Map identifiziert 6
 Schlüsselphasen eines Projektes: Visioning (entspricht in etwa der oben
-genannten Definitionsphase aus RIBA); Programming, Conceptual Design,
+genannten Definitionsphase aus [RIBA](../Referenzen.md)); Programming, Conceptual Design,
 Detailed Design (in etwa Designphase); Construction (Bauphase) und
 Operation/Assessment (in etwa Betriebsphase). Danach stellt es einige
 typische Aktivitäten jeder Phase exemplarisch dar, wie etwa regelmäßige

@@ -8,11 +8,9 @@ nav_order: 8
 ## Ressourcen
 
 -   Das UK Higher Education Learning Space Toolkit selbst wird durch
-    eine Reihe von Fallstudien ergänzt, die veranschaulichen, wie eine
+    eine Reihe von **[Fallstudien](https://www.jisc.ac.uk/full-guide/learning-space-toolkit-case-studies)** ergänzt, die veranschaulichen, wie eine
     Reihe verschiedener Einrichtungen die Empfehlungen auf ihre eigene
-    Art angewendet haben:
-    <https://www.jisc.ac.uk/full-guide/learning-space-toolkit-case-studies>
-    (v.a. Case Study Six ist aus Sicht wissenschaftlicher Bibliotheken
+    Art angewendet haben. (v.a. Case Study Six ist aus Sicht wissenschaftlicher Bibliotheken
     besonders interessant - University of Essex: library reading room)
 
 -   Das Imperial College London besitzt eines der größten Grundstücke im
@@ -21,9 +19,8 @@ nav_order: 8
     hat seine eigenen Projektverfahren entwickelt, die auf bewährten
     Praktiken aus der Industrie basieren, die PRINCE2®-Methodik anwenden
     und den RIBA-Projektmanagementphasen folgen. Das College hat eine
-    ausgezeichnete Website mit Anleitungen und Vorlagen erstellt, die
-    alle Aspekte von Bauprojekten abdecken
-    (<http://www.imperial.ac.uk/estates-projects/project-procedures/>).
+    ausgezeichnete **[Website mit Anleitungen und Vorlagen erstellt](http://www.imperial.ac.uk/estates-projects/project-procedures/)**, die
+    alle Aspekte von Bauprojekten abdecken.
 
 -   Viele Stakeholder sind vielleicht nicht mit formalisierten
     Projektmanagement-Ansätzen vertraut und es könnte nützlich sein,
@@ -34,8 +31,7 @@ nav_order: 8
     die speziell an die Bedürfnisse des Sektors angepasst wurde und seit
     vielen Jahren gut genutzt wird, ist der Jisc-Leitfaden zum
     Projektmanagement: Jisc (2008) Project management - A project
-    management methodology based on PRINCE2:
-    <https://www.jisc.ac.uk/guides/project-management>.
+    management methodology based on PRINCE2. **[Link zum Leitfaden](https://www.jisc.ac.uk/guides/project-management)**.
 
 -   Es gibt auch eine Veröffentlichung der britischen Higher Education
     Space Management Group (SMG), die sich damit beschäftigt, wie die
@@ -43,5 +39,4 @@ nav_order: 8
     international in der Hochschulbildung) angegangen wird: Space
     Management Group (2006) UK Higher Education Space Management Project
     Managing space: a review of English further education and HE
-    overseas:
-    [www.smg.ac.uk/documents/FEandoverseas.pdf](http://www.smg.ac.uk/documents/FEandoverseas.pdf)
+    overseas. **[Link zum PDF](http://www.smg.ac.uk/documents/FEandoverseas.pdf)**.

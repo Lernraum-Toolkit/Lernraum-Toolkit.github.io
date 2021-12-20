@@ -22,7 +22,7 @@ Settings kam. Dazu gehörten 47 Anwälte von 4 verschiedenen Kanzleien,
 alle auf unterschiedliche Aspekte des Rechts spezialisiert, und
 Spezialisten, wie einen Gutachter für Brandmauern, Lichtrechte und
 Archäologen. Infolgedessen hat Phil klare Vorstellungen entwickelt was
-einen guten Berater ausmacht. Ein guter Berate (nach Phil) ist jemand,
+einen guten Berater ausmacht. Ein guter Berater (nach Phil) ist jemand,
 der immer:
 
 -   an die anstehenden Probleme für den Kunden denkt
@@ -58,8 +58,7 @@ Verantwortlichkeiten und Entscheidungsbefugnisse klar kommunizieren und
 effektive Kommunikationskanäle einrichten.
 
 Die folgende Liste von professionellen Beratern und deren Rollen in
-einem Lernraumprojekt wurde adaptiert von der JISC Leitlinie (JISC,
-2013) zu diesem Thema.
+einem Lernraumprojekt wurde adaptiert von der JISC Leitlinie ([JISC, 2013](../Referenzen.md)) zu diesem Thema.
 
 **Architekt**
 
