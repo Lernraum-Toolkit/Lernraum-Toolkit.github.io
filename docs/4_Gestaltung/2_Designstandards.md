@@ -105,7 +105,7 @@ Merkmale des Raumes[^2]:
         teilzunehmen.
 
 [^2]: Ein Bericht über Evaluationsmodelle und -Praxis in
-        technologiegestützten Lernräumen (Pearshouse et al. 2009) enthält
+        technologiegestützten Lernräumen ([Pearshouse et al. 2009](../Referenzen.md)) enthält
         eine ähnliche Liste von Aspekten der Lernraumgestaltung, die laut
         den von ihnen ausgewerteten Evaluationen am meisten zum effektiven
         Lernen beizutragen schienen. Pearshouse, et al. (2009). A Study of

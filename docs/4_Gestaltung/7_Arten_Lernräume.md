@@ -25,8 +25,8 @@ wie Labore oder Räume, die für Kunstaufführungen gedacht sind, sind
 nicht explizit aufgeführt, aber es finden sich einige Beispiele guter
 Praxis für spezialisierte Räumen unter den Ressourcen.
 
-Eine Reihe von Leitfäden, die auf publizierten Raumnormen der [AUDE
-(2010)](../Referenzen.md), RIBA und führenden Universitäten basieren, betonen die
+Eine Reihe von Leitfäden, die auf publizierten Raumnormen der [AUDE (2010)](../Referenzen.md),
+RIBA und führenden Universitäten basieren, betonen die
 Notwendigkeit, je nach geplanter Aktivität ausreichend Platz pro Person
 einzuplanen. Neben der Erfüllung von pädagogischen Anforderungen
 beachten diese auch Gesundheits- und Sicherheitsvorschriften für
