@@ -70,7 +70,7 @@ nav_order: 5
         Tan, S. (2013) Traversing the design-language divide in the
         design and evaluation of physical learning environments: A trial
         of visual methods in focus groups. Journal of Learning Spaces,
-        2(1): **<http://libjournal.uncg.edu/jls/article/view/503/383>**
+        2(1): **[Link zu Artikel](http://libjournal.uncg.edu/jls/article/view/503/383)**
 
 -   ***Design-Thinking***:
 
@@ -84,7 +84,7 @@ nav_order: 5
     -   Wildemann, B. (2017). Die Bibliothek mit den Augen der Nutzer
         sehen. Ethnografische Forschungsmethoden im praktischen
         Einsatz.. *Bibliotheksdienst*, *51*(7), 589-595. doi:
-        **[https://doi.org/10.1515/bd-2017-0063](https://doi.org/10.1515/bd-2017-0063)** (mit Beispiel Anwendung
+        **[10.1515/bd-2017-0063](https://doi.org/10.1515/bd-2017-0063)** (mit Beispiel Anwendung
         in öffentlicher Bibliothek)
 
     -   Anschauliche Erklärung von ethnographischen Methoden:

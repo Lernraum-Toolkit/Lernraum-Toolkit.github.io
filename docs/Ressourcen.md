@@ -21,15 +21,14 @@ permalink: /docs/
 
 ## Allgemein
 
--   Toolkit zu Design Thinking als Methode zur Weiterentwicklung/Ideenfindung mit Fokus auf Bibliotheken (**[Link zur Webseite von Design Thinking for Libraries](http://designthinkingforlibraries.com/)**, Englisch, Teile auch auf Deutsch). Einige Techniken zu Inspiration und Ideenfindung, z.B. in diesem Video (**[Link zu youtube Video](https://www.youtube.com/watch?v=wS4MpEAxYMk)**) oder Inspirationstours (**[Link zu Beschreibung auf der Design Thinking for Libraries Webseite](http://designthinkingforlibraries.com/inspiration-tours)**)
+-   Toolkit zu Design Thinking als Methode zur Weiterentwicklung/Ideenfindung mit Fokus auf Bibliotheken (**[Link zur Webseite von Design Thinking for Libraries](http://designthinkingforlibraries.com/)**, Englisch, Teile auch auf Deutsch). Einige Techniken zu Inspiration und Ideenfindung, z.B. in diesem Video (**[Link zu youtube Video](https://www.youtube.com/watch?v=wS4MpEAxYMk)**) oder Inspirationstours (**[Link zu Beschreibung](http://designthinkingforlibraries.com/inspiration-tours)** auf der Design Thinking for Libraries Webseite)
 
 -   Die **[AG Lernräume der Deutsche Initiative für Netzwerkinformation (DINI)](https://dini.de/ag/lernraeume/)** beschäftigt sich mit realen und virtuellen Lernräumen im Hochschulbereich, entwickelt Empfehlungen und bietet Austausch- und Informationsveranstaltungen an.
 
 -   Das **[Learning Research Center der Hochschule der Medien](https://learning-research.center/)**, Stuttgart
     (Leitung Prof. Richard Stang) forscht u.a. zu Lehr-Lern-Settings,
     pädagogischen und Gestaltungskonzepten von physischen, digitalen
-    und hybriden Lernräumen. Es bietet auch eine **[Datenbank mit Literatur zu Lernräumen und Lernorten](https://learning-research.center/)** mit Fokus auf angloamerikanischem, deutschem und
-skandinavischem Raum.
+    und hybriden Lernräumen. Es bietet auch eine **[Datenbank](https://learning-research.center/database)** mit Literatur zu Lernräumen und Lernorten mit Fokus auf angloamerikanischem, deutschem und skandinavischem Raum.
 
 -   Die **[Webseite Designing Libraries](http://www.designinglibraries.org.uk)** bietet eine Reihe von Ressourcen
     für die Planung/Design von Bibliotheken, Projektübersichten und
@@ -96,7 +95,7 @@ skandinavischem Raum.
 
 ## Datenbanken und Übersichten über Lernräume, Einrichtungen bzw. Bauten
 
--   **[FLEXspace (Flexible Learning Environments eXchange)](http://flexspace.org/)** ist ein Open
+-   **[FLEXspace](http://flexspace.org/)** (Flexible Learning Environments eXchange) ist ein Open
     Access Repository mit Beispielen von Bildern von Lernräumen und
     zugehörigen Informationen von Institutionen weltweit.
 
@@ -172,8 +171,8 @@ skandinavischem Raum.
     Technik*, *41*(2), 90-105. doi: **[10.1515/abitech-2021-0018](https://doi.org/10.1515/abitech-2021-0018)**
 
 -   Einblicke und Erfahrungen verschiedener Lernraumprojekte in den
-    Präsentationsunterlagen der **[Fortbildung des VDB Landesverband
-    Bayern "Bibliotheksbau: Menschen und Räume"](https://www.vdb-online.org/veranstaltungen/806/)** vom 05.12.2018 in der
+    Präsentationsunterlagen der Fortbildung des VDB Landesverband
+    Bayern **["Bibliotheksbau: Menschen und Räume"](https://www.vdb-online.org/veranstaltungen/806/)** vom 05.12.2018 in der
     Universitätsbibliothek Augsburg (u.a. Einblicke in
     Lernraumforschung an der HdM Stuttgart, Gestaltung des neuen
     Lernraum24 an der Universitätsbibliothek Bamberg, das Parlatorium

@@ -70,7 +70,7 @@ informellem Lernen stattfinden kann.
     an Aufgaben arbeiten, um ihr Verständnis des Kursinhalts zu klären
     und zu verinnerlichen, oder mit anderen an gemeinschaftlichen
     Aktivitäten arbeiten, die das Lernen gegenseitig motivieren und über
-    verschiedene Peer-Perspektiven nachdenken: [Überblick zum Konzept des aktiven Lernens bei der City University of London](https://www.city.ac.uk/about/vision-and-strategy/academic-excellence/education/collaborative-learning)
+    verschiedene Peer-Perspektiven nachdenken: [Überblick zum Konzept des aktiven Lernens](https://www.city.ac.uk/about/vision-and-strategy/academic-excellence/education/collaborative-learning) bei der City University of London
 
 [^3]: Problembasiertes Lernen - eine lernzentrierte Pädagogik, bei der
     die Lernenden über ein Thema durch die Erfahrung lernen, ein

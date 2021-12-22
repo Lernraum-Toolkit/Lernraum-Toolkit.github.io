@@ -17,8 +17,8 @@ nav_order: 4
     **[Retrofitting University Learning Spaces](http://learnline.cdu.edu.au/commonunits/documents/Retrofitting%20University%20Learning%20Spaces.pdf)**, die sich mit den Prinzipien effektiver Lernräume und Tipps für die Umsetzung dieser Prinzipien
     in die Praxis beschäftigt.
 
--   Die James Cook University in Australien hat eine **[Website mit dem
-    Titel "Learning Spaces Snapshots"](https://sites.google.com/site/jculearningspaces/home)** erstellt, auf der eine Sammlung
+-   Die James Cook University in Australien hat eine Website mit dem
+    Titel **["Learning Spaces Snapshots"](https://sites.google.com/site/jculearningspaces/home)** erstellt, auf der eine Sammlung
     von kurzen Videos zu finden ist, die zeigen, wie unterschiedliche
     pädagogische Ansätze in verschiedenen Arten von Lernräumen umgesetzt
     werden.
@@ -30,6 +30,4 @@ nav_order: 4
 -   Das von der University of Queensland entwickelte Pedagogy, Space,
     Technology (PST) Framework bietet einen Gestaltungs- und
     Evaluierungsrahmen, der Lernraum-Projektteams dabei hilft, zu
-    reflektieren, was sie tun und warum: University of Queensland (2009)
-    Learning Spaces in Higher Education: Positive Outcomes by Design.
-    Proceedings of the Next Generation Learning Spaces 2008 Colloquium: **[Link zu PDF](https://static1.squarespace.com/static/55d3f590e4b0d60074069c3d/t/5cca4874c830253749556752/1556760973074/UQ+Next+Generation+Book.pdf)**
+    reflektieren, was sie tun und warum: Radcliffe, D., Wilson, H., Powell, D., & Tibbetts, B. (2009). Learning spaces in higher education: Positive outcomes by design. *Proceedings of the next generation learning spaces 2008 colloquium.* **[Link zu WorldCat-Eintrag](https://www.worldcat.org/title/learning-spaces-in-higher-education-positive-outcomes-by-design/oclc/650327747)**

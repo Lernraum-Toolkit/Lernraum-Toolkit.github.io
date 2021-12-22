@@ -7,8 +7,8 @@ nav_order: 9
 
 ## Ressourcen
 
--   Das [New Media Consortium (NMC) Horizon
-    Project](http://www.nmc.org/horizon-project) skizziert die
+-   Das **[New Media Consortium (NMC) Horizon
+    Project](http://www.nmc.org/horizon-project)** skizziert die
     Entwicklung neuer Technologien, die für Lehre, Lernen, Forschung,
     kreative Arbeit und Informationsmanagement relevant sind. U.a.
     publizierte es Horizon Reports, die den Einfluss von

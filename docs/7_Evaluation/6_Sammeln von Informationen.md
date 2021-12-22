@@ -74,7 +74,7 @@ veröffentlicht Berichte, die die Trends bei der Nutzung der Technologie
 durch Studierende und die Auswirkungen der Technologie auf das Lehren
 und Lernen beleuchten.
 
-[NESSE (National Survey of Student Engagement)](http://nsse.iub.edu/)
+[NESSE (National Survey of Student Engagement)](https://nsse.indiana.edu/)
 veröffentlicht einen jährlichen Bericht über die Qualität der
 studentischen Bildungserfahrungen. Sie erforschen auch die Wahrnehmung
 des studentischen Engagements durch die Dozenten.
@@ -111,7 +111,7 @@ Ausschau halten. Diese Links sind nur Beispiele.*
 
 -   [Making a Difference: The Strategic Plan of Duke University](https://learningspacetoolkit.org/needs-assessment/data-gathering-tools-2/trends-and-reports/index.html)
 
--   [NCSU’s Pathways to the Future Strategic Plan](http://info.ncsu.edu/strategic-planning/overview/pathway-to-the-future/)
+-   [NCSU’s Pathways to the Future Strategic Plan](https://strategicplan.ncsu.edu/)
 
  
 
@@ -124,9 +124,9 @@ nützlich sein, Daten über (1) die Computernutzung, (2) die Transaktionen
 an einem Servicepunkt und (3) die momentane Gebäudenutzung
 (Eingangszähler, Personenzähler, usw.) zu sammeln.
 
--   [Suma](https://www.lib.ncsu.edu/dli/projects/spaceassesstool/) ist
+-   [Suma](https://www.lib.ncsu.edu/projects/suma) ist
     ein mobiles Open-Source-Tool zur Bewertung von Räumen, das von den
-    NCSU-Bibliotheken entwickelt wurde. Es kann zur Sammlung,
+    NCSU-Bibliotheken entwickelt wurde [Suma auf github](https://suma-project.github.io/Suma/). Es kann zur Sammlung,
     Aggregation und interaktiven Analyse von Echtzeitdaten über die
     Nutzung des physischen Raums und Services verwendet werden.
 
@@ -209,7 +209,7 @@ Inspiration für ein eigenes Template dienen.
 
 [Download Beispiel Space Observation (pdf)](media/tools/Space-Observation_example.pdf){: .btn .btn-purple .fs-5 .mr-4}
 
-[Suma Space Observation Data Collection Tool](https://www.lib.ncsu.edu/dli/projects/spaceassesstool/) – Suma ist
+[Suma Space Observation Data Collection Tool](https://suma-project.github.io/Suma/) – Suma ist
 eine webbasierte Anwendung zur Sammlung quantitativer Daten über die
 Raumnutzung (von den NCSU-Bibliotheken entwickeltes Open-Source-Tool).
 
@@ -693,4 +693,4 @@ Gebäude X).
     externe Modelle vorzugeben. Solche Ansätze stützen sich in der Regel
     auf mehrere Evidenzquellen.
 
-[^3]: Link zu [PDF](http://tools.jiscinfonet.ac.uk/downloads/lsd/solstice-presentation.pdf)
+[^3]: Link zu [Präsentation als PDF](https://repository.jisc.ac.uk/6347/1/solstice-presentation.pdf) und [JISC Case Study](https://jiscinfonetcasestudies.pbworks.com/w/page/45406028/Edge%20Hill%20University%20-%20SOLSTICE)

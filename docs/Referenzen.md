@@ -77,7 +77,7 @@ balancing act? *Journal of Educational Change*, *12*(1), 1–23. doi:
 [10.1007/s10833-010-9140-z](https://doi.org/10.1007/s10833-010-9140-z)
 
 RIBA (Royal Institute of British Architects). (2013). *RIBA plan of work
-2013*. RIBA London. [Link zu Webseite](https://www.ribaplanofwork.com/)
+2013*. RIBA London. [Link zu Webseite](https://www.architecture.com/knowledge-and-resources/resources-landing-page/riba-plan-of-work)
 
 Roberts, S., & Weaver, M. (2006). Spaces for learners and learning:
 Evaluating the impact of technology-rich learning spaces. *New Review of
@@ -89,7 +89,7 @@ Re-imagining learning spaces. Bristol, UK: Futurelab*. Futurelab. [Link zu Artik
 Temple, P. (2008). Learning spaces in higher education: An
 under-researched topic. *London Review of Education*, *6*(3), 229–241.
 
-UCISA. (2015). *Secure Network Management*. [Link zu Artikel](https://www.ucisa.ac.uk/securenetworkmanagement)
+UCISA. (2015). *Secure Network Management*.
 
 Van Note Chism, N. (2006). Challenging traditional assumptions and
 rethinking learning spaces. In D. G. Oblinger (Hrsg.), *Learning
