@@ -7,6 +7,16 @@ nav_order: 6
 
 
 # 7.6 Methoden zum Sammeln von Information
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Übersicht
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+
 
 Viele Faktoren wirken sich auf die Wahl der Evaluationsmethoden aus,
 darunter sind vor allem Zeit- und Budgetbeschränkungen zu nennen.
