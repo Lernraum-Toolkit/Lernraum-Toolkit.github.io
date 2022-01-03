@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 7.7 Mit Daten arbeiten
+title: 7.7 Daten verarbeiten
 parent: 7. Evaluation
 nav_order: 7
 ---
 
 
-# 7.7 Mit Daten arbeiten
+# 7.7 Daten verarbeiten
 
 Nachdem die Daten über die Benutzer gesammelt wurden, müssen die
 Ergebnisse analysiert und zusammengefasst werden, damit man die

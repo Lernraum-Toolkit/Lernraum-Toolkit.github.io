@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 4.7 Bestimmte Arten von Lernräumen
+title: 4.7 Spezielle Lernräume
 parent: 4. Konkrete Gestaltung
 nav_order: 7
 ---
 
-# 4.7 Überlegungen zu bestimmten Arten von Lernräumen
+# 4.7 Überlegungen zu speziellen Lernräumen
 {: .no_toc }
 
 <details open markdown="block">

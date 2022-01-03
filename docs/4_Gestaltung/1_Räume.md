@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 4.1 Raumtypen planen
+title: 4.1 Räume planen
 parent: 4. Konkrete Gestaltung
 nav_order: 1
 ---
-# 4.1 Raumtypen planen
+# 4.1 Räume planen
 {: .no_toc }
 
 <details open markdown="block">

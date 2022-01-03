@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 2.2 Partizipation managen
+title: 2.2 Partizipation
 parent: 2. Zusammenarbeit
 nav_order: 2
 ---
-## 2.2 Partizipation managen 
+# 2.2 Partizipation managen 
 
 Es ist wichtig, festzulegen welchen Grad an Beteiligung das Projekt für
 jede Stakeholder Gruppe anstrebt, um eine effektive Strategie zur

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 8.1 Widerstand gegen Veränderungen
+title: 8.1 Widerstand
 parent: 8. Change Management
 nav_order: 1
 ---

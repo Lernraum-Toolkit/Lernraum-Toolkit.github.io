@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 7.3 Wie sieht Erfolg aus?
+title: 7.3 Erfolgskriterien
 parent: 7. Evaluation
 nav_order: 3
 ---
 
 
-# 7.3  Wie sieht Erfolg aus?
+# 7.3  Erfolgskriterien
 
 Der Learning and Skills Council, der (bis zu seiner Auflösung im Jahr
 2010) für ein Hochschulbauprogramm in Bereich der Höheren

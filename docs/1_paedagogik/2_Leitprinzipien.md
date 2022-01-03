@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1.2 Prinzipiengeleiteter Ansatz
+title: 1.2 Leitprinzipien
 parent: 1. Neue Pädagogik schaffen
 nav_order: 2
 ---
@@ -71,7 +71,7 @@ Praxis umgesetzt werden. In den Standpunkten (s.u.) finden sich eine
 Reihe von Anmerkungen zur Bedeutung und zum Wert von Begriffen wie
 Flexibilität.
 
-Der folgende Satz von Designprinzipien wurde für diesen Toolkit frei aus
+Der folgende Satz von Leitprinzipien für das Design wurde für diesen Toolkit frei aus
 den Arbeiten von [Lomas und Oblinger (2006)](../Referenzen.md) adaptiert. Wir schlagen vor,
 dass Lernräume folgende Punkte erfüllen sollten:
 

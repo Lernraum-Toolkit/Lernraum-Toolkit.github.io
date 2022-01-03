@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 7.4 Baseline
+title: 7.4 Baseline erstellen
 parent: 7. Evaluation
 nav_order: 4
 ---
 
 
-# 7.4  Erstellen einer Baseline
+# 7.4  Baseline erstellen
 
 Eine Baseline (bzw. Bedarfserfassung) ist ein Ausgangspunkt, anhand
 dessen man zeigen kann, dass das Projekt zu einer spürbaren Verbesserung

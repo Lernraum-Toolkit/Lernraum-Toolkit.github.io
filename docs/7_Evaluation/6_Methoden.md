@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 7.6 Sammeln von Information
+title: 7.6 Methoden
 parent: 7. Evaluation
 nav_order: 6
 ---
 
 
-# 7.6 Sammeln und Teilen von Information
+# 7.6 Methoden zum Sammeln von Information
 
 Viele Faktoren wirken sich auf die Wahl der Evaluationsmethoden aus,
 darunter sind vor allem Zeit- und Budgetbeschränkungen zu nennen.

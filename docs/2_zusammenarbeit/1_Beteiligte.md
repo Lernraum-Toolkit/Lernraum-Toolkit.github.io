@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2.1 Leute an den Tisch bekommen
+title: 2.1 Beteiligte
 parent: 2. Zusammenarbeit
 nav_order: 1
 ---
