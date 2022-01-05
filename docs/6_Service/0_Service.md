@@ -8,6 +8,15 @@ permalink: /docs/6_Service
 ---
 
 # 6. Service
+
+**In Kürze**
+
+-   Wir betrachten zunächst einige Leitprinzipien, die bei der Planung des Serviceangebots für einen Lernraum helfen können;
+
+-   Wir stellen einen Prozess zur Gestaltung des Serviceangebots vor, der auf einer Reihe von Methoden und Tools basiert. Auch wird dargestellt wie man eine Abschätzung des benötigten Personals vornimmt.
+
+**Erwartungen an die Lektüre dieses Abschnitts**
+
 Serviceangebot und Räume müssen in integrierter Weise entworfen und
 durch Nutzerforschung gestützt werden. Serviceangebote sollten so
 gestaltet werden, dass sie nicht nur Anbieter-Effizienz, sondern auch
@@ -15,8 +24,9 @@ Nutzer-Effektivität maximieren. Dieser Toolkit – aufbauend auf den
 [Instrumenten der Nutzerforschung](../7_Evaluation/6_Methoden.md), die im Abschnitt
 Evaluation vorgestellt werden – zielt darauf ab, einen Prozess und die
 Werkzeuge zu bieten, um Serviceangebote innerhalb von Lernräume zu
-gestalten, zu betreiben und zu evaluieren. Serviceangebote innerhalb
-eines Lernraums können u.a. Tutorien, Kurse, Vorträge, Besprechungen,
+gestalten, zu betreiben und zu evaluieren.
+
+Serviceangebote innerhalb eines Lernraums können u.a. Tutorien, Kurse, Vorträge, Besprechungen,
 Unterstützung von Meetings, Rechercheberatung, Schreib- und
 Präsentationscoaching oder auch Technik-Ausleihe und Support sein. Als
 Schnittstelle zwischen den Menschen und den Räumen, die sie nutzen,

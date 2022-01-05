@@ -20,7 +20,7 @@ permalink: /docs/7_Evaluation
 **Erwartungen an die Lektüre dieses Abschnitts**
 
 „Estates“-Fachleute sind möglicherweise bereits mit dem Konzept der
-Post-Occupancy Evaluation eines physischen Raums vertraut, haben aber
+(Post-Occupancy) Evaluation eines physischen Raums vertraut, haben aber
 möglicherweise weniger Erfahrung mit der Gestaltung von Evaluationen,
 die den Erfolg eines Raums als effektiven Lernraum erfassen. In
 ähnlicher Weise messen Fachleute, die Lern- und Lehraktivitäten direkt
@@ -37,6 +37,8 @@ Insbesondere schlagen wir folgendes vor:
 -   Evaluation ist ein integraler Bestandteil jeder Entwicklung von
     Lernräumen und sollte von Anfang an bei jedem Projekt berücksichtigt
     werden.
+
+-   Eine Bedarfsanalyse zu Beginn eines Projektes kann eine Grundlage   für alle weiteren Projektplanungen darstellen und sollte deshalb Teil des Evalutionskonzepts sein.
 
 -   Wir sollten in der Lage sein, das stattfindende Lernen zu
     evaluieren, genauso wie wir leichter quantifizierbare Maße der
