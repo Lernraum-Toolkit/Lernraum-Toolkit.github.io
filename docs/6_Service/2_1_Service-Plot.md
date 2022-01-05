@@ -1,0 +1,67 @@
+---
+layout: default
+title: 6.2.1 Service Plot
+parent: 6.2 Design Prozess
+grand_parent: 6. Service
+nav_order: 1
+---
+
+## 6.2.1 Service Plot {#_6.2.1}
+
+*Was ist die eigene Servicephilosophie?*
+
+**ServicePlot** ist ein Tool für Organisationen, um ihre
+Servicephilosophie zu erkennen und sich, basierend auf ihren Werten und
+Nutzerbedürfnissen, ihre zukünftige Philosophie vorzustellen. Dieses
+Tool beinhaltet zwei Hauptfaktoren, die Organisationen auf einem
+Spektrum unterschiedlicher Philosophien positioniert, ja nach ihren
+Antworten:
+
+-   Verantwortlichkeit: Wofür übernimmt die Organisation Verantwortung
+    in Bezug auf Bereitstellen oder Erbringen von Serviceangeboten – von
+    der Übernahme der vollen Verantwortung auf der einen Seite hin zu
+    der Zusammenarbeit mit Partnern und Nutzern selbst (z.B.
+    Selbstbedienung) auf der anderen.
+
+-   Angebot: wie und wo werden Services angeboten – mit einem verteilten
+    „Push“-Modell auf der einen Seite und einem zentralisierten „Pull“
+    Modell auf der anderen
+
+<img src="./media/image2.png" style="width:3.0066in;height:3.07292in" alt="C:\095BE625\30DB0234-6D90-42FF-B947-F0196E2C4680-Dateien\image009.png" />
+
+Beispiel für einen ausgefüllten ServicePlot
+
+Organisationen zeichnen ihre aktuellen und zukünftigen Antworten bezogen
+auf sechs Schlüsselthemen ein – Service-Schwerpunkt,
+Organisationsstruktur, Schlüsselqualifikationen der Mitarbeiter,
+Angebot, Einstellung, Erfolgskriterien. Die daraus resultierende
+Darstellung vermittelt ein Bild davon, wo man steht und wo man mit
+seinem Service-Angebot hin will. ServicePlot ist nicht als ultimatives
+diagnostisches Werkzeug gedacht, sondern eher als Leitfaden zum
+Nachdenken und Diskutieren darüber, was die Service-Philosophie momentan
+ist und was man sich wünscht – wobei die notwendigen Veränderungen
+hervorgehoben und Gespräche auf dem Weg dorthin erleichtert werden.
+Einmal festgelegt, können Organisationen ihre Service-Philosophie
+nutzen, um ihre Entscheidungsfindungen darüber, welcher Service wo,
+wann, wie und durch wen angeboten werden, zu leiten. Als ein flexibles
+Werkzeug kann ServicePlot auf verschiedene Arten genutzt werden:
+
+-   Vervollständigungsmethode: diese Fragen können von einer Person, als
+    Gruppe, oder als Einzelpersonen in einer Gruppe beantwortet werden,
+    die dann ihre Antworten vergleichen und diskutieren.
+
+-   Maßstabsabhängig: man kann die Fragen in Bezug auf die
+    Gesamtorganisation beantworten (als Ausgangspunkt empfohlen), man
+    kann sie aber auch in Bezug auf die Philosophie seiner Abteilung
+    oder Teams innerhalb der Organisation ausfüllen
+
+-   Perspektive: man beantwortet die Fragen einmal, um den aktuellen
+    Stand abzubilden, und ein zweites Mal, um den angestrebten
+    zukünftigen Stand abzubilden, was einen Vergleich der beiden
+    erlaubt, um eine Diskussion zum Organisationswandel zu leiten.
+
+**Ressourcen zum Erarbeiten einer Vision**
+
+-   [Auswahl von Tools](http://www.upyourservice.com/learning-library/customer-service-vision) von UpYourService
+
+-   Einführung von Mindtools zu [Writing Vision and Mission Statements](http://www.mindtools.com/pages/article/newLDR_90.htm)
