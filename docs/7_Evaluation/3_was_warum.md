@@ -1,13 +1,13 @@
 ---
 layout: default
-title: 7.2 Was und warum?
+title: 7.3 Was und warum?
 parent: 7. Evaluation
-nav_order: 2
+nav_order: 3
 ---
 
-# 7.2 Was evaluieren wir in einem Lernraum und warum?
+# 7.3 Was evaluieren wir in einem Lernraum und warum?
 
-Eine typische POE, wie im Abschnitt [POE](../1_POE.md) skizziert, erfüllt eine wesentliche Funktion in
+Eine typische POE, wie im Abschnitt [POE](../2_POE.md) skizziert, erfüllt eine wesentliche Funktion in
 Bezug auf Bauprojekte und Immobilienverwaltung, aber dieser Abschnitt
 ist unter der Voraussetzung geschrieben, dass wir bei der Gestaltung
 eines neuen Lernraums darauf abzielen, das Lernen zu verbessern. Das mag

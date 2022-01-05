@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 7.1 POE
+title: 7.2 POE
 parent: 7. Evaluation
-nav_order: 1
+nav_order: 2
 ---
 
-# 7.1 Post-Occupancy Evaluation (POE)
+# 7.2 Post-Occupancy Evaluation (POE)
 
 Die Post-Occupancy Evaluation (POE) ist im „Estates Management“ im
 Hochschulwesen gut etabliert, und AUDE hat an der Erstellung einer von
