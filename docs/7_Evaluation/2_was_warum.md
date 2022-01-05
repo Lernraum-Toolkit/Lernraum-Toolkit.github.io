@@ -7,7 +7,7 @@ nav_order: 2
 
 # 7.2 Was evaluieren wir in einem Lernraum und warum?
 
-Typische POE, wie oben skizziert, erfüllt eine wesentliche Funktion in
+Eine typische POE, wie im Abschnitt [POE](../1_POE.md) skizziert, erfüllt eine wesentliche Funktion in
 Bezug auf Bauprojekte und Immobilienverwaltung, aber dieser Abschnitt
 ist unter der Voraussetzung geschrieben, dass wir bei der Gestaltung
 eines neuen Lernraums darauf abzielen, das Lernen zu verbessern. Das mag
