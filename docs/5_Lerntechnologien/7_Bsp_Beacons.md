@@ -27,7 +27,7 @@ werden. Sie können auch bei der Evaluierung von Nutzungsmustern von
 Lernräumen von Bedeutung sein.
 
 ---
-[^3]: <http://www.laceproject.eu/faqs/learning-analytics/>
+[^3]: <https://www.bildungsserver.de/Learning-Analytics-ein-internationaler-UEberblick-7514_ger.html>
 
 [^4]: Die University of Bradford verwendet iBeacons. Das Projekt, das
     Bradford zur Einführung von iBeacons durchgeführt hat, wurde mit dem
