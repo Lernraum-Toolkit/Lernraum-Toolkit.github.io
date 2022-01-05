@@ -258,6 +258,6 @@ werden, ggf. mit jeweils angepasstem Detailgrad.
 
 -   [Service Prototyping Overview](http://issuu.com/flandersdc/docs/091028-make-it-happen-service-prototyping-v1) in einer Präsentation von Möbius
 
--   [Service Prototpying Overview](http://www.enginegroup.co.uk/service_design/m_page/service_prototyping) von Engine
+-   [Service Prototpying Overview](https://uxplanet.org/a-brief-guide-to-service-prototyping-fc0cdf8a1a8e) von UX Planet
 
 -   [Video](http://vimeo.com/15969083) von Beyond Roleplay: Theatrical Tools in Service Design
