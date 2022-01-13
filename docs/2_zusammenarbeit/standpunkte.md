@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Standpunkte 
+title: Standpunkte
 parent: 2. Zusammenarbeit
 nav_order: 4
 ---
@@ -61,12 +61,12 @@ verbessern. Das AV-Personal und die Verantwortlichen für die
 Unterstützung der studentischen Arbeitsplätze sind jetzt unter einem
 Dach vereint, was den Dialog und das Verständnis verbessert hat. Zwei
 seiner AV-Mitarbeiter haben Qualifikationen im Bereich Netzwerktechnik
-absolviert, und er hat auch einen „modern apprentice“ als Teil des
-AV-Teams eingestellt. Er stellte fest, dass es im Gegensatz zu
-Multimedia und IT nur wenige anerkannte Ausbildungsprogramme für AV gab,
-so dass sie typischerweise eine IT-Qualifikation absolvieren und diese
-modifizieren und erweitern müssen, um mehr AV-Fachwissen zu sammeln.
-Bruce sagt, dass man bei Lernraumprojekten "von der Vorstellung
+absolviert, und er hat auch einen „Modern Apprentice“ (praxisintegrierte
+Ausbildung) als Teil des AV-Teams eingestellt. Er stellte fest, dass es im
+Gegensatz zu Multimedia und IT nur wenige anerkannte Ausbildungsprogramme
+für AV gab, so dass sie typischerweise eine IT-Qualifikation absolvieren
+und diese modifizieren und erweitern müssen, um mehr AV-Fachwissen zu 
+sammeln. Bruce sagt, dass man bei Lernraumprojekten "von der Vorstellung
 wegkommen muss, dass AV-Leute einfach am Ende reinkommen und Projektoren
 an die Decke schrauben. Wir müssen sicherstellen, dass sie früher als
 Spezialisten hinzugezogen und als Fachleute voll in den Designprozess

@@ -7,7 +7,7 @@ nav_order: 6
 
 # 3.6 Realitätschecks
 Es zahlt sich aus regelmäßig Realitätschecks auf die Designideen
-anzuwenden. Der „Estates“ Kontakt, Architekt und Berater werden einen
+anzuwenden. Das Baudezernat / Bauamt, Architekt und Berater werden einen
 dabei unterstützen, aber es ist immer gut, auch Leute mit lokalem
 Know-how zu involvieren. Diese Checklisten für unterschiedliche Aspekte
 des Baus wurde von den JISC Empfehlungen zu Lernräumen ([JISC, 2007, 2013](../Referenzen.md)) adaptiert.

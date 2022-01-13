@@ -21,7 +21,7 @@ können mit einem Brainstorming beginnen, indem sie eine Liste ihrer
 aktuellen und zukünftigen Dienste erstellen und diese dann nach
 Standorten organisieren. So kann z.B. festgelegt werden, welche
 Leistungen an einem Serviceschalter angeboten werden und welche virtuell
-per E-Mail, Telefon und Instant Messaging unterstützt werden sollen.
+per E-Mail, Telefon, Videokonferenz und Instant Messaging unterstützt werden sollen.
 Dies kann intern, mit Servicepartnern und/oder Mitgliedern des
 Designteams erfolgen und wird ein iterativer Prozess sein, der die
 Tabelle im Laufe der Zeit verfeinert. Die daraus resultierende Tabelle

@@ -31,8 +31,7 @@ der immer:
 
 -   den Kunden auf Risiken und Maßnahmen zu deren Minderung hinweist
 
--   den Umfang seiner Dienstleistungen bestätigt und was außerhalb des
-    Zuständigkeitsbereichs liegt
+-   den Umfang seiner Dienstleistungen bestätigt und was nicht dazu gehört
 
 -   vermeidet es zu sagen „aber diese Frage haben Sie nicht gestellt“
 
@@ -98,18 +97,17 @@ arbeiten oft mit bestimmten Innenarchitekten zusammen.
 
 Einer der schwierigsten Aspekte jeglichen Baus oder Renovierung ist die
 Bereitstellung von mechanischen und elektrischen Systemen und Service
-einschließlich IT. Sicher zu gehen, dass man mit einer qualitativ
-hochwertigen Maschinenbau- und Elektrofirma zusammenarbeitet, ist ein
-entscheidender Erfolgsfaktor für die Implementierung von techniklastigen
-Räumen. Bei dieser Art von Räumen ist es auch ratsam, separate
-Regelungen für IT Systeme und Service zu treffen, indem man spezifische
-Expertise einkauft. Man will nicht riskieren am Ende mit einem tollen
-Gebäude dazustehen, in dem einen die IT, elektrischen und maschinellen
-Systeme im Stich lassen oder nicht leicht an den zukünftigen Bedarf
-angepasst werden können. Man sollte mit Unternehmen vorsichtig sein, die
-IT und AV (audiovisuelle Systeme) nur als eine Teilmenge von
-Elektroarbeiten ansehen und die die Anforderungen nicht voll zu
-verstehen scheinen.
+einschließlich IT. Die Beauftragung eines qualitativ hochwertigen
+Maschinenbau- und Elektrounternehmens ist ein entscheidender Erfolgsfaktor
+für die Implementierung von techniklastigen Räumen. Bei dieser Art von
+Räumen ist es auch ratsam, separate Regelungen für IT Systeme und Service
+zu treffen, indem man spezifische Expertise einkauft. Man will nicht
+riskieren am Ende mit einem tollen Gebäude dazustehen, in dem einen die IT,
+elektrischen und maschinellen Systeme im Stich lassen oder nicht leicht an
+den zukünftigen Bedarf angepasst werden können. Man sollte mit Unternehmen
+vorsichtig sein, die IT und AV (audiovisuelle Systeme) nur als eine
+Teilmenge von Elektroarbeiten ansehen und die die Anforderungen nicht voll
+zu verstehen scheinen.
 
 **Projektmanager**
 
@@ -118,9 +116,9 @@ Projekt pünktlich und innerhalb des Finanzrahmens fertiggestellt wird.
 Man sollte die Vorteile der Beauftragung eines
 Projektmanagement-Unternehmens, das diese Verantwortung übernimmt, gegen
 die Vorteil von lokalem Know-how abwägen (wenn man vor Ort Möglichkeiten
-hat, dies intern zu übernehmen). Die eigene „Estates“ Abteilung ist
-wahrscheinlich der beste Ansprechpartner, um zu beraten, welche
-Kompetenzen innerhalb der Universität existieren.
+hat, dies intern zu übernehmen). Das eigene Baudezernat ist wahrscheinlich
+der beste Ansprechpartner, um zu beraten, welche Kompetenzen innerhalb der
+Universität existieren.
 
 **Kostenplaner**
 
@@ -148,8 +146,8 @@ Geräuschkulisse für den Raum liefern.
 **Beleuchtungsberater**
 
 Beleuchtung in Lernräumen ist ein entscheidender Faktor. Man sollte den
-Rat eines Lichtberaters einholen, um sicherzustellen, dass der Raum die
-Flexibilität hat, während eines Tages-, Wochen- und Jahreszyklus eine
+Rat eines Beleuchtungsberaters einholen, um sicherzustellen, dass der Raum
+die Flexibilität hat, während eines Tages-, Wochen- und Jahreszyklus eine
 gute Beleuchtung zu gewährleisten.
 
 **Künstler**

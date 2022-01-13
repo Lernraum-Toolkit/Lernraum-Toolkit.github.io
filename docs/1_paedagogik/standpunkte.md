@@ -55,7 +55,7 @@ Anpassungsfähigkeit ein viel pragmatischerer Ansatz ist als
 Flexibilität. Es ist ganz praktisch, einen Raum so zu gestalten, dass er
 zwischen zwei oder drei definierten Zuständen anpassbar ist. Ein
 vollständig flexibler Ansatz erfordert eine Menge Unterstützung, die zu
-bestimmten Umstellungszeiten verfügbar ist. Für Bruce stimmt ein oft
+bestimmten Umstellungszeiten verfügbar ist. Nach Ansicht von Bruce stimmt ein oft
 wiederholter Satz: "Flexibilität ist das F-Wort in der
 Lernraumgestaltung".
 

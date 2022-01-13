@@ -16,7 +16,7 @@ Nutzer aufgeführt.*
 -   Sammeln von vorhandenen Informationen über institutionellen
     Prioritäten und Bedarf aus verschiedenen Quellen, wie strategische
     Pläne, institutionelle Partner, wie z.B. Abteilungen für
-    institutionelle Forschung, Informationstechnologie und Lehr- und
+    Hochschulforschung, Informationstechnologie und Lehr- und
     Lernexperten.
 
 -   Sammeln von Informationen über derzeit genutzten Räume in der Nähe

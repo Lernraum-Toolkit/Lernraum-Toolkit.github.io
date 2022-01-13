@@ -111,8 +111,7 @@ professionellen Perspektiven eingeschränkt ist.
 Die University of Birmingham hat auch Pinterest als ein Mittel genutzt
 um breite Stakeholder Beteiligung zu unterstützen. Pinterest ist ein
 virtuelles „Mood Board“ und Raum für Zusammenarbeit, den die Universität
-bei den ersten Designmeetings nutzte um einen ambitionierten Plan für
-ein akademisches Gebäude zu entwickeln. Matt Sherlock, Assistant
+bei den ersten Designmeetings nutzte um die Zielvorgaben für ein Hochschulgebäude zu entwickeln. Matt Sherlock, Assistant
 Director, Learning Environments, University of Birmingham berichtet
 “Manchmal muss man Stakeholder mit ungewöhnlichen Ideen zupflastern, um
 ihr Interesse zu wecken.“ Matt empfand es als relativ leicht die Leute

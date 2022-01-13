@@ -152,8 +152,8 @@ Gegenstände wie Taschen und Jacken in Betracht gezogen werden müssen.
 **Unterstützung anbieten**
 
 Supportschalter und belastbare Hilfesysteme dort zu platzieren wo
-Studierende (und Mitarbeiter) sich aufhalten, statt nur dort wo die
-Basis der Einrichtung ist, fördert die Nutzung, genauso wie Online
+Studierende (und Mitarbeiter) sich aufhalten, statt nur am Standort der
+Einrichtung, fördert die Nutzung, genauso wie Online
 Support zur Verfügung zu stellen. Mitarbeiter und Studierende brauchen
 möglicherweise beide Unterstützung um das Potential innovativer Arten
 von Lernräumen voll auszuschöpfen. Während wir betonen, wie wichtig es
@@ -171,7 +171,7 @@ Für Studierende, deren Welt digital, vernetzt, unmittelbar, sozial und
 partizipatorisch ist, ist Zugang zu einem drahtlosen Netzwerk
 unverzichtbar. Die Welt der Studierenden ist nicht nur die physische, in
 der sie sich befinden. Es ist auch die virtuelle in der sie mit Freunden
-chatten, Leute treffen, digitale Inhalte teilen und neue Ideen erkunden.
+chatten, Leute treffen, digitale Inhalte teilen und neue Ideen ausprobieren.
 Da Lernen überall und jederzeit stattfinden kann, gibt es, wenn
 überhaupt, nur wenige Ort wo WLAN nicht nützlich ist.
 

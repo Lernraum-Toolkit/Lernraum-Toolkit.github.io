@@ -27,21 +27,20 @@ Räume und der Erfüllung der ursprünglichen Projektziele zu beantworten.
     Ziele vorgenommen werden.
 
 -   In einer ersten Datenerfassungsphase ist zu ermitteln, was auf dem
-    Campus gemacht wurde; es sollten Berichte und Daten der
-    Hochschulleitung, der Abteilung für institutionelle Kennzahlen, der
-    IT-Abteilung, dem Studierendenwerk und anderen relevanten Stellen
-    gesammelt werden. Man sollte dann die wichtigsten institutionellen
-    Ziele identifizieren, vor allem in Bezug auf das Lernen. Man kann
-    Literatur und Beispiele in diesem Toolkit durchsehen, um zu schauen,
-    ob es Modelle gibt, die man übernehmen oder anpassen möchte.
+    Campus gemacht wurde; es sollten Berichte und Daten der Hochschulleitung,
+    ggf. der Stabsstelle für Hochschuldaten und Kennzahlen, der IT-Abteilung,
+    dem Studierendenwerk und anderen relevanten Stellen gesammelt werden.  
+    Man sollte dann die wichtigsten institutionellen Ziele identifizieren,
+    vor allem in Bezug auf das Lernen. Man kann Literatur und Beispiele in
+    diesem Toolkit durchsehen, um zu schauen, ob es Modelle gibt, die man
+    übernehmen oder anpassen möchte.
 
 -   Bei der Evaluation sollte man sich mit Partnern zusammenschließen um
-    von Fachleuten auf dem Campus zu profitieren; die meisten
-    Einrichtungen haben beispielsweise eine Abteilung für
-    institutionelle Kennzahlen, die über Mitarbeiter verfügt, die mit
-    Methoden und Protokollen vertraut sind. Vielleicht kann man auch bei
-    einigen ihrer Bemühungen, wie z.B. Studierendenumfragen, mit
-    einsteigen.
+    von Fachleuten auf dem Campus zu profitieren; die meisten Einrichtungen
+    haben beispielsweise eine Abteilung für Hochschuldaten und Kennzahlen,
+    die über Mitarbeiter verfügt, die mit Methoden und Protokollen vertraut
+    sind. Vielleicht kann man auch bei einigen ihrer Bemühungen, wie z.B.
+    Studierendenumfragen, mit einsteigen.
 
 -   Mit Lehr- und Lernexperten und Unterrichtsdesignern diskutieren, wie
     die Lernergebnisse mit den Zielen für den Raum und den geplanten
@@ -64,7 +63,7 @@ Räume und der Erfüllung der ursprünglichen Projektziele zu beantworten.
 
 -   Bestimmen, welche Nutzergruppen angesprochen werden sollen, z.B.
     Studierende im Erststudium, repräsentative Hauptfächer, Graduierte,
-    und dabei Untergruppen wie Early Adopters of Technology oder Pendler
+    und dabei Untergruppen wie "Early Adopters of Technology" oder Pendler
     in Betracht ziehen. Profile der verschiedenen Benutzertypen
     erstellen und wie sie verschiedene Räumen nutzen könnten.
 

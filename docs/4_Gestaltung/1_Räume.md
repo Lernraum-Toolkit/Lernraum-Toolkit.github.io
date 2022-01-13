@@ -32,7 +32,7 @@ Vorentwurfsphasen.
 -   **Auf Expertenstudien zurückgreifen.** Es gibt zahlreiche
     experimentelle Studien und Veröffentlichungen von wissenschaftlich
     arbeitenden Praktikern mit Pilotcharakter. Man sollte diese bereits
-    vorhandenen Materialien als Ausgangspunkt nehmen (z.B. ELI, etc.).
+    vorhandenen Materialien als Ausgangspunkt nehmen.
 
 -   **Ermitteln, welche Aktivitäten unterstützt werden müssen,** indem
     man Untersuchungen heranzieht, die in der Beurteilungsphase
@@ -101,7 +101,7 @@ Vorentwurfsphasen.
 
     -   Nachbarschaft und Sichtverbindungen zu/von anderen Räumen.
 
-**Implementierung der Räume**, nachdem sie fertiggestellt und in
+**Implementieren der Räume**, nachdem sie fertiggestellt und in
 Gebrauch sind.
 
 -   **Sicherstellen, dass Zusammenarbeit** durch erforderlichen Support

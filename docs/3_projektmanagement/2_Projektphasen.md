@@ -186,8 +186,8 @@ typische Aktivitäten jeder Phase exemplarisch dar, wie etwa regelmäßige
 Projektleitungstreffen. Es schlägt auch vor, welche 4 Arten von
 Stakeholdern in welche Aktivitäten involviert sein sollten:
 Leitungsausschuss, Design / Programm Team, Nutzergruppen und
-Campusspezialisten wie IT, Dekanat für Lehre und Lernen, Facilities und
-Bibliotheken. Für jede Phase gibt es auch Vorschläge für zu erreichende
+Campusspezialisten wie IT, Dekanat für Lehre und Lernen, Gebäudemanagement
+und Bibliotheken. Für jede Phase gibt es auch Vorschläge für zu erreichende
 Ergebnisse und zu fällende Entscheidungen. Institutionen können diese
 Informationen nutzen, um den Prozess so zu strukturieren, wie es am
 besten für sie passt, abgestimmt auf die Größe, Budget und Kontext.

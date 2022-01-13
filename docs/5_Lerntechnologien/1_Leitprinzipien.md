@@ -10,10 +10,7 @@ nav_order: 1
 *Die folgenden Punkte sind allgemein anerkannte Techniken, Methoden und
 Prozesse zur Vorstellung, Planung, Implementierung und Aufrechterhaltung
 von Technologie in Lernräumen aufgeführt, die sich an den Bedürfnissen
-der Benutzer orientiert. Bei der Betrachtung der Technologie für
-Lernräume ist es wichtig, zunächst in den Aktivitäten zu denken, die
-ermöglicht werden sollen, und nicht in den physischen Eigenschaften und
-Spezifikationen der Technologie selbst.*
+der Benutzer orientiert.*
 
 **Vision und erste Schritte**
 

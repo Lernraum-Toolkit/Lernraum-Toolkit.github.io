@@ -29,9 +29,9 @@ Fachleute, die mit der Leitung eines Lernraumprojektes beauftragt sind,
 müssen unter Umständen mit einer Reihe von Interessensvertretern aus
 verschiedenen funktionalen Bereichen zusammenarbeiten, die außerhalb
 ihrer täglichen Arbeitspraxis liegen. Dieses Toolkit konzentriert sich
-darauf, denjenigen, die für die Verwaltung des Universitätsvermögens,
-der IT-Infrastruktur und der audiovisuellen Unterstützung verantwortlich
-sind, dabei zu helfen, effektiv zusammenzuarbeiten. Dennoch muss für ein
+darauf, denjenigen, die für die Verwaltung der Hochschulgebäude, der 
+IT-Infrastruktur und der audiovisuellen Technik verantwortlich sind,
+dabei zu helfen, effektiv zusammenzuarbeiten. Dennoch muss für ein
 erfolgreiches Projekt ein viel breiteres Spektrum von Akteuren
 einbeziehen.
 
