@@ -36,14 +36,14 @@ Oblinger (Hrsg.), *Learning Spaces*. EDUCAUSE.
 HEFCE. (2006). *Guide to Post-Occupancy Evaluation*.
 [Link zu PDF](http://www.smg.ac.uk/documents/POEBrochureFinal06.pdf)
 
-JISC. (2007). *Learning Spaces Guide*. [Link zu Guide](https://www.jisc.ac.uk/full-guide/learning-spaces)
-
-JISC. (2013). *Learning Spaces Guide*. [Link zu Guide](https://www.jisc.ac.uk/full-guide/learning-spaces)
-
 Joint Information Systems Committee (JISC). (2006). *Designing spaces
 for effective learning: A guide to 21st century learning space design*
 (Higher Education Funding Council for England (HEFCE) on behalf of JISC,
 Hrsg.).
+
+Joint Information Systems Committee (JISC). (2007). *Learning Spaces Guide*. [Link zu Guide](https://www.jisc.ac.uk/full-guide/learning-spaces)
+
+Joint Information Systems Committee (JISC). (2013). *Learning Spaces Guide*. [Link zu Guide](https://www.jisc.ac.uk/full-guide/learning-spaces)
 
 Langston, C. (2014). Measuring Good Architecture: Long life, loose fit,
 low energy. *European Journal of Sustainable Development*, *3*(4),
@@ -61,6 +61,8 @@ Mathoi, T. (2007, Mai 7). Value Engineering bei Bauprojekten.
 
 Monahan, T. (2002). Flexible Space & Built Pedagogy: Emerging IT
 Embodiments. *Inventio*, *4*(1), 1–19.
+
+NCSU Libraries. *Learning Space Toolkit*. [Link zu Toolkit](https://learningspacetoolkit.org)
 
 Neary, M., Harrison, A., Crellin, G., Parekh, N., Saunders, G., Duggan,
 F., Williams, S., & Austin, S. (2010). *Learning landscapes in higher
@@ -90,6 +92,8 @@ Temple, P. (2008). Learning spaces in higher education: An
 under-researched topic. *London Review of Education*, *6*(3), 229–241.
 
 UCISA. (2015). *Secure Network Management*.
+
+UCISA, AUDE, & SCHOMS. (2016). *UK Higher Education Learning Space Toolkit*. [Link zu Toolkit](https://www.ucisa.ac.uk/learningspace)
 
 Van Note Chism, N. (2006). Challenging traditional assumptions and
 rethinking learning spaces. In D. G. Oblinger (Hrsg.), *Learning
