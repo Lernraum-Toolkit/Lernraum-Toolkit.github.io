@@ -71,7 +71,7 @@ hinarbeiten. Wenn man nicht will, dass der Architekt diese führende
 Koordinationsrolle einnimmt, muss man dafür möglicherweise ein
 professionelles Projektmanagement-Unternehmen einsetzen.
 
-Immer mehr „Estates“ Abteilungen von Universitäten nutzen Rahmenverträge
+Immer mehr Bauabteilungen von Universitäten nutzen Rahmenverträge
 mit ihren Architekten oder Designteams, die auf drei- oder
 fünf-Jahresbasis erneuert werden. Dies soll ein optimales
 Preis-Leistungs-Verhältnis gewährleisten und Zeit bei der Beschaffung

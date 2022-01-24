@@ -19,7 +19,7 @@ permalink: /docs/7_Evaluation
 
 **Erwartungen an die Lektüre dieses Abschnitts**
 
-„Estates“-Fachleute sind möglicherweise bereits mit dem Konzept der
+Fachleute aus dem Baudezernat sind möglicherweise bereits mit dem Konzept der
 (Post-Occupancy) Evaluation eines physischen Raums vertraut, haben aber
 möglicherweise weniger Erfahrung mit der Gestaltung von Evaluationen,
 die den Erfolg eines Raums als effektiven Lernraum erfassen. In
