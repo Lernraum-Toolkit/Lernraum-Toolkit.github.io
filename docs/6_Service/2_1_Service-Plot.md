@@ -10,6 +10,12 @@ nav_order: 1
 
 *Was ist die eigene Servicephilosophie?*
 
+HINWEIS: Das Tool ServicePlot ist Teil des Learning Space Toolkit US
+[Link zu Tool im Original](https://learningspacetoolkit.org/services-and-support/serviceplot/index.html),
+steht aber aufgrund technischer Änderungen nicht mehr auf der Webseite zur
+Verfügung. Es wird deshalb hier nur kurz beschrieben und auf Alternativen
+verwiesen.
+
 **ServicePlot** ist ein Tool für Organisationen, um ihre
 Servicephilosophie zu erkennen und sich, basierend auf ihren Werten und
 Nutzerbedürfnissen, ihre zukünftige Philosophie vorzustellen. Dieses
@@ -31,8 +37,8 @@ Antworten:
 
 Beispiel für einen ausgefüllten ServicePlot
 
-Organisationen zeichnen ihre aktuellen und zukünftigen Antworten bezogen
-auf sechs Schlüsselthemen ein – Service-Schwerpunkt,
+Dafür bilden Organisationen ihre aktuellen und zukünftigen Antworten bezogen
+auf sechs Schlüsselthemen ab – Service-Schwerpunkt,
 Organisationsstruktur, Schlüsselqualifikationen der Mitarbeiter,
 Angebot, Einstellung, Erfolgskriterien. Die daraus resultierende
 Darstellung vermittelt ein Bild davon, wo man steht und wo man mit
@@ -43,24 +49,9 @@ ist und was man sich wünscht – wobei die notwendigen Veränderungen
 hervorgehoben und Gespräche auf dem Weg dorthin erleichtert werden.
 Einmal festgelegt, können Organisationen ihre Service-Philosophie
 nutzen, um ihre Entscheidungsfindungen darüber, welcher Service wo,
-wann, wie und durch wen angeboten werden, zu leiten. Als ein flexibles
-Werkzeug kann ServicePlot auf verschiedene Arten genutzt werden:
+wann, wie und durch wen angeboten werden, zu leiten.
 
--   Vervollständigungsmethode: diese Fragen können von einer Person, als
-    Gruppe, oder als Einzelpersonen in einer Gruppe beantwortet werden,
-    die dann ihre Antworten vergleichen und diskutieren.
-
--   Maßstabsabhängig: man kann die Fragen in Bezug auf die
-    Gesamtorganisation beantworten (als Ausgangspunkt empfohlen), man
-    kann sie aber auch in Bezug auf die Philosophie seiner Abteilung
-    oder Teams innerhalb der Organisation ausfüllen
-
--   Perspektive: man beantwortet die Fragen einmal, um den aktuellen
-    Stand abzubilden, und ein zweites Mal, um den angestrebten
-    zukünftigen Stand abzubilden, was einen Vergleich der beiden
-    erlaubt, um eine Diskussion zum Organisationswandel zu leiten.
-
-**Ressourcen zum Erarbeiten einer Vision**
+**Weitere Ressourcen zum Erarbeiten einer Vision**
 
 -   [Auswahl von Tools](http://www.upyourservice.com/learning-library/customer-service-vision) von UpYourService
 
