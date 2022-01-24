@@ -11,7 +11,7 @@ nav_order: 1
 *Was ist die eigene Servicephilosophie?*
 
 HINWEIS: Das Tool ServicePlot ist Teil des Learning Space Toolkit US
-[Link zu Tool im Original](https://learningspacetoolkit.org/services-and-support/serviceplot/index.html),
+([Link zu Tool im Original](https://learningspacetoolkit.org/services-and-support/serviceplot/index.html)),
 steht aber aufgrund technischer Änderungen nicht mehr auf der Webseite zur
 Verfügung. Es wird deshalb hier nur kurz beschrieben und auf Alternativen
 verwiesen.
