@@ -9,7 +9,7 @@ permalink: /
 # Lernraum Toolkit
 {: .fs-10 }
 
-Das Lernraum Toolkit soll gesammelte Informationen zur Gestaltung von Lernräumen im universitären Kontext zur Verfügung stellen um Praktiker in ihrer Arbeit zu unterstützen.
+Das Lernraum Toolkit soll gesammelte Informationen zur Gestaltung von Lernräumen im universitären Kontext zur Verfügung stellen um Praktikerinnen und Praktikern in ihrer Arbeit zu unterstützen.
 {: .fs-6 .fw-300 }
 
 [Toolkit als PDF](docs/Toolkit_Lernraumgestaltung_%C3%9Cbersetzung_Version_2021-06.pdf){: .btn .btn-purple .fs-5 .mr-4}  [Auf Github ansehen](https://github.com/Lernraum-Toolkit/Lernraum-Toolkit.github.io){: .btn .fs-5}

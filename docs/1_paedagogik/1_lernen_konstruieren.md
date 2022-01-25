@@ -11,13 +11,13 @@ Der Titel dieses Abschnitts ist angelehnt an [Monahans (2002)](../Referenzen.md)
 „Built Pedagogy“ (gebaute Pädagogik/Didaktik), der „architectural
 embodiments of educational philosophies“ bezeichnet. Mit anderen Worten,
 die Art in der ein Raum entworfen ist, formt das Lernen, das in diesem
-Raum stattfindet. Das Design vieler unserer Hörsäle und traditioneller
+Raum stattfindet. Das Design vieler Hörsäle und traditioneller
 Unterrichtsräume hat sich über hunderte von Jahren kaum geändert. Das
 Layout ist im Allgemeinen auf ein Vermittlungsmodell ausgelegt dessen
 gebaute Pädagogik besagt, dass eine Person Information an andere
 weitergibt, die diese alle im gleichen Tempo aufnehmen, indem sie sich
 auf die Person an der Vorderseite des Raumes konzentrieren. So ähnlich
-vermitteln PC Pools, die nur einen Benutzer pro Bildschirm vorsehen,
+vermitteln PC Pools, die nur einen Benutzenden pro Bildschirm vorsehen,
 oder Bibliotheken, die lautes Sprechen verbieten, eine gebaute
 Pädagogik, die den Ideen des sozialen Konstruktivismus widersprechen.
 Dies steht in starkem Gegensatz zu vorherrschenden pädagogischen
@@ -30,17 +30,17 @@ viele Übergangszeiten in Fluren oder draußen, wo sie gezwungen sind auf
 dem Boden oder auf Fensterbrettern zu sitzen. Solche Räume sind nicht
 dafür ausgelegt Lernen oder Interaktion zu fördern und verstärken die
 Botschaft, dass Studierende erst dann lernen, wenn sie sich in
-Anwesenheit eines Dozenten in einen formalen Lernraum begeben. Die
-Trennung von Service und Orten, an denen sich Mitarbeiter aufhalten,
+Anwesenheit eines Dozierenden in einen formalen Lernraum begeben. Die
+Trennung von Service und Orten, an denen sich das Personal aufhält,
 schafft ebenfalls eine Unterscheidung, die Studierende in die Rolle des
-Informationsempfängers versetzt statt in die eines Teils der
+Informationsempfangens versetzt statt in die eines Teils der
 Lerngemeinschaft geprägt von einem Ethos der forschungsorientierten
 Lehre ([Van Note Chism, 2006](../Referenzen.md)).
 
 Die aktuellen Überlegungen zu „Good Practice“ in der Bildung betonen
-nachdrücklich das Lernen im Gegensatz zum Lehren und sehen den Lernenden
-als Mitschöpfer von Wissen statt Konsumenten von vermittelter
-Information. Unsere Lernräume sollten dies wiederspiegeln.
+nachdrücklich das Lernen im Gegensatz zum Lehren und betonen, dass Lernende
+Wissen (mit)schöpfen statt vermittelte Information nur zu konsumieren.
+Unsere Lernräume sollten dies wiederspiegeln.
 
 Ein anderer Faktor, der sich erheblich auf die Art des möglichen Lernens
 und Lehrens auswirkt, ist die Allgegenwärtigkeit und Zugänglichkeit

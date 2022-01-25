@@ -22,11 +22,11 @@ identifizieren, die die Design-Entscheidungen leiten und die Aufnahme
 neuer und verbesserter Ideen in die Infrastruktur ermöglichen.
 
 Es gibt eine Vielzahl publizierter Beispiele für Designprinzipien. Viele
-davon basieren auf [Chickering und Gamsons (1987)](../Referenzen.md) sieben Prinzipien von
-„Good Practices“ in der studentischen Ausbildung[^4], die auf Raumdesign
-übertragen werden:
+davon basieren auf [Chickering und Gamsons (1987)](../Referenzen.md) sieben
+Prinzipien von „Good Practices“ in der studentischen Ausbildung[^4], die auf
+Raumdesign übertragen werden:
 
-1.  Regt Kontakte zwischen Studierenden und Mitarbeitern an;
+1.  Regt Kontakte zwischen Studierenden und Mitarbeitenden an;
 
 2.  Fördert Wechselseitigkeit und Kooperation unter Studierenden;
 
@@ -40,8 +40,8 @@ davon basieren auf [Chickering und Gamsons (1987)](../Referenzen.md) sieben Prin
 
 7.  Respektiert verschiedene Begabungen und Arten zu Lernen.
 
-[JISC (2006)](../Referenzen.md) umreißt eine sehr einfache Reihe von Prinzipien, die ein
-Raum sein sollte:
+[JISC (2006)](../Referenzen.md) umreißt eine sehr einfache Reihe von
+Prinzipien, die ein Raum sein sollte:
 
 -   **Flexibel** – um sowohl aktuelle als auch sich entwickelnde
     pädagogische Konzepte zu beherbergen
@@ -61,31 +61,32 @@ Raum sein sollte:
     verschiedenen Zwecken dienen kann
 
 Sich auf Prinzipien zu einigen, die der Gestaltung von Lernräumen im
-jeweiligen Kontext zugrunde liegen sollen, kann eine schwierige
-Angelegenheit sein. Die Prinzipien müssen eine breite Unterstützung
+jeweiligen Kontext zugrunde liegen sollen, kann schwierig sein. Die
+Prinzipien müssen eine breite Unterstützung
 finden. Wenn sie jedoch die Lern- und Lehrpraxis verbessern sollen,
 müssen sie so formuliert werden, dass sie den Status Quo in Frage
-stellen und positive Handeln seitens der Nutzer des Raums verlangen. Man
+stellen und positive Handeln seitens der Nutzenden des Raums verlangen. Man
 muss sehr sorgfältig darüber nachdenken, wie die Prinzipien in die
 Praxis umgesetzt werden. In den Standpunkten (s.u.) finden sich eine
 Reihe von Anmerkungen zur Bedeutung und zum Wert von Begriffen wie
 Flexibilität.
 
-Der folgende Satz von Leitprinzipien für das Design wurde für diesen Toolkit frei aus
-den Arbeiten von [Lomas und Oblinger (2006)](../Referenzen.md) adaptiert. Wir schlagen vor,
+Der folgende Satz von Leitprinzipien für das Design wurde für den
+[UK HE Learning Space Toolkit](../Referenzen.md) frei aus den Arbeiten von
+[Lomas und Oblinger (2006)](../Referenzen.md) adaptiert. Dort wird vorgeschlagen,
 dass Lernräume folgende Punkte erfüllen sollten:
 
 **Ein Gefühl von Gemeinschaft erzeugen und aktive Teilnahme anregen**
 
 Lernen ist zuallererst ein sozialer Prozess. Die physische Umwelt einer
-Universität solle das Gefühl vermitteln, Teil einer Lerngemeinschaft zu
+Universität sollte das Gefühl vermitteln, Teil einer Lerngemeinschaft zu
 sein. Sie sollte das gemeinsame Lernen unterstützen, indem physische
 Räume zur Zusammenarbeit und Möglichkeiten angeboten werden, sich
 digital mit einer größeren Gemeinschaft zu verbinden, z.B. durch
 Videokonferenzen oder Webinare. Die Möglichkeit, andere bei der Arbeit
 zu beobachten, hilft dabei, ein Gefühl der Verbundenheit zu schaffen,
 und die Existenz sozialer Räume fördert Interaktionen zwischen Peers
-bzw. Mitarbeitern und Studierenden, in denen ein großer Teil des
+bzw. Mitarbeitenden und Studierenden, in denen ein großer Teil des
 tatsächlichen Lernens gefestigt wird. Wir müssen eine Umgebung schaffen,
 in der Studierende Wissen sowohl konstruieren und miterschaffen als auch
 konsumieren können.
@@ -119,9 +120,9 @@ sollten leicht konfigurierbar sein, steuerbare Beleuchtung und portable
 Technologien spielen ebenfalls eine Rolle und benutzerfreundliche „low
 tech“ Hilfsmittel haben ihren Platz an der Seite von digitalen
 Technologien. Physische Räume sollten die Art der Lernaktivitäten nicht
-einschränken. Auch sollten wir zukünftige Bedürfnisse im Kopf behalten,
-können aber nicht verlangen, dass alles flexibel ist, da es schwierig
-ist, zu definieren, was wir damit erreichen wollen (s. [Standpunkte](standpunkte.md)
+einschränken. Auch sollte man zukünftige Bedürfnisse im Kopf behalten,
+kann aber nicht verlangen, dass alles flexibel ist, da es schwierig
+ist, zu definieren, was man damit erreichen will (s. [Standpunkte](standpunkte.md)
 und [Kapitel 4 Konkrete Gestaltung verschiedener Arten von Lernräumen](../4_Gestaltung/0_Gestaltung.md)).
 
 **Eine angenehme Arbeitsumgebung anbieten**
@@ -141,7 +142,7 @@ Folglich muss der Bedarf an Zonierung und Abgrenzung sorgfältig
 durchdacht werden. Neben diesen funktionalen Anforderungen müssen wir
 auch darüber nachdenken, wie man ein passendes Ambiente für jeden Raum
 schafft, sodass Studierende dort Zeit verbringen wollen.
-Universitätsplaner versuchen einen „sticky“ Campus zu erschaffen indem
+Universitätsplaner und -planerinnen versuchen einen „sticky“ Campus zu erschaffen indem
 sie die richtige Umgebung schaffen, um Studierende über den ganzen Tag
 hinweg an sich zu binden (ähnliches versuchen Unternehmen wie Google mit
 ihren Angestellten zu erreichen). Das könnte bedeuten, dass Faktoren wie
@@ -152,11 +153,11 @@ Gegenstände wie Taschen und Jacken in Betracht gezogen werden müssen.
 **Unterstützung anbieten**
 
 Supportschalter und belastbare Hilfesysteme dort zu platzieren wo
-Studierende (und Mitarbeiter) sich aufhalten, statt nur am Standort der
+Studierende (und Mitarbeitende) sich aufhalten, statt nur am Standort der
 Einrichtung, fördert die Nutzung, genauso wie Online
-Support zur Verfügung zu stellen. Mitarbeiter und Studierende brauchen
+Support zur Verfügung zu stellen. Mitarbeitende und Studierende brauchen
 möglicherweise beide Unterstützung um das Potential innovativer Arten
-von Lernräumen voll auszuschöpfen. Während wir betonen, wie wichtig es
+von Lernräumen voll auszuschöpfen. Während das [UK Toolkit](../Referenzen.md) betont, wie wichtig es
 ist sicherzustellen, dass Lernräume leicht und intuitiv zu benutzen
 sind, fand das Learning Landscape Projekt ([Neary et al., 2010](../Referenzen.md)), dass es,
 ohne Unterstützung, eine Tendenz gibt sogar in den innovativsten
@@ -170,7 +171,7 @@ neue Umgebungen umfassen.
 Für Studierende, deren Welt digital, vernetzt, unmittelbar, sozial und
 partizipatorisch ist, ist Zugang zu einem drahtlosen Netzwerk
 unverzichtbar. Die Welt der Studierenden ist nicht nur die physische, in
-der sie sich befinden. Es ist auch die virtuelle in der sie mit Freunden
+der sie sich befinden. Es ist auch die virtuelle in der sie mit Bekannten
 chatten, Leute treffen, digitale Inhalte teilen und neue Ideen ausprobieren.
 Da Lernen überall und jederzeit stattfinden kann, gibt es, wenn
 überhaupt, nur wenige Ort wo WLAN nicht nützlich ist.
@@ -183,8 +184,8 @@ Geräte mit kabelgebundenen Zugängen anzubieten ist Teil der Antwort,
 aber das kabellose Netzwerk muss so aufgebaut sein, dass es der ständig
 wachsenden Nachfrage gerecht wird.
 
-Die meisten Studierenden besitzen eine Vielfalt an Technologien, wie
-Laptops, Smartphones, MP3 Player, Tablets und mehr. Da Technologie
+Die meisten Studierenden besitzen eine Vielfalt an technischen Geräten, wie
+Laptops, Smartphones, MP3 Player, Tablets und mehr. Da Technik
 allgegenwärtiger und günstiger wird, werden Institutionen Möglichkeiten
 finden, Informationen und Serviceangebote in verschiedenen Formaten und
 auf unterschiedlichen Geräten anzubieten. Bequemlichkeit ist eine
@@ -204,9 +205,9 @@ müssen diese Erfordernisse berücksichtigen.
 Lernräume müssen die Bedürfnisse einer vielfältigen Lernendenpopulation
 unterstützen. Wenn man von vornherein auf maximale Inklusivität setzt,
 können später kostspielige Änderungen vermieden werden. Diese
-Anforderungen können, wenn sie z.B. vom Projektleiter nicht vollständig
+Anforderungen können, wenn sie z.B. von der Projektleitung nicht vollständig
 verstanden werden, leicht durch Value-Engineering[^5] umgesetzt werden.
-Neben den Bedürfnissen von Studierenden und Mitarbeitern mit
+Neben den Bedürfnissen von Studierenden und Mitarbeitenden mit
 Behinderungen, muss man auch über die studentische Wahrnehmung des
 Campus als sichere Umgebung und inwieweit er eine einladende und
 angenehme Umgebung für internationale Studierende bietet, nachdenken.
@@ -225,7 +226,7 @@ Wege zu finden, um Studierende in die Planung und Evaluation von
 Raumdesign einzubeziehen ist ein effektiver Weg sicherzustellen, dass
 der Raum Lernen katalysiert. Neben dem einfachen Unterstützen ihres
 Lernens sollten wir auf eine Vision abzielen, dass der Raum inspirierend
-und motivierend für Studierende ist. Eines unserer Hauptziele sollte
+und motivierend für Studierende ist. Eines der Hauptziele sollte
 sein, Studierende zu begeistern.
 
 ---

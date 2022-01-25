@@ -21,7 +21,7 @@ Prinzipien sind greifbarer und wirksamer für Menschen, die sich damit
 beschäftigen wollen". James ist sich darüber im Klaren, dass die
 Strategie im Hinblick auf das, was vor Ort geschieht, Sinn machen muss:
 In Birmingham wird zunehmend Wert auf forschendes und selbständiges
-Lernen gelegt, und James ist der Meinung, dass dieses Toolkit nützlich
+Lernen gelegt, und James ist der Meinung, dass das [UK Toolkit](../Referenzen.md) nützlich
 sein kann, um herauszufinden, wie das in der Praxis aussieht.
 
 **Bruce Rodger, Head of Infrastructure, University of Strathclyde,**
@@ -63,9 +63,9 @@ Lernraumgestaltung".
 University,** hat festgestellt, dass die Schaffung einiger neuer
 sozialer Lernräume die Interaktion zwischen dem Personal und den
 Studierenden verbessert hat. Sally erzählte uns, dass an ihrer
-Universität die meisten akademischen Mitarbeiter in Zwei- bis
+Universität die meisten akademischen Mitarbeitenden in Zwei- bis
 Drei-Personen-Büros arbeiten, so dass es für sie schwierig ist, mit den
-Studierenden in ihrem Büro zu sprechen, da sie befürchten, ihre Kollegen
+Studierenden in ihrem Büro zu sprechen, da sie befürchten, ihre Kollegen/Kolleginnen
 zu stören. Bei der Bewertung der neuen Räume hörte Sally von einem
 Dozenten, der von den neuen Einrichtungen begeistert war, dass sich die
 Interaktion erheblich verbessert hat, während ein Student bemerkte: "Ich
@@ -81,9 +81,9 @@ einen aktiven Lernansatz umzusetzen. Sie arbeitete mit einem
 fantastischen akademischen Vorkämpfer zusammen und hatte von Anfang an
 Studierende eingebunden, was ihr einen sehr guten Einblick in die Lehr-
 und Lernpraxis gab. Diese Erfahrung hat Eleanors Ansichten darüber
-geprägt, wie Universitäten mit Architekten zusammenarbeiten müssen, um
+geprägt, wie Universitäten mit Architekten und Architektinnen zusammenarbeiten müssen, um
 sicherzustellen, dass sie den Bildungskontext verstehen. Sie sieht eine
-Schlüsselrolle für dieses Toolkit darin, Architekten dabei zu
+Schlüsselrolle für das [UK Toolkit](../Referenzen.md) darin, Architekten und Architektinnen dabei zu
 unterstützen, zu sehen, wie sich das Lernen verändert, und auch die
 Auswirkungen der Technologie auf das Lernen der Studenten zu verstehen.
 Ohne diese Art von Unterstützung, so Eleanor, würden Projekte einfach
@@ -95,10 +95,10 @@ zu fragen, welche Fähigkeiten die Studierenden erwerben sollen; wie
 unterstützt die Lehre dies und wie unterstützt der Raum dies? Das zwingt
 einen dazu, über den pädagogischen Ansatz nachzudenken und die Art des
 Raums zu definieren, der die erforderlichen Aktivitäten unterstützen
-kann. Es ist eine gute Möglichkeit, Akademiker einzubinden und zu
+kann. Es ist eine gute Möglichkeit, Hochschulpersonal einzubinden und zu
 zeigen, dass man die richtigen Fragen stellt und ihre Sprache spricht.
-Eleanor empfiehlt: "Es ist entscheidend, einen guten akademischen
-Förderer zu haben. Sie treiben das Projekt voran. Sie konzentrieren sich
+Eleanor empfiehlt: "Es ist entscheidend, gute akademische Unterstützung
+zu haben. Sie treibt das Projekt voran. Sie konzentrieren sich
 auf die Pädagogik und berücksichtigen die Stimme der Studierenden und
 bringen diese ein".
 
