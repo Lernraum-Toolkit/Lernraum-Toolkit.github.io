@@ -16,12 +16,12 @@ Innerhalb von vier Jahren ist die University of Derby von einem, wie
 Simon es nennt, "standing start" zu einer 6 Millionen Pfund teuren
 Investition in neue Lehrräume übergegangen, und der Schlüssel dazu war
 ein partnerschaftlicher Ansatz. Simon war die akademische Stimme und
-arbeitete eng mit der IT und Estates zusammen. In Derby umfasst nun
+arbeitete eng mit der IT und Estates-Abteilung zusammen. In Derby umfasst nun
 jedes Gespräch über Räume jede dieser drei Komponenten.
 
-Simons andere Schlüsselbotschaft dreht sich darum, Mitarbeiter und
+Simons andere Schlüsselbotschaft dreht sich darum, Mitarbeitende und
 Studierende mit digitalen Fähigkeiten auszustatten und deren Bedeutung
-für die Arbeitsmarktfähigkeit der Studenten hervorzuheben. An der
+für die Arbeitsmarktfähigkeit der Studierenden hervorzuheben. An der
 University of Staffordshire wendet er nun all diese Prinzipien an, um
 Innovationen zu fördern und die Lern- und Lehrerfahrung über die gesamte
 Institution hinweg zu verbessern.
@@ -60,12 +60,12 @@ Schritten unternommen, um Barrieren abzubauen und die Kommunikation zu
 verbessern. Das AV-Personal und die Verantwortlichen für die
 Unterstützung der studentischen Arbeitsplätze sind jetzt unter einem
 Dach vereint, was den Dialog und das Verständnis verbessert hat. Zwei
-seiner AV-Mitarbeiter haben Qualifikationen im Bereich Netzwerktechnik
+seiner AV-Mitarbeitenden haben Qualifikationen im Bereich Netzwerktechnik
 absolviert, und er hat auch einen „Modern Apprentice“ (praxisintegrierte
 Ausbildung) als Teil des AV-Teams eingestellt. Er stellte fest, dass es im
 Gegensatz zu Multimedia und IT nur wenige anerkannte Ausbildungsprogramme
 für AV gab, so dass sie typischerweise eine IT-Qualifikation absolvieren
-und diese modifizieren und erweitern müssen, um mehr AV-Fachwissen zu 
+und diese modifizieren und erweitern müssen, um mehr AV-Fachwissen zu
 sammeln. Bruce sagt, dass man bei Lernraumprojekten "von der Vorstellung
 wegkommen muss, dass AV-Leute einfach am Ende reinkommen und Projektoren
 an die Decke schrauben. Wir müssen sicherstellen, dass sie früher als

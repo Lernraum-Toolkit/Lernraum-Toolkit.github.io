@@ -14,35 +14,35 @@ permalink: /docs/2_zusammenarbeit
 
 **In Kürze**
 
--   wir zeigen auf, dass es bei Lernraumprojekten notwendig ist
-    schon relativ früh eine große Breite an Akteuren einzubeziehen
+-   bei Lernraumprojekten ist es notwendig
+    schon relativ früh eine große Breite an Akteuren und Akteurinnen einzubeziehen
 
--   wir diskutieren ein Modell für die Art der Beteiligung, die ein
+-   Modell für die Art der Beteiligung, die ein
     Projekt erreichen will
 
--   wir schauen uns einige Techniken an, um effektive
+-   Überblick über einige Techniken, um effektive
     Stakeholder-Beteiligung zu erreichen
 
 **Erwartungen an die Lektüre dieses Abschnitts**
 
 Fachleute, die mit der Leitung eines Lernraumprojektes beauftragt sind,
-müssen unter Umständen mit einer Reihe von Interessensvertretern aus
+müssen unter Umständen mit einer Reihe von Stakeholdern aus
 verschiedenen funktionalen Bereichen zusammenarbeiten, die außerhalb
-ihrer täglichen Arbeitspraxis liegen. Dieses Toolkit konzentriert sich
-darauf, denjenigen, die für die Verwaltung der Hochschulgebäude, der 
+ihrer täglichen Arbeitspraxis liegen. Das UK Toolkit konzentriert sich
+darauf, denjenigen, die für die Verwaltung der Hochschulgebäude, der
 IT-Infrastruktur und der audiovisuellen Technik verantwortlich sind,
-dabei zu helfen, effektiv zusammenzuarbeiten. Dennoch muss für ein
-erfolgreiches Projekt ein viel breiteres Spektrum von Akteuren
+dabei zu helfen, effektiv zusammenzuarbeiten. Dennoch muss man für ein
+erfolgreiches Projekt ein viel breiteres Spektrum von Akteuren und Akteurinnen
 einbeziehen.
 
-Jeder dieser Akteure bringt möglicherweise unterschiedliche Ansichten
+Jeder Beteiligte bringt möglicherweise unterschiedliche Ansichten
 über das Projekt mit und diese zu verstehen und abzugleichen braucht
 Zeit. Der große Wunsch, Fristen und ein begrenztes Budget einzuhalten,
-kann Projektleiter dazu veranlassen, den (Um-)Bau voran zu treiben und
+kann Projektleitungen dazu veranlassen, den (Um-)Bau voran zu treiben und
 noch ausstehende Fragen später klären zu wollen. Dieser Abschnitt soll
 aufzeigen, wie wichtig es ist sicherzustellen, dass Stimmen von
-Stakeholdern, wie Wissenschaftlern, Studierenden und
-Supportmitarbeitern, von Anfang an gehört und bedacht werden um
+Stakeholdern, wie Wissenschaftlichem Personal, Studierenden und
+Support-Personal, von Anfang an gehört und bedacht werden um
 kostspielige Fehler zu vermeiden.
 
 Vorschläge im Einzelnen:
@@ -51,7 +51,7 @@ Vorschläge im Einzelnen:
     Beteiligung von Interessengruppen anstreben, statt nur symbolisch
     Informationen weiter zu geben.
 
--   Designer sollten darauf achten kreative Denkprozesse anzuregen, wenn
+-   Designer/-innen sollten darauf achten kreative Denkprozesse anzuregen, wenn
     wir davon weg kommen wollen einfach neue Versionen von Dingen zu
     erschaffen, die wir schon haben.
 

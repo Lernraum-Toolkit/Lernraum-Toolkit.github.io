@@ -7,12 +7,12 @@ nav_order: 2
 # 2.2 Partizipation managen 
 
 Es ist wichtig, festzulegen welchen Grad an Beteiligung das Projekt für
-jede Stakeholder Gruppe anstrebt, um eine effektive Strategie zur
+jede Stakeholder-Gruppe anstrebt, um eine effektive Strategie zur
 Gewährleistung dieser Partizipation zu entwickeln und umzusetzen. Ein
 hilfreicher Ausgangspunkt ist das Konzept einer
 Partizipationsleiter[^1], welches breit eingesetzt und für viele
 Kontexte angepasst wurde, seit es zum ersten Mal von 1969 von Arnstein
-eingeführt wurde. Die vereinfachte Version wurde adaptiert aus Arbeiten
+eingeführt wurde. Die vereinfachte Version aus dem [UK Toolkit](../Referenzen.md) wurde adaptiert aus Arbeiten
 an der Birmingham City University.
 
 ![Abbildung 2](images/image1.png)
@@ -27,7 +27,7 @@ Partizipation abzuzielen. Ein Lernraumprojekt erfordert einen Grad an
 zentraler Koordination, das bedeutet, es wäre unrealistisch zu erwarten,
 dass Stakeholder die volle Verantwortung für das Projekt übernehmen und
 sich selbst organisieren. Auf der anderen Seite, ist die Beteiligung der
-Interessensvertreter von großer Bedeutung für den Erfolg des Projektes
+Interessensvertretungen von großer Bedeutung für den Erfolg des Projektes
 und es ist wichtig „Alibipolitik“ zu vermeiden, bei der Stakeholder nur
 über schon getroffene Entscheidungen informiert werden oder bei der das
 Projektteam keine ausreichend breite Menge von Sichtweisen hört oder
@@ -51,14 +51,14 @@ Stakeholdern machen will.
 | 1\. Notify (Benachrichtigen)     | Stakeholder sind passive Empfänger von (größtenteils kontextlosen) Informationen                                                                                     | Statische Webseite, zur Verfügung gestellte Protokolle, ungezielte Öffentlichkeitsarbeit |
 
 Auch sollte man nicht unterschätzen, dass die Logistik eine
-gewinnbringende Partizipation von Stakeholdern unterstützen kann. Das US
-Toolkit schlägt dafür u.a. vor, Räumlichkeiten für Workshops so
+gewinnbringende Partizipation von Stakeholdern unterstützen kann. Das
+[US Toolkit](../Referenzen.md) schlägt dafür u.a. vor, Räumlichkeiten für Workshops so
 auszuwählen und auszustatten, dass sie für die Workshop-Aktivitäten
 geeignet sind (Whiteboard, Marker). Veranstaltungsorte sollten mit
 geeigneter Veranstaltungstechnik ausgestattet, um die Sitzung zu
 unterstützen. Essen (Catering) ist eine simple Möglichkeit, um für die
 Teilnahme zu motivieren. Frühstücks- und Mittagsverpflegung während der
-Sitzungen sind eine gute Möglichkeit, die Zeit der Teilnehmer zu
+Sitzungen sind eine gute Möglichkeit, die Zeit der Teilnehmenden zu
 maximieren und Gemeinschaft aufzubauen.
 
 ---

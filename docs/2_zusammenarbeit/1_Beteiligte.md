@@ -12,9 +12,9 @@ die Struktur dieses Ökosystems in etwa so aus:
 
 | | |
 |------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Strategieebene | Eine Lernraumstrategie, die auf fundierten, pädagogischen Prinzipien basiert, mit der Lern- und Lehrstrategie verbunden ist und idealerweise auch in die Gebäude und Flächenstrategien eingebettet ist. Ein akademischer Leiter, der sich für jedes Einzelprojekt einsetzt. |
-| Management-ebene | Die zentrale Fachabteilung, die für die Durchführung der Einzelprojekte verantwortlich sein werden.                                                                                                                                                                                       |
-| Anwender-ebene   | Einzelne Wissenschaftler/Dozenten und Studierende, die an Arbeitsgruppen o.ä. für Einzelprojekte teilnehmen und die letztendlich die Nutzer des Raums sind. Supportpersonal, das Serviceangebote in oder für den Lernraum anbietet.                                                       |
+| Strategieebene | Eine Lernraumstrategie, die auf fundierten, pädagogischen Prinzipien basiert, mit der Lern- und Lehrstrategie verbunden ist und idealerweise auch in die Gebäude und Flächenstrategien eingebettet ist. Eine akademische Leitung, die sich für jedes Einzelprojekt einsetzt. |
+| Management-ebene | Die zentrale Fachabteilung, die für die Durchführung der Einzelprojekte verantwortlich ist.                                                                                                                                                                                       |
+| Anwender-ebene   | Einzelne Forschende/Dozierende und Studierende, die an Arbeitsgruppen o.ä. für Einzelprojekte teilnehmen und die letztendlich die Nutzenden des Raums sind. Supportpersonal, das Serviceangebote in oder für den Lernraum anbietet.                                                       |
 
 In diesen Begriffen zu denken ist ein Ausgangspunkt um herauszufinden
 wer einbezogen werden sollte, obwohl die vereinfachte Struktur nicht
@@ -23,7 +23,7 @@ eine Lernraumprojekt enthält diejenigen, die eine Rolle spielen bei:
 
 -   Lernen/Raumnutzung, oft über einen gesamten Tag hinweg
 
--   Akademische Führung (entweder disziplinspezifisch oder auf
+-   Akademische Leitung (entweder disziplinspezifisch oder auf
     allgemeine Räume bezogen)
 
 -   Lehren oder eine Art von angeleitetem Lernen in dem Raum
@@ -51,7 +51,7 @@ eine Lernraumprojekt enthält diejenigen, die eine Rolle spielen bei:
 
 -   Finanzierung des Projektes und laufender Kosten
 
--   das Projekt als externer Spezialist unterstützen
+-   das Projekt mit externem Spezialwissen unterstützen
 
 -   Veranstaltungen und Konferenzen
 
@@ -59,10 +59,10 @@ eine Lernraumprojekt enthält diejenigen, die eine Rolle spielen bei:
     Karrieremessen)
 
 Hierzu ergänzend eine Übersicht verschiedener Stakeholder-Gruppen aus
-dem US-amerikanischen Toolkit. Stakeholder-Gruppen umfassen
+dem [US-amerikanischen Toolkit](../Referenzen.md). Stakeholder-Gruppen umfassen
 institutionelle Projekteigner (project owner), das Design/Programm Team,
-Beratergruppen/-ausschüsse, zukünftige Nutzergruppen, Ausschüsse (z.B.
-Fakultätssenat), Campusexperten für bestimmte Themen (z.B. Dekanat für
+Beratungsgruppen/-ausschüsse, zukünftige Nutzendengruppen, Ausschüsse (z.B.
+Fakultätssenat), Campusexperten und -expertinnen für bestimmte Themen (z.B. Dekanat für
 Lehre), aber auch externe Gruppen wie Regierungsbehörden.
 
 **Projekteigner -** initiieren, verwalten und liefern das Projekt aus,
@@ -72,10 +72,10 @@ Projekts nach Fertigstellung.
 | Stakeholder                                                                                                                                               | Ziel(e)                                                                                                                                              | Tätigkeiten                                                                                                                                                                                                                                                                                                                          |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Projektführung (Projektsponsor)                                                                                                                           | Sicherstellen, dass die Projektergebnisse mit Mission, Plänen und Betrieb der Einrichtung übereinstimmen und/oder diese voranbringen.                | Aufsicht, wichtige Anweisungen und Input für Planung/Design liefern. Gesamt-Zeitplan und Budget, sowie Personal und Ressourcen zum Betrieb des Projektes nach Fertigstellung bewilligen. Können sich mit Problemen und Änderungen innerhalb der Bauphase befassen.                                                                   |
-| Lenkungs- oder Bauausschuss (inklusive Führungspersonal der Universitätsverwaltung, Gebäudeplanung, Bibliotheks- und Studierendenservices und Lehrkörper) | Durch Aufsicht und Management den Projekt-Stakeholder ermöglichen, ihre Rollen und Verantwortlichkeiten wahrzunehmen                                 | Stellen fortlaufend Input und Hinweisen bereit, während sie gleichzeitig als zentrale Sammelstelle von Informationen und Input auf dem Campus dienen. Projektakteure verbinden und als Projektrepräsentant gegenüber anderen Gruppen innerhalb und außerhalb der Einrichtung handeln. Personal- und Ressourcenentscheidungen leiten. |
-| Gebäude-/Anlagenplanung des Campus, typischerweise auch Projektmanagement                                                                                 | Ein zeit- und budget-gerechtes Projekt liefern. Raumprobleme, wie z.B. Planungsbedingungen, Standort / Kontextabwägungen und operative Dinge managen | Projektbudget und Zeitplan setzen; Designteam und/oder Berater auswählen; Designprüfungen leiten; und Ausschreibungen, Designgenehmigungsverfahren, Bauadministration und Projektabschluss beaufsichtigen                                                                                                                            |
+| Lenkungs- oder Bauausschuss (inklusive Führungspersonal der Universitätsverwaltung, Gebäudeplanung, Bibliotheks- und Studierendenservices und Lehrkörper) | Durch Aufsicht und Management den Projekt-Stakeholder ermöglichen, ihre Rollen und Verantwortlichkeiten wahrzunehmen                                 | Stellen fortlaufend Input und Hinweisen bereit, während sie gleichzeitig als zentrale Sammelstelle von Informationen und Input auf dem Campus dienen. Projektbeteiligte verbinden und als Projektvertretung gegenüber anderen Gruppen innerhalb und außerhalb der Einrichtung handeln. Personal- und Ressourcenentscheidungen leiten. |
+| Gebäude-/Anlagenplanung des Campus, typischerweise auch Projektmanagement                                                                                 | Ein zeit- und budget-gerechtes Projekt liefern. Raumprobleme, wie z.B. Planungsbedingungen, Standort / Kontextabwägungen und operative Dinge managen | Projektbudget und Zeitplan setzen; Designteam und/oder Beratende auswählen; Designprüfungen leiten; und Ausschreibungen, Designgenehmigungsverfahren, Bauadministration und Projektabschluss beaufsichtigen                                                                                                                            |
 | Betrieb und Aufrechterhaltung von Einrichtungen                                                                                                           | Zu einem optimal funktionierenden Lernraum beitragen                                                                                                 | Allgemeine Campus-Dienstleistungen (z.B. Café, Post) betreiben und Gebäudesysteme und -bedingungen unterhalten                                                                                                                                                                                                                       |
-| Campusarchitekt                                                                                                                                           | Sicherstellen, dass das Design mit der Campus Vision, Planungen und Standards übereinstimmt                                                          | Zu Themen wie Standort / Kontext, Abgleich mit anderen Plänen und Initiativen und Befolgen von Campus-Richtlinien und Standards beraten und Design darauf prüfen. Können in die Auswahl der Designer und Auswahl/Genehmigung von Möbeln involviert sein.                                                                             |
+| Campusarchitekt/-in                                                                                                                                           | Sicherstellen, dass das Design mit der Campus Vision, Planungen und Standards übereinstimmt                                                          | Zu Themen wie Standort / Kontext, Abgleich mit anderen Plänen und Initiativen und Befolgen von Campus-Richtlinien und Standards beraten und Design darauf prüfen. Können in die Auswahl des Design-Teams und Auswahl/Genehmigung von Möbeln involviert sein.                                                                             |
 
 **Design / Programm Team -** einen integrierten Design-Plan für Raum,
 Technologie und Service liefern, der so gut wie möglich auf
@@ -84,11 +84,11 @@ Projektziele, Zeitplan, Budget und Designanforderungen abgestimmt ist
 | Stakeholder                                                                                                          | Ziel(e)                                                                                                | Tätigkeiten                                                                                                                                                                                                                                           |
 |----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Design Team                                                                                                          | Designlösungen entwerfen, die Projektziele und Vision, sowie Raum, Technologie und Servicebedarf deckt | Übertragen von Input und Untersuchungen in Programmgestaltung, Designkonzepte und Pläne. Ausarbeiten von Gebäudetechnik (strukturell, mechanisch, elektrisch, sanitäre und Brandschutzanlagen), Grundrissen und Innenräumen                           |
-| Planungsberater                                                                                                      | Stakeholder durch einen sinnvollen Planungsprozess einbinden und leiten                              | Planungs- und Strategieinformationen und fachkundige Anleitung zur Unterstützung der Planung, einschließlich Raumplanung, Budgetierung/ Kostenschätzungen, Betriebsplanung, Service Design, Markenbildung, Beteiligung/Ermöglichung und Kommunikation |
-| Technische Berater                                                                                                   | Exzellenz in technischen Bereichen wie Umgebungsbedingungen, Nachhaltigkeit, Usability ermöglichen     | Technische Informationen und Expertise in spezifischen Bereichen wie Akustik, Beleuchtung, audiovisuellen Fragen, Wegweiser, Energieeffizienz, Nachhaltigkeit, Lagerung und Zugänglichkeit liefern                                                    |
-| Technologie Team: Campus IT, Abteilungs-IT, Audio/Video IT Consultants, AV Monteure, Hersteller/ Ausrüstungsanbieter | Technologiepläne und -spezifikationen liefern                                                          | Siehe dazu Technologiepartner im [Kapitel Lerntechnologien](../5_Lerntechnologien/0_Lerntechnologien.md) für detaillierte Beschreibung und Tätigkeiten                                                                                                                     |
+| Planungsberatung                                                                                                      | Stakeholder durch einen sinnvollen Planungsprozess einbinden und leiten                              | Planungs- und Strategieinformationen und fachkundige Anleitung zur Unterstützung der Planung, einschließlich Raumplanung, Budgetierung/ Kostenschätzungen, Betriebsplanung, Service Design, Markenbildung, Beteiligung/Ermöglichung und Kommunikation |
+| Technische Beratung                                                                                                   | Exzellenz in technischen Bereichen wie Umgebungsbedingungen, Nachhaltigkeit, Usability ermöglichen     | Technische Informationen und Expertise in spezifischen Bereichen wie Akustik, Beleuchtung, audiovisuellen Fragen, Wegweiser, Energieeffizienz, Nachhaltigkeit, Lagerung und Zugänglichkeit liefern                                                    |
+| Technologie Team: Campus IT, Abteilungs-IT, Audio/Video IT Consultants, AV Installation, Hersteller/ Ausrüstungsanbieter | Technologiepläne und -spezifikationen liefern                                                          | Siehe dazu Technologiepartner/-innen im [Kapitel Lerntechnologien](../5_Lerntechnologien/0_Lerntechnologien.md) für detaillierte Beschreibung und Tätigkeiten                                                                                                                     |
 
-**Nutzergruppen -** Nutzerperspektiven liefern beim Festlegen von
+**Nutzendengruppen -** Nutzendenperspektiven liefern beim Festlegen von
 Projektzielen, Anforderungen und Prioritäten. Eine
 Gemeinschaft/Community um das Projekt herum etablieren, um Unterstützung
 zu bekommen. Dabei helfen, das Projekt in zukünftigen Erhebungen zu
@@ -97,10 +97,10 @@ evaluieren.
 | Stakeholder                               | Ziel(e)                                                                              | Tätigkeiten                                                                                                                                                                                                          |
 |-------------------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Beratungsausschuss                        | Input aus zusätzlichen Perspektiven liefern                                          | Input aus einer Außenperspektive liefern um sicher zu stellen, dass das Projekt sich auf Grundlage bewährter Praktiken und in Übereinstimmung mit übergeordneten Plänen und institutionellen Bestrebungen entwickelt |
-| Studierendenvertretung und Fakultätssenat | Sicherstellen, dass das Design die Vielfältigkeit von Nutzerbedürfnissen abdeckt | Input aus der Sicht von Gebäudenutzern liefern und eine Abstimmung des Projektes mit größerem Campusbedarf und –zielen ermöglichen                                                                                   |
+| Studierendenvertretung und Fakultätssenat | Sicherstellen, dass das Design die Vielfältigkeit von Nutzerbedürfnissen abdeckt | Input aus der Sicht von Gebäudenutzenden liefern und eine Abstimmung des Projektes mit größerem Campusbedarf und –zielen ermöglichen                                                                                   |
 | Studierende und Lehrkörper                | Entwicklung eines Lernraums unterstützen, der ihren Bedarf abdeckt               | Input aus persönlicher Sicht liefern                                                                                                                                                                                 |
 
-**Spezialisten -** liefern Input und Informationen für spezifischen
+**Fachleute -** liefern Input und Informationen für spezifischen
 Bedarf und Ansprüche, wenden campus-spezifische Erkenntnisse, Best
 Practices und technische Expertise zu Raum-, Service- und
 Technologieplanung an.
@@ -117,7 +117,7 @@ Diese Auflistung macht einen entscheidenden Punkt deutlich: die Komplexität von
 Lernraumprojekt erfordert einen Teamansatz und das bedeutet
 funktionsübergreifendes Arbeiten von akademischem Personal mit
 unterstützenden Diensten und die aktive Teilnahme von Lernenden selbst.
-Für viele der Akteure wird dies die erste Erfahrung mit dieser Art von
+Für viele der Beteiligten wird dies die erste Erfahrung mit dieser Art von
 Projekt sein (ein Neubau oder Umbau ist oft eine einmalige Sache im
 Berufsleben) und jedes Projekt ist einzigartig. Effektive Zusammenarbeit
 mit all diesen Stakeholdern ist entscheidend für den Erfolg des
@@ -132,7 +132,7 @@ Projektunterstützer identifizieren, um die Idee voranzutreiben; ein Team
 zusammenstellen, das sich aktiv einbringt und sicherstellen, dass es
 eine Ausweichlösung/Plan gibt.
 
-Eine Reihe von Mitwirkenden an diesem Toolkit äußerten, dass AV und IT
+Eine Reihe von Mitwirkenden am [UK Toolkit](../Referenzen.md) äußerten, dass AV und IT
 Leute häufig zu spät einbezogen werden. Eleanor Magennis ist auf jeden
 Fall der Ansicht, dass sie früher involviert werden sollten und das
 Timing ihrer Einbindung davon abhängt, ob es ein Umbau oder Neubau ist:
@@ -146,7 +146,7 @@ Eine gemeinsame Sprache ist nötig, damit, wenn ein flexibler Raum
 entwickelt wird, jeder in diesem Kontext die gleiche Definition von
 Flexibilität hat und versteht.
 
-Dies sind einige Dinge, die uns Toolkit Mitwirkende über Zusammenarbeit
+Dies sind einige Dinge, die Mitwirkende des [UK Toolkit](../Referenzen.md) über Zusammenarbeit
 und umfassenderes Einbeziehen von Stakeholdern berichtet haben:
 
 -   Eine Herausforderung vieler Stakeholder besteht einfach darin, an

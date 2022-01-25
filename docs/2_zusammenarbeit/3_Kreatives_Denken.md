@@ -7,20 +7,20 @@ nav_order: 3
 
 # 2.3 Kreatives Denken für eine andere Zukunft
 
-Einer der schwierigsten Aspekte für viele Akteure in einem
-Lernraumprojekt ist es, sich Räume vorzustellen, die sich sehr von denen
+Einer der schwierigsten Aspekte für viele Beteiligte eines
+Lernraumprojekts ist es, sich Räume vorzustellen, die sich sehr von denen
 unterscheiden, in denen sie unterrichtet wurden oder einen Großteil
 ihres Arbeitslebens verbracht haben. Es ist einfach sich existierende
 Räume vorzustellen, die heller und besser möbliert sind, aber
 schwieriger einen Plan für eine radikal andere Art von Lernerlebnis zu
-entwickeln. Dies kann genauso für Architekten gelten, deren Erfahrung
+entwickeln. Dies kann genauso für Architekten und Architektinnen gelten, deren Erfahrung
 mit Hochschulbildung möglicherweise relativ traditionell war: sie können
 architektonisch stimulierende Gebäude entwerfen, brauchen aber eine
-Menge Input von Mitarbeitern und Studierenden damit diese als Lernräume
+Menge Input von Mitarbeitenden und Studierenden damit diese als Lernräume
 des 21. Jahrhunderts funktionieren. Bruce Rodger, Head of
 Infrastructure, University of Strathclyde, betont die Notwendigkeit der
 Institution, über ihre eigene Vision und was sie erreichen will,
-nachzudenken bevor sie externe Berater hinzuzieht: „Manchmal werden
+nachzudenken bevor sie externe Beratung hinzuzieht: „Manchmal werden
 Architekten etwas zu früh im Prozess eingebunden. Wir müssen sorgfältig
 über die wesentlichen Nutzungen des Raumes nachdenken, bevor
 Designkonzepte in Stein gemeißelt werden.“
@@ -43,13 +43,13 @@ Wohnzimmer. An der University of Birmingham wurde die Metapher eines
 durch ein Gebäude wachsenden Baums genutzt um Ideen anzuregen, die das
 Innere nach draußen tragen und das Äußere nach innen. An der
 Loughborough University enthielt der Beratungsprozess für den Design
-School Hörsaal einen Workshop, bei dem Teilnehmer mit Hilfe von
+School Hörsaal einen Workshop, bei dem Teilnehmenden mit Hilfe von
 Knetmasse eine Metapher entwickelten.
 
 Ein Beispiel zur Nutzung einer Metapher, angelehnt an die Arbeit von
 [Martin (2010)](../Referenzen.md) über Kreativität:
 
-Lade Stakeholder dazu ein, über eine passende Metapher für den Lernraum
+Stakeholder dazu einladen, über eine passende Metapher für den Lernraum
 nachzudenken und die Art der Aktivitäten aufzulisten, die ihnen dazu
 einfallen. Z.B. könnten sie einen Garten wählen und Dinge auflisten, die
 man mit einem Garten tun kann, wie z.B.
@@ -118,15 +118,15 @@ ihr Interesse zu wecken.“ Matt empfand es als relativ leicht die Leute
 dazu zu bringen, sich mit den Ideen auf Pinterest auseinanderzusetzen,
 weil sie sich raussuchen können, ob sie das Material einfach passiv
 aufnehmen oder teilnehmen und Beiträge von anderen bewerten wollen. Die
-Verwendung dieses Tools bot der „Estates“ Abteilung neue Möglichkeiten,
-Anforderungen zu betrachten, um diese besser den Architekten
+Verwendung dieses Tools bot der Bauabteilung neue Möglichkeiten,
+Anforderungen zu betrachten, um diese besser den Architekten/-innen
 kommunizieren zu können.
 
-Viele Leute finden Pläne von Architekten schwer zu verstehen und haben
+Viele Leute finden Pläne von Architekten/-innen schwer zu verstehen und haben
 Schwierigkeiten sich vorzustellen, wie der Raum in Wirklichkeit aussehen
 könnte. Das bedeutet, dass es wichtig ist schon in einem frühen Stadium
 eine leicht verständliche visuelle Repräsentation zu haben. Fortschritte
-in digitaler Technologie ermöglichen es Architekten viel leichter früher
+in digitaler Technologie ermöglichen es Architekten/-innen viel leichter früher
 im Projekt 3D Visualisierungen produzieren zu können.  
 
    
