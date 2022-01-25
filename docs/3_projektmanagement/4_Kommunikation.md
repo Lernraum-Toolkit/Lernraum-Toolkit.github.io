@@ -10,7 +10,7 @@ nav_order: 4
 Es ist wichtig, sicherzustellen, dass von Anfang an gute
 Kommunikationskanäle aufgebaut und aufrechterhalten werden, um zu
 gewährleisten, das Schlüssel-Stakeholder informiert werden und
-einbezogen bleiben. Der US Toolkit stellt dabei besonders folgende
+einbezogen bleiben. Der [US Toolkit](../Referenzen.md) stellt dabei besonders folgende
 Punkte heraus, die man für eine effektive Kommunikation über die gesamte
 Planung eines Lernraums hinweg beachten sollte:
 
@@ -23,7 +23,7 @@ Planung eines Lernraums hinweg beachten sollte:
     wissen lassen, was aus ihren Vorschlägen hervorgeht, und Feedback
     zur geleisteten Arbeit sammeln.
 
--   Während des gesamten Prozesses **Kanäle für Nutzerbeiträge mit
+-   Während des gesamten Prozesses **Kanäle für Nutzendenbeiträge mit
     verschiedenen Zugangsmöglichkeiten** einrichten, um die
     unterschiedlichen Interessen zueinander zu bringen und Konsens zu
     erreichen - z.B. interaktive Projekt-Website, Community-Seite auf
@@ -56,8 +56,8 @@ und Beteiligung.
 | Projektwebseite                                              | Zentrale Informationsressource über das Projekt inklusive Hintergrundinformation und aktualisiertem Fortschritt. Kann Links zu Dokumentation der Planung, Referenzen, Blogs, Wikis, etc. enthalten | Classroom Technology Upgrade Project der University of Arizona [(Link zu Preview auf learningspacetoolkit.org)](https://learningspacetoolkit.org/university-of-arizona-classroom-technology-upgrade-project-preview/index.html)                |
 | Projektblog                                                  | Ressource um laufenden Fortschritt zu veröffentlichen und um Rückmeldung und Kommentare der Öffentlichkeit einzuholen                                                                              | Noel Studio for Academic Creativity der Eastern Kentucky University [(Link zu Preview auf learningspacetoolkit.org)](https://learningspacetoolkit.org/noel-studio-for-academic-creativity-at-eastern-kentucky-university-example/index.html) |
 | Projektwiki                                                  | Ressource um laufenden Fortschritt zu veröffentlichen mit einem Schwerpunkt auf dem Mitwirken der Öffentlichkeit und dem Aufbau einer kumulativen Ressource / Geschichte                 | NC State University SCALE-Up Initiative [(Link zu Preview auf learningspacetoolkit.org)](https://learningspacetoolkit.org/nc-state-university-scale-up-initiative-example/index.html)                                                       |
-| Mitarbeiter-versammlung                                      | Als eingeladene Veranstaltung kann sie eine Möglichkeit sein, Informationen an alle zu vermitteln                                                                                                  |                                                                                                                                                                                              |
-| Review Workshops mit Studierenden, Dozenten und Mitarbeitern | Mechanismus um Input im Verlauf des Projekts zu bekommen und das Projekt in den Köpfen der Leute zu halten                                                                                         |                                                                                                                                                                                              |
+| Mitarbeitenden-versammlung                                      | Als eingeladene Veranstaltung kann sie eine Möglichkeit sein, Informationen an alle zu vermitteln                                                                                                  |                                                                                                                                                                                              |
+| Review Workshops mit Studierenden, Lehrkräften und Mitarbeitenden | Mechanismus um Input im Verlauf des Projekts zu bekommen und das Projekt in den Köpfen der Leute zu halten                                                                                         |                                                                                                                                                                                              |
 | Email                                                        | Wie persönliche Treffen, ein „push“ Kommunikationsmittel um sicherzustellen, dass alle einen gewissen Wissensstand über den Status des Projektes haben.                                            |                                                                                                                                                                                              |
 
 **Externe Kommunikation**

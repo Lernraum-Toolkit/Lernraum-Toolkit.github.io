@@ -39,7 +39,7 @@ festzulegen, ob ein Neubau oder eine Umgestaltung die angemessenste
 Lösung ist. Hinweise zu Tools zur Abwägung von Optionen finden sich im
 [Ressourcen-Abschnitt](../ressourcen).
 
-Eine Reihe von Mitwirkenden des Toolkit haben angemerkt, dass es sich –
+Eine Reihe von Mitwirkenden des [UK Toolkit](../Referenzen.md) haben angemerkt, dass es sich –
 wenn Investitionsentscheidungen bezüglich Renovierungen anstehen –
 möglicherweise nicht immer auszahlt, den schlechtesten Raum zuerst
 anzugehen. Zehn Räume mit kleineren Problemen zu modernisieren, könnte
@@ -52,7 +52,7 @@ College London (UCL), berichtet “Renovierung an der UCL könnte genauso
 gut ein Neubau sein. Viele Räume werden bis auf ein paar Pfeiler und
 Betonplatten zurückgebaut.“
 
-Der US Learning Space Toolkit gibt Hinweise zum Setzen realistischer
+Der [US Learning Space Toolkit](../Referenzen.md) gibt Hinweise zum Setzen realistischer
 Ziele und Erwartungen:
 
 -   Die **Projekterwartungen in Bezug auf Qualität und Quantität mit dem
@@ -97,10 +97,11 @@ Designfragen, Barrieren und Möglichkeiten auseinanderzusetzen, ist sehr
 viel nützlicher, als zu versuchen, Designentscheidungen um einen Tisch
 auf einem Papierplan zu treffen.
 
-Dieser Toolkit betont Kreativität und Innovation im Lernraumdesign
+Ein wichtiges Thema ist Kreativität und Innovation im Lernraumdesign
 (siehe dazu Kapitel 1, [Eine neue Pädagogik schaffen](../1_paedagogik/0_paedagogik.md),
-und Kapitel 2, [Partnerschaftliche Zusammenarbeit](../2_zusammenarbeit/0_zusammenarbeit.md)). Er ist auch für
-vielbeschäftigte Praktiker entstanden, um ihnen zu helfen, nutzbare und
+und Kapitel 2, [Partnerschaftliche Zusammenarbeit](../2_zusammenarbeit/0_zusammenarbeit.md)).
+Das [UK Toolkit](../Referenzen.md) ist auch für
+vielbeschäftigte Leute aus der Praxis entstanden, um ihnen zu helfen, nutzbare und
 effektive Räume zu gestalten, und betont die Wichtigkeit anerkannte
 Standards für den Entwurf anzuwenden (siehe dazu v.a. die Abschnitte zu
 [funktionalen Raumdesignstandards](../4_Gestaltung/4_Raumstandards.md),
@@ -108,13 +109,13 @@ Standards für den Entwurf anzuwenden (siehe dazu v.a. die Abschnitte zu
 und [IT Standards](../4_Gestaltung/10_IT.md)).
 
 Es zahlt sich aus, die Designideen mit einer Reihe von Realitätschecks
-zu prüfen (siehe später in diesem Abschnitt). Architekten und
-spezialisierte Berater unterstützen dabei, aber es zahlt sich auch aus,
+zu prüfen (siehe später in diesem Abschnitt). Architekten/-innen und
+spezialisierte Berater/-innen unterstützen dabei, aber es zahlt sich auch aus,
 Leute mit lokalem Know-how einzubeziehen.
 
-Der US Learning Space Toolkit weist zusätzlich darauf hin, dass es
+Der [US Learning Space Toolkit](../Referenzen.md) weist zusätzlich darauf hin, dass es
 wichtig ist, einen iterativen Ansatz einzuplanen und sich immer wieder
-Feedback durch Benutzer einzuholen. Bei einem iterativen Ansatz erhält
+Feedback durch Benutzende einzuholen. Bei einem iterativen Ansatz erhält
 man immer wieder Feedback und kann die Ideen im Laufe der Zeit
 verfeinern. Dabei sollte man sich bewusst sein, dass man möglicherweise
 fließend zwischen dem Herausarbeiten der zu lösenden Probleme und der
@@ -138,17 +139,17 @@ verantwortlichen Person zur Kommunikation von Entscheidungen und
 Informationen an die Auftragnehmer braucht. Effektive Mechanismen zur
 Änderungskontrolle sind in dieser Phase sehr wichtig. Obwohl in dieser
 Phase wahrscheinlich eher allgemeines Verwaltungspersonal und andere
-Fachleute als Nutzer der Räume involviert sind, ist es wichtig effektive
+Fachleute als Nutzende der Räume involviert sind, ist es wichtig effektive
 Kommunikation beizubehalten, v.a., wenn unvorhergesehene Probleme zu
 Änderungen im ursprünglichen Design führen. Angemessenes Einbeziehen von
-Schlüsselnutzern des Raum kann auch dabei helfen, „Snagging“ zu
+Schlüsselnutzenden des Raum kann auch dabei helfen, „Snagging“ zu
 minimieren. Snagging bedeutet Defekte, die repariert werden müssen, erst
 am Ende eines Bauprojektes zu identifizieren – frühe Identifizierung von
 Problemen kann ihre Lösung oft vereinfachen.
 
 **Aneignungs-/Betriebsphase (Stadium 7)**
 
-Der Tag an dem sich die ersten Nutzer in den Raum bewegen ist ein
+Der Tag an dem sich die ersten Nutzenden im Raum bewegen ist ein
 wichtiger Meilenstein, der gefeiert werden sollte, kennzeichnet aber
 wahrscheinlich nicht das Ende des Projektes. Eine effektive
 Post-Occupancy Evaluation ist notwendig um sicherzustellen, dass der
@@ -171,7 +172,7 @@ Nachhinein auf höhere Auslastung ausgelegte Anlagen eingebaut.“
 
 **Tool**
 
-Ein Tool aus dem US Learning Space Toolkit, das genutzt werden kann, um
+Ein Tool aus dem [US Learning Space Toolkit](../Referenzen.md), das genutzt werden kann, um
 sich in der Planung mit den verschiedenen Projektphasen
 auseinanderzusetzen ist die „Process Map“ (Prozessvisualisierung). Sie
 stellt Phasen, Aktivitäten, Teilnehmer und Entscheidungen / Ergebnisse
@@ -185,8 +186,8 @@ Operation/Assessment (in etwa Betriebsphase). Danach stellt es einige
 typische Aktivitäten jeder Phase exemplarisch dar, wie etwa regelmäßige
 Projektleitungstreffen. Es schlägt auch vor, welche 4 Arten von
 Stakeholdern in welche Aktivitäten involviert sein sollten:
-Leitungsausschuss, Design / Programm Team, Nutzergruppen und
-Campusspezialisten wie IT, Dekanat für Lehre und Lernen, Gebäudemanagement
+Leitungsausschuss, Design / Programm Team, Nutzendengruppen und
+Campusfachleute wie IT, Dekanat für Lehre und Lernen, Gebäudemanagement
 und Bibliotheken. Für jede Phase gibt es auch Vorschläge für zu erreichende
 Ergebnisse und zu fällende Entscheidungen. Institutionen können diese
 Informationen nutzen, um den Prozess so zu strukturieren, wie es am

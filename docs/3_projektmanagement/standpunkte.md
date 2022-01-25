@@ -41,7 +41,7 @@ Verfügung stehen, immer begrenzter werden. Wie sie es ausdrückte: "Man
 fängt bei Stufe null an, und denkt, Schweine könnten fliegen, und bei
 Stufe fünf wird einem klar, dass es nicht passieren wird, weil man keine
 Flügel an Schweine nageln kann. Für das Projektmanagement bedeutet dies,
-dass die Menschen genau wissen müssen, welche Autoritäts- und
+dass die Leute genau wissen müssen, welche Autoritäts- und
 Entscheidungslinien es gibt (wobei zu bedenken ist, dass dies bei jedem
 Projekt anders ist). Sie müssen wissen, wie sie um Änderungen des
 Projektauftrages bitten können und wann vernünftigerweise zu erwarten
@@ -60,7 +60,7 @@ RIBA-Terminologie möglicherweise nicht für alle Interessengruppen sehr
 aussagekräftig sind und dass eine zu starke Betonung der Gebäudestruktur
 dazu führen könnte, dass Projektteams andere relevante Perspektiven
 übersehen. Sally gibt sich Mühe, auf die Bandbreite des Engagements der
-Akteure und der Fähigkeiten im Bereich des Veränderungsmanagements
+Beteiligten und der Fähigkeiten im Bereich des Veränderungsmanagements
 hinzuweisen, die erforderlich sind, um diese Art von Projekten
 erfolgreich zu machen.
 
@@ -81,7 +81,7 @@ kann, dass die Budgetierung solide ist und es keine Überraschungen gibt.
 
 **Toni Kelly, Associate Director, Learning Environments, University of
 Hong Kong**, hält es für absolut entscheidend, dass man eine gute
-Arbeitsbeziehung mit dem Projektleiter hat. Manche Projektleiter sind
+Arbeitsbeziehung mit der Projektleitung hat. Manche Projektleitungen sind
 der Ansicht, dass es ihre Aufgabe ist, den Auftrag zu liefern es Ihnen
 zurück zu geben, wenn es fertig ist, während andere eher an Ihrer Seite
 stehen, die Grundregeln festlegen und auf eventuelle Handlungsspielräume

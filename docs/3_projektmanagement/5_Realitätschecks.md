@@ -7,10 +7,10 @@ nav_order: 5
 
 # 3.5 Realitätschecks
 Es zahlt sich aus regelmäßig Realitätschecks auf die Designideen
-anzuwenden. Das Baudezernat / Bauamt, Architekt und Berater werden einen
+anzuwenden. Das Baudezernat / Bauamt, Architekt/-in und Berater/-innen werden einen
 dabei unterstützen, aber es ist immer gut, auch Leute mit lokalem
 Know-how zu involvieren. Diese Checklisten für unterschiedliche Aspekte
-des Baus wurde von den JISC Empfehlungen zu Lernräumen ([JISC, 2007, 2013](../Referenzen.md)) adaptiert.
+des Baus wurde im [UK Toolkit](../Referenzen.md) von den JISC Empfehlungen zu Lernräumen ([JISC, 2007, 2013](../Referenzen.md)) adaptiert.
 
 **Generelle Design Checkliste**
 
@@ -26,7 +26,7 @@ des Baus wurde von den JISC Empfehlungen zu Lernräumen ([JISC, 2007, 2013](../R
     Gebäude-Fußabdruck bekannt war)
 
 - [ ]  Berücksichtigt das Layout alle Zugänglichkeitsabwägungen
-    einschließlich Fußgänger, Fahrrad, Öffentlicher Transport, Parken?
+    einschließlich Zugang zu Fuß, Fahrrad, Öffentlicher Transport, Parken?
 
 - [ ]  Berücksichtigt das Design Überlegungen zu Reinigung, Instandhaltung
     und Abfallbeseitigung, z.B. ist es möglich die Fenster zu reinigen
@@ -54,7 +54,7 @@ des Baus wurde von den JISC Empfehlungen zu Lernräumen ([JISC, 2007, 2013](../R
 **Technische Infrastruktur-Checkliste**
 
 Dies ist ein Bereich, in dem man nicht notwendigerweise erwarten kann,
-dass Architekten und Bauunternehmen viel Spezialwissen haben, deshalb
+dass Architektur- und Bauunternehmen viel Spezialwissen haben, deshalb
 wird man sicherstellen müssen, dass man geeignet qualifizierte Experten
 in seine Realitätschecks einbezieht. Man kann damit anfangen, zu fragen:
 
@@ -178,8 +178,8 @@ werden können:
     Belüftungsauslässen berücksichtigt, um sicher zu gehen, dass Nutzer
     nicht im Zug oder zu nah an Hitzequellen sitzen?
 
-- [ ]  Angenommen es gibt eine Nichtraucher-Regelung innerhalb des
-    Gebäudes, wo werden Raucher sich sammeln und wird das zu Problemen
+- [ ]  Angenommen es gibt eine Nichtrauchen-Regelung innerhalb des
+    Gebäudes, wo werden sich Personen, die rauchen, sammeln und wird das zu Problemen
     mit Zugang und Abfall führen?
 
 - [ ]  Wie wird man Lärmpegel dort regulieren, wo offene Zugangs- und

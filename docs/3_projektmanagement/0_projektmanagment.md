@@ -11,11 +11,11 @@ permalink: /docs/3_projektmanagement
 
 **In Kürze**
 
--   Wir diskutieren Besonderheiten von Projektlebenszyklen bei Bauprojekten im Gegensatz zu allgemeinen Projekten
+-   Besonderheiten von Projektlebenszyklen bei Bauprojekten im Gegensatz zu allgemeinen Projekten
 
--   Wir schauen uns eine Reihe professioneller Berater an, die man möglicherweise in sein Projektteam aufnehmen sollte
+-   Übersicht über eine Reihe professioneller Berater und Beraterinnen, die man möglicherweise in sein Projektteam aufnehmen sollte
 
--   Wir verweisen auf Leitfäden und Vorlagen, die man für alle Aspekte eines Lernraumprojektes nutzen kann
+-   Verweis auf Leitfäden und Vorlagen, die man für alle Aspekte eines Lernraumprojektes nutzen kann
 
 **Erwartungen an die Lektüre dieses Abschnitts**
 
@@ -25,10 +25,10 @@ haben und die mit irgendeiner Art von strukturierten
 Projektmanagement-Ansätzen vertraut sind. Dieser Abschnitt beschäftigt
 sich mit Besonderheiten eines Lernraumprojekts.
 
-Jeder der eine wesentliche Rolle in einem Lernraumprojekt spielt wird
+Alle die eine wesentliche Rolle in einem Lernraumprojekt spielen werden
 sich wahrscheinlich mit Dingen beschäftigen, die außerhalb ihrer
 alltäglichen beruflichen Praxis oder ihrer Komfortzone liegen. Der
-vorliegende Abschnitt sollte zusammen mit Abschnitt 2 ([Partnerschaftliche Zusammenarbeit](../2_zusammenarbeit/0_zusammenarbeit.md)) gelesen werden,
+vorliegende Abschnitt hängt eng mit Abschnitt 2 ([Partnerschaftliche Zusammenarbeit](../2_zusammenarbeit/0_zusammenarbeit.md)) zusammen,
 welcher effektive Mittel beschreibt, sicherzustellen, dass das
 Projektteam den Input bekommt, den es braucht um bestmögliche
 Entscheidungen zu treffen.
