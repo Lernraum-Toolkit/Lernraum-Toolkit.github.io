@@ -9,7 +9,7 @@ nav_order: 5
 Heizung, Belüftung und Kühlung sind in der Regel miteinander verbunden,
 obwohl sie im Sinne von Gebäudesystemen genauso auch einzeln
 bereitgestellt werden können. Sie sind entscheidend für den
-Nutzerkomfort und deshalb der Wahrnehmung der Nutzbarkeit eines
+Nutzungskomfort und deshalb der Wahrnehmung der Nutzbarkeit eines
 bestimmten Raums. Körperliche und psychologische Reaktionen auf das eine
 können durch das andere beeinflusst sein (Bewegungen der Luft
 beeinflussen das Empfinden der Lufttemperatur auf der Haut und die
@@ -22,13 +22,13 @@ machen, festzulegen, was gebraucht wird und was erlebt wird, und kann zu
 Verwirrung und manchmal Mistrauen führen (gegenüber denjenigen, die das
 System betreiben, konzipiert oder installiert haben).
 
-Eine Studie über das Management offener Lernräumen ([Watson et al., 2007](../Referenzen.md))
-ergab, dass Heizung, Belüftung und Kühlung eines der Hauptthemen für
-Manager solcher Räume darstellt. Zu den Problemen gehörten die
+Eine Studie über das Management offener Lernräume ([Watson et al., 2007](../Referenzen.md))
+ergab, dass Heizung, Belüftung und Kühlung eines der Hauptthemen beim
+Management solcher Räume darstellt. Zu den Problemen gehörten die
 wahrgenommene Unzulänglichkeit der meisten Systeme und Frustration über
 das Fehlen lokaler Kontrollmöglichkeiten. Dies drückte sich oft als
-Spannung zwischen den Verwaltern des Raumes und der Abteilung für
-Liegenschaften oder Gebäuden aus, die das System verwalten, und belegen
+Spannung zwischen den für die Verwaltung des Raumes Verantwortlichen und der
+Bau-/Gebäudeabteilung aus, die das System verwalten, und belegen
 die Wichtigkeit, ein gemeinsames Verständnis zwischen allen Abteilungen
 zu erreichen, die am Betrieb solcher Räume beteiligt sind. Die Studie
 fand außerdem heraus, dass Beschwerden bezogen auf Heizung, Belüftung
@@ -66,10 +66,10 @@ einem Verlust von Konzentration.
 
 Die Schwierigkeit, die Anforderung der Reaktionsfähigkeit auf
 individuelle Präferenzen zu erfüllen, kann zu einer Catch-22 Situation
-führen: frustrierte Gebäudenutzer machen sich an der Steuerung zu
+führen: frustrierte Gebäudenutzende machen sich an der Steuerung zu
 schaffen, bringen dadurch das Gleichgewicht des Systems durcheinander,
 dies kann wiederum dazu führen das lokale Steuerungen bewusst entfernt
-werden, was wiederum Nutzerfrustration verstärkt.
+werden, was wiederum Nutzendenfrustration verstärkt.
 
 Es ist bezeichnend, dass ein wichtiger Faktor bei der Analyse des „Sick
 Building Syndrome“ der Mangel an persönlicher Kontrolle war. Als Folge
@@ -104,7 +104,7 @@ Lösungen, die Nachhaltigkeit über alles andere stellen.
 -   In Bereichen, wo dies praktikabel ist, sollte es möglich sein,
     Fenster zur natürlichen Belüftung zu öffnen
 
--   Raumplaner müssen anerkennen, dass Menschen unterschiedlich auf
+-   Raumplanende müssen anerkennen, dass Menschen unterschiedlich auf
     Umgebungsfaktoren reagieren und, wenn möglich, ein Grad an lokaler
     Kontrolle über diese anbieten.
 
@@ -114,5 +114,5 @@ Lösungen, die Nachhaltigkeit über alles andere stellen.
     -nutzung.
 
 -   Steuerungen der Klimatisierung sind offenkundig komplex für den
-    Endnutzer und klare Instruktionen sollten erstellt und neben den
+    Endnutzenden und klare Instruktionen sollten erstellt und neben den
     Steuerelementen platziert werden.

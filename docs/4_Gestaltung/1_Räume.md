@@ -18,7 +18,8 @@ nav_order: 1
 
 Es ist wichtig zu beachten, dass ein bestimmter Raumtyp, der an einem
 Ort gut funktioniert, im Kontext eines anderen nicht unbedingt die beste
-Lösung ist. Man sollte Modell- oder Beispielräume (wie die in [FLEXspace](http://flexspace.org/) dokumentierten) ganzheitlich betrachten, die verschiedenen Eigenschaften
+Lösung ist. Man sollte Modell- oder Beispielräume (wie die in
+[FLEXspace](http://flexspace.org/) dokumentierten) ganzheitlich betrachten, die verschiedenen Eigenschaften
 des Raumes berücksichtigen und diese dann mit dem Raum vergleichen, den
 man selbst plant: den Zweck, die Nachhaltigkeit der Dienstleistungen,
 mit denen man ihn unterstützen will, und die Technologie und die
@@ -29,9 +30,9 @@ Ausstattung, die den Raum aufwerten können.
 **Konzeption der Räume** während der anfänglichen Programmplanungs- und
 Vorentwurfsphasen.
 
--   **Auf Expertenstudien zurückgreifen.** Es gibt zahlreiche
+-   **Auf Fachstudien zurückgreifen.** Es gibt zahlreiche
     experimentelle Studien und Veröffentlichungen von wissenschaftlich
-    arbeitenden Praktikern mit Pilotcharakter. Man sollte diese bereits
+    arbeitenden Praktikern und Praktikerinnen mit Pilotcharakter. Man sollte diese bereits
     vorhandenen Materialien als Ausgangspunkt nehmen.
 
 -   **Ermitteln, welche Aktivitäten unterstützt werden müssen,** indem
@@ -44,7 +45,7 @@ Vorentwurfsphasen.
     die Details vage sein.
 
 -   **Umgebungsqualitäten skizzieren,** die zur Unterstützung der
-    Aktivitäten im Raum oder zur Erhöhung des Komforts der Benutzer
+    Aktivitäten im Raum oder zur Erhöhung des Komforts der Nutzenden
     erforderlich sind - Beleuchtung (natürlich und künstlich), Akustik
     und Wärmekomfort.
 
@@ -75,7 +76,7 @@ Vorentwurfsphasen.
 
     -   Ist die Technik fest oder mobil?
 
-    -   Wie lange wird sich der durchschnittliche Benutzer im Raum
+    -   Wie lange wird sich der durchschnittliche Nutzende im Raum
         aufhalten?
 
     -   Größe und Form des Raums.
@@ -107,18 +108,19 @@ Gebrauch sind.
 -   **Sicherstellen, dass Zusammenarbeit** durch erforderlichen Support
     Service und Technik im Raum **ermöglicht wird**. Das gesamte
     Spektrum von Zusammenarbeit sollte unterstützt werden, damit die
-    Nutzer ihre Ideen entwickeln, erfassen, präsentieren und austauschen
+    Nutzenden ihre Ideen entwickeln, erfassen, präsentieren und austauschen
     können.
 
 -   **Die Nutzung des Raums überwachen**, um festzustellen, ob eine
-    Feinabstimmung erforderlich ist, um die Bedürfnisse der Nutzer zu
+    Feinabstimmung erforderlich ist, um die Bedürfnisse der Nutzenden zu
     erfüllen.
 
 ## 4.1.2 Werkzeuge
 
 **Templates für Raum- und Nachbarschaftsbeschreibungen**
 
-Diese Templates für Raum- und Nachbarschaftsbeschreibungen können
+Diese Templates ([US Toolkit](../Referenzen.md), deutsche Übersetzung)
+für Raum- und Nachbarschaftsbeschreibungen können
 heruntergeladen werden und als Notiz- und Brainstorming-Unterstützung
 bei der Erkundung von Inspirationsquellen für Projekte zur Gestaltung
 von Lernräumen (z.B. [FLEXspace](http://flexspace.org/)) dienen.
@@ -133,7 +135,7 @@ Im Rahmen des US Learning Space Toolkit-Projekts wurde eine Taxonomie
 entwickelt, die bei der Beschreibung und Organisation von Lernraum- und
 Nachbarschaftsprofilen helfen soll. Es handelt sich dabei zwar nicht um
 einen völlig umfassenden Beschreibungsrahmen für Lernräume, aber es ist
-um ein nützliches Werkzeug zur Analyse bestehender Lernräume. Diese
+ein nützliches Werkzeug zur Analyse bestehender Lernräume. Diese
 Taxonomie kann dazu verwendet werden, bestehende und zukünftige
 Lernräume systematischer zu beschreiben, um sicherzustellen, dass die
 verschiedenen Facetten von Lernräumen explizit berücksichtigt werden.
@@ -144,7 +146,7 @@ verschiedenen Facetten von Lernräumen explizit berücksichtigt werden.
 
 **Programmplanung und Vorentwurf**
 
--   **Von Beginn des Projekts an sollten klare Verfahren zur Überprüfung des Entwurfs    festgelegt werden,** um sicherzustellen, dass die Arbeit aller Berater und Mitglieder des Entwurfsteams gründlich durchdacht wird. Diese Überprüfungen brauchen Zeit und sollten im Gesamtprojektplan ausgewiesen werden.
+-   **Von Beginn des Projekts an sollten klare Verfahren zur Überprüfung des Entwurfs festgelegt werden,** um sicherzustellen, dass die Arbeit aller Beratenden und Mitglieder des Entwurfsteams gründlich durchdacht wird. Diese Überprüfungen brauchen Zeit und sollten im Gesamtprojektplan ausgewiesen werden.
 
 -   **Eine sorgfältige Überprüfung der frühen Annahmen des Designteams ist entscheidend**,  denn wenn sie später im Designprozess in Frage gestellt werden, kann es zu spät oder zu teuer sein, sie zu ändern. Dies gilt insbesondere für wichtige Entwurfsentscheidungen, wie z.B. strukturelle und raumlufttechnische Systeme, Installationsschächte, vertikale Zirkulation usw.
 
@@ -162,6 +164,6 @@ verschiedenen Facetten von Lernräumen explizit berücksichtigt werden.
 
 -   **Ein großzügiges Budget für Oberflächen und Möbel einplanen**, da diese Elemente den Belastungen des täglichen Gebrauchs ausgesetzt sind. Wenn minderwertige Oberflächen und Möbel verwendet werden, müssen sie bald ersetzt werden, und die Gesamtatmosphäre des Raumes wird darunter leiden.
 
--   **Ausschau halten nach Hinweisen von Benutzern des Raumes, die seine Funktionalität verbessern**. Beispiele dafür sind die Art und Weise, wie die Benutzer durch einen Raum zirkulieren (das kann eine andere Route sein, als das Designteam erwartet hat), oder Benutzer, die Möbel von einem Raum in einen anderen bewegen.
+-   **Ausschau halten nach Hinweisen von Nutzenden des Raumes, die seine Funktionalität verbessern**. Beispiele dafür sind die Art und Weise, wie die Nutzende durch einen Raum zirkulieren (das kann eine andere Route sein, als das Designteam erwartet hat), oder Nutzende, die Möbel von einem Raum in einen anderen bewegen.
 
--   **Wenn der Bau abgeschlossen ist, ist das Projekt noch nicht beendet,** denn ein erfolgreicher Raum wird kontinuierlich gewartet und in Bezug auf Ausstattung, Mobiliar und Technologie verbessert.
+-   **Wenn der Bau abgeschlossen ist, ist das Projekt noch nicht beendet,** denn ein erfolgreicher Raum wird kontinuierlich gewartet und in Bezug auf Ausstattung, Mobiliar und Technik verbessert.

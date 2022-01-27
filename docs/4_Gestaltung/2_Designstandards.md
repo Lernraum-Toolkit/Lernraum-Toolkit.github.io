@@ -12,7 +12,7 @@ Voraussetzungen[^1]:
 1.  Lernräume müssen von allen nutzbar sein, die in den Räumen arbeiten
     müssen.
 
-2.  Nutzer des Raums müssen hören können, was präsentiert wird.
+2.  Nutzende des Raums müssen hören können, was präsentiert wird.
 
 3.  Lernende müssen sehen können, was präsentiert wird.
 
@@ -23,7 +23,9 @@ Anforderungen an einen Lernraum gehen weit über die Nutzbarkeit
 (Usability), Sicht- und Hörbarkeit hinaus. Die Anwendung
 unterschiedlicher didaktischer Stile und Technologien, die diese
 unterstützt, führt letztendlich zu differenzierten, ansprechenden und
-inspirierenden Lernräumen. Deshalb sind die in Kapitel 1 ([Eine neue Pädagogik schaffen](../1_paedagogik/0_paedagogik.md)) behandelten Designprinzipien so wichtig und deshalb
+inspirierenden Lernräumen. Deshalb sind die in Kapitel 1
+([Eine neue Pädagogik schaffen](../1_paedagogik/0_paedagogik.md))
+behandelten Designprinzipien so wichtig und deshalb
 ist die Inspiration und Motivation der Studierenden solch ein Kernziel.
 Räume müssen sowohl begeistern als auch funktional sein.
 
@@ -50,7 +52,7 @@ Merkmale des Raumes[^2]:
     werden genutzt. Benutzerschnittstellen sollen einfach und intuitiv
     sein. Bei der Gestaltung von Bedienelementen ist darauf zu achten,
     dass die am häufigsten verwendeten Elemente am besten sichtbar sind
-    und dass Bedienelemente, die weniger erfahrene Benutzer verwirren
+    und dass Bedienelemente, die weniger erfahrene Nutzende verwirren
     könnten, nur schwer versehentlich gefunden werden können. Verwandte
     Merkmale sind **Konsistenz** (z.B. von Oberflächen,
     Softwareversionen, Layout, Kabelfarben, Platzierung von
@@ -62,7 +64,7 @@ Merkmale des Raumes[^2]:
     und Experimenten müssen mit Stakeholdern bearbeitet werden.
 
 -   **Komfort** – Heizung, Belüftung und Kühlung sind häufig Anlass für
-    Beschwerden von Gebäudenutzern und sollten sorgfältig geprüft
+    Beschwerden von Gebäudenutzenden und sollten sorgfältig geprüft
     werden. Auch die Verfügbarkeit von natürlichem Licht kann viel zur
     Förderung des Lernens beitragen. In der Vergangenheit hatte Komfort
     bei der Auswahl von Möbeln für die Nutzung durch Studierende keine
@@ -71,7 +73,7 @@ Merkmale des Raumes[^2]:
     konzentriertes Arbeiten, [Chickering & Gamson, 1987](../Referenzen.md)) in einem
     Lernraum zu gewährleisten.
 
--   **Nähe** – Nutzer müssen bequem Zugang zu dem Raum haben: der beste
+-   **Nähe** – Nutzende müssen bequem Zugang zu dem Raum haben: der beste
     Raum der Universität wird möglicherweise nicht so oft genutzt wie
     der nächstgelegenste. Spekulative Entwicklungen sollten lieber in
     weniger genutzten Räumen und, wenn möglich, in der Nähe eines
@@ -84,23 +86,23 @@ Merkmale des Raumes[^2]:
 -   **Nachhaltigkeit** – bezieht sich auf ökologische Nachhaltigkeit,
     regelmäßige Wartung und die Notwendigkeit von Geräte- und
     Software-Upgrades. Auch die Notwendigkeit, Schulungen durchzuführen
-    und dies für neue Mitarbeiter oder neue Kohorten von Studierenden zu
+    und dies für neue Mitarbeitende oder neue Kohorten von Studierenden zu
     wiederholen, ist etwas, das bei den laufenden Kosten übersehen
     werden kann.
 
 -   **Langlebigkeit (Durability)** – man sollte sorgfältig über die
     erwartete Lebensdauer von Bodenbelägen, Mobiliar und Einrichtung
     nachdenken. Eine Erfahrung vieler Bauprojekte ist, dass die Zunahme
-    der Nutzerzahlen in den neuen Räumen selbst die wildesten
+    der Nutzendenzahlen in den neuen Räumen selbst die wildesten
     Erwartungen stark übersteigen kann. Wenn man die für ein Bau- oder
     Renovierungsprojekt benötigten Finanzmittel abwägt, muss man den
     routinemäßigen Austausch von Geräten und die
     Modernisierung/Instandhaltung der Dekoration in Betracht ziehen.
 
 ---
-[^1]: Diese Voraussetzungen gehen davon aus, dass alle Nutzer des Raums,
+[^1]: Diese Voraussetzungen gehen davon aus, dass alle Nutzenden des Raums,
         die spezielle Bedürfnisse haben, durch geeignete Einrichtungen und
-        unterstützende Technologien dabei unterstützt werden, den Raum
+        Support-Technik dabei unterstützt werden, den Raum
         optimal zu nutzen und uneingeschränkt an den Lernaktivitäten
         teilzunehmen.
 
@@ -116,10 +118,10 @@ Merkmale des Raumes[^2]:
         Lernressourcen an der École Polytechnique Fédérale de Lausanne in
         der Schweiz, wundern sich oft über eine Reihe von scheinbaren
         Fahrspuren aus Gummi, die durch ansonsten minimalistische
-        Freiflächen führen. Der Raum wurde von den Architekten als eine
+        Freiflächen führen. Der Raum wurde als eine
         hügelige Landschaft konzipiert, die von den Lernenden erkundet
         werden kann. Diese Idee der Selbststeuerung im Raum wurde durch eine
         minimale Beschilderung verstärkt. In der Praxis erwies sich der Raum
-        für sehbehinderte Benutzer als äußerst schwierig zu navigieren, und
-        die Fahrspuren sind notwendig, um diesen Benutzern zu helfen, von
+        für sehbehinderte Nutzende als äußerst schwierig zu navigieren, und
+        die Fahrspuren sind notwendig, um diesen Nutzenden zu helfen, von
         einem Gebäudeteil zum anderen zu gelangen.

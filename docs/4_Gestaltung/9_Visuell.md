@@ -17,13 +17,13 @@ nav_order: 9
 {:toc}
 </details>
 
-Dieser Abschnitt baut auf der Grundannahme auf, dass Nutzer des Raums
+Dieser Abschnitt baut auf der Grundannahme auf, dass Nutzende des Raums
 sehen können müssen, was präsentiert wird.
 
 Die Sichtbarkeit der Ressourcen zu sichern, die für Lernen und
 Unterrichten genutzt werden, ist schon lange ein wichtiges Thema, da das
 Layout von vielen Universitätsgebäuden, egal ob historischer Campus oder
-ein 1960er Gebäude mit Betonpfeilern, oft genug guten Sichtlinien nicht
+ein 1960er Gebäude mit Betonpfeilern, oft guten Sichtlinien nicht
 zuträglich ist. Die zunehmende Flexibilität und Bezahlbarkeit von
 Technik macht es allerdings einfacher, diese Probleme zu lösen, z.B.:
 
@@ -31,7 +31,7 @@ Technik macht es allerdings einfacher, diese Probleme zu lösen, z.B.:
     Sichtbarkeit von Präsentationen. An der Säule befestigte
     Übertragungsbildschirme können dies lösen.
 
--   In langen Räumen mit niedrigen Decken wird der Kopf des Vordermanns
+-   In langen Räumen mit niedrigen Decken wird der Kopf der vor einem sitzenden Person
     die Sicht einschränken. Das Layout um 90° zu drehen und eine
     doppelte Projektion zu nutzen, kann helfen. Möglicherweise kann man
     auch Übertragungsbildschirme für die hinteren Reihen nutzen
@@ -53,7 +53,7 @@ bieten:
 
 -   Nutzung eines portablen Tablets dessen Anzeige auf eine größere
     Projektionsfläche gespiegelt wird (möglicherweise über den festen
-    Lehrstations-PC)
+    PC am Dozierendenpult)
 
 ## Visuelle Designempfehlungen
 
@@ -103,7 +103,7 @@ bieten:
     werden könnten - deshalb sollte die optimale Anbringungshöhe gut
     durchdacht sein.
 
--   Die Lehrstation nicht vor den Projektor platzieren, dies kann zu
+-   Den Dozierendenpult nicht vor den Projektor platzieren, dies kann zu
     Blendungen des Lehrenden führen und die Sicht der Studierenden auf
     die Präsentation einschränken.
 
@@ -124,7 +124,7 @@ bieten:
     Publikum drehen zu müssen.
 
 -   Nach Norden ausgerichtete Lehrwände werden nicht durch Sonnenlicht
-    beeinträchtigt, anders ausgerichtete Raumanordnungen werden wohl
+    beeinträchtigt, anders ausgerichtete Raumanordnungen werden warscheinlich
     Jalousien benötigen.
 
 -   Sicherheitsmaßnahmen nutzen, wie Anti-Diebstahl Riegel oder
@@ -140,7 +140,7 @@ bieten:
 -   Ultrakurzdistanzprojektor sind in kleineren Lernräumen nützlich.
     Während sie bezüglich der maximalen Bildgröße limitiert sind, haben
     sie den Vorteil, dass sie keinen „Hot Spot“[^8] haben, der zu
-    Nutzern zurück reflektiert, und der Dozent weder den Projektorstrahl
+    Nutzenden zurück reflektiert, und die Lehrkraft weder den Projektorstrahl
     versperrt, wenn er vor der Tafel steht, noch selbst dadurch
     geblendet wird.
 
@@ -153,7 +153,7 @@ bieten:
     der PC-Monitore und dem projizierten Bild übereinstimmen.
 
 -   Eine Herausforderung in großen Räumen ist, eine Methode zum
-    Schreiben oder Illustrieren für den Dozenten zu ermöglichen, welche
+    Schreiben oder Illustrieren für die Lehrkraft zu ermöglichen, welche
     für die Studierenden klar erkennbar ist. Konventionelle Whiteboards
     haben einen bearbeitbaren Höhenbereich zwischen 1000mm und 2000mm,
     je nach Größe des Lehrenden. An Schienen angebrachte Tafeln
@@ -176,7 +176,7 @@ bieten:
 
 -   Die Spaces & Audiovisual Guidelines des University College London gibt allgemeine Hinweise zur Gestaltung von Räumen, die für den Unterricht genutzt werden, und enthält eine umfassende Diskussion über die Arten von audiovisuellen Ausstattungen, die für  verschiedene Arten von Räumen geeignet sind: University College London Spaces & Audio Visual Guidelines v3.0.1, Information Services Division Spaces & AV Team (2017). **[Link zu PDF](https://www.ucl.ac.uk/isd/sites/isd/files/ucl-spaces-av-guidelines-v3-0-1.pdf)**
 
--   AVIXA (Audiovisual and Integrated Experience Association) Standards für audiovisuelle Systeme, u.a.für Zuhörerräume und Bildgröße von Displays/Monitoren. **[Link zu Webseite](https://www.avixa.org/de/standards/aktuelle-standards)**
+-   AVIXA (Audiovisual and Integrated Experience Association) Standards für audiovisuelle Systeme, u.a.für Hörsäle und Bildgröße von Displays/Monitoren. **[Link zu Webseite](https://www.avixa.org/de/standards/aktuelle-standards)**
 
 -   Die Association for Audio Visual and Education Technology Management (AETM), Australien, bietet nützliche und gut recherchierte Leitlinien zu allen möglichen Aspekten der Integration von AV Systemen in Lernräume (Bilschirme, Beleuchtung, Akustik, Kontrollsysteme, etc.): **[Link zu Webseite](https://guidelines.aetm.org)**
 

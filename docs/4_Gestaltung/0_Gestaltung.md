@@ -13,36 +13,34 @@ permalink: /docs/4_Gestaltung
 Dieser Abschnitt beschäftigt sich mit der konkreten Planung von
 Lernräumen und gibt Hinweise zu:
 
--   Wir beschäftigen uns mit Leitprinzipien für die Planung von
-    Lernräumen in den verschiedenen Phasen des Projekts und stellen
-    konkrete Werkzeuge dar, die dabei helfen Nutzerbedürfnisse in
-    konkrete Raumlösungen zu übertragen
+-   Leitprinzipien für die Planung von Lernräumen in den verschiedenen
+    Phasen des Projekts und konkreten Werkzeugen, die dabei helfen
+    Nutzerbedürfnisse in konkrete Raumlösungen zu übertragen
 
--   Wir schauen uns anerkannte Standards für eine Reihe von Aspekten
-    bezüglich Lernraumdesign an: allgemeine, gute Designpraktiken,
+-   anerkannte Standards für eine Reihe von Aspekten
+    bezüglich Lernraumdesign: allgemeine, gute Designpraktiken,
     funktionale Raumspezifikationen, Audio/visuelle Standards, IT
     Standards
 
--   wir diskutieren die aus vorherigen Lernraumprojekten gezogenen
-    Lehren, die die Grundlage für die hier beschriebenen Empfehlungen
-    bilden
+-   aus vorherigen Lernraumprojekten gezogene Lehren, die die
+    Grundlage für die hier beschriebenen Empfehlungen bilden
 
 **Erwartungen an die Lektüre dieses Abschnitts**
 
-Zunächst stellen wir Leitprinzipien aus dem US Learning Space Toolkit
-vor, die betonen auf welche Fragen bzw. Punkte man sich bei der
+Zunächst werden Leitprinzipien aus dem [US Learning Space Toolkit](../Referenzen.md)
+dargestellt, die betonen auf welche Fragen bzw. Punkte man sich bei der
 anfänglichen Konzeption, der konkreten Planung und während des
 tatsächlich Betriebs fokussieren sollte. Es folgen entsprechende
 Werkzeuge, die in diesem Prozess unterstützen können und konkrete Tipps
 zur Umsetzung.
 
-Jeder der zum UK Toolkit beitragenden Fachverbände hat ein spezielles
-Interesse an einem oder mehreren dieser Unterabschnitte. Sie wurden
-dennoch gemeinsam gruppiert um Leser zu ermutigen sich einen Überblick
+Jeder der zum [UK Toolkit](../Referenzen.md) beitragenden Fachverbände hat ein spezielles
+Interesse an einem oder mehreren der Unterabschnitte. Sie wurden
+dennoch gemeinsam gruppiert dazu zu ermutigen sich einen Überblick
 über das Thema als Ganzes zu verschaffen, da die verschiedenen Aspekte
 in einer Wechselbeziehung zueinanderstehen und Möglichkeiten und
 Einschränkungen mit sich bringen, die beeinflussen, wie jede
-Berufsgruppen die Nutzer des Raumes unterstützen kann.
+Berufsgruppe die Nutzenden des Raumes unterstützen kann.
 
 Eine der wichtigsten Lehren aus der Evaluation von anderen Räumen ist,
 dass einige der auftretenden Management- und Nutzbarkeitsprobleme durch
@@ -51,8 +49,8 @@ ganzheitliche Sicht eingenommen wird. Umgekehrt durchläuft jedes Projekt
 wahrscheinlich eine Phase der Konzeptualisierung eines idealen Designs
 und dann eine Form von Wertanalyse (Value Engineering) um die
 Spezifikationen besser auf die vorhandenen Projekt-Ressourcen
-abzustimmen. Die Empfehlungen in diesem Abschnitt werden dem Leser
-ermöglichen einen Wertanalyse-Ansatz zu verfolgen und gleichzeitig die
+abzustimmen. Die Empfehlungen in diesem Abschnitt sollen dazu dienen
+einen Wertanalyse-Ansatz zu verfolgen und gleichzeitig die
 langfristige Nachhaltigkeit und Nutzbarkeit des Raumes im Auge zu
 behalten.
 
@@ -64,7 +62,7 @@ Vorschläge im Einzelnen:
     teuer und schwierig nachträglich zu beheben sind. Natürliches Licht
     ist wichtig für das Wohlbefinden des Personals und der Studierenden
     und insbesondere das Personal bevorzugt Steuerungen dieser Bereiche,
-    die vom Nutzer reguliert werden.
+    die von den Nutzenden reguliert werden.
 
 -   Die Möglichkeit, sowohl zu sehen als auch zu hören, was in jeglicher
     Form formal ausgerichteter Lernsitzungen vor sich geht, ist

@@ -8,7 +8,7 @@ nav_order: 11
 ## Standpunkte und Perspektiven
 
 **Matt Sherlock Assistant Director, Learning Environments, University of Birmingham**
-hat zwei Schlüsselbotschaften für Kollegen, die Lernräume
+hat zwei Schlüsselbotschaften für Leute, die Lernräume
 entwickeln. Die erste ist, dass alles in einem Lernraum zweckmäßig sein
 muss. Es kann innovativ oder Low-Tech sein, aber es muss für die
 stattfindenden Lernaktivitäten geeignet sein.
@@ -49,7 +49,7 @@ dass es um Vielfalt in der Gestaltung geht. Viele Studierende wünschen
 sich immer noch stufenförmige Hörsäle, während andere mehr Raum für die
 Zusammenarbeit fordern. Caroline erzählte, dass die Node Chairs eines
 der besten Beispiele für eine Innovation mit polarisierten Ansichten
-sind. "Sie sind ein bisschen wie Marmite: Studierende und Mitarbeiter
+sind. "Sie sind ein bisschen wie Marmite: Studierende und Mitarbeitende
 lieben sie entweder oder hassen sie". Die Stühle sind in verschiedenen
 Farben erhältlich, was es einfach macht, Gruppen zu bilden, indem man
 z.B. sagt, dass sich Studierende mit orangefarbenen Stühlen
@@ -64,7 +64,7 @@ stufenförmige Hörsäle, da dies am ehesten ihre früheren
 Bildungserfahrungen widerspiegelt.
 
 **Tessa Rogowski, Client Services Manager, University of Essex,** setzt
-sich nachdrücklich für die in diesem Toolkit dargelegten Grundsätze ein,
+sich nachdrücklich für die im UK Toolkit dargelegten Grundsätze ein,
 um (gegebenenfalls mit entsprechenden Anpassungen für bestimmte
 Nutzerbedürfnisse) Hörbarkeit, Sichtbarkeit und Nutzbarkeit in
 Lernräumen zu gewährleisten. Tessa vertritt diese Ansicht aufgrund
@@ -78,7 +78,7 @@ Lernräume im gesamten Sektor gesehen. Sie ist der Meinung, dass viele
 Institutionen erkannt hätten, dass einige dieser Bereiche niemals
 Lernräume sein könnten, wenn die im Toolkit dargelegten Prinzipien
 bereits in der Entwurfsphase angewandt worden wären. An anderer Stelle
-befasst sich dieser Toolkit mit Investitionsentscheidungen und gibt zu
+befasst sich der Toolkit mit Investitionsentscheidungen und gibt zu
 bedenken, dass die Neugestaltung von zehn Räumen mit kleineren Problemen
 billiger und lohnender sein könnte als die Investition, die erforderlich
 ist, um einen Raum mit erheblichen Designproblemen anzupassen.

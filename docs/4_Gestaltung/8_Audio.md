@@ -17,7 +17,7 @@ nav_order: 8
 {:toc}
 </details>
 
-Dieser Abschnitt baut auf der Grundannahme auf, dass alle Nutzer eines
+Dieser Abschnitt baut auf der Grundannahme auf, dass alle Nutzenden eines
 Raums in der Lage sein müssen, zu hören, was präsentiert wird,
 Gruppendiskussionen zu hören und daran teilzunehmen.
 
@@ -36,13 +36,13 @@ Verschiedene Lernräume verlangen unterschiedliche Behandlung, z.B.
     Musikraum), müssen vor diesen Geräuschen geschützt werden.
 
 Man sollte sich zunächst über die Geräuschquellen klarwerden, bevor man
-anfängt den Raum zu entwerfen. Genauso wie Lärm, der durch Gebäudenutzer
+anfängt den Raum zu entwerfen. Genauso wie Lärm, der durch Gebäudenutzende
 und ihre Aktivitäten entsteht, kann es sein, dass man auch Lärm von
 Heizungslüftern und Kühlsystemen minimieren muss.
 
 Das Layout des Raum und die Wahl des Materials wird sich darauf
 auswirken, wie sich Geräusche im Raum ausbreiten. Als Orientierung für
-Anfänger muss man bei Lärm über zwei Aspekte nachdenken:
+Neulinge muss man bei Lärm über zwei Aspekte nachdenken:
 
 ***Isolierung***
 
@@ -63,7 +63,7 @@ wo dies nötig ist, muss der Prozess vollständig durchgezogen werden:
 Wände sollten ausreichend massiv sein und sowohl den Decken- als auch
 den Bodenhohlraum durchdringen und Wanddurchbrüche, wie auch
 Lüftungsleitungssysteme, sollten mit Schalldämpfung versehen werden. Die
-Kosten können dadurch steigen und der Nutzen muss klar artikuliert
+Kosten können dadurch steigen und der Nutzen muss klar formuliert
 werden, um sie zu rechtfertigen.
 
 ***Absorption / Diffusion***
@@ -82,9 +82,9 @@ die akustischen Eigenschaften eines Raumes hat. Ein industrieller Look
 Mode, aber in einem Lernraum akustisch sehr schlecht. Abgehängte Decken
 mit Deckenplatten haben viel bessere akustische Eigenschaften.
 
-Da es für die Nutzbarkeit Ihres Lernraums wichtig ist, wie der Schall
-kontrolliert und gemanagt wird, kann es sinnvoll sein, einen Akustiker
-zu beauftragen, der dabei hilft, den Lärm innerhalb des geplanten Raums
+Da es für die Nutzbarkeit eines Lernraums wichtig ist, wie der Schall
+kontrolliert und gemanagt wird, kann es sinnvoll sein, Fachleute für Akustik
+zu beauftragen, die dabei helfen, den Lärm innerhalb des geplanten Raums
 zu modellieren und zu Boden-, Decken- und Wandverkleidungen zu beraten.
 Schalldämmung ist oft etwas, das in Frage gestellt wird, wenn Budgets
 ansteigen und Einsparungen erforderlich sind, aber das kann falsches

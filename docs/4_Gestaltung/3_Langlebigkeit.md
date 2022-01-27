@@ -46,7 +46,7 @@ relativ neue Lernräume schnell Abnutzungserscheinungen zeigen.
 Bodendosen (zur Stromversorgung) mit abgerissenen Abdeckungen,
 Kaffeeflecken auf Möbeln und Bodenbelägen, zerbrochene Schreibtafeln und
 schwer erreichbare architektonische Elemente, die Abfall und Staub
-ansammeln, sind häufige Probleme. Mitwirkende dieses Toolkits machten
+ansammeln, sind häufige Probleme. Mitwirkende des [UK Toolkits](../Referenzen.md) machten
 ganz unterschiedliche Angaben darüber, wie lange ihre Einrichtung
 erwarten würde, dass ein Bauprojekt hält, von einem
 Einkaufszentrumsmodel, bei dem Innenausstattung schnell und günstig

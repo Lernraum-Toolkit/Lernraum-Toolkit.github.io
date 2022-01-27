@@ -33,7 +33,7 @@ berücksichtigen muss, umfassen:
 
 Wie schon erwähnt, ist die Nutzbarkeit (Usability) ein
 Schlüsseldesignprinzip für alle Lernräume und sollte immer im Auge
-behalten werden. In den meisten Räumen sollten Nutzer im Allgemeinen in
+behalten werden. In den meisten Räumen sollten Nutzende im Allgemeinen in
 der Lage sein, zu tun, was sie tun wollen, ohne Schulungen zu
 absolvieren oder viele Anweisungen lesen zu müssen. Matt Sherlock sagte
 dazu „Alles muss zweckmäßig sein und dies ist ein Schlüsselbegriff, der
@@ -51,14 +51,14 @@ sagt „Es ist frustrierend jemand sagen zu hören ‚etwas funktioniert
 nicht und es hat letzte Woche auch nicht funktioniert‘, d.h. sie haben
 es nicht gemeldet.“
 
-Eine Reihe von Mitwirkenden dieses Toolkits sprachen über Normen
-bezüglich des Raumbedarf pro Student für verschiedene Arten von
+Eine Reihe von Mitwirkenden des [UK Toolkits](../Referenzen.md) sprachen über Normen
+bezüglich des Raumbedarfs pro Studierender für verschiedene Arten von
 Tätigkeiten. Einige sagten, dass ihre Einrichtung den Schwerpunkt auf
-die Erhöhung des Platzangebots pro Student legt, wohingegen andere
+die Erhöhung des Platzangebots pro Person legt, wohingegen andere
 meinten, es bestünde die Gefahr, dass Raumbedarfsnormen durch die Decke
 gehen, wenn es aufgrund der Aufhebung der Obergrenze für die
 Studierendenzahl zu einer Überrekrutierung kommt. Finanzielle
-Notwendigkeiten, die Platzmenge pro Student zu reduzieren, könnten im
+Notwendigkeiten, die Platzmenge pro Studierender zu reduzieren, könnten im
 Widerspruch zu den pädagogischen Prinzipien stehen, die wir zur besseren
 Förderung von aktivem Lernen umrissen haben. Wie ein Toolkit
 Mitwirkender es ausgedrückt hat: „Drängt Studierende nicht hinaus – sie
@@ -84,7 +84,7 @@ Anwesenheitsüberwachung in Lernräumen, aber man sollte die Regelungen
 vor Ort und wahrscheinlichen zukünftigen Anforderungen in der
 Designphase berücksichtigen.
 
-Hier ein paar Dinge, die Toolkit-Mitwirkende über funktionale
+Hier ein paar Dinge, die [UK Toolkit](../Referenzen.md)-Mitwirkende über funktionale
 Raumstandards sagten:
 
 -   Türen zu Lernräumen sollten, wenn möglich, verglaste Sichtfenster
@@ -99,7 +99,7 @@ Raumstandards sagten:
     Lehrenden sichtbar ist. Ein traditionelles Ziffernblatt ist leichter
     zu interpretieren als eine digitale Nummernanzeige.
 
--   Für wirklich flexible Räume müssen Mitarbeiter und Studierende in
+-   Für wirklich flexible Räume müssen Mitarbeitende und Studierende in
     der Lage sein, Möbel einfach zu bewegen, z.B. Tische zusammenstellen
     um verschiedene Formen und Layouts zu schaffen. Leichte und
     stapelbare Möbel können am praktischsten sein, was allerdings der

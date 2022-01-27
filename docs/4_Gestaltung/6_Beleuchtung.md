@@ -19,7 +19,7 @@ nav_order: 6
 
 Die Bereitstellung von adäquatem und blendfreiem künstlichem Licht ist
 relativ einfach, aber natürliches Licht zu maximieren und gute
-Beleuchtung zu bieten, die die Bedürfnisse aller Nutzer erfüllt und das
+Beleuchtung zu bieten, die die Bedürfnisse aller Nutzenden erfüllt und das
 Ambiente eines bestimmten Lernraums verstärkt, ist schon schwerer.
 
 Wenn möglich, sollten Lernräume kontrollierten Einfall von Tageslicht
@@ -91,7 +91,7 @@ London:
     nötig, sodass die Beleuchtung durch den Lehrenden für verschiedene
     Teile der Sitzung optimiert werden kann.
 
--   Idealerweise sollte der Nutzer eines Raumes zwischen einer Reihe von
+-   Idealerweise sollte der Nutzende eines Raumes zwischen einer Reihe von
     Beleuchtungsstufen und Verteilungsmodalitäten wählen können.
     Beleuchtungssteuerung sollte klar gekennzeichnet sein, idealerweise
     mit anschaulichen Abbildungen der Beleuchtungsmuster.

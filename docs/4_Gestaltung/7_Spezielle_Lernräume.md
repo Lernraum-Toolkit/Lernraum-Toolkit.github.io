@@ -18,7 +18,7 @@ nav_order: 7
 </details>
 
 Funktionale Raumstandards unterscheiden sich je nach der Art der
-Lernaktivität, für die der Raum gedacht ist. Hier zunächst ein
+Lernaktivität, für die der Raum gedacht ist. Hier folgt zunächst ein
 allgemeiner Blick auf die Hauptüberlegungen zu einigen gebräuchlichen
 Arten von formalen Lehrräumen. Bibliotheken oder spezialisierte Räume
 wie Labore oder Räume, die für Kunstaufführungen gedacht sind, sind
@@ -78,11 +78,11 @@ Auswirkungen auf die Gruppendynamik haben, z.B. erlaubt das
 traditionelle Layout von Stuhlreihen bestimmten Studierenden sich hinten
 zu verstecken und Mitarbeit im Seminar zu vermeiden.
 
-Wissenschaftler haben die psychologischen und pädagogischen Auswirkungen
+Forschende haben die psychologischen und pädagogischen Auswirkungen
 von Unterrichtsraumdichte untersucht, sowohl räumlich (Größe des Raums)
 als auch sozial (Zahl der Studierenden). [Graetz (2006)](../Referenzen.md) empfiehlt als
 gute Richtgröße für soziale Dichte in Seminarräumen drei bis fünf
-Gruppen mit jeweils sechs bis zwölf Studierenden. Designer sollten auch
+Gruppen mit jeweils sechs bis zwölf Studierenden. Am Design beteiligte sollten auch
 auf die Gefahr von Überbelegung in Seminarräumen achten. Studien legen
 nahe, dass von Studierenden erwartet werden kann, mit Abständen von 0,6
 – 1,2 m zwischen Personen und 1,2 – 2,1 m zwischen Tischen effektiv
@@ -96,8 +96,8 @@ Lernen auswirken. Stühle müssen bequem und beweglich sein und
 Studierenden erlauben, sich in unterschiedliche Richtungen zu drehen,
 ihren Rücken zu strecken und sich zu bewegen. Es muss darauf geachtet
 werden, dass eine Reihe von Körpergrößen und Zugänglichkeitsaspekte
-berücksichtigt werden (z.B., dass Linkshänder geeignete Möglichkeiten
-zum Notizen machen oder für die Laptopnutzung haben). Es wird auch
+berücksichtigt werden (z.B., dass es geeignete Möglichkeiten
+zum Notizen machen oder für die Laptopnutzung bei Linkshändigkeit gibt). Es wird auch
 vorgeschlagen, dass eine wasserfallförmige vordere Sitzkante besser für
 die Blutzirkulation und Komfort ist als ein rechter Winkel. James
 Rutherford, Universität Birmingham, fand im Rahmen des Studiums für
@@ -130,8 +130,8 @@ universellem WLAN, die Verbreitung von tragbaren Nutzergeräten und der
 hohe Grad an Mobilität moderner Möbel macht das ein viel leicht lösbares
 Problem, als es noch vor ein paar Jahren war, z.B. mit Hilfe der „Node
 Chairs“[^5], wie sie an der City University häufig genutzt werden. Das
-Problem heutzutage liegt vielmehr in der Mitarbeiterentwicklung und der
-Anregung von akademischen Mitarbeitern, die vorhandenen Möglichkeiten
+Problem heutzutage liegt vielmehr in der Personalentwicklung und der
+Anregung von akademischen Beschäftigten, die vorhandenen Möglichkeiten
 zur Nutzung einer Reihe von kollaborativen Lern- und Lehrpraktiken voll
 auszuschöpfen.
 
@@ -184,7 +184,7 @@ All-in-one Einheiten können die beste Lösung bieten, vorausgesetzt sie
 können ausreichend gesichert werden.
 
 Jede Computerarbeitsstation sollte so aufgebaut sein, dass sich der
-Nutzer in der korrekten ergonomischen Position befindet. Design und
+Nutzende in der korrekten ergonomischen Position befindet. Design und
 Abmessungen von Computerarbeitsstationen in Büros werden gesetzlich
 bestimmt durch die European Display Screen Equipment Directive
 (90/270/EEC) und die Abmessung von Arbeitsstationen sollten dem
