@@ -11,12 +11,12 @@ Die Möglichkeiten des Einsatzes von Technologie zur Schaffung
 intelligenter Gebäude (z.B. zur Steuerung des Energieverbrauchs) werden
 hier nicht im Detail behandelt, aber einige Aspekte solcher
 Entwicklungen können sich auf das Lernen und Lehren auswirken. Ein
-Beispiel, das derzeit im britischen sowie im deutschen Hochschulwesen
+Beispiel, das bislang im britischen sowie im deutschen Hochschulwesen
 wenig genutzt wird, ist die Beacon-Technologie. Beacons (oft als
 iBeacons nach dem Gerät der Marke Apple bekannt) sind kleine Sensoren,
 die auf Geräte und Anwendungen in ihrer Umgebung reagieren. Sie werden
-im Einzelhandel eingesetzt, um den Standort von Kunden-Smartphones in
-einem Geschäft zu erkennen und relevante Werbung an den Kunden zu
+im Einzelhandel eingesetzt, um den Standort von Smartphones der Kundschaft in
+einem Geschäft zu erkennen und relevante Werbung an die Kunden und Kundinnen zu
 schicken.
 
 Sie können jedoch auch bei der Bereitstellung von Lerninhalten Anwendung

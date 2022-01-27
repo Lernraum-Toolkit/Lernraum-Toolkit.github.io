@@ -38,9 +38,9 @@ die digitale Präsentation.
 
 Zusätzlich zu den Glasschreibtafeln werden viele neue Räume mit
 Glaswänden geschaffen, die den Innen-/Außenraum auflösen und es den
-Mitarbeitern und Studierenden ermöglichen, das Geschehen sowohl in einer
+Beschäftigten und Studierenden ermöglichen, das Geschehen sowohl in einer
 formellen als auch in einer informellen Umgebung zu sehen. Diese
-Glaswände sind eine gute Schreibfläche, und Mitarbeiter und Studierende
+Glaswände sind eine gute Schreibfläche, und Beschäftigte und Studierende
 sollten die Erlaubnis haben, diese zusätzliche Ausstattung zu nutzen.
 
 Traditionellere Schreibflächen bleiben auch im digitalen Zeitalter

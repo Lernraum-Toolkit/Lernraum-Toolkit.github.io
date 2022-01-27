@@ -12,11 +12,11 @@ nav_order: 2
 Zu den in diesem Abschnitt vorgestellten Tools für die
 Technologiegestaltung gehören:
 
--   [**Rolle des Technologen**](3_Rolle.md) um die Rolle des
-    Technologen im Verlauf des Projekts zu verstehen
+-   [**Rolle der Technologiefachkraft**](3_Rolle.md) um die Rolle der
+    Technologiefachkraft im Verlauf des Projekts zu verstehen
 
 -   [**Einbinden von Technologiepartnern**](4_Technologiepartner.md) um ein
-    Verständnis für die große Vielfalt von Interessenvertretern zu
+    Verständnis für die große Vielfalt von Stakeholdern zu
     gewinnen, die in verschiedenen Phasen des Projekts eingebunden
     werden, welche Rolle sie spielen und wie man sie am besten einbindet
 

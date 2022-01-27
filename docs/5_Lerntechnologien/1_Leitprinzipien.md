@@ -10,15 +10,15 @@ nav_order: 1
 *Die folgenden Punkte sind allgemein anerkannte Techniken, Methoden und
 Prozesse zur Vorstellung, Planung, Implementierung und Aufrechterhaltung
 von Technologie in Lernräumen aufgeführt, die sich an den Bedürfnissen
-der Benutzer orientiert.*
+der Nutzenden orientiert.*
 
 **Vision und erste Schritte**
 
 -   Man sollte damit anfangen, die **Gesamtvision** der Initiative und
     die spezifischen Ziele jedes geplanten neuen oder renovierten Raums
-    **vollständig zu verstehen**. Dabei eng mit Planern, Architekten,
-    Ingenieuren, Designern und anderen Beteiligten zusammenarbeiten, um
-    den technologischen Blickwinkel so früh wie möglich in ein
+    **vollständig zu verstehen**. Dabei eng mit den Fachleuten für Planung, Architektur,
+    Ingenieurswesen, Design und anderen Beteiligten zusammenarbeiten, um
+    den technischen Blickwinkel so früh wie möglich in ein
     Renovierungs- oder Bauprojekt zu integrieren.
 
 -   **Sich ein klares Bild über den aktuellen Stand** der
@@ -42,9 +42,9 @@ der Benutzer orientiert.*
     Technologie während der Lebensdauer des Gebäudes zu berücksichtigen.
 
 -   **Das Zielpublikum**, dem das Projekt dienen soll (z.B. Studierende,
-    Dozenten, Mitarbeiter, Öffentlichkeit, Kunden), **sollte verstanden
+    Dozierende, Mitarbeitende, Öffentlichkeit, Kundschaft), **sollte verstanden
     werden**, und es sollte daran gedacht werden, sowohl aus der
-    Perspektive der Nutzer als auch aus der des Anbieters zu denken.
+    Perspektive der Nutzenden als auch aus der des Anbietenden zu denken.
 
 -   **Ziel ist es, Korrekturen und Änderungen nach der Fertigstellung zu
     minimieren**, die die Kosten erheblich erhöhen können.
@@ -62,7 +62,7 @@ der Benutzer orientiert.*
 
 -   **Überwachung und Bewertung der Leistung der Technologie** über die
     Fertigstellung hinaus - Häufigkeit der Nutzung,
-    Benutzerzufriedenheit, Support-Service usw. - zur Verfeinerung und
+    Benutzungszufriedenheit, Support-Service usw. - zur Verfeinerung und
     Verbesserung.
 
 *Abschnitt zu “Überdenken der Lehrpraxis mit Technologie”* aus deutscher Übertragung rausgelassen (bei Interesse, siehe [UK Toolkit](https://www.ucisa.ac.uk/learningspace), Kapitel 5.1)
