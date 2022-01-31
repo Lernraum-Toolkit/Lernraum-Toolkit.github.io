@@ -10,7 +10,7 @@ Es ist wichtig, festzulegen welchen Grad an Beteiligung das Projekt für
 jede Stakeholder-Gruppe anstrebt, um eine effektive Strategie zur
 Gewährleistung dieser Partizipation zu entwickeln und umzusetzen. Ein
 hilfreicher Ausgangspunkt ist das Konzept einer
-Partizipationsleiter[^1], welches breit eingesetzt und für viele
+Partizipationsleiter[^7], welches breit eingesetzt und für viele
 Kontexte angepasst wurde, seit es zum ersten Mal von 1969 von Arnstein
 eingeführt wurde. Die vereinfachte Version aus dem [UK Toolkit](../Referenzen.md) wurde adaptiert aus Arbeiten
 an der Birmingham City University.
@@ -62,6 +62,6 @@ Sitzungen sind eine gute Möglichkeit, die Zeit der Teilnehmenden zu
 maximieren und Gemeinschaft aufzubauen.
 
 ---
-[^1]: Weitere Infos sowie nützlicher Hintergrund zum Konzept der
+[^7]: Weitere Infos sowie nützlicher Hintergrund zum Konzept der
     Partizipationsleiter:
     <https://www.bipar.de/das-konzept-der-partizipationsleiter/>

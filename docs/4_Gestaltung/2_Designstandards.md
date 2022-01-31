@@ -7,7 +7,7 @@ nav_order: 2
 # 4.2 Einführung in Designstandards
 
 Die Empfehlungen in diesem Abschnitt basieren auf drei wesentlichen
-Voraussetzungen[^1]:
+Voraussetzungen[^9]:
 
 1.  Lernräume müssen von allen nutzbar sein, die in den Räumen arbeiten
     müssen.
@@ -30,7 +30,7 @@ ist die Inspiration und Motivation der Studierenden solch ein Kernziel.
 Räume müssen sowohl begeistern als auch funktional sein.
 
 Eine gute Gestaltung von Lernräumen berücksichtigt die folgenden
-Merkmale des Raumes[^2]:
+Merkmale des Raumes[^10]:
 
 -   **Angestrebte Nutzung** – Überlegungen bezüglich der eingesetzten
     Lern- und Lehrszenarien und den Identitäten von Lernenden und
@@ -46,7 +46,7 @@ Merkmale des Raumes[^2]:
     beträchtliche Anzahl von Menschen von körperlichen Behinderungen,
     psychischen Gesundheitsproblemen und Lernschwierigkeiten wie
     Dyslexie betroffen sind, können Auswahl und Kontrolle über die
-    Lernumgebung die Nutzbarkeit des Raums erheblich verbessern[^3].
+    Lernumgebung die Nutzbarkeit des Raums erheblich verbessern[^11].
 
 -   **Nutzbarkeit (Usability)** – Räume, die einfach zu benutzen sind,
     werden genutzt. Benutzerschnittstellen sollen einfach und intuitiv
@@ -100,13 +100,13 @@ Merkmale des Raumes[^2]:
     Modernisierung/Instandhaltung der Dekoration in Betracht ziehen.
 
 ---
-[^1]: Diese Voraussetzungen gehen davon aus, dass alle Nutzenden des Raums,
+[^9]: Diese Voraussetzungen gehen davon aus, dass alle Nutzenden des Raums,
         die spezielle Bedürfnisse haben, durch geeignete Einrichtungen und
         Support-Technik dabei unterstützt werden, den Raum
         optimal zu nutzen und uneingeschränkt an den Lernaktivitäten
         teilzunehmen.
 
-[^2]: Ein Bericht über Evaluationsmodelle und -Praxis in
+[^10]: Ein Bericht über Evaluationsmodelle und -Praxis in
         technologiegestützten Lernräumen ([Pearshouse et al. 2009](../Referenzen.md)) enthält
         eine ähnliche Liste von Aspekten der Lernraumgestaltung, die laut
         den von ihnen ausgewerteten Evaluationen am meisten zum effektiven
@@ -114,7 +114,7 @@ Merkmale des Raumes[^2]:
         Effective Evaluation Models and Practices for Technology Supported
         Physical Learning Spaces. Report produced for Jisc. **[Link zum Report](http://oro.open.ac.uk/29996/2/)**
 
-[^3]: Besucher des [Rolex Centre](http://rolexlearningcenter.epfl.ch/), dem ikonischen Zentrum für
+[^11]: Besucher des [Rolex Centre](http://rolexlearningcenter.epfl.ch/), dem ikonischen Zentrum für
         Lernressourcen an der École Polytechnique Fédérale de Lausanne in
         der Schweiz, wundern sich oft über eine Reihe von scheinbaren
         Fahrspuren aus Gummi, die durch ansonsten minimalistische

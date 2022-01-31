@@ -68,7 +68,7 @@ Dienstleistungen auf eine neue Art und Weise zu erbringen und/oder ihre
 Vorstellungen von Eigentum und Kontrolle zu ändern.
 
 Es ist viel über Veränderungsmanagement in der Hochschulbildung
-geschrieben worden. Im Jisc-Leitfaden[^1] zu diesem Thema wird ein
+geschrieben worden. Im Jisc-Leitfaden[^31] zu diesem Thema wird ein
 gemeinsames Modell erörtert, das fünf verschiedene Strategien zur
 Bewältigung des Wandels aufzeigt:
 
@@ -104,5 +104,5 @@ zusammen mit edukativen Strategien legen werden.
 
 ---
 
-[^1]: Jisc (updated 2014) Change management, The theory, methodologies
+[^31]: Jisc (updated 2014) Change management, The theory, methodologies
     and techniques to help manage change effectively. [Link zu Guide](http://www.jisc.ac.uk/guides/change-management)

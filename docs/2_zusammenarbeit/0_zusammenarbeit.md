@@ -9,7 +9,7 @@ permalink: /docs/2_zusammenarbeit
 
 # 2. Partnerschaftliche Zusammenarbeit
 
-![Meeting](/images/meeting.jpg) [^1]
+![Meeting](/images/meeting.jpg) [^6]
 
 
 **In Kürze**
@@ -61,4 +61,4 @@ Vorschläge im Einzelnen:
     treffen.
 
 ---
-[^1]: Meeting Vektor-Grafik von [Vecteezy](https://de.vecteezy.com/gratis-vektor/meeting)
+[^6]: Meeting Vektor-Grafik von [Vecteezy](https://de.vecteezy.com/gratis-vektor/meeting)

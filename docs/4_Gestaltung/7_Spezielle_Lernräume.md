@@ -129,7 +129,7 @@ Raumkonfiguration zwischen Sitzungen lassen. Die Bereitstellung von
 universellem WLAN, die Verbreitung von tragbaren Nutzergeräten und der
 hohe Grad an Mobilität moderner Möbel macht das ein viel leicht lösbares
 Problem, als es noch vor ein paar Jahren war, z.B. mit Hilfe der „Node
-Chairs“[^5], wie sie an der City University häufig genutzt werden. Das
+Chairs“[^13], wie sie an der City University häufig genutzt werden. Das
 Problem heutzutage liegt vielmehr in der Personalentwicklung und der
 Anregung von akademischen Beschäftigten, die vorhandenen Möglichkeiten
 zur Nutzung einer Reihe von kollaborativen Lern- und Lehrpraktiken voll
@@ -209,6 +209,6 @@ Außenflächen, die Wetterfestigkeit von Mobiliar, Abdeckung und
 Reichweite von Außen-WLAN-Versorgung, usw.
 
 ---
-[^5]: "Node Chairs" haben drehbare Sitzflächen und verstellbare
+[^13]: "Node Chairs" haben drehbare Sitzflächen und verstellbare
     Arbeitsflächen. Sie lassen sich leicht umkonfigurieren, da sie auf
     Rollen stehen.

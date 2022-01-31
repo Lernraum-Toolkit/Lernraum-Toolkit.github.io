@@ -43,10 +43,10 @@ beschränkt durch die Größe in der man im natürlichen Fluss schreiben
 kann. Technik kann für dieses Problem auf folgenden Weise Lösungen
 bieten:
 
--   Nutzung eines Visualisierers[^6] als horizontale Schreibfläche
+-   Nutzung eines Visualisierers[^14] als horizontale Schreibfläche
 
 -   Nutzung eines berührungsempfindlichen, fest installierten
-    Anzeigebildschirms (z.B. ein Smart Sympodium)[^7]
+    Anzeigebildschirms (z.B. ein Smart Sympodium)[^15]
 
 -   Nutzung eines interaktiven Whiteboards dessen Anzeige auf eine
     größere Projektionsoberfläche dupliziert wird
@@ -139,7 +139,7 @@ bieten:
 
 -   Ultrakurzdistanzprojektor sind in kleineren Lernräumen nützlich.
     Während sie bezüglich der maximalen Bildgröße limitiert sind, haben
-    sie den Vorteil, dass sie keinen „Hot Spot“[^8] haben, der zu
+    sie den Vorteil, dass sie keinen „Hot Spot“[^16] haben, der zu
     Nutzenden zurück reflektiert, und die Lehrkraft weder den Projektorstrahl
     versperrt, wenn er vor der Tafel steht, noch selbst dadurch
     geblendet wird.
@@ -181,10 +181,10 @@ bieten:
 -   Die Association for Audio Visual and Education Technology Management (AETM), Australien, bietet nützliche und gut recherchierte Leitlinien zu allen möglichen Aspekten der Integration von AV Systemen in Lernräume (Bilschirme, Beleuchtung, Akustik, Kontrollsysteme, etc.): **[Link zu Webseite](https://guidelines.aetm.org)**
 
 ---
-[^6]: Visualisierer kann man als digitale Overhead-Projektoren
+[^14]: Visualisierer kann man als digitale Overhead-Projektoren
     bezeichnen
 
-[^7]: Link: <http://home.smarttech.com/>
+[^15]: Link: <http://home.smarttech.com/>
 
-[^8]: Ein Punkt innerhalb des projizierten Bildes mit sehr viel größerer
+[^16]: Ein Punkt innerhalb des projizierten Bildes mit sehr viel größerer
     Helligkeit.

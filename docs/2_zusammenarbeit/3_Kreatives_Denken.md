@@ -27,7 +27,7 @@ Designkonzepte in Stein gemeißelt werden.“
 
 Die gute Nachricht ist, dass kreatives Denken eine Fähigkeit ist, die
 sich entwickeln kann und es viele Techniken gibt, die das unterstützen,
-wie z.B. der Learning Space Canvas[^2]:
+wie z.B. der Learning Space Canvas[^8]:
 
 
 Abbildung 3: The Learning Space Canvas
@@ -134,7 +134,7 @@ im Projekt 3D Visualisierungen produzieren zu können.  
 
 ---
 
-[^2]: This graphic-free version of The Learning Space Canvas is
+[^8]: This graphic-free version of The Learning Space Canvas is
     reproduced by kind permission of Prof Robert Fitzgerald, INSPIRE
     Centre, University of Canberra. The original can be found here:
     <http://bit.ly/learningspacecanvas>

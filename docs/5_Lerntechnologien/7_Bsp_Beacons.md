@@ -20,16 +20,16 @@ einem Geschäft zu erkennen und relevante Werbung an die Kunden und Kundinnen zu
 schicken.
 
 Sie können jedoch auch bei der Bereitstellung von Lerninhalten Anwendung
-finden und sind auch im Bereich der Lernanalytik[^3] von Bedeutung, wo
-die Anwesenheit[^4] und die Nutzung institutioneller Einrichtungen als
+finden und sind auch im Bereich der Lernanalytik[^26] von Bedeutung, wo
+die Anwesenheit[^27] und die Nutzung institutioneller Einrichtungen als
 potenzielle Indikatoren für die Leistung von Studierenden angesehen
 werden. Sie können auch bei der Evaluierung von Nutzungsmustern von
 Lernräumen von Bedeutung sein.
 
 ---
-[^3]: <https://www.bildungsserver.de/Learning-Analytics-ein-internationaler-UEberblick-7514_ger.html>
+[^26]: <https://www.bildungsserver.de/Learning-Analytics-ein-internationaler-UEberblick-7514_ger.html>
 
-[^4]: Die University of Bradford verwendet iBeacons. Das Projekt, das
+[^27]: Die University of Bradford verwendet iBeacons. Das Projekt, das
     Bradford zur Einführung von iBeacons durchgeführt hat, wurde mit dem
     Amber Miro Memorial Award 2015 ausgezeichnet. Ein kurzes Video
     stellt das Projekt vor: [Link zu youtube Video](https://www.youtube.com/watch?v=H2YMpGqfqzs&feature=youtu.be)
