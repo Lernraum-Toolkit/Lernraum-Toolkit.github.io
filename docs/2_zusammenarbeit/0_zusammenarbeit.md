@@ -9,7 +9,7 @@ permalink: /docs/2_zusammenarbeit
 
 # 2. Partnerschaftliche Zusammenarbeit
 
-![Meeting](/images/meeting.jpg) [^6]
+![Meeting](../0_Abbildungen/02-00_Meeting.jpg) [^6]
 
 
 **In Kürze**
