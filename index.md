@@ -19,20 +19,20 @@ Das Lernraum Toolkit soll gesammelte Informationen zur Gestaltung von Lernräume
 **Hintergrund**
 {: .fs-4 .fw-400 .lh-tight }
 
-Im Zuge der Digitalisierung in allen Bereichen unserer Gesellschaft wandelt sich auch der Auftrag von (wissenschaftlichen) Bibliotheken immer weiter weg von klassischen Dienstleistungen wie dem Leihverkehr.
-
-**Hintergrund**
-{: .fs-5 .fw-400 .lh-tight }
-
-Im Zuge der Digitalisierung in allen Bereichen unserer Gesellschaft wandelt sich auch der Auftrag von (wissenschaftlichen) Bibliotheken immer weiter weg von klassischen Dienstleistungen wie dem Leihverkehr.
+Hintergrund
+{: .fs-4 .fw-400 .lh-tight }
 
 **Hintergrund**
 {: .fs-4 .fw-500 .lh-tight }
 
-Im Zuge der Digitalisierung in allen Bereichen unserer Gesellschaft wandelt sich auch der Auftrag von (wissenschaftlichen) Bibliotheken immer weiter weg von klassischen Dienstleistungen wie dem Leihverkehr.
+Hintergrund
+{: .fs-4 .fw-500 .lh-tight }
 
-**Hintergrund**
-{: .fs-5 .fw-500 .lh-tight }
+Hintergrund
+{: .fs-4 .fw-600 .lh-tight }
+
+Hintergrund
+{: .fs-4 .fw-700 .lh-tight }
 
 Im Zuge der Digitalisierung in allen Bereichen unserer Gesellschaft wandelt sich auch der Auftrag von (wissenschaftlichen) Bibliotheken immer weiter weg von klassischen Dienstleistungen wie dem Leihverkehr. Entgegen früherer Prognosen sind Bibliotheken als physische Lernorte beliebter denn je und Einrichtungen müssen auf diesen gestiegenen Bedarf reagieren. Damit stehen viele Einrichtungen vor der komplexen Planungsaufgabe neue Konzepte für Lernräume zu entwerfen und umzusetzen, ob im Rahmen von Umgestaltungen oder Umwidmung von Bereichen oder im Rahmen von Neubauten. Dabei verschiebt sich der Fokus von der reinen quantitativen Aufstockung, z.B. mehr Einzelarbeitsplätze anzubieten, hin zu qualitativen Veränderungen, z.B. abwechslungsreichere Arbeitsplatzangebote mit vielfältiger Ausstattung bieten, verschiedene Aktivitäten ermöglichen, soziale Begegnungsmöglichkeiten schaffen und technische Lösungen mitdenken. Viele Einrichtungen finden für dieses Herausforderungen eigene Lösungen, im deutschsprachigen Bereich fehlt aber eine Sammlung von Informationen, Empfehlungen und Best Practices, die die Gestaltung von Lernräumen im universitären Kontext fundiert unterstützen kann. Diese Lücke versucht das Lernraum Toolkit basierend auf zwei Toolkits aus dem englischsprachigen Sprachraum zu schließen.
 
