@@ -9,7 +9,7 @@ permalink: /docs/1_paedagogik
 
 # 1. Eine neue Pädagogik schaffen
 
-## In Kürze
+**In Kürze**
 - Wie beeinflusst die Art und Weise der Gestaltung des physischen Raums das Lernen im Raum?
 - aktuelle Trends in Lern- und Lehrpraxis
 - Notwendigkeit einer Reihe von Leitprinzipien für die Gestaltung von Lernräumen
