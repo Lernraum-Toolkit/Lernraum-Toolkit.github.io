@@ -5,7 +5,7 @@ parent: 6. Service
 nav_order: 4
 ---
 
-# 6.4 Erfolgstipps
+## 6.4 Erfolgstipps
 
 *Bei den folgenden Punkten handelt es sich um taktische Schritte bei der
 Planung, dem Betrieb und der Evaluation von Serviceangeboten in

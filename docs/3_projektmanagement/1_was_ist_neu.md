@@ -4,7 +4,7 @@ title: 3.1 Was ist neu?
 parent: 3. Lernraumprojekt managen
 nav_order: 1
 ---
-# 3.1 Was ist neu / anders?
+## 3.1 Was ist neu / anders?
 Viele Universitäten haben bereits einen Projektmanagement-Ansatz, den
 sie für ihre Projekte anwenden und viele Fachleute, die dieses Toolkit lesen,
 haben wahrscheinlich bereits irgendeine Art von

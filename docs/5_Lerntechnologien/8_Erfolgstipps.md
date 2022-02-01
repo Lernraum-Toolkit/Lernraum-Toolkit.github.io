@@ -5,7 +5,7 @@ parent: 5. Lerntechnologien
 nav_order: 8
 ---
 
-# 5.8 Erfolgstipps
+## 5.8 Erfolgstipps
 
 *Die folgende Liste ist eine Zusammenstellung von strategischen
 Techniken und Methoden bei der Planung, Durchführung und Bewertung von

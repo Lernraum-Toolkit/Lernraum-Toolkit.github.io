@@ -5,7 +5,7 @@ parent: 3. Lernraumprojekt managen
 nav_order: 4
 ---
 
-# 3.4 Kommunikation
+## 3.4 Kommunikation
 
 Es ist wichtig, sicherzustellen, dass von Anfang an gute
 Kommunikationskanäle aufgebaut und aufrechterhalten werden, um zu

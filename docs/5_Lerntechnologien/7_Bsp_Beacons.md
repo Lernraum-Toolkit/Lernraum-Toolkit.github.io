@@ -5,7 +5,7 @@ parent: 5. Lerntechnologien
 nav_order: 7
 ---
 
-# 5.7 Beispiel Beacons
+## 5.7 Beispiel Beacons
 
 Die Möglichkeiten des Einsatzes von Technologie zur Schaffung
 intelligenter Gebäude (z.B. zur Steuerung des Energieverbrauchs) werden

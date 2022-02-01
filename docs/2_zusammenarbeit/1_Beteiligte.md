@@ -4,7 +4,7 @@ title: 2.1 Beteiligte
 parent: 2. Zusammenarbeit
 nav_order: 1
 ---
-# 2.1 Die richtigen Leute an den Tisch bekommen
+## 2.1 Die richtigen Leute an den Tisch bekommen
 
 Die Stakeholder, die in ein Lernraumprojekt involviert sind, können als
 Teil eines Universitäts-Ökosystems gesehen werden. In groben Zügen sieht

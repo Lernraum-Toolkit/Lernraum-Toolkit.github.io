@@ -6,7 +6,7 @@ grand_parent: 6. Service
 nav_order: 4
 ---
 
-## 6.2.4 Journey Map {#_6.2.4}
+### 6.2.4 Journey Map {#_6.2.4}
 
 Eine Customer Journey Map ist eine visuelle Darstellung, die zeigt, wie
 ein Kunde oder Nutzer eine Dienstleistung im Laufe der Zeit erlebt.

@@ -5,7 +5,7 @@ parent: 4. Konkrete Gestaltung
 nav_order: 9
 ---
 
-# 4.9 Visuelle Standards
+## 4.9 Visuelle Standards
 {: .no_toc }
 
 <details open markdown="block">
@@ -55,7 +55,7 @@ bieten:
     Projektionsfläche gespiegelt wird (möglicherweise über den festen
     PC am Dozierendenpult)
 
-## Visuelle Designempfehlungen
+### Visuelle Designempfehlungen
 
 -   Die Dimensionen eines projizierten Bildes in Lernräumen sollte
     proportional zum Sichtabstand sein. Der maximal akzeptable
@@ -115,7 +115,7 @@ bieten:
     sind. Sicherstellen, dass Lernende arbeiten können während die
     Lehrwand immer noch sichtbar ist.
 
-## Hinweise und Tipps
+### Hinweise und Tipps
 
 -   Die Bereitstellung von „Confidence Monitoren“ (Vorschaumonitoren) an
     der Vorderseite des Raums, ausgerichtet auf den Lehrenden (aber ohne
@@ -172,7 +172,7 @@ bieten:
     werden aufgrund des Risikos für versehentliche oder absichtliche
     Beschädigung.
 
-## Ressourcen spezifisch für visuelle Standards
+### Ressourcen spezifisch für visuelle Standards
 
 -   Die Spaces & Audiovisual Guidelines des University College London gibt allgemeine Hinweise zur Gestaltung von Räumen, die für den Unterricht genutzt werden, und enthält eine umfassende Diskussion über die Arten von audiovisuellen Ausstattungen, die für  verschiedene Arten von Räumen geeignet sind: University College London Spaces & Audio Visual Guidelines v3.0.1, Information Services Division Spaces & AV Team (2017). **[Link zu PDF](https://www.ucl.ac.uk/isd/sites/isd/files/ucl-spaces-av-guidelines-v3-0-1.pdf)**
 

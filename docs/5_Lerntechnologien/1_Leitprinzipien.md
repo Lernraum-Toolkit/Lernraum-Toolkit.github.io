@@ -5,7 +5,7 @@ parent: 5. Lerntechnologien
 nav_order: 1
 ---
 
-# 5.1 Leitprinzipien
+## 5.1 Leitprinzipien
 
 *Die folgenden Punkte sind allgemein anerkannte Techniken, Methoden und
 Prozesse zur Vorstellung, Planung, Implementierung und Aufrechterhaltung

@@ -5,7 +5,7 @@ parent: 8. Change Management
 nav_order: 3
 ---
 
-# 8.3 Unterstützung von Studierenden
+## 8.3 Unterstützung von Studierenden
 
 Im Allgemeinen scheinen Studierende weniger Schwierigkeiten zu haben als
 das Personal, sich an neue Lernräume anzupassen und geeignete Wege zu

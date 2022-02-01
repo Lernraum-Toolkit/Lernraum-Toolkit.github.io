@@ -5,7 +5,7 @@ parent: 5. Lerntechnologien
 nav_order: 5
 ---
 
-# 5.5 Lebenszyklus-Strategien
+## 5.5 Lebenszyklus-Strategien
 
 Teil der Erstellung eines soliden Technologieplans ist das Schaffen
 eines ausgewogenen und vielfältigen Portfolios von Technologien, das

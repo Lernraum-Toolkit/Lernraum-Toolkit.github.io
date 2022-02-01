@@ -5,7 +5,7 @@ parent: 5. Lerntechnologien
 nav_order: 2
 ---
 
-# 5.2 Technologie Design Prozess
+## 5.2 Technologie Design Prozess
 
 <img src="./images/image1.png" style="width:6.47009in;height:2.5849in" alt="Technology Design Process" />
 

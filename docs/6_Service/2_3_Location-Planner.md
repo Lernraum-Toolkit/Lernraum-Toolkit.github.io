@@ -6,7 +6,7 @@ grand_parent: 6. Service
 nav_order: 3
 ---
 
-## 6.2.3 Service Location Planner {#_6.2.3}
+### 6.2.3 Service Location Planner {#_6.2.3}
 
 Der Service Location Planner ist ein einfaches Werkzeug, um zu planen,
 wo und wann Dienstleistungen angeboten werden - innerhalb eines

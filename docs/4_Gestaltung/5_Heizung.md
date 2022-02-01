@@ -4,7 +4,7 @@ title: 4.5 Heizung, Belüftung und Kühlung
 parent: 4. Konkrete Gestaltung
 nav_order: 5
 ---
-# 4.5 Heizung, Belüftung und Kühlung
+## 4.5 Heizung, Belüftung und Kühlung
 
 Heizung, Belüftung und Kühlung sind in der Regel miteinander verbunden,
 obwohl sie im Sinne von Gebäudesystemen genauso auch einzeln

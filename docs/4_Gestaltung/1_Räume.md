@@ -4,7 +4,7 @@ title: 4.1 Räume planen
 parent: 4. Konkrete Gestaltung
 nav_order: 1
 ---
-# 4.1 Räume planen
+## 4.1 Räume planen
 {: .no_toc }
 
 <details open markdown="block">
@@ -25,7 +25,7 @@ man selbst plant: den Zweck, die Nachhaltigkeit der Dienstleistungen,
 mit denen man ihn unterstützen will, und die Technologie und die
 Ausstattung, die den Raum aufwerten können.
 
-## 4.1.1 Leitprinzipien
+### 4.1.1 Leitprinzipien
 
 **Konzeption der Räume** während der anfänglichen Programmplanungs- und
 Vorentwurfsphasen.
@@ -115,7 +115,7 @@ Gebrauch sind.
     Feinabstimmung erforderlich ist, um die Bedürfnisse der Nutzenden zu
     erfüllen.
 
-## 4.1.2 Werkzeuge
+### 4.1.2 Werkzeuge
 
 **Templates für Raum- und Nachbarschaftsbeschreibungen**
 
@@ -142,7 +142,7 @@ verschiedenen Facetten von Lernräumen explizit berücksichtigt werden.
 
 <img src="./media/image1.png" style="width:6.53913in;height:6.01789in" alt="https://learningspacetoolkit.org/wp-content/uploads/Learning-Space-Taxonomy.png" />
 
-## 4.1.3 Erfolgstipps
+### 4.1.3 Erfolgstipps
 
 **Programmplanung und Vorentwurf**
 

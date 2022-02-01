@@ -5,7 +5,7 @@ parent: 9. Integration
 nav_order: 2
 ---
 
-# 9.2 Integratives Budgetierungstool 
+## 9.2 Integratives Budgetierungstool 
 
 Das integrative Budgetierungstool ermöglicht es, Kostenaufstellungen für
 die zu bauenden/zu renovierenden Räume, die technische Ausstattung und

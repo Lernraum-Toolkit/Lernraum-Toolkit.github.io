@@ -5,7 +5,7 @@ parent: 3. Lernraumprojekt managen
 nav_order: 3
 ---
 
-# 3.3 Mit professionellen Beratern und Beraterinnen zusammenarbeiten
+## 3.3 Mit professionellen Beratern und Beraterinnen zusammenarbeiten
 
 In einem bedeutendem Lernraumprojekt, v.a. einem das einen Neubau
 beinhaltet, wird man wahrscheinlich mit einer Reihe von professionellen

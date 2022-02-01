@@ -6,7 +6,7 @@ grand_parent: 6. Service
 nav_order: 2
 ---
 
-## 6.2.2 Personas {#_6.2.2}
+### 6.2.2 Personas {#_6.2.2}
 
 Personas sind fiktive Charaktere, die geschaffen werden, um bestimmte
 Schlüsselmerkmale von Zielbenutzergruppen zu verkörpern. Mit Personas

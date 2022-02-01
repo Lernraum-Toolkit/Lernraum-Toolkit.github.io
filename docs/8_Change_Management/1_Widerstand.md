@@ -5,7 +5,7 @@ parent: 8. Change Management
 nav_order: 1
 ---
 
-# 8.1  Widerstand gegen Veränderungen
+## 8.1  Widerstand gegen Veränderungen
 
 Es gibt auch eine beträchtliche Anzahl von Untersuchungen zum
 Veränderungsmanagement, die den Übergang von der Veränderung abgrenzen

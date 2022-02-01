@@ -5,7 +5,7 @@ parent: 4. Konkrete Gestaltung
 nav_order: 6
 ---
 
-# 4.6 Beleuchtung
+## 4.6 Beleuchtung
 {: .no_toc }
 
 <details open markdown="block">

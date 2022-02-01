@@ -5,7 +5,7 @@ parent: 8. Change Management
 nav_order: 5
 ---
 
-# 8.5 Arbeitspraktiken ändern
+## 8.5 Arbeitspraktiken ändern
 
 Neue Lernräume können neue Arbeitsweisen fördern oder fordern. Hier
 einige Beispiele:

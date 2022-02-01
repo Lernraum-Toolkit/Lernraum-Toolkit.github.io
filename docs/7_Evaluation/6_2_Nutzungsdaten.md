@@ -7,7 +7,7 @@ nav_order: 2
 ---
 
 
-## 7.6.2 Nutzungsdaten
+### 7.6.2 Nutzungsdaten
 
 Wenn man einen neuen Raum umgestaltet oder einen völlig neuen entwirft,
 kann es sein, dass in der Einrichtung bereits Daten gesammelt wurden,

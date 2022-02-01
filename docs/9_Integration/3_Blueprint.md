@@ -5,7 +5,7 @@ parent: 9. Integration
 nav_order: 3
 ---
 
-# 9.3 Integrationsplan (Blueprint)
+## 9.3 Integrationsplan (Blueprint)
 
 Eine erfolgreiche Lernumgebung ist mehr als die Summe ihrer Teile. Sie
 ist ein integriertes Ganzes in der jeder Aspekt die anderen verstärkt

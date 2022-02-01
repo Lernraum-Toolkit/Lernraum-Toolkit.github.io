@@ -8,7 +8,7 @@ has_toc: true
 ---
 
 
-# 7.6 Methoden zum Sammeln von Information
+## 7.6 Methoden zum Sammeln von Information
 {: .no_toc }
 
 <details open markdown="block">

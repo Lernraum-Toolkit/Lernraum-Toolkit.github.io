@@ -6,7 +6,7 @@ nav_order: 5
 ---
 
 
-# 7.5 Good Practice bei der Planung und Umsetzung von Bedarfs- und Post-Occupancy-Erfassung
+## 7.5 Good Practice bei der Planung und Umsetzung von Bedarfs- und Post-Occupancy-Erfassung
 
 Im Folgenden werden bewährte Verfahren, Methoden und Techniken
 zusammengefasst, die die Beurteilung in Bezug auf Lernräume

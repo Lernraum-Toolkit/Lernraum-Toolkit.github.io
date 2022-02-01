@@ -5,7 +5,7 @@ parent: 4. Konkrete Gestaltung
 nav_order: 4
 ---
 
-# 4.4 Funktionale Raumstandards
+## 4.4 Funktionale Raumstandards
 
 Für jeden einzelnen Raum oder Zone innerhalb eines Lernraums muss man
 die Tätigkeiten, die dort stattfinden werden, verstehen, um die

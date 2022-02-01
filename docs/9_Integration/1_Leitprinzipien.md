@@ -6,7 +6,7 @@ nav_order: 1
 ---
 
 
-# 9.1 Leitprinzipien
+## 9.1 Leitprinzipien
 
 Aufgelistet sind hier generell akzeptierte Prinzipien und Prozesse zur
 endgültigen Planung von Lernräumen unter Verwendung der zuvor

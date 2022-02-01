@@ -6,7 +6,7 @@ nav_order: 7
 ---
 
 
-# 7.7 Daten verarbeiten
+## 7.7 Daten verarbeiten
 
 Nachdem die Daten über die Benutzer gesammelt wurden, müssen die
 Ergebnisse analysiert und zusammengefasst werden, damit man die

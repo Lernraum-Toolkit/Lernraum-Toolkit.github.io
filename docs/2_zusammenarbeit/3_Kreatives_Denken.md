@@ -5,7 +5,7 @@ parent: 2. Zusammenarbeit
 nav_order: 3
 ---
 
-# 2.3 Kreatives Denken für eine andere Zukunft
+## 2.3 Kreatives Denken für eine andere Zukunft
 
 Einer der schwierigsten Aspekte für viele Beteiligte eines
 Lernraumprojekts ist es, sich Räume vorzustellen, die sich sehr von denen

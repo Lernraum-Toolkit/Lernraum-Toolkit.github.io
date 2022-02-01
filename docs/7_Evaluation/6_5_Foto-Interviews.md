@@ -7,7 +7,7 @@ nav_order: 5
 ---
 
 
-## 7.6.5 Foto-Interviews / Fototagebuch
+### 7.6.5 Foto-Interviews / Fototagebuch
 
 Das Foto-Interview oder Fototagebuch ist eine qualitative
 Forschungsmethode, bei der der Untersucher dem Befragten eine Kamera und

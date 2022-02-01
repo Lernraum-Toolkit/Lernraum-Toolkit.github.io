@@ -5,7 +5,7 @@ parent: 6. Service
 nav_order: 3
 ---
 
-# 6.3 Personalplanung für den Service
+## 6.3 Personalplanung für den Service
 
 Die Abschätzung des benötigten Personals trägt entscheidend dazu bei, zu
 verstehen, wie die Serviceleistungen und der Support innerhalb eines

@@ -7,7 +7,7 @@ nav_order: 3
 ---
 
 
-## 7.6.3 Beobachtung
+### 7.6.3 Beobachtung
 
 Die formale Beobachtung der Benutzer ist eine kostengünstige Methode, um
 mehr über das Verhalten der Lernenden und die Nutzung der vorhandenen

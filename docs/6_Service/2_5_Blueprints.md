@@ -6,7 +6,7 @@ grand_parent: 6. Service
 nav_order: 5
 ---
 
-## 6.2.5 Servicekonzept (Blueprint) {#_6.2.5}
+### 6.2.5 Servicekonzept (Blueprint) {#_6.2.5}
 
 Ein Servicekonzept (Blueprint = „Blaupause“) ist ein operatives
 Planungsinstrument für die Bereitstellung eines Dienstes, in dem die

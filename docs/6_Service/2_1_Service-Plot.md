@@ -6,7 +6,7 @@ grand_parent: 6. Service
 nav_order: 1
 ---
 
-## 6.2.1 Service Plot {#_6.2.1}
+### 6.2.1 Service Plot {#_6.2.1}
 
 *Was ist die eigene Servicephilosophie?*
 

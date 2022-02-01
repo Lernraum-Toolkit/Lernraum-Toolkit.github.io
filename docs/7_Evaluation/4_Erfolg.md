@@ -6,7 +6,7 @@ nav_order: 4
 ---
 
 
-# 7.4  Erfolgskriterien
+## 7.4  Erfolgskriterien
 
 Der Learning and Skills Council, der (bis zu seiner Auflösung im Jahr
 2010) für ein Hochschulbauprogramm in Bereich der Höheren

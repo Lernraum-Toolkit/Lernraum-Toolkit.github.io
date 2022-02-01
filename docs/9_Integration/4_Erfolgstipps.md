@@ -5,7 +5,7 @@ parent: 9. Integration
 nav_order: 4
 ---
 
-# 9.4 Erfolgstipps
+## 9.4 Erfolgstipps
 
 *Hier aufgelistet sind taktische Schritte, die notwendig sind um die
 vielfältigen Planungsbereiche zusammen zu bringen (Räume, Service,

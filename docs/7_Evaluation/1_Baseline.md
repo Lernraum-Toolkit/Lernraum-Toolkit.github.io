@@ -6,7 +6,7 @@ nav_order: 1
 ---
 
 
-# 7.1  Baseline erstellen
+## 7.1  Baseline erstellen
 
 Eine Baseline (bzw. Bedarfserfassung) ist ein Ausgangspunkt, anhand
 dessen man zeigen kann, dass das Projekt zu einer spürbaren Verbesserung

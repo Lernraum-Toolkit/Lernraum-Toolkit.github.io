@@ -5,7 +5,7 @@ parent: 5. Lerntechnologien
 nav_order: 4
 ---
 
-# 5.4 Technologiepartner und -partnerinnen einbinden
+## 5.4 Technologiepartner und -partnerinnen einbinden
 
 Die Gestaltung von Technologie für Lernräume erfordert die
 Zusammenarbeit einer Vielzahl von internen und externen Partnern und Partnerinnen. Dazu

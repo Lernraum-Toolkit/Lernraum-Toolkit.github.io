@@ -5,7 +5,7 @@ parent: 7. Evaluation
 nav_order: 3
 ---
 
-# 7.3 Was evaluieren wir in einem Lernraum und warum?
+## 7.3 Was evaluieren wir in einem Lernraum und warum?
 
 Eine typische POE, wie im Abschnitt [POE](../2_POE.md) skizziert, erfüllt eine wesentliche Funktion in
 Bezug auf Bauprojekte und Immobilienverwaltung, aber dieser Abschnitt

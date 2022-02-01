@@ -5,7 +5,7 @@ parent: 8. Change Management
 nav_order: 4
 ---
 
-# 8.4  Lernräume verwalten
+## 8.4  Lernräume verwalten
 
 Viele Universitäten verfolgen nicht nur bei der Entwicklung von
 Lernräumen einen partnerschaftlichen Ansatz, sondern erkennen auch, dass

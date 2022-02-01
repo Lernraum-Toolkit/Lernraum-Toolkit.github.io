@@ -5,7 +5,7 @@ parent: 6. Service
 nav_order: 1
 ---
 
-# 6.1 Leitprinzipien
+## 6.1 Leitprinzipien
 
 Die folgenden Prinzipien sollen die Planung, Implementierung, Betrieb
 und Evaluation von Support-Services innerhalb von Lernräumen leiten.

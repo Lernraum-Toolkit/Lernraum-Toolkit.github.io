@@ -5,7 +5,7 @@ parent: 5. Lerntechnologien
 nav_order: 3
 ---
 
-# 5.3 Rolle der Technologiefachkraft
+## 5.3 Rolle der Technologiefachkraft
 
 Die Technologiefachkraft ist ein wichtiges Mitglied des Lernraumteams. Während
 größere Organisationen eine Person haben, die sich voll dieser Rolle

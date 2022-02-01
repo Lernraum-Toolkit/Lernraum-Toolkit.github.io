@@ -5,7 +5,7 @@ parent: 8. Change Management
 nav_order: 2
 ---
 
-# 8.2  Berufliche Weiterentwicklung
+## 8.2  Berufliche Weiterentwicklung
 
 Wir haben in den vorangegangenen Abschnitten über die Notwendigkeit
 gesprochen, dass eine Institution gemeinsame Werte über die zu fördernde

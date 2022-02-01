@@ -7,7 +7,7 @@ has_toc: true
 nav_order: 2
 ---
 
-# 6.2 Service Design Prozess
+## 6.2 Service Design Prozess
 
 Die Gestaltung von Serviceangeboten innerhalb von Lernräumen erfordert
 eine spezielle Denkweise und Tools. Das bedeutet, dass man zunächst die

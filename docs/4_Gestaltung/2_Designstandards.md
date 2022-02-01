@@ -4,7 +4,7 @@ title: 4.2 Designstandards
 parent: 4. Konkrete Gestaltung
 nav_order: 2
 ---
-# 4.2 Einführung in Designstandards
+## 4.2 Einführung in Designstandards
 
 Die Empfehlungen in diesem Abschnitt basieren auf drei wesentlichen
 Voraussetzungen[^9]:

@@ -5,7 +5,7 @@ parent: 3. Lernraumprojekt managen
 nav_order: 5
 ---
 
-# 3.5 Realitätschecks
+## 3.5 Realitätschecks
 Es zahlt sich aus regelmäßig Realitätschecks auf die Designideen
 anzuwenden. Das Baudezernat / Bauamt, Architekt/-in und Berater/-innen werden einen
 dabei unterstützen, aber es ist immer gut, auch Leute mit lokalem

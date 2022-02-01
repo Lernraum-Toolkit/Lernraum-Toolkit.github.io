@@ -5,7 +5,7 @@ parent: 4. Konkrete Gestaltung
 nav_order: 3
 ---
 
-# 4.3 Langlebigkeit 
+## 4.3 Langlebigkeit 
 
 Der Ausdruck „long life, loose fit, low energy“ (etwa “Langes Leben,
 lockerer Sitz, niedrige Energie”, [Langston, 2014](../Referenzen.md)), der 1972 durch den

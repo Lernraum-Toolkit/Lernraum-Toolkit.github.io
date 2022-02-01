@@ -5,7 +5,7 @@ parent: 5. Lerntechnologien
 nav_order: 6
 ---
 
-# 5.6 Beispiel: Schreibtechnologien
+## 5.6 Beispiel: Schreibtechnologien
 
 Man hätte diesen Abschnitt vielleicht mit dem Untertitel
 Low-Tech-Technologien versehen können, da einige Geräte, die die

@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 
-## 7.6.1 Trends und Berichte
+### 7.6.1 Trends und Berichte
 
 Es ist sinnvoll im Rahmen der Bedarfsanalyse mehr über Entwicklungen im
 Lehr- und Lernbereich zu erfahren, sowohl auf Ebene der eigenen

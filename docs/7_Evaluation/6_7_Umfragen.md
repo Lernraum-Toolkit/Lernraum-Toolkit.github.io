@@ -7,7 +7,7 @@ nav_order: 7
 ---
 
 
-## 7.6.7 Umfragen
+### 7.6.7 Umfragen
 
 Umfragen können eine Fülle von Informationen über die Präferenzen und
 das Verhalten der Nutzer bezüglich bestehender Lernräume und

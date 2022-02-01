@@ -6,7 +6,7 @@ grand_parent: 7. Evaluation
 nav_order: 6
 ---
 
-## 7.6.6 Fokusgruppen
+### 7.6.6 Fokusgruppen
 
 Fokusgruppen können genutzt werden, um die Arbeitsgewohnheiten der
 Teilnehmer, die Art ihrer Arbeitsaufgaben, Schwachstellen in den

@@ -5,7 +5,7 @@ parent: 4. Konkrete Gestaltung
 nav_order: 7
 ---
 
-# 4.7 Überlegungen zu speziellen Lernräumen
+## 4.7 Überlegungen zu speziellen Lernräumen
 {: .no_toc }
 
 <details open markdown="block">
@@ -42,7 +42,7 @@ PC Pools = 2,75 m² pro Person
 
 *Abschnitt zu “Interaktiven Hörsälen”** aus der deutschen Übertragung rausgelassen (bei Interesse, siehe [UK Toolkit](https://www.ucisa.ac.uk/learningspace), Kapitel 4.6)
 
-## 4.7.1 Unterrichtsräume für Aktives Lernen
+### 4.7.1 Unterrichtsräume für Aktives Lernen
 
 Der Begriff Seminarraum wird hier genutzt um Räume zu beschreiben, die
 für eine Reihe von formalen, gerichteten Lernaktivitäten genutzt werden,
@@ -143,7 +143,7 @@ der nächste Lehrende reinkommen und entscheiden kann, was er/sie
 braucht. Dies bedeutet, die Situation in Frage zu stellen, in der
 Lehrende einfach das Layout akzeptieren mit dem sie konfrontiert werden.
 
-## 4.7.2 Computerräume
+### 4.7.2 Computerräume
 
 Mit Computerräumen sind Räume mit Desktop-PCs gemeint, die einige oder
 alle der folgenden Funktionen erfüllen:
@@ -194,7 +194,7 @@ aufgestellt werden, dass sie einfaches Kippen und Höhenanpassungen des
 Displays durch den Nutzer erleichtern, und Stühle sollten standardmäßig
 drehbar, auf Laufrollen und verstellbar sein.
 
-## 4.7.3 Outdoor-Lernräume / Sommerlesesaal
+### 4.7.3 Outdoor-Lernräume / Sommerlesesaal
 
 Im Rahmen der COVID-19 Pandemie steigt der Bedarf an Lernmöglichkeiten
 unter Einhaltung von Hygienemaßnahmen und setzt dabei schon vorhandene

@@ -5,7 +5,7 @@ parent: 4. Konkrete Gestaltung
 nav_order: 8
 ---
 
-# 4.8 Audio Standards
+## 4.8 Audio Standards
 {: .no_toc }
 
 <details open markdown="block">
@@ -94,7 +94,7 @@ helfen, diese Art von Fehlern zu vermeiden.
 
 *Ausführungen zu “Assistive listening systems”* aus der deutschen Übertragung rausgelassen (bei Interesse, siehe [UK Toolkit](https://www.ucisa.ac.uk/learningspace), Kapitel 4.7)
 
-## Hinweise und Tipps
+### Hinweise und Tipps
 
 -   Keine multidirektionalen Mikrophone in der Nähe von Lärmquellen wie
     Projektoren oder Heizungs-/Belüftungs-/Kühlungssystemen platzieren.
@@ -116,7 +116,7 @@ helfen, diese Art von Fehlern zu vermeiden.
     unkomplizierteste Weg damit umzugehen ist Gummistopfen an den Füßen
     der Stühle zu befestigen.
 
-## Ressourcen spezifisch für Akustik/Audio
+### Ressourcen spezifisch für Akustik/Audio
 
 -   Akustische Designstandards für Lernräume in Bildungseinrichtungen, die vom Department for Education (UK) festgelegt wurden: **[Link zu PDF](http://www.gov.uk/government/uploads/system/uploads/attachment_data/file/400784/BB93_February_2015.pdf)**
 
