@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Allgemeine Ressourcen
-nav_order: 10
+nav_order: 11
 has_children: false
 has_toc: false
 permalink: /docs/
