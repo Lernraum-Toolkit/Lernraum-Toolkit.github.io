@@ -40,6 +40,12 @@ permalink: /docs/
 
 ## Theoretischer Hintergrund zur Raumnutzung Studierender und Lernraumgestaltung und -management
 
+-   Auseinandersetzung mit bibliothekssoziologischen und lernpsychologischen
+    Erkenntnissen über das Lernen und Arbeiten in Wissenschaftlichen
+    Bibliotheken, die Grundlagen für die Planung und Gestaltung liefert:
+    Eigenbrodt, O. (2021). *Lernwelt Wissenschaftliche Bibliothek: Pädagogische und raumtheoretische Facetten.* Berlin: De Gruyter. doi: **[10.1515/9783110402025](https://doi.org/10.1515/9783110402025)**
+
+
 -   sehr gute, konkrete Übertragung von architekturpsychologischen
     Erkenntnissen auf Bibliotheksgestaltung für eine mögliche
     Verhaltenssteuerung der Nutzer: Depping, R. (2013). Können
@@ -112,6 +118,12 @@ permalink: /docs/
 
 ## Praxisbeispiele / Good Practice
 
+-   Sammlung reich bebilderter und ausführlich vorgestellter Praxisbeispiele
+    aus dem deutschsprachigen Raum: Holländer, S., Sühl-Strohmenger, W., Syré,
+    L., & Straub, M. (2021). *Hochschulbibliotheken auf dem Weg zu Lernzentren
+    Beispiele aus Deutschland, Österreich und der Schweiz.* Wiesbaden:
+    b.i.t.verlag gmbh. **[Link zu Leseprobe](https://www.b-i-t-online.de/daten/bit_Innovativ_80_Hollaender-et-al_Leseprobe.pdf)**
+
 -   Vorstellung einiger europäischer Beispiele für Gestaltung von Lehr-
     und Lernzentren, u.a. LEO Lernort (Universität Kassel) und
     Learning Center, UB Mannheim: Wertz, I. (2020).
@@ -123,6 +135,12 @@ permalink: /docs/
     Hochschule der Medien Stuttgart: Prill, A. (2019). *Lernräume der
     Zukunft Vier Praxisbeispiele zu Lernraumgestaltung im digitalen
     Wandel*. 32. **[Link zu PDF](https://hochschulforumdigitalisierung.de/sites/default/files/dateien/HFD_AP_45-Lernraeume_der_Zukunft_Praxisbeispiele_Web.pdf)**
+
+-   **[Lernangebote der Universitätsbibliothek Freiburg](https://www.ub.uni-freiburg.de/lernort/)**
+
+-   **[Blended Learning in der Lernwelt](https://www.liv-projekte.de/lernwelt)** des LIV Heilbronn
+
+-   **[ExpLAB Schloss Schneckenhof](https://www.bib.uni-mannheim.de/standorte/explab-schloss-schneckenhof/)** der Universitätsbibliothek Mannheim mit Angeboten zu kreativem, gemeinschaftlichen Lernen mit moderner technischer Infrastruktur
 
 -   **[Selbstlernzentrum LEO](https://www.uni-kassel.de/einrichtung/servicecenter-lehre/besser-studieren/leo-lernort)** der Universität Kassel
 
@@ -147,6 +165,8 @@ permalink: /docs/
     University of Luxembourg
 
 -   **[Learning Spaces](https://www.city.ac.uk/lead/learning-spaces/about)** von City, University of London
+
+-   Projektbericht zur Umgestaltung vom Lesesaal zu multifunktionalen Lernräumen an der Pädagogischen Hochschule Ludwigsburg: Spary, C. (2021). Open Campus: Learning Commons an der PH Ludwigsburg. **[Link zum Projektbericht](https://phbl-opus.phlb.de/frontdoor/index/index/start/0/rows/10/sortfield/score/sortorder/desc/searchtype/simple/query/spary/docId/813)**
 
 -   Beschreibung des Umbaus Medizinbibliothek Bern in Lernraum:
     Schaffer, M. (2020). Transforming the medical library into a

@@ -27,6 +27,11 @@ nav_order: 5
         *o-bib, 3*(4), 217-224. doi:
         **[10.5282/o-bib/2016H4S217-224](https://doi.org/10.5282/o-bib/2016H4S217-224)**
 
+    -   Kellersohn, A. (2013). Alle sollen mitreden! Die Einbeziehung von
+        Nutzern, Beschäftigten und der Öffentlichkeit bei der Neubausanierung
+        der Universitätsbibliothek Freiburg. *Zeitschrift für Bibliothekswesen
+        und Bibliographie, 60*(3-4), 131-139. doi: **[10.3196/18642950131253445](https://doi.org/10.3196/18642950131253445)** 
+
     -   Beispiel der University of Queensland Library, um herauszufinden,
         wie Studierende verschiedene Bibliothekstandorte für
         Lernaktivitäten nutzen und welchen Bedarf/Wünsche sie darüber

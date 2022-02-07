@@ -16,6 +16,8 @@ nav_order: 9
     Entwicklungen auf wissenschaftliche Bibliotheken weltweit
     untersuchten. (**[Link zu Horizon Reports 2014-2017](https://library.educause.edu/resources/2017/12/horizon-report-library-edition-2014-2017)**).
 
+-   **[ExpLAB Schloss Schneckenhof](https://www.bib.uni-mannheim.de/standorte/explab-schloss-schneckenhof/)** der Universitätsbibliothek Mannheim mit Angeboten zu kreativem, gemeinschaftlichen Lernen mit moderner technischer Infrastruktur (Virtual Reality Brillen, Eye-Tracking-Station)
+
 -   **[Überblick über vielfältige Lernmöglichkeiten an der TU Hamburg](https://www.tuhh.de/tuhh/lehre/lerninfrastruktur.html)**, die
     eine Reihe von Technologien integrieren
 
@@ -34,6 +36,9 @@ nav_order: 9
 -   Paplowski, S. (2020). Beacons in Bibliotheken—Ein Überblick über die
     praktischen Einsatzmöglichkeiten der Indoor-Navigation in
     Bibliotheken. *BIT online*, *23*(6), 8. **[Link zu PDF](https://www.b-i-t-online.de/heft/2020-06-fachbeitrag-paplowski.pdf)**
+
+-   Bericht zur Entwicklung und zum Einsatz von **[PalMa](https://www.bib.uni-mannheim.de/services/arbeitsplaetze/palma-team-monitore/)**, einer Applikation zum flexiblen Arbeiten mit Team-Monitoren an der Universitätsbibliothek Mannheim: Hänger, C., Wagner, A., & Weil, S. (2014). PalMA – Present and Learn nicht nur in Mannheim – die clevere Alternative zum Bildschirmkabel. BIT online : Zeitschrift für Bibliothek, Information und Technologie mit aktueller Internet-Präsenz, 17(4), 329–335.
+**[Link zum PDF](https://www.b-i-t-online.de/heft/2014-04/fachbeitrag-haenger.pdf)**   
 
 -   Das University College London bietet ein umfangreiches
     **[Ressourcenzentrum](https://wiki.ucl.ac.uk/display/LecturecastResourceCentre/Lecturecast+Resource+Centre)**, das sich mit allen Aspekten der Aufzeichnung von

@@ -7,6 +7,11 @@ nav_order: 4
 
 ## Ressourcen
 
+-   Auseinandersetzung mit bibliothekssoziologischen und lernpsychologischen
+    Erkenntnissen über das Lernen und Arbeiten in Wissenschaftlichen
+    Bibliotheken, die Grundlagen für die Planung und Gestaltung liefert:
+    Eigenbrodt, O. (2021). *Lernwelt Wissenschaftliche Bibliothek: Pädagogische und raumtheoretische Facetten.* Berlin: De Gruyter. doi: **[10.1515/9783110402025](https://doi.org/10.1515/9783110402025)**
+
 -   **[FLEXspace](http://flexspace.org/)** (Flexible Learning Environments eXchange) ist ein umfangreiches und rege genutztes Open Access Repository mit Bildern von Lernraumbeispielen und zugehörigen Informationen von Institutionen weltweit.
 
 -   Die City University hat ein **[kurzes Video](http://www.youtube.com/watch?v=sAVtiuHCfCM)** für Tutorien produziert, in dem eine Reihe von neuen Lernräumen und die Arten von Aktivitäten, für die sie geeignet sind, beschrieben werden (insbesondere aktives
