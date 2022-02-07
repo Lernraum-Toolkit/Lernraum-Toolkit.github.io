@@ -43,7 +43,6 @@ Fragen oder Bedenken, die die Journey Maps aufwerfen, beantworten.
 
 [Download Template Journey Map (docx)](media/tools/DE_Journey_Map.docx){: .btn .btn-purple .fs-5 .mr-4}
 
-<img src="./media/image4.png" style="width:3.04167in;height:2.15682in" alt="example journey map" />
 
 **Weitere Ressourcen Journey Maps**
 

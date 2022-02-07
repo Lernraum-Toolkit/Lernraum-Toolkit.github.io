@@ -18,7 +18,7 @@ an der Birmingham City University.
 ![Abbildung 1](../0_Abbildungen/02-02_Partizipationsleiter.jpg)
 
 Abbildung 1. Eine Darstellung der von der Birmingham City University
-adaptierten Version von [Arnsteins (1969)](../Referenzen.md) Partizipationsleiter (übersetzt und adaptiert aus dem [UK Toolkit](../Referenzen.md) ).
+adaptierten Version von [Arnsteins (1969)](../Referenzen.md) Partizipationsleiter (übersetzt und adaptiert aus dem [UK Toolkit](../Referenzen.md), lizenziert unter [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.de)).
 
 Auch wenn die Leiter hierarchisch angelegt ist (mit jeder Stufe steigt
 der Grad der Partizipation an), ist es nicht notwendigerweise in jedem

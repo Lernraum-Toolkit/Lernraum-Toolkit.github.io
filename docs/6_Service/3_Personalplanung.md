@@ -14,9 +14,10 @@ bei dem zwischen den geplanten Räumen, der aktuellen Personalausstattung
 und dem prognostizierten zusätzlichen Personalbedarf hin und her
 gewechselt wird.
 
-<img src="./media/image6.png" style="width:5.53031in;height:3.27663in" alt="Aligning Staff Support Needs to Space" />
+![Abbildung 6](../0_Abbildungen/06-03_Aligning_Staff.png)
+![Abbildung 6](../0_Abbildungen/06-03_Staff_Space_Matrix.png)
 
- <img src="./media/image7.png" style="width:5.75in;height:2.12782in" alt="How will each space be served?" />
+Abbildung 6. Personalplanung und bedarfsgerechte Aufteilung auf Räume, übernommen aus dem [US Toolkit](../Referenzen.md), lizenziert unter [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.de)
 
 Um diesen Prozess umzusetzen, muss man vier Schlüsselfaktoren
 berücksichtigen:
@@ -39,7 +40,7 @@ berücksichtigen:
     Informationsschalter vs. Gruppenarbeitsräume vs. Infrastruktur
     hinter den Kulissen
 
-Das obige Diagramm veranschaulicht, wie man unter Berücksichtigung
+Die Abbildung oben veranschaulicht, wie man unter Berücksichtigung
 dieser verschiedenen Faktoren vorgeht, und die Tabelle unten erklärt die
 Funktion und die Kenntnisse/Fähigkeiten, die von den Mitarbeitern je
 nach Fachgebiet und Niveau benötigt werden, um dies zu erreichen.

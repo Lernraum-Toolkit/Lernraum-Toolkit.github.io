@@ -33,9 +33,10 @@ Antworten:
     „Push“-Modell auf der einen Seite und einem zentralisierten „Pull“
     Modell auf der anderen
 
-<img src="./media/image2.png" style="width:3.0066in;height:3.07292in" alt="C:\095BE625\30DB0234-6D90-42FF-B947-F0196E2C4680-Dateien\image009.png" />
 
-Beispiel für einen ausgefüllten ServicePlot
+![Abbildung 5](../0_Abbildungen/06-02-01_Service_Plot.png)
+
+Abbildung 5. Beispiel für einen ausgefüllten ServicePlot, übernommen aus dem [US Toolkit](../Referenzen.md), lizenziert unter [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.de)
 
 Dafür bilden Organisationen ihre aktuellen und zukünftigen Antworten bezogen
 auf sechs Schlüsselthemen ab – Service-Schwerpunkt,

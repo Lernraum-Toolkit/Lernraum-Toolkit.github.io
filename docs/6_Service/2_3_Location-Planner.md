@@ -35,5 +35,3 @@ Arbeitsschichten und Fähigkeiten dienen.
 [Link Beispiel Service Location Planner (pdf)](https://learningspacetoolkit.org/wp-content/uploads/Service-Location-Planner-Example1.pdf)
 
 [Download Template Service Location Planner (xlsx)](media/tools/DE_Service_Location_Planner.xlsx){: .btn .btn-purple .fs-5 .mr-4}
-
-<img src="./media/image3.png" style="width:2.75539in;height:1.69792in" alt="Example Service Location Planner" />

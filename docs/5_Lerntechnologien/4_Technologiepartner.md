@@ -23,8 +23,10 @@ Sichtweise, die Ziele und die aktuellen betrieblichen Belange der
 einzelnen Beteiligte anzupassen, damit sie weiterhin in das Projekt
 investiert bleiben.
 
-<img src="./media/image2.png" style="width:5.33962in;height:3.6228in" alt="Technology Partnership: Levels of engagement" />
+![Abbildung 4](../0_Abbildungen/05-04_Technology_Partnerships.png)
+docs\0_Abbildungen\05-04_Technology_Partnerships.png
 
+Abbildung 4. Technologie-Partnerschaften und deren Grad an Beteiligung im Verlauf des Prozesses, übernommen aus dem [US Toolkit](../Referenzen.md), lizenziert unter [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.de)
  
 
 **Interne Partnerschaften**

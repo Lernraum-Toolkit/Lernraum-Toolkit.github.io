@@ -42,8 +42,6 @@ werden, ggf. mit jeweils angepasstem Detailgrad.
 
 [Download Template Service Blueprint (docx)](media/tools/DE_Service_Blueprint.docx){: .btn .btn-purple .fs-5 .mr-4}
 
-<img src="./media/image5.png" style="width:3.63542in;height:2.41916in" alt="C:\095BE625\30DB0234-6D90-42FF-B947-F0196E2C4680-Dateien\image012.png" />
-
 **Weitere Ressourcen Konzepterstellung/Blueprinting**
 
 -   [Überblick über Tool](http://www.servicedesigntools.org/tools/35) mit Beispielen von Service Design Tools
