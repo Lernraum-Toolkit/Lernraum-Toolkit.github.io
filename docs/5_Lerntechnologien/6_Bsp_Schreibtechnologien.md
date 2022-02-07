@@ -15,7 +15,7 @@ sind sehr förderlich für Zusammenarbeit, Beteiligung und aktives Lernen.
 Die Studierenden machen oft Fotos von den Ergebnissen und teilen sie
 über ihr Smartphone, so dass etwas, das analog beginnt, digital wird.
 
-Die Robinson-Räume an der London School of Economics (LSE[^24]) wurden so
+Die Robinson-Räume an der London School of Economics (LSE[^23]) wurden so
 konzipiert, dass sie die stärkere Betonung von Gruppenarbeit und
 Forschung ermöglichen. Magnetische Arbeitswände und magnetische Farbe
 auf baulichen Merkmalen wurden verwendet, um sofortige Gelegenheiten zum
@@ -26,7 +26,7 @@ Arbeitsflächen verwendet werden.
 Viele Universitäten verwenden jetzt Glasschreibtafeln, um beschreibbare
 Wände zu schaffen. Beschreibbares Glas kann als Trennwand in kleinen
 Gruppenlernräumen verwendet werden. An der City University wird das
-Glas[^25] in Breakout-Bereichen für die interaktiven Hörsäle verwendet
+Glas[^24] in Breakout-Bereichen für die interaktiven Hörsäle verwendet
 und wird oft in Verbindung mit digitaler Technologie eingesetzt, um ein
 auf das Glas projiziertes Bild zu beschriften. Glasschreibtafeln können
 in Lernräumen auch Nachteile haben, da sie anfällig für Blendung und
@@ -53,6 +53,6 @@ kleineren Unterrichtsräumen. Die Rolltafeln können an der Wand montiert
 oder am Boden aufgestellt werden.
 
 ---
-[^24]: Link zu [Case Study der Robinson Räume](https://jiscinfonetcasestudies.pbworks.com/w/page/45468872/London%20School%20of%20Economics%20-%20Robinson%20Rooms)
+[^23]: Link zu [Case Study der Robinson Räume](https://jiscinfonetcasestudies.pbworks.com/w/page/45468872/London%20School%20of%20Economics%20-%20Robinson%20Rooms)
 
-[^25]: Link zu [Blog Artikel der City University über Glasschreibtafeln](https://blogs.city.ac.uk/learningatcity/2013/03/09/squiggle-glass/#.Xo8v23JCREY)
+[^24]: Link zu [Blog Artikel der City University über Glasschreibtafeln](https://blogs.city.ac.uk/learningatcity/2013/03/09/squiggle-glass/#.Xo8v23JCREY)

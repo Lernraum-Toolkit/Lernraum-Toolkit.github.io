@@ -24,7 +24,7 @@ Ambiente eines bestimmten Lernraums verstärkt, ist schon schwerer.
 
 Wenn möglich, sollten Lernräume kontrollierten Einfall von Tageslicht
 bieten. Der psychologische Nutzen von natürlichem Licht ist breit
-akzeptiert[^12]. Es kann jedoch Schwierigkeiten bezüglich der Steuerung
+akzeptiert[^11]. Es kann jedoch Schwierigkeiten bezüglich der Steuerung
 mit sich bringen. Es kann zu hell sein und deshalb blenden, was es für
 Computerbildschirme oder sogar konventionelles Textlesen ungeeignet
 machen kann. Natürliches Licht muss deshalb mit Hilfe von Jalousien oder
@@ -122,4 +122,4 @@ London:
 -   Dehoff, P. (2016). Umgebungsbedingung: Licht. In P. Hauke & K. Werner (Ed.), *Praxishandbuch Bibliotheksbau* (pp. 271-280). Berlin, Boston: De Gruyter Saur. doi: **[10.1515/9783110403183-020](https://doi.org/10.1515/9783110403183-020)**.
 
 ---
-[^12]: Siehe z.B. [Blogbeitrag von Steve Maslin](https://stevemaslin.wordpress.com/2015/04/29/clear-as-daylight/)
+[^11]: Siehe z.B. [Blogbeitrag von Steve Maslin](https://stevemaslin.wordpress.com/2015/04/29/clear-as-daylight/)

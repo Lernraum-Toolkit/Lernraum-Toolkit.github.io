@@ -33,9 +33,9 @@ Entscheidung, die zu schnellen Erfolgen führt.
 Solche Daten müssen jedoch durch Beobachtungs- und Verhaltensanalysen
 ergänzt werden, um wirkliche Einblicke in die Arbeitsweise von
 Studierenden und Dozenten in neuen Lernräumen zu gewinnen. In einigen
-Bereichen wurden ethnographische Ansätze[^29] verwendet: Die Edge Hill
+Bereichen wurden ethnographische Ansätze[^28] verwendet: Die Edge Hill
 University entschied sich für einen ethnografischen Ansatz zur Bewertung
-ihres SOLSTICE-Raums[^30]; der Ansatz umfasste die Beobachtung von
+ihres SOLSTICE-Raums[^29]; der Ansatz umfasste die Beobachtung von
 Lehrveranstaltungen, die Befragung von Studierenden in Fokusgruppen
 (gefolgt von weiteren schriftlichen Fragen) und Reflexionen der
 Dozenten. Andere Universitäten haben in regelmäßigen Abständen
@@ -71,9 +71,9 @@ Post-Occupancy Evaluationen geeignet.
 
 
 ---
-[^29]: Ethnographische Ansätze beinhalten Forschung, die versucht,
+[^28]: Ethnographische Ansätze beinhalten Forschung, die versucht,
     Verhaltensweisen aus einer Insider-Perspektive zu verstehen, anstatt
     externe Modelle vorzugeben. Solche Ansätze stützen sich in der Regel
     auf mehrere Evidenzquellen.
 
-[^30]: Link zu [Präsentation als PDF](https://repository.jisc.ac.uk/6347/1/solstice-presentation.pdf) und [JISC Case Study](https://jiscinfonetcasestudies.pbworks.com/w/page/45406028/Edge%20Hill%20University%20-%20SOLSTICE)
+[^29]: Link zu [Präsentation als PDF](https://repository.jisc.ac.uk/6347/1/solstice-presentation.pdf) und [JISC Case Study](https://jiscinfonetcasestudies.pbworks.com/w/page/45406028/Edge%20Hill%20University%20-%20SOLSTICE)
