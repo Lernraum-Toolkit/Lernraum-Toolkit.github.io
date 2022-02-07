@@ -27,10 +27,8 @@ Designkonzepte in Stein gemeißelt werden.“
 
 Die gute Nachricht ist, dass kreatives Denken eine Fähigkeit ist, die
 sich entwickeln kann und es viele Techniken gibt, die das unterstützen,
-wie z.B. der Learning Space Canvas[^8]:
-
-
-Abbildung 3: The Learning Space Canvas
+wie z.B. der **[Learning Space Canvas](https://drive.google.com/file/d/0ByE1fe2FVKqYZ2tKV3A2UU5xWTQ/view?resourcekey=0-8LRZ6GRHgrM162JOh3DtYw)**
+von Robert Fitzgerald, INSPIRE Centre, University of Canberra.
 
 Die Nutzung von Metaphern kann hilfreich sein, um Stakeholder dazu
 anzuregen, einen frischen Blick auf die Ideen eines Lernraums und die
@@ -133,8 +131,3 @@ im Projekt 3D Visualisierungen produzieren zu können.  
 
 
 ---
-
-[^8]: This graphic-free version of The Learning Space Canvas is
-    reproduced by kind permission of Prof Robert Fitzgerald, INSPIRE
-    Centre, University of Canberra. The original can be found here:
-    <http://bit.ly/learningspacecanvas>

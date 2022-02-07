@@ -140,7 +140,9 @@ Taxonomie kann dazu verwendet werden, bestehende und zukünftige
 Lernräume systematischer zu beschreiben, um sicherzustellen, dass die
 verschiedenen Facetten von Lernräumen explizit berücksichtigt werden.
 
-<img src="./media/image1.png" style="width:6.53913in;height:6.01789in" alt="https://learningspacetoolkit.org/wp-content/uploads/Learning-Space-Taxonomy.png" />
+![Abbildung 2](../0_Abbildungen/Learning-Space-Taxonomy.png)
+
+Abbildung 2. Die Learning Space Taxonomy, übernommen aus dem [US Toolkit](../Referenzen.md), lizenziert unter [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.de) - Beschreibung unter [Learning Space Taxonomy](https://learningspacetoolkit.org/space-types/learning-space-mind-map/index.html)
 
 ### 4.1.3 Erfolgstipps
 
