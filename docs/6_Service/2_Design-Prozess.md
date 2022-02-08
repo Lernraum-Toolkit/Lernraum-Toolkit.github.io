@@ -15,8 +15,6 @@ Nutzer und deren Bedürfnisse berücksichtigt, ganzheitlich plant, die
 gesammelten Erfahrungen rechtzeitig durchdenkt und iterativ zwischen den
 einzelnen Schritten und Tools arbeitet.
 
-<img src="./media/image1.png" style="width:5.27602in;height:1.73913in" alt="Service Design Process" />
-
 Die Service Design Tools, die dieser Lernraum-Toolkit beinhaltet, sind:
 
 -   [ServicePlot](#_6.2.1) um die eigene Service Philosophie, Wert
