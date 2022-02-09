@@ -74,12 +74,12 @@ der vorhandenen Räume durch die Lernenden führen.
     Ausnahmen und/oder Genehmigungen zu beantragen, bevor man mit den
     Teilnehmern arbeitet.
 
-[Download Template Space Observation (docx)](media/tools/DE_Observation_Template.docx){: .btn .btn-purple .fs-5 .mr-4}
+[Download Template Space Observation (docx)](../../0_Tools/07_06_03_DE_Observation_Template.docx){: .btn .btn-purple .fs-5 .mr-4}
 – Dieses Dokument kann zur Erfassung von Beobachtungsdaten in Räumen
 verwendet werden. Es kann so wie es ist verwendet werden oder als
 Inspiration für ein eigenes Template dienen.
 
-[Download Beispiel Space Observation (pdf)](media/tools/Space-Observation_example.pdf){: .btn .btn-purple .fs-5 .mr-4}
+[Download Beispiel Space Observation (pdf)](../../0_Tools/07_06_03_Space-Observation_example.pdf){: .btn .btn-purple .fs-5 .mr-4}
 
 [Suma Space Observation Data Collection Tool](https://suma-project.github.io/Suma/) – Suma ist
 eine webbasierte Anwendung zur Sammlung quantitativer Daten über die

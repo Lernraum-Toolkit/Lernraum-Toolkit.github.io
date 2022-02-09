@@ -193,6 +193,6 @@ Ergebnisse und zu fällende Entscheidungen. Institutionen können diese
 Informationen nutzen, um den Prozess so zu strukturieren, wie es am
 besten für sie passt, abgestimmt auf die Größe, Budget und Kontext.
 
-[Download Roadmap Beispiel](/media/tools/DE_Roadmap_Beispiel.docx){: .btn .btn-purple .fs-5 .mr-4}
+[Download Roadmap Beispiel (docx)](../../0_Tools/03_02_DE_Roadmap_Beispiel.docx){: .btn .btn-purple .fs-5 .mr-4}
 
 Dokument mit einem Beispiel für eine Projekt-Roadmap, die einen Überblick über einen typischen Ablauf von Planung, Bau, Betrieb und Evaluation von Lernräumen gibt.

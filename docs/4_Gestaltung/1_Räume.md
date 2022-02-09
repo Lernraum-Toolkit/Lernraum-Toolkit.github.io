@@ -125,9 +125,13 @@ heruntergeladen werden und als Notiz- und Brainstorming-Unterstützung
 bei der Erkundung von Inspirationsquellen für Projekte zur Gestaltung
 von Lernräumen (z.B. [FLEXspace](http://flexspace.org/)) dienen.
 
-[Download Space Template mit Beispiel (pptx)](/media/tools/DE_Space-Template_Beispiel.pptx){: .btn .btn-purple .fs-5 .mr-4}
+[Download Space Template mit Beispiel (odp)](../../0_Tools/04_01_DE_Space-Template_Beispiel.odp){: .btn .btn-purple .fs-5 .mr-4}
 
-[Download Neighborhood Template mit Beispiel (pptx)](/media/tools/DE_Neighborhood-Template_Beispiel.pptx){: .btn .btn-purple .fs-5 .mr-4}
+[Download Space Template mit Beispiel (pptx)](../../0_Tools/04_01_DE_Space-Template_Beispiel.pptx){: .btn .btn-purple .fs-5 .mr-4}
+
+[Download Neighborhood Template mit Beispiel (odp)](../../0_Tools/04_01_DE_Neighborhood-Template_Beispiel.odp){: .btn .btn-purple .fs-5 .mr-4}
+
+[Download Neighborhood Template mit Beispiel (pptx)](../../0_Tools/04_01_DE_Neighborhood-Template_Beispiel.pptx){: .btn .btn-purple .fs-5 .mr-4}
 
 **Lernraum-Taxonomie**
 

@@ -40,7 +40,9 @@ langlebigen Geräte an den Rändern der Kurve auslaufen.
 
 **Tool**
 
-[Download Life Cycle Tool (xlsx)](/media/tools/DE_Life-Cycle-Tool.xlsx){: .btn .btn-purple .fs-5 .mr-4}
+[Download Life Cycle Tool (ods)](../../0_Tools/05_05_DE_Life-Cycle-Tool.ods){: .btn .btn-purple .fs-5 .mr-4}
+
+[Download Life Cycle Tool (xlsx)](../../0_Tools/05_05_DE_Life-Cycle-Tool.xlsx){: .btn .btn-purple .fs-5 .mr-4}
 
 **Zu berücksichtigende Faktoren für die Lebenszykluskosten**
 

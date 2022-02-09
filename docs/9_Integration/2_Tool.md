@@ -5,7 +5,7 @@ parent: 9. Integration
 nav_order: 2
 ---
 
-## 9.2 Integratives Budgetierungstool 
+## 9.2 Integratives Budgetierungstool
 
 Das integrative Budgetierungstool ermöglicht es, Kostenaufstellungen für
 die zu bauenden/zu renovierenden Räume, die technische Ausstattung und
@@ -37,4 +37,4 @@ Tabellenblätter ein ganzheitliches Bild der Kosten über den Lebenszyklus
 des Projektes, um eine bessere Grundlage für Planung und Entscheidungen
 zu liefern.
 
-[Download Integrated Budgeting Tool (Excel)](/media/tools/DE_Integrated_Budgeting_Tool.xlsx){: .btn .btn-purple .fs-5 .mr-4}
+[Download Integrated Budgeting Tool (xlsx)](../../0_Tools/09_02_DE_Integrated_Budgeting_Tool.xlsx){: .btn .btn-purple .fs-5 .mr-4}
