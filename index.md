@@ -59,14 +59,5 @@ Alle im Toolkit zur Verfügung gestellten Informationen, Erklärungen, Abbildung
 
 Die Übersetzung, Zusammenstellung und Ergänzung von [UK Higher Education Toolkit](https://www.ucisa.ac.uk/learningspace) und [Learning Space Toolkit US](https://learningspacetoolkit.org) für das Toolkit Lernraumgestaltung wurde erarbeitet im Rahmen des Projektes „Learning Space Toolkit: Best Practice Kreativräume entwickeln und evaluieren“ (Universitätsbibliothek Tübingen) innerhalb des Förderprogramms des Landes Baden-Württemberg „Wissenschaftliche Bibliotheken gestalten den digitalen Wandel (BW-Big diWa)“
 
-<a rel="license"
-href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0"
-src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span
-xmlns:dct="http://purl.org/dc/terms/"
-property="dct:title">Toolkit Lernaumgestaltung</span> von <a xmlns:cc="http://creativecommons.org/ns#"
-href="https://lernraum-toolkit.github.io/"
-property="cc:attributionName" rel="cc:attributionURL">Katharina Zinke (Universitätsbibliothek Tübingen)</a> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz</a>.
-
-
-
-***
+---
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Toolkit Lernraumgestaltung</span> der <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Universitätbibliothek Tübingen</span> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz</a>.
