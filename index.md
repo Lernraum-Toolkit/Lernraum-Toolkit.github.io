@@ -31,7 +31,7 @@ Das [Learning Space Toolkit US](https://learningspacetoolkit.org), ist eine im I
 **Entstehung und Veröffentlichung**
 {: .fs-5 }
 
-Das deutschsprachige Lernraum Toolkit ist eine Übersetzung und Zusammenstellung der beiden englischsprachigen Original-Toolkits, ergänzt und aktualisiert durch eigene Recherchen, Ergänzungen und aktuellere, auch deutschsprachige Ressourcen. Somit stellt es eine Grundlage für Lernraum-Planungsprozesse in deutscher Sprache dar, die, wo möglich, an deutsche Gegebenheiten angepasst wurde. Das komplette Toolkit steht auf dieser Webseite zur Verfügung, ist gleichzeitig frei verfügbar als OER-Dokument auf dem Zentrale OER-Repositorium der Hochschulen in Baden-Württemberg (ZOERR) veröffentlicht ([Link](https://www.oerbw.de/faq.html)) und steht auch hier direkt zum [Download](docs/Toolkit_Lernraumgestaltung_%C3%9Cbersetzung_Version_2021-06.pdf) bereit.
+Das deutschsprachige Lernraum Toolkit ist eine Übersetzung und Zusammenstellung der beiden englischsprachigen Original-Toolkits, ergänzt und aktualisiert, u.a. durch aktuellere, auch deutschsprachige Ressourcen. Dazu dienten eigene Recherchen und der Austausch mit anderen Einrichtungen aus dem Projektverbund. Somit stellt es eine Grundlage für Lernraum-Planungsprozesse in deutscher Sprache dar, die, wo möglich, an deutsche Gegebenheiten angepasst wurde. Das komplette Toolkit steht auf dieser Webseite zur Verfügung, ist gleichzeitig frei verfügbar als OER-Dokument auf dem Zentrale OER-Repositorium der Hochschulen in Baden-Württemberg (ZOERR) veröffentlicht ([Link](https://www.oerbw.de/faq.html)) und steht auch hier direkt zum [Download](docs/Toolkit_Lernraumgestaltung_%C3%9Cbersetzung_Version_2021-06.pdf) bereit.
 
 **Weiterentwicklung**
 {: .fs-5 }
