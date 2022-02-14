@@ -125,6 +125,10 @@ kann aber nicht verlangen, dass alles flexibel ist, da es schwierig
 ist, zu definieren, was man damit erreichen will (s. [Standpunkte](standpunkte.md)
 und [Kapitel 4 Konkrete Gestaltung verschiedener Arten von Lernräumen](../4_Gestaltung/0_Gestaltung.md)).
 
+![Foto Gruppenkojen](../0_Abbildungen/01-02_Gruppenkojen_UB_Tuebingen.JPG)
+&copy; N.Schanz / Universitätsbibliothek Tübingen
+{: .fs-2 .text-right}
+
 **Eine angenehme Arbeitsumgebung anbieten**
 
 Unbehagen ist eine große Ablenkung vom Lernen. Hitze und Kälte, Lärm und

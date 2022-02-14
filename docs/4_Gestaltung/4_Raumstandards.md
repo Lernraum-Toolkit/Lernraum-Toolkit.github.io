@@ -118,3 +118,7 @@ Raumstandards sagten:
 
 -   Tische, die wie ein Plektrum geformt sind, haben sich als besonders
     effektiv für Gruppenarbeit erwiesen.
+
+    ![Foto Gruppenkojen](../0_Abbildungen/04-04_Flexible_Möbel_UB_Tuebingen.JPG)
+    &copy; N.Schanz / Universitätsbibliothek Tübingen
+    {: .fs-2 .text-right}
