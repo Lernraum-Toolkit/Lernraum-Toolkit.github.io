@@ -15,5 +15,7 @@ nav_order: 12
 
 -   Einige Empfehlungen und Good-Practice Beispiele zur barrierefreien Gestaltung von Lehr- und Lernräumen bietet der **[DINI-Lernraum-Atlas](https://intern.dini.de/confluence/display/LEHO/Barrierefreiheit+und+Nutzerfreundlichkeit#expand-weiterfhrend)**
 
+- Ein Erfahrungsbericht zum Thema behindertengerechte Universitätsbibliothek aus der UB Marburg: Rohde, I. (29.09.2021). Behindertengerechte Universitätsbibliothek – ein Erfahrungsbericht aus der UB Marburg. Vortrag bei einer Veranstaltung des dbv. **[Link zur Vortragsbeschreibung und Folien](http://blog-servicekommission.bibliotheksverband.de/nachlese-zum-vortrag-am-29-september/)**
+
 -   Allgemeine Überlegungen zur Gestaltung von Lernräumen während/nach der Corona/COVID-19-Pandemie - **[Beitrag auf der FLEXspace-Seite](https://flexspace.org/2020/05/designing-spaces-with-safety-in-mind-aka-post-covid-19/)**
 >  

@@ -168,6 +168,8 @@ permalink: /docs/
 
 -   Projektbericht zur Umgestaltung vom Lesesaal zu multifunktionalen Lernräumen an der Pädagogischen Hochschule Ludwigsburg: Spary, C. (2021). Open Campus: Learning Commons an der PH Ludwigsburg. **[Link zum Projektbericht](https://phbl-opus.phlb.de/frontdoor/index/index/start/0/rows/10/sortfield/score/sortorder/desc/searchtype/simple/query/spary/docId/813)**
 
+-   Beschreibung des Umgestaltungsprojektes für eine Arbeitsplatzlandschaft an der SLUB Dresden ("SLUB Forum"): Bonte, A. & Grohmann, A. (2017). #slubnochbesser - eine neue Arbeitsplatzlandschaft in der Zentralbibliothek der SLUB Dresden. *BIS, 1*, 12-15. **[Link zum Artikel](https://slub.qucosa.de/api/qucosa%3A7927/attachment/ATT-0/)**. Ein **[Blogbeitrag](https://blog.slub-dresden.de/beitrag/2018/03/28/slubnochbesser-slub-forum-wurde-eroeffnet)** und ein **[Video](https://www.youtube.com/watch?v=FN1iOekNcJY&t=1s)** veranschaulichen den Umbau und das Endprodukt zusätzlich.
+
 -   Beschreibung des Umbaus Medizinbibliothek Bern in Lernraum:
     Schaffer, M. (2020). Transforming the medical library into a
     welcoming learning space: A collaborative project. *Journal of
