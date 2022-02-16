@@ -71,6 +71,7 @@ Post-Occupancy Evaluationen geeignet.
 
 
 ---
+
 [^28]: Ethnographische Ansätze beinhalten Forschung, die versucht,
     Verhaltensweisen aus einer Insider-Perspektive zu verstehen, anstatt
     externe Modelle vorzugeben. Solche Ansätze stützen sich in der Regel

@@ -122,4 +122,5 @@ London:
 -   Dehoff, P. (2016). Umgebungsbedingung: Licht. In P. Hauke & K. Werner (Ed.), *Praxishandbuch Bibliotheksbau* (pp. 271-280). Berlin, Boston: De Gruyter Saur. doi: **[10.1515/9783110403183-020](https://doi.org/10.1515/9783110403183-020)**.
 
 ---
+
 [^11]: Siehe z.B. [Blogbeitrag von Steve Maslin](https://stevemaslin.wordpress.com/2015/04/29/clear-as-daylight/)

@@ -209,6 +209,7 @@ Außenflächen, die Wetterfestigkeit von Mobiliar, Abdeckung und
 Reichweite von Außen-WLAN-Versorgung, usw.
 
 ---
+
 [^12]: "Node Chairs" haben drehbare Sitzflächen und verstellbare
     Arbeitsflächen. Sie lassen sich leicht umkonfigurieren, da sie auf
     Rollen stehen.

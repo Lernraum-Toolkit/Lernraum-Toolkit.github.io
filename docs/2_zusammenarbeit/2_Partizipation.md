@@ -62,6 +62,7 @@ Sitzungen sind eine gute Möglichkeit, die Zeit der Teilnehmenden zu
 maximieren und Gemeinschaft aufzubauen.
 
 ---
+
 [^7]: Weitere Infos sowie nützlicher Hintergrund zum Konzept der
     Partizipationsleiter:
     <https://www.bipar.de/das-konzept-der-partizipationsleiter/>

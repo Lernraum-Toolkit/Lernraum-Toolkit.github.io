@@ -61,6 +61,7 @@ betrachten, an dem ein kontinuierlicher Fluss von formellem und
 informellem Lernen stattfinden kann.
 
 ---
+
 [^2]: Aktives Lernen ist ein allgemeiner Begriff für Lernaktivitäten,
     die die Lernenden anregen, mehr zu tun als nur zuzuhören und Notizen
     zu machen. Lernende nehmen an Aktivitäten teil, die Synthese,

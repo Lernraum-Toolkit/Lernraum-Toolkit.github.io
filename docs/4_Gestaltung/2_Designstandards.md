@@ -100,6 +100,7 @@ Merkmale des Raumes[^9]:
     Modernisierung/Instandhaltung der Dekoration in Betracht ziehen.
 
 ---
+
 [^8]: Diese Voraussetzungen gehen davon aus, dass alle Nutzenden des Raums,
         die spezielle Bedürfnisse haben, durch geeignete Einrichtungen und
         Support-Technik dabei unterstützt werden, den Raum

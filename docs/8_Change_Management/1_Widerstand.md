@@ -112,5 +112,6 @@ bewegen, Veränderungen anzunehmen und zu begrüßen[^31]:
 -   Wir glauben, dass die Veränderung notwendig ist.
 
 ---
+
 [^31]: Jisc (updated 2014) Change management, The theory, methodologies
     and techniques to help manage change effectively. [Link zu Guide](http://www.jisc.ac.uk/guides/change-management/resistance-to-change)

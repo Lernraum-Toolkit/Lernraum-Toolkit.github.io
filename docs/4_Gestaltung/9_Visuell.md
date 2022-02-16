@@ -181,6 +181,7 @@ bieten:
 -   Die Association for Audio Visual and Education Technology Management (AETM), Australien, bietet nützliche und gut recherchierte Leitlinien zu allen möglichen Aspekten der Integration von AV Systemen in Lernräume (Bilschirme, Beleuchtung, Akustik, Kontrollsysteme, etc.): **[Link zu Webseite](https://guidelines.aetm.org)**
 
 ---
+
 [^13]: Visualisierer kann man als digitale Overhead-Projektoren
     bezeichnen
 

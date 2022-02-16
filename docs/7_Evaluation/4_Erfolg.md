@@ -35,4 +35,5 @@ in allen neuen Projekten zu berücksichtigen[^27]:
     und Akustik?
 
 ---
+
 [^27]: Learning and Skills Council (2002) Guidance on College Property Strategies: [Link zu PDF](http://dera.ioe.ac.uk/13355/2/Supplement_A_to_Circular_02-20_Guidance_on_college_property_strategies.pdf)

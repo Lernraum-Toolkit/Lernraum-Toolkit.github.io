@@ -61,4 +61,5 @@ Vorschläge im Einzelnen:
     treffen.
 
 ---
+
 [^6]: Meeting Vektor-Grafik von [Vecteezy](https://de.vecteezy.com/gratis-vektor/meeting)
