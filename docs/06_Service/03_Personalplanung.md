@@ -14,10 +14,10 @@ bei dem zwischen den geplanten Räumen, der aktuellen Personalausstattung
 und dem prognostizierten zusätzlichen Personalbedarf hin und her
 gewechselt wird.
 
-![Abbildung 6](../0_Abbildungen/06-03_Aligning_Staff.png)
-![Abbildung 6](../0_Abbildungen/06-03_Staff_Space_Matrix.png)
+![Abbildung 6](../00_Abbildungen/06-03_Aligning_Staff.png)
+![Abbildung 6](../00_Abbildungen/06-03_Staff_Space_Matrix.png)
 
-Abbildung 6. Personalplanung und bedarfsgerechte Aufteilung auf Räume, übernommen aus dem [US Toolkit](../Referenzen.md), lizenziert unter [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.de)
+Abbildung 6. Personalplanung und bedarfsgerechte Aufteilung auf Räume, übernommen aus dem [US Toolkit](../11_Referenzen.md), lizenziert unter [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.de)
 
 Um diesen Prozess umzusetzen, muss man vier Schlüsselfaktoren
 berücksichtigen:
@@ -219,7 +219,7 @@ besetzt sein wird, könnte man am Ende eine Tabelle wie diese erhalten:
 Wenn man folgendes weiß (oder abschätzt): (1) die erwartete Anzahl der
 VZÄ, (2) die Aufschlüsselung dieser VZÄ nach Disziplin/Bereich und
 Dienstalter, und (3) die Verteilung dieser Mitarbeiter nach Raumtyp,
-dann geht man direkt zum [**Integrated Budgeting Tool**](../9_Integration/2_Tool.md).
+dann geht man direkt zum [**Integrated Budgeting Tool**](../09_Integration/02_Tool.md).
 
 <table>
 <colgroup>

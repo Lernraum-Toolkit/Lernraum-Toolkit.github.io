@@ -4,7 +4,7 @@ title: 3. Lernraumprojekt managen
 nav_order: 4
 has_children: true
 has_toc: true
-permalink: /docs/3_projektmanagement
+permalink: /docs/03_Projektmanagement
 ---
 
 # 3. Ein Lernraumprojekt managen
@@ -28,7 +28,7 @@ sich mit Besonderheiten eines Lernraumprojekts.
 Alle die eine wesentliche Rolle in einem Lernraumprojekt spielen werden
 sich wahrscheinlich mit Dingen beschäftigen, die außerhalb ihrer
 alltäglichen beruflichen Praxis oder ihrer Komfortzone liegen. Der
-vorliegende Abschnitt hängt eng mit Abschnitt 2 ([Partnerschaftliche Zusammenarbeit](../2_zusammenarbeit/0_zusammenarbeit.md)) zusammen,
+vorliegende Abschnitt hängt eng mit Abschnitt 2 ([Partnerschaftliche Zusammenarbeit](../02_Zusammenarbeit/00_Zusammenarbeit.md)) zusammen,
 welcher effektive Mittel beschreibt, sicherzustellen, dass das
 Projektteam den Input bekommt, den es braucht um bestmögliche
 Entscheidungen zu treffen.

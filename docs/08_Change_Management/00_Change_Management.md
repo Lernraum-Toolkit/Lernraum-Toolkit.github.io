@@ -4,7 +4,7 @@ title: 8. Change Management
 nav_order: 9
 has_children: true
 has_toc: true
-permalink: /docs/8_Change_Management
+permalink: /docs/08_Change_Management
 ---
 
 # 8. Veränderungsmanagement (Change management) und Übergang
@@ -50,7 +50,7 @@ Insbesondere schlagen wir vor, dass:
 Neue Arten von Lernräumen zu schaffen, kann umfassende Maßnahmen des
 Veränderungsmanagements erfordern, um sicherzustellen, dass die
 Interessensgruppen den Raum effektiv nutzen können. In Abschnitt 2,
-[Partnerschaftliche Zusammenarbeit](../2_zusammenarbeit/0_zusammenarbeit.md), behandeln wir
+[Partnerschaftliche Zusammenarbeit](../02_Zusammenarbeit/00_Zusammenarbeit.md), behandeln wir
 wie man die richtigen Bedingungen für die Beteiligung der
 Interessengruppen schafft, damit alle relevanten Ansichten gehört und
 berücksichtigt werden können. Es ist zu hoffen, dass ein hochgradig

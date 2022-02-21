@@ -21,7 +21,7 @@ Prinzipien sind greifbarer und wirksamer für Menschen, die sich damit
 beschäftigen wollen". James ist sich darüber im Klaren, dass die
 Strategie im Hinblick auf das, was vor Ort geschieht, Sinn machen muss:
 In Birmingham wird zunehmend Wert auf forschendes und selbständiges
-Lernen gelegt, und James ist der Meinung, dass das [UK Toolkit](../Referenzen.md) nützlich
+Lernen gelegt, und James ist der Meinung, dass das [UK Toolkit](../11_Referenzen.md) nützlich
 sein kann, um herauszufinden, wie das in der Praxis aussieht.
 
 **Bruce Rodger, Head of Infrastructure, University of Strathclyde,**
@@ -83,7 +83,7 @@ Studierende eingebunden, was ihr einen sehr guten Einblick in die Lehr-
 und Lernpraxis gab. Diese Erfahrung hat Eleanors Ansichten darüber
 geprägt, wie Universitäten mit Architekten und Architektinnen zusammenarbeiten müssen, um
 sicherzustellen, dass sie den Bildungskontext verstehen. Sie sieht eine
-Schlüsselrolle für das [UK Toolkit](../Referenzen.md) darin, Architekten und Architektinnen dabei zu
+Schlüsselrolle für das [UK Toolkit](../11_Referenzen.md) darin, Architekten und Architektinnen dabei zu
 unterstützen, zu sehen, wie sich das Lernen verändert, und auch die
 Auswirkungen der Technologie auf das Lernen der Studenten zu verstehen.
 Ohne diese Art von Unterstützung, so Eleanor, würden Projekte einfach

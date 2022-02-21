@@ -12,13 +12,13 @@ Gewährleistung dieser Partizipation zu entwickeln und umzusetzen. Ein
 hilfreicher Ausgangspunkt ist das Konzept einer
 Partizipationsleiter[^7], welches breit eingesetzt und für viele
 Kontexte angepasst wurde, seit es zum ersten Mal von 1969 von Arnstein
-eingeführt wurde. Die vereinfachte Version aus dem [UK Toolkit](../Referenzen.md) wurde adaptiert aus Arbeiten
+eingeführt wurde. Die vereinfachte Version aus dem [UK Toolkit](../11_Referenzen.md) wurde adaptiert aus Arbeiten
 an der Birmingham City University.
 
-![Abbildung 1](../0_Abbildungen/02-02_Partizipationsleiter.jpg)
+![Abbildung 1](../00_Abbildungen/02-02_Partizipationsleiter.jpg)
 
 Abbildung 1. Eine Darstellung der von der Birmingham City University
-adaptierten Version von [Arnsteins (1969)](../Referenzen.md) Partizipationsleiter (übersetzt und adaptiert aus dem [UK Toolkit](../Referenzen.md), lizenziert unter [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.de)).
+adaptierten Version von [Arnsteins (1969)](../11_Referenzen.md) Partizipationsleiter (übersetzt und adaptiert aus dem [UK Toolkit](../11_Referenzen.md), lizenziert unter [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.de)).
 
 Auch wenn die Leiter hierarchisch angelegt ist (mit jeder Stufe steigt
 der Grad der Partizipation an), ist es nicht notwendigerweise in jedem
@@ -52,7 +52,7 @@ Stakeholdern machen will.
 
 Auch sollte man nicht unterschätzen, dass die Logistik eine
 gewinnbringende Partizipation von Stakeholdern unterstützen kann. Das
-[US Toolkit](../Referenzen.md) schlägt dafür u.a. vor, Räumlichkeiten für Workshops so
+[US Toolkit](../11_Referenzen.md) schlägt dafür u.a. vor, Räumlichkeiten für Workshops so
 auszuwählen und auszustatten, dass sie für die Workshop-Aktivitäten
 geeignet sind (Whiteboard, Marker). Veranstaltungsorte sollten mit
 geeigneter Veranstaltungstechnik ausgestattet, um die Sitzung zu

@@ -8,7 +8,7 @@ nav_order: 3
 ## 4.3 Langlebigkeit 
 
 Der Ausdruck „long life, loose fit, low energy“ (etwa “Langes Leben,
-lockerer Sitz, niedrige Energie”, [Langston, 2014](../Referenzen.md)), der 1972 durch den
+lockerer Sitz, niedrige Energie”, [Langston, 2014](../11_Referenzen.md)), der 1972 durch den
 RIBA Präsidenten Sir Alex Gordon geprägt wurde, fasst gutes Design
 zusammen, das berücksichtigt, dass Gebäude ein gewisses Maß an
 Beständigkeit brauchen und sich gleichzeitig im Laufe ihres Lebens an
@@ -16,7 +16,7 @@ eine Vielzahl von Nutzungen anpassen können.
 
 Beim Entwurf eines Gebäudes, ist es oft sinnvoll, es als eine Reihe von
 Komponenten oder Schichten mit unterschiedlicher Lebensdauer zu
-betrachten. Die Abbildung unten ist der Arbeit von [Brand (1994)](../Referenzen.md)
+betrachten. Die Abbildung unten ist der Arbeit von [Brand (1994)](../11_Referenzen.md)
 entnommen und zeigt die Schichten einschließlich des geographischen
 Standorts, der permanent ist, der tragenden Struktur, die kostspielig zu
 verändern ist, eine externe Verkleidung, die sich aufgrund von Mode oder
@@ -26,9 +26,9 @@ beim Bau einer Reihe von Hochschulen angewendet, die bewegliche
 Innenwände haben, sodass der Raum umgestaltet werden kann, wenn die
 Zahlen in verschiedenen Fachbereichen variieren.
 
-![Abbildung 3](../0_Abbildungen/04-03_Brands_sechs_S.png)
+![Abbildung 3](../00_Abbildungen/04-03_Brands_sechs_S.png)
 
-Abbildung 3. Brands "Six S" ([Brand (1994)](../Referenzen.md), Darstellung übernommen aus dem [UK Toolkit](../Referenzen.md), lizenziert unter [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.de)).
+Abbildung 3. Brands "Six S" ([Brand (1994)](../11_Referenzen.md), Darstellung übernommen aus dem [UK Toolkit](../11_Referenzen.md), lizenziert unter [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.de)).
 
 Die Flexibilität des Gebäudes beruht daher auf Bauelemente am unteren
 Ende der Liste in der Abbildung. Je besser die Elemente weiter oben in
@@ -46,7 +46,7 @@ relativ neue Lernräume schnell Abnutzungserscheinungen zeigen.
 Bodendosen (zur Stromversorgung) mit abgerissenen Abdeckungen,
 Kaffeeflecken auf Möbeln und Bodenbelägen, zerbrochene Schreibtafeln und
 schwer erreichbare architektonische Elemente, die Abfall und Staub
-ansammeln, sind häufige Probleme. Mitwirkende des [UK Toolkits](../Referenzen.md) machten
+ansammeln, sind häufige Probleme. Mitwirkende des [UK Toolkits](../11_Referenzen.md) machten
 ganz unterschiedliche Angaben darüber, wie lange ihre Einrichtung
 erwarten würde, dass ein Bauprojekt hält, von einem
 Einkaufszentrumsmodel, bei dem Innenausstattung schnell und günstig

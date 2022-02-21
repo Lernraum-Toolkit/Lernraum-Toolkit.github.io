@@ -4,7 +4,7 @@ title: 6. Service
 nav_order: 7
 has_children: true
 has_toc: true
-permalink: /docs/6_Service
+permalink: /docs/06_Service
 ---
 
 # 6. Service
@@ -21,7 +21,7 @@ Serviceangebot und Räume müssen in integrierter Weise entworfen und
 durch Nutzerforschung gestützt werden. Serviceangebote sollten so
 gestaltet werden, dass sie nicht nur Anbieter-Effizienz, sondern auch
 Nutzer-Effektivität maximieren. Dieser Toolkit – aufbauend auf den
-[Instrumenten der Nutzerforschung](../7_Evaluation/6_Methoden.md), die im Abschnitt
+[Instrumenten der Nutzerforschung](../07_Evaluation/06_00_Methoden.md), die im Abschnitt
 Evaluation vorgestellt werden – zielt darauf ab, einen Prozess und die
 Werkzeuge zu bieten, um Serviceangebote innerhalb von Lernräume zu
 gestalten, zu betreiben und zu evaluieren.

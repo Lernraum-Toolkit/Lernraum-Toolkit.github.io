@@ -7,7 +7,7 @@ nav_order: 2
 ## 3.2 Projektphasen
 
 Typischerweise sind die Phasen eines Lernraumprojektes vergleichbar mit
-den im [RIBA](../Referenzen.md)-Arbeitsplan skizzierten Phasen:
+den im [RIBA](../11_Referenzen.md)-Arbeitsplan skizzierten Phasen:
 
 1.  Strategische Definition (früher bekannt als
     Feststellungsverfahren/Machbarkeitsstudie)
@@ -37,9 +37,9 @@ die Projektdefinition relativ überschaubar machen. In anderen Fällen
 gibt es möglicherweise eine Zeit der Abwägung verschiedener Optionen, um
 festzulegen, ob ein Neubau oder eine Umgestaltung die angemessenste
 Lösung ist. Hinweise zu Tools zur Abwägung von Optionen finden sich im
-[Ressourcen-Abschnitt](../ressourcen).
+[Ressourcen-Abschnitt](../07_Ressourcen).
 
-Eine Reihe von Mitwirkenden des [UK Toolkit](../Referenzen.md) haben angemerkt, dass es sich –
+Eine Reihe von Mitwirkenden des [UK Toolkit](../11_Referenzen.md) haben angemerkt, dass es sich –
 wenn Investitionsentscheidungen bezüglich Renovierungen anstehen –
 möglicherweise nicht immer auszahlt, den schlechtesten Raum zuerst
 anzugehen. Zehn Räume mit kleineren Problemen zu modernisieren, könnte
@@ -52,7 +52,7 @@ College London (UCL), berichtet “Renovierung an der UCL könnte genauso
 gut ein Neubau sein. Viele Räume werden bis auf ein paar Pfeiler und
 Betonplatten zurückgebaut.“
 
-Der [US Learning Space Toolkit](../Referenzen.md) gibt Hinweise zum Setzen realistischer
+Der [US Learning Space Toolkit](../11_Referenzen.md) gibt Hinweise zum Setzen realistischer
 Ziele und Erwartungen:
 
 -   Die **Projekterwartungen in Bezug auf Qualität und Quantität mit dem
@@ -75,7 +75,7 @@ Ziele und Erwartungen:
 -   **Man sollte einen realistischen Zeitplan für das Projekt
     erstellen**, und dabei den Prozess der Entscheidungsfindung
     berücksichtigen, genügend Zeit für
-    [Überprüfung/Feedback](../7_Evaluation/0_Evaluation.md) einplanen und Zeit für die
+    [Überprüfung/Feedback](../07_Evaluation/00_Evaluation.md) einplanen und Zeit für die
     Entwicklung von Prototypen und die Erprobung der eigenen Ideen
     einplanen.
 
@@ -84,7 +84,7 @@ Ziele und Erwartungen:
 In dieser Phase beginnt man wirklich, die Vision für eine bestimmte Art
 von Lernumgebung umzusetzen. Zu diesem Zeitpunkt sollte man auch die
 größte Breite an Stakeholdern einbeziehen (siehe mehr dazu in Kapitel 2,
-[Partnerschaftliche Zusammenarbeit](../2_zusammenarbeit/0_zusammenarbeit.md)). Visuelle
+[Partnerschaftliche Zusammenarbeit](../02_Zusammenarbeit/00_Zusammenarbeit.md)). Visuelle
 Darstellungen sind in dieser Phase wichtig. Viele Menschen finden es
 schwierig, Pläne zu verstehen und sich in 3D vorzustellen, wie ein
 Gebäude aussehen wird. Den Leuten fällt es schwer, sich auf etwas
@@ -98,22 +98,22 @@ viel nützlicher, als zu versuchen, Designentscheidungen um einen Tisch
 auf einem Papierplan zu treffen.
 
 Ein wichtiges Thema ist Kreativität und Innovation im Lernraumdesign
-(siehe dazu Kapitel 1, [Eine neue Pädagogik schaffen](../1_paedagogik/0_paedagogik.md),
-und Kapitel 2, [Partnerschaftliche Zusammenarbeit](../2_zusammenarbeit/0_zusammenarbeit.md)).
-Das [UK Toolkit](../Referenzen.md) ist auch für
+(siehe dazu Kapitel 1, [Eine neue Pädagogik schaffen](../01_Paedagogik/00_Paedagogik.md),
+und Kapitel 2, [Partnerschaftliche Zusammenarbeit](../02_Zusammenarbeit/00_Zusammenarbeit.md)).
+Das [UK Toolkit](../11_Referenzen.md) ist auch für
 vielbeschäftigte Leute aus der Praxis entstanden, um ihnen zu helfen, nutzbare und
 effektive Räume zu gestalten, und betont die Wichtigkeit anerkannte
 Standards für den Entwurf anzuwenden (siehe dazu v.a. die Abschnitte zu
-[funktionalen Raumdesignstandards](../4_Gestaltung/4_Raumstandards.md),
-[Audio-Design-Standards](../4_Gestaltung/8_Audio.md), [Visuelle Design-Standards](../4_Gestaltung/9_Visuell.md)
-und [IT Standards](../4_Gestaltung/10_IT.md)).
+[funktionalen Raumdesignstandards](../04_Gestaltung/04_Raumstandards.md),
+[Audio-Design-Standards](../04_Gestaltung/08_Audio.md), [Visuelle Design-Standards](../04_Gestaltung/09_Visuell.md)
+und [IT Standards](../04_Gestaltung/10_IT.md)).
 
 Es zahlt sich aus, die Designideen mit einer Reihe von Realitätschecks
 zu prüfen (siehe später in diesem Abschnitt). Architekten/-innen und
 spezialisierte Berater/-innen unterstützen dabei, aber es zahlt sich auch aus,
 Leute mit lokalem Know-how einzubeziehen.
 
-Der [US Learning Space Toolkit](../Referenzen.md) weist zusätzlich darauf hin, dass es
+Der [US Learning Space Toolkit](../11_Referenzen.md) weist zusätzlich darauf hin, dass es
 wichtig ist, einen iterativen Ansatz einzuplanen und sich immer wieder
 Feedback durch Benutzende einzuholen. Bei einem iterativen Ansatz erhält
 man immer wieder Feedback und kann die Ideen im Laufe der Zeit
@@ -154,7 +154,7 @@ wichtiger Meilenstein, der gefeiert werden sollte, kennzeichnet aber
 wahrscheinlich nicht das Ende des Projektes. Eine effektive
 Post-Occupancy Evaluation ist notwendig um sicherzustellen, dass der
 Raum wie geplant funktioniert (siehe Kapitel 7
-[Evaluation](../7_Evaluation/0_Evaluation.md)).
+[Evaluation](../07_Evaluation/00_Evaluation.md)).
 
 Es zahlt sich aus, darüber nachzudenken, wie sich die Belegung aufgrund
 von neuen Entwicklungen verändern könnte. Viele Lernraumprojekte wurden
@@ -172,7 +172,7 @@ Nachhinein auf höhere Auslastung ausgelegte Anlagen eingebaut.“
 
 **Tool**
 
-Ein Tool aus dem [US Learning Space Toolkit](../Referenzen.md), das genutzt werden kann, um
+Ein Tool aus dem [US Learning Space Toolkit](../11_Referenzen.md), das genutzt werden kann, um
 sich in der Planung mit den verschiedenen Projektphasen
 auseinanderzusetzen ist die „Process Map“ (Prozessvisualisierung). Sie
 stellt Phasen, Aktivitäten, Teilnehmer und Entscheidungen / Ergebnisse
@@ -180,7 +180,7 @@ für eine großes Lernraumprojekt dar, mit der Idee, dass Institutionen
 sich diesen umfangreichen „idealen“ Fall anschauen und ihn auf ihren
 Bedarf herunter skalieren können. Die Process Map identifiziert 6
 Schlüsselphasen eines Projektes: Visioning (entspricht in etwa der oben
-genannten Definitionsphase aus [RIBA](../Referenzen.md)); Programming, Conceptual Design,
+genannten Definitionsphase aus [RIBA](../11_Referenzen.md)); Programming, Conceptual Design,
 Detailed Design (in etwa Designphase); Construction (Bauphase) und
 Operation/Assessment (in etwa Betriebsphase). Danach stellt es einige
 typische Aktivitäten jeder Phase exemplarisch dar, wie etwa regelmäßige
@@ -193,6 +193,6 @@ Ergebnisse und zu fällende Entscheidungen. Institutionen können diese
 Informationen nutzen, um den Prozess so zu strukturieren, wie es am
 besten für sie passt, abgestimmt auf die Größe, Budget und Kontext.
 
-[Download Roadmap Beispiel (docx)](../../0_Tools/03_02_DE_Roadmap_Beispiel.docx){: .btn .btn-purple .fs-5 .mr-4}
+[Download Roadmap Beispiel (docx)](../../00_Tools/03_02_DE_Roadmap_Beispiel.docx){: .btn .btn-purple .fs-5 .mr-4}
 
 Dokument mit einem Beispiel für eine Projekt-Roadmap, die einen Überblick über einen typischen Ablauf von Planung, Bau, Betrieb und Evaluation von Lernräumen gibt.

@@ -7,7 +7,7 @@ nav_order: 1
 
 ## 1.1 Lernen „konstruieren“ / Constructing Learning
 
-Der Titel dieses Abschnitts ist angelehnt an [Monahans (2002)](../Referenzen.md) Begriff der
+Der Titel dieses Abschnitts ist angelehnt an [Monahans (2002)](../11_Referenzen.md) Begriff der
 „Built Pedagogy“ (gebaute Pädagogik/Didaktik), der „architectural
 embodiments of educational philosophies“ bezeichnet. Mit anderen Worten,
 die Art in der ein Raum entworfen ist, formt das Lernen, das in diesem
@@ -35,7 +35,7 @@ Trennung von Service und Orten, an denen sich das Personal aufhält,
 schafft ebenfalls eine Unterscheidung, die Studierende in die Rolle des
 Informationsempfangens versetzt statt in die eines Teils der
 Lerngemeinschaft geprägt von einem Ethos der forschungsorientierten
-Lehre ([Van Note Chism, 2006](../Referenzen.md)).
+Lehre ([Van Note Chism, 2006](../11_Referenzen.md)).
 
 Die aktuellen Überlegungen zu „Good Practice“ in der Bildung betonen
 nachdrücklich das Lernen im Gegensatz zum Lehren und betonen, dass Lernende

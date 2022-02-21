@@ -59,7 +59,7 @@ eine Lernraumprojekt enthält diejenigen, die eine Rolle spielen bei:
     Karrieremessen)
 
 Hierzu ergänzend eine Übersicht verschiedener Stakeholder-Gruppen aus
-dem [US-amerikanischen Toolkit](../Referenzen.md). Stakeholder-Gruppen umfassen
+dem [US-amerikanischen Toolkit](../11_Referenzen.md). Stakeholder-Gruppen umfassen
 institutionelle Projekteigner (project owner), das Design/Programm Team,
 Beratungsgruppen/-ausschüsse, zukünftige Nutzendengruppen, Ausschüsse (z.B.
 Fakultätssenat), Campusexperten und -expertinnen für bestimmte Themen (z.B. Dekanat für
@@ -86,7 +86,7 @@ Projektziele, Zeitplan, Budget und Designanforderungen abgestimmt ist
 | Design Team                                                                                                          | Designlösungen entwerfen, die Projektziele und Vision, sowie Raum, Technologie und Servicebedarf deckt | Übertragen von Input und Untersuchungen in Programmgestaltung, Designkonzepte und Pläne. Ausarbeiten von Gebäudetechnik (strukturell, mechanisch, elektrisch, sanitäre und Brandschutzanlagen), Grundrissen und Innenräumen                           |
 | Planungsberatung                                                                                                      | Stakeholder durch einen sinnvollen Planungsprozess einbinden und leiten                              | Planungs- und Strategieinformationen und fachkundige Anleitung zur Unterstützung der Planung, einschließlich Raumplanung, Budgetierung/ Kostenschätzungen, Betriebsplanung, Service Design, Markenbildung, Beteiligung/Ermöglichung und Kommunikation |
 | Technische Beratung                                                                                                   | Exzellenz in technischen Bereichen wie Umgebungsbedingungen, Nachhaltigkeit, Usability ermöglichen     | Technische Informationen und Expertise in spezifischen Bereichen wie Akustik, Beleuchtung, audiovisuellen Fragen, Wegweiser, Energieeffizienz, Nachhaltigkeit, Lagerung und Zugänglichkeit liefern                                                    |
-| Technologie Team: Campus IT, Abteilungs-IT, Audio/Video IT Consultants, AV Installation, Hersteller/ Ausrüstungsanbieter | Technologiepläne und -spezifikationen liefern                                                          | Siehe dazu Technologiepartner/-innen im [Kapitel Lerntechnologien](../5_Lerntechnologien/0_Lerntechnologien.md) für detaillierte Beschreibung und Tätigkeiten                                                                                                                     |
+| Technologie Team: Campus IT, Abteilungs-IT, Audio/Video IT Consultants, AV Installation, Hersteller/ Ausrüstungsanbieter | Technologiepläne und -spezifikationen liefern                                                          | Siehe dazu Technologiepartner/-innen im [Kapitel Lerntechnologien](../05_Lerntechnologien/00_Lerntechnologien.md) für detaillierte Beschreibung und Tätigkeiten                                                                                                                     |
 
 **Nutzendengruppen -** Nutzendenperspektiven liefern beim Festlegen von
 Projektzielen, Anforderungen und Prioritäten. Eine
@@ -132,7 +132,7 @@ Projektunterstützer identifizieren, um die Idee voranzutreiben; ein Team
 zusammenstellen, das sich aktiv einbringt und sicherstellen, dass es
 eine Ausweichlösung/Plan gibt.
 
-Eine Reihe von Mitwirkenden am [UK Toolkit](../Referenzen.md) äußerten, dass AV und IT
+Eine Reihe von Mitwirkenden am [UK Toolkit](../11_Referenzen.md) äußerten, dass AV und IT
 Leute häufig zu spät einbezogen werden. Eleanor Magennis ist auf jeden
 Fall der Ansicht, dass sie früher involviert werden sollten und das
 Timing ihrer Einbindung davon abhängt, ob es ein Umbau oder Neubau ist:
@@ -146,7 +146,7 @@ Eine gemeinsame Sprache ist nötig, damit, wenn ein flexibler Raum
 entwickelt wird, jeder in diesem Kontext die gleiche Definition von
 Flexibilität hat und versteht.
 
-Dies sind einige Dinge, die Mitwirkende des [UK Toolkit](../Referenzen.md) über Zusammenarbeit
+Dies sind einige Dinge, die Mitwirkende des [UK Toolkit](../11_Referenzen.md) über Zusammenarbeit
 und umfassenderes Einbeziehen von Stakeholdern berichtet haben:
 
 -   Eine Herausforderung vieler Stakeholder besteht einfach darin, an
@@ -154,7 +154,7 @@ und umfassenderes Einbeziehen von Stakeholdern berichtet haben:
 
 -   Oft werden Studierende gar nicht hinzugezogen
 
--   [Kommunikation](../3_projektmanagement/4_Kommunikation.md) ist immer ein großes Thema –
+-   [Kommunikation](../03_projektmanagement/04_Kommunikation.md) ist immer ein großes Thema –
     sie kann anfangs gut sein und im Verlauf schlechter werden
 
 -   Man muss mehrmals kommunizieren, auch wenn man dasselbe immer wieder

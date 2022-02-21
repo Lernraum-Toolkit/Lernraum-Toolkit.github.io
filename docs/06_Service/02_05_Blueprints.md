@@ -6,7 +6,7 @@ grand_parent: 6. Service
 nav_order: 5
 ---
 
-### 6.2.5 Servicekonzept (Blueprint) {#_6.2.5}
+### 6.2.5 Servicekonzept (Blueprint)
 
 Ein Servicekonzept (Blueprint = „Blaupause“) ist ein operatives
 Planungsinstrument für die Bereitstellung eines Dienstes, in dem die
@@ -38,9 +38,9 @@ werden, ggf. mit jeweils angepasstem Detailgrad.
 
 **Beispiel und Tool**
 
-[Download Beispiel Service Blueprint (docx)](../../0_Tools/06_02_05_DE_Service_Blueprint_Beispiel.docx){: .btn .btn-purple .fs-5 .mr-4}
+[Download Beispiel Service Blueprint (docx)](../../00_Tools/06_02_05_DE_Service_Blueprint_Beispiel.docx){: .btn .btn-purple .fs-5 .mr-4}
 
-[Download Template Service Blueprint (docx)](../../0_Tools/06_02_05_DE_Service_Blueprint.docx){: .btn .btn-purple .fs-5 .mr-4}
+[Download Template Service Blueprint (docx)](../../00_Tools/06_02_05_DE_Service_Blueprint.docx){: .btn .btn-purple .fs-5 .mr-4}
 
 **Weitere Ressourcen Konzepterstellung/Blueprinting**
 

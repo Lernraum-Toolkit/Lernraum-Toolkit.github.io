@@ -57,7 +57,7 @@ Verantwortlichkeiten und Entscheidungsbefugnisse klar kommunizieren und
 effektive Kommunikationskanäle einrichten.
 
 Die folgende Liste von professionellen Beratern und Beraterinnen und deren Rollen in
-einem Lernraumprojekt wurde adaptiert von der JISC Leitlinie ([JISC, 2013](../Referenzen.md)) zu diesem Thema.
+einem Lernraumprojekt wurde adaptiert von der JISC Leitlinie ([JISC, 2013](../11_Referenzen.md)) zu diesem Thema.
 
 **Architekt/-in**
 

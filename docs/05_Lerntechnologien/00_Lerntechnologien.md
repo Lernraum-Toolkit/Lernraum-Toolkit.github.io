@@ -4,7 +4,7 @@ title: 5. Lerntechnologien
 nav_order: 6
 has_children: true
 has_toc: true
-permalink: /docs/5_Lerntechnologien
+permalink: /docs/05_Lerntechnologien
 ---
 
 # 5. Lerntechnologien

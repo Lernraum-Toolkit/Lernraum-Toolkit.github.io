@@ -24,7 +24,7 @@ Anforderungen an einen Lernraum gehen weit über die Nutzbarkeit
 unterschiedlicher didaktischer Stile und Technologien, die diese
 unterstützt, führt letztendlich zu differenzierten, ansprechenden und
 inspirierenden Lernräumen. Deshalb sind die in Kapitel 1
-([Eine neue Pädagogik schaffen](../1_paedagogik/0_paedagogik.md))
+([Eine neue Pädagogik schaffen](../01_Paedagogik/00_Paedagogik.md))
 behandelten Designprinzipien so wichtig und deshalb
 ist die Inspiration und Motivation der Studierenden solch ein Kernziel.
 Räume müssen sowohl begeistern als auch funktional sein.
@@ -70,7 +70,7 @@ Merkmale des Raumes[^9]:
     bei der Auswahl von Möbeln für die Nutzung durch Studierende keine
     hohe Priorität, aber das Bereitstellen von bequemen Möbeln von hoher
     Qualität ist ein wichtiger Faktor um „time on task“ (etwa:
-    konzentriertes Arbeiten, [Chickering & Gamson, 1987](../Referenzen.md)) in einem
+    konzentriertes Arbeiten, [Chickering & Gamson, 1987](../11_Referenzen.md)) in einem
     Lernraum zu gewährleisten.
 
 -   **Nähe** – Nutzende müssen bequem Zugang zu dem Raum haben: der beste
@@ -108,7 +108,7 @@ Merkmale des Raumes[^9]:
         teilzunehmen.
 
 [^9]: Ein Bericht über Evaluationsmodelle und -Praxis in
-        technologiegestützten Lernräumen ([Pearshouse et al. 2009](../Referenzen.md)) enthält
+        technologiegestützten Lernräumen ([Pearshouse et al. 2009](../11_Referenzen.md)) enthält
         eine ähnliche Liste von Aspekten der Lernraumgestaltung, die laut
         den von ihnen ausgewerteten Evaluationen am meisten zum effektiven
         Lernen beizutragen schienen. Pearshouse, et al. (2009). A Study of

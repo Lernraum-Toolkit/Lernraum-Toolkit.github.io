@@ -17,20 +17,20 @@ einzelnen Schritten und Tools arbeitet.
 
 Die Service Design Tools, die dieser Lernraum-Toolkit beinhaltet, sind:
 
--   [ServicePlot](#_6.2.1) um die eigene Service Philosophie, Wert
+-   [**ServicePlot**](02_01_Service-Plot.md) um die eigene Service Philosophie, Wert
     und Vision zu verstehen
 
--   [Personas Overview](#_6.2.2) um die Motivationen und
+-   [**Personas Overview**](02_02_Personas.md) um die Motivationen und
     Verhalten der Nutzer darzustellen
 
--   [Service Location Planner](#_6.2.3) um festzulegen
+-   [**Service Location Planner**](02_03_Location-Planner.md) um festzulegen
     welche Services wo, wann und durch wen angeboten werden
 
--   [Customer Journey Map](#_6.2.4) um die Nutzung von Service/Raum
+-   [**Customer Journey Map**](02_04_Journey-Map.md) um die Nutzung von Service/Raum
     über die Zeit aufzuzeichnen und Zeiten der Interaktion oder
     “Berührungspunkte” zu identifizieren.
 
--   [Service Blueprints](#_6.2.5) zur Orientierung,
+-   [**Service Blueprints**](02_05_Blueprints.md) zur Orientierung,
     wie sowohl „Front-Line“-Mitarbeiter als auch diejenigen hinter den
     Kulissen Service durch verschiedene Kanäle anbieten werden
 

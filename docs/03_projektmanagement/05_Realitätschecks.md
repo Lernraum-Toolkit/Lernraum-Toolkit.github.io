@@ -10,7 +10,7 @@ Es zahlt sich aus regelmäßig Realitätschecks auf die Designideen
 anzuwenden. Das Baudezernat / Bauamt, Architekt/-in und Berater/-innen werden einen
 dabei unterstützen, aber es ist immer gut, auch Leute mit lokalem
 Know-how zu involvieren. Diese Checklisten für unterschiedliche Aspekte
-des Baus wurde im [UK Toolkit](../Referenzen.md) von den JISC Empfehlungen zu Lernräumen ([JISC, 2007, 2013](../Referenzen.md)) adaptiert.
+des Baus wurde im [UK Toolkit](../11_Referenzen.md) von den JISC Empfehlungen zu Lernräumen ([JISC, 2007, 2013](../11_Referenzen.md)) adaptiert.
 
 **Generelle Design Checkliste**
 

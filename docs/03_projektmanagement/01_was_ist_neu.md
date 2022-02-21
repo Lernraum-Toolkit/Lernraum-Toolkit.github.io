@@ -4,6 +4,7 @@ title: 3.1 Was ist neu?
 parent: 3. Lernraumprojekt managen
 nav_order: 1
 ---
+
 ## 3.1 Was ist neu / anders?
 Viele Universitäten haben bereits einen Projektmanagement-Ansatz, den
 sie für ihre Projekte anwenden und viele Fachleute, die dieses Toolkit lesen,
@@ -18,7 +19,7 @@ jedoch allen Arten von Lernraumprojekten gemeinsam sein:
 
 -   Man wird wahrscheinlich ein Projektlebenszyklus-Modell anwenden,
     welches spezifisch für Bauprojekte ist (siehe
-    [Projektphasen](2_Projektphasen.md))
+    [Projektphasen](02_Projektphasen.md))
 
 -   Man wird wahrscheinlich mit einer Reihe von Akteuren und Akteurinnen (v.a.
     wissenschaftlichem Personal und Studierenden) zusammenarbeiten, die
@@ -26,10 +27,10 @@ jedoch allen Arten von Lernraumprojekten gemeinsam sein:
     neuesten Stand dieser Art des Arbeitens gebracht werden müssen. Das
     Toolkit soll keinen Überblick über allgemeines
     Projektmanagement geben, aber es liefert ein paar Hinweise
-    ([Ressourcen](ressourcen.md) Abschnitt) auf hilfreiche Tools
+    ([Ressourcen](07_Ressourcen.md) Abschnitt) auf hilfreiche Tools
 
 Einige Leserinnen und Leser haben den Abschnitt zu Projektmanagement und Projektzyklen
-vielleicht am Anfang des Toolkits erwartet. Die Reihenfolge wurde im [UK Toolkit](../Referenzen.md)
+vielleicht am Anfang des Toolkits erwartet. Die Reihenfolge wurde im [UK Toolkit](../11_Referenzen.md)
 bewusst so gewählt und hier übernommen: zuerst wird über Pädagogik gesprochen, weil das Ziel
 dieser Projekte ist, Lernen zu unterstützen, und dann wird als nächstes
 über partnerschaftliche Zusammenarbeit gesprochen, weil das Mitwirken

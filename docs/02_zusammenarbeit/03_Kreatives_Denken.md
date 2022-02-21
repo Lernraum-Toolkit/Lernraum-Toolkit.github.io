@@ -45,7 +45,7 @@ School Hörsaal einen Workshop, bei dem Teilnehmenden mit Hilfe von
 Knetmasse eine Metapher entwickelten.
 
 Ein Beispiel zur Nutzung einer Metapher, angelehnt an die Arbeit von
-[Martin (2010)](../Referenzen.md) über Kreativität:
+[Martin (2010)](../11_Referenzen.md) über Kreativität:
 
 Stakeholder dazu einladen, über eine passende Metapher für den Lernraum
 nachzudenken und die Art der Aktivitäten aufzulisten, die ihnen dazu
@@ -126,8 +126,3 @@ könnte. Das bedeutet, dass es wichtig ist schon in einem frühen Stadium
 eine leicht verständliche visuelle Repräsentation zu haben. Fortschritte
 in digitaler Technologie ermöglichen es Architekten/-innen viel leichter früher
 im Projekt 3D Visualisierungen produzieren zu können.  
-
-   
-
-
----

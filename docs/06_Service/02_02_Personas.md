@@ -6,7 +6,7 @@ grand_parent: 6. Service
 nav_order: 2
 ---
 
-### 6.2.2 Personas {#_6.2.2}
+### 6.2.2 Personas
 
 Personas sind fiktive Charaktere, die geschaffen werden, um bestimmte
 Schlüsselmerkmale von Zielbenutzergruppen zu verkörpern. Mit Personas
@@ -15,5 +15,5 @@ wiederum zur Entwicklung von Use Cases für den Lernraum und zur
 Gestaltung von Serviceangeboten verwendet werden können. Personas werden
 während des gesamten Prozesses der Gestaltung von Services verwendet,
 wenn Tools wie Journey Maps und Servicekonzepte (Blueprints) verwendet
-werden. Werkzeuge zur Erstellung von [Personas](../7_Evaluation/7_Daten.md) sind im
+werden. Werkzeuge zur Erstellung von [Personas](../07_Evaluation/07_Daten.md) sind im
 Abschnitt Evaluation des Lernraum-Toolkits verfügbar.

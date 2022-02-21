@@ -119,19 +119,19 @@ Gebrauch sind.
 
 **Templates für Raum- und Nachbarschaftsbeschreibungen**
 
-Diese Templates ([US Toolkit](../Referenzen.md), deutsche Übersetzung)
+Diese Templates ([US Toolkit](../11_Referenzen.md), deutsche Übersetzung)
 für Raum- und Nachbarschaftsbeschreibungen können
 heruntergeladen werden und als Notiz- und Brainstorming-Unterstützung
 bei der Erkundung von Inspirationsquellen für Projekte zur Gestaltung
 von Lernräumen (z.B. [FLEXspace](http://flexspace.org/)) dienen.
 
-[Download Space Template mit Beispiel (odp)](../../0_Tools/04_01_DE_Space-Template_Beispiel.odp){: .btn .btn-purple .fs-5 .mr-4}
+[Download Space Template mit Beispiel (odp)](../../00_Tools/04_01_DE_Space-Template_Beispiel.odp){: .btn .btn-purple .fs-5 .mr-4}
 
-[Download Space Template mit Beispiel (pptx)](../../0_Tools/04_01_DE_Space-Template_Beispiel.pptx){: .btn .btn-purple .fs-5 .mr-4}
+[Download Space Template mit Beispiel (pptx)](../../00_Tools/04_01_DE_Space-Template_Beispiel.pptx){: .btn .btn-purple .fs-5 .mr-4}
 
-[Download Neighborhood Template mit Beispiel (odp)](../../0_Tools/04_01_DE_Neighborhood-Template_Beispiel.odp){: .btn .btn-purple .fs-5 .mr-4}
+[Download Neighborhood Template mit Beispiel (odp)](../../00_Tools/04_01_DE_Neighborhood-Template_Beispiel.odp){: .btn .btn-purple .fs-5 .mr-4}
 
-[Download Neighborhood Template mit Beispiel (pptx)](../../0_Tools/04_01_DE_Neighborhood-Template_Beispiel.pptx){: .btn .btn-purple .fs-5 .mr-4}
+[Download Neighborhood Template mit Beispiel (pptx)](../../00_Tools/04_01_DE_Neighborhood-Template_Beispiel.pptx){: .btn .btn-purple .fs-5 .mr-4}
 
 **Lernraum-Taxonomie**
 
@@ -144,9 +144,9 @@ Taxonomie kann dazu verwendet werden, bestehende und zukünftige
 Lernräume systematischer zu beschreiben, um sicherzustellen, dass die
 verschiedenen Facetten von Lernräumen explizit berücksichtigt werden.
 
-![Abbildung 2](../0_Abbildungen/04-01_Learning-Space-Taxonomy.png)
+![Abbildung 2](../00_Abbildungen/04-01_Learning-Space-Taxonomy.png)
 
-Abbildung 2. Die Learning Space Taxonomy, übernommen aus dem [US Toolkit](../Referenzen.md), lizenziert unter [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.de) - Beschreibung unter [Learning Space Taxonomy](https://learningspacetoolkit.org/space-types/learning-space-mind-map/index.html)
+Abbildung 2. Die Learning Space Taxonomy, übernommen aus dem [US Toolkit](../11_Referenzen.md), lizenziert unter [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.de) - Beschreibung unter [Learning Space Taxonomy](https://learningspacetoolkit.org/space-types/learning-space-mind-map/index.html)
 
 ### 4.1.3 Erfolgstipps
 

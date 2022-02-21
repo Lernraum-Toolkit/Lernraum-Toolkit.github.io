@@ -33,7 +33,7 @@ Es ist wichtig, darüber nachzudenken, wo Widerstände liegen - sind es
 Individuen oder die Strukturen und Systeme, in denen sie sich befinden,
 die sich dem Wandel widersetzen? Wir müssen das vereinfachte Verständnis
 vermeiden, das dazu neigt, Lehrende entweder als Barrieren oder als
-Akteure des Wandels zu verorten ([Priestley, 2011](../Referenzen.md)).
+Akteure des Wandels zu verorten ([Priestley, 2011](../11_Referenzen.md)).
 
 Dies sind einige der Dinge, die uns Mitwirkenden des Toolkits über
 Veränderungen mitgeteilt haben:

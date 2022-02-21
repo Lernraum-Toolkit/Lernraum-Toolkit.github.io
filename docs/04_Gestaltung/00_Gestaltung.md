@@ -4,7 +4,7 @@ title: 4. Konkrete Gestaltung
 nav_order: 5
 has_children: true
 has_toc: true
-permalink: /docs/4_Gestaltung
+permalink: /docs/04_Gestaltung
 ---
 
 # 4. Konkrete Gestaltung verschiedener Arten von Lernräumen
@@ -27,14 +27,14 @@ Lernräumen und gibt Hinweise zu:
 
 **Erwartungen an die Lektüre dieses Abschnitts**
 
-Zunächst werden Leitprinzipien aus dem [US Learning Space Toolkit](../Referenzen.md)
+Zunächst werden Leitprinzipien aus dem [US Learning Space Toolkit](../11_Referenzen.md)
 dargestellt, die betonen auf welche Fragen bzw. Punkte man sich bei der
 anfänglichen Konzeption, der konkreten Planung und während des
 tatsächlich Betriebs fokussieren sollte. Es folgen entsprechende
 Werkzeuge, die in diesem Prozess unterstützen können und konkrete Tipps
 zur Umsetzung.
 
-Jeder der zum [UK Toolkit](../Referenzen.md) beitragenden Fachverbände hat ein spezielles
+Jeder der zum [UK Toolkit](../11_Referenzen.md) beitragenden Fachverbände hat ein spezielles
 Interesse an einem oder mehreren der Unterabschnitte. Sie wurden
 dennoch gemeinsam gruppiert dazu zu ermutigen sich einen Überblick
 über das Thema als Ganzes zu verschaffen, da die verschiedenen Aspekte

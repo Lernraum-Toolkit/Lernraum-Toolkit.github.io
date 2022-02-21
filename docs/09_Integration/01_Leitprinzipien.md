@@ -26,7 +26,7 @@ Entscheidungsfindung aufbauen**
 -   **Ermittelte Ziele, Bedürfnisse und Aktivitäten überprüfen**, um
     sicherzustellen, dass die Raum-/Technik-/Personalausstattung diese
     erfüllt (z.B. sind die Ergebnisse des "Use-Case-Tools" aus dem
-    Abschnitt ([Mit Daten arbeiten](../7_Evaluation/7_Daten.md)) ein guter Ausgangspunkt).
+    Abschnitt ([Mit Daten arbeiten](../07_Evaluation/07_Daten.md)) ein guter Ausgangspunkt).
 
 -   **Sicherstellen, dass die integrierten Planungsentscheidungen** die
     Vision und Prioritäten widerspiegeln, z.B. sollten die wichtigsten

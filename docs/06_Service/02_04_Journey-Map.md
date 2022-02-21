@@ -6,7 +6,7 @@ grand_parent: 6. Service
 nav_order: 4
 ---
 
-### 6.2.4 Journey Map {#_6.2.4}
+### 6.2.4 Journey Map
 
 Eine Customer Journey Map ist eine visuelle Darstellung, die zeigt, wie
 ein Kunde oder Nutzer eine Dienstleistung im Laufe der Zeit erlebt.
@@ -39,9 +39,9 @@ Fragen oder Bedenken, die die Journey Maps aufwerfen, beantworten.
 
 **Beispiel und Tool**
 
-[Download Beispiel Journey Map (docx)](../../0_Tools/06_02_04_DE_Journey_Map_Beispiel.docx){: .btn .btn-purple .fs-5 .mr-4}
+[Download Beispiel Journey Map (docx)](../../00_Tools/06_02_04_DE_Journey_Map_Beispiel.docx){: .btn .btn-purple .fs-5 .mr-4}
 
-[Download Template Journey Map (docx)](../../0_Tools/06_02_04_DE_Journey_Map.docx){: .btn .btn-purple .fs-5 .mr-4}
+[Download Template Journey Map (docx)](../../00_Tools/06_02_04_DE_Journey_Map.docx){: .btn .btn-purple .fs-5 .mr-4}
 
 
 **Weitere Ressourcen Journey Maps**

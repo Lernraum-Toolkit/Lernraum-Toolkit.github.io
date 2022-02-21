@@ -22,7 +22,7 @@ machen, festzulegen, was gebraucht wird und was erlebt wird, und kann zu
 Verwirrung und manchmal Mistrauen führen (gegenüber denjenigen, die das
 System betreiben, konzipiert oder installiert haben).
 
-Eine Studie über das Management offener Lernräume ([Watson et al., 2007](../Referenzen.md))
+Eine Studie über das Management offener Lernräume ([Watson et al., 2007](../11_Referenzen.md))
 ergab, dass Heizung, Belüftung und Kühlung eines der Hauptthemen beim
 Management solcher Räume darstellt. Zu den Problemen gehörten die
 wahrgenommene Unzulänglichkeit der meisten Systeme und Frustration über
@@ -86,7 +86,7 @@ Systeme die Nachhaltigkeitsagenda erfüllen. Das beinhaltet oft
 Luftbewegungen über offen angelegte Stockwerke und durch ein offenes
 Atrium nach oben. Auch hier können Veränderungen in der Gestaltung des
 Gebäudes, wie z.B. die Abtrennung von Bereichen, nachteilige Effekte auf
-das Funktionieren des Systems haben. [Watson et al. (2007)](../Referenzen.md) raten zur
+das Funktionieren des Systems haben. [Watson et al. (2007)](../11_Referenzen.md) raten zur
 Vorsicht bei der Nutzung solcher Systeme und merken an „… Lärm, Gerüche,
 Temperaturwechsel und die fehlende Anpassungsfähigkeit des Gebäudes
 machten das Gebäude allmählich unbrauchbar und waren eindeutig ein

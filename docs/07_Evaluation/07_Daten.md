@@ -39,9 +39,9 @@ wichtigen Teil der Post-Occupancy / Redesign-Evaluation bilden.
 
 [Link Beispiel Use Case Tool (pdf)](https://learningspacetoolkit.org/wp-content/uploads/Use-Case-Tool-Example.pdf)
 
-[Download Template Use Case Tool (ods)](../../0_Tools/07_07_DE_Use_Case_Tool.ods){: .btn .btn-purple .fs-5 .mr-4}
+[Download Template Use Case Tool (ods)](../../00_Tools/07_07_DE_Use_Case_Tool.ods){: .btn .btn-purple .fs-5 .mr-4}
 
-[Download Template Use Case Tool (xlsx)](../../0_Tools/07_07_DE_Use_Case_Tool.xlsx){: .btn .btn-purple .fs-5 .mr-4}
+[Download Template Use Case Tool (xlsx)](../../00_Tools/07_07_DE_Use_Case_Tool.xlsx){: .btn .btn-purple .fs-5 .mr-4}
 
 **Personas entwickeln -** zur Verkörperung spezifischer
 Schlüsselmerkmale von Zielnutzergruppen
@@ -49,7 +49,7 @@ Schlüsselmerkmale von Zielnutzergruppen
 Personas sind fiktive Charaktere, die geschaffen werden, um bestimmte
 Schlüsselmerkmale von Zielgruppen zu verkörpern. Mit Personas kann man
 Nutzerforschungsdaten in Beispielbenutzer "verpacken", die wiederum zur
-Entwicklung von use cases für den Lernraum und [Services](../6_Service/0_Service.md)
+Entwicklung von use cases für den Lernraum und [Services](../06_Service/00_Service.md)
 genutzt werden können. Personas bieten einige Vorteile für diejenigen,
 die Designprojekte durchführen, darunter:
 
@@ -72,7 +72,7 @@ die Designprojekte durchführen, darunter:
     zusammenarbeitet, um Personas zu entwerfen, beginnend mit der
     Zusammenarbeit in einer Workshop-Situation.
 
--   [Persona Creation Workshop Overview - deutsche Übersetzung (odp)](../../0_Tools/07_07_DE_Persona_Creation_Workshop.odp) oder [(pptx)](../../0_Tools/07_07_DE_Persona_Creation_Workshop.pptx)
+-   [Persona Creation Workshop Overview - deutsche Übersetzung (odp)](../../00_Tools/07_07_DE_Persona_Creation_Workshop.odp) oder [(pptx)](../../00_Tools/07_07_DE_Persona_Creation_Workshop.pptx)
    kann in einem Workshops zur Erstellung von Personas verwendet
     werden, um die Teilnehmer über den Prozess zu informieren und
     spezifische "Klebezettel"-Übungen zu beschreiben, die zur

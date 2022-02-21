@@ -22,7 +22,7 @@ identifizieren, die die Design-Entscheidungen leiten und die Aufnahme
 neuer und verbesserter Ideen in die Infrastruktur ermöglichen.
 
 Es gibt eine Vielzahl publizierter Beispiele für Designprinzipien. Viele
-davon basieren auf [Chickering und Gamsons (1987)](../Referenzen.md) sieben
+davon basieren auf [Chickering und Gamsons (1987)](../11_Referenzen.md) sieben
 Prinzipien von „Good Practices“ in der studentischen Ausbildung[^4], die auf
 Raumdesign übertragen werden:
 
@@ -40,7 +40,7 @@ Raumdesign übertragen werden:
 
 7.  Respektiert verschiedene Begabungen und Arten zu Lernen.
 
-[JISC (2006)](../Referenzen.md) umreißt eine sehr einfache Reihe von
+[JISC (2006)](../11_Referenzen.md) umreißt eine sehr einfache Reihe von
 Prinzipien, die ein Raum sein sollte:
 
 -   **Flexibel** – um sowohl aktuelle als auch sich entwickelnde
@@ -72,8 +72,8 @@ Reihe von Anmerkungen zur Bedeutung und zum Wert von Begriffen wie
 Flexibilität.
 
 Der folgende Satz von Leitprinzipien für das Design wurde für den
-[UK HE Learning Space Toolkit](../Referenzen.md) frei aus den Arbeiten von
-[Lomas und Oblinger (2006)](../Referenzen.md) adaptiert. Dort wird vorgeschlagen,
+[UK HE Learning Space Toolkit](../11_Referenzen.md) frei aus den Arbeiten von
+[Lomas und Oblinger (2006)](../11_Referenzen.md) adaptiert. Dort wird vorgeschlagen,
 dass Lernräume folgende Punkte erfüllen sollten:
 
 **Ein Gefühl von Gemeinschaft erzeugen und aktive Teilnahme anregen**
@@ -122,10 +122,10 @@ tech“ Hilfsmittel haben ihren Platz an der Seite von digitalen
 Technologien. Physische Räume sollten die Art der Lernaktivitäten nicht
 einschränken. Auch sollte man zukünftige Bedürfnisse im Kopf behalten,
 kann aber nicht verlangen, dass alles flexibel ist, da es schwierig
-ist, zu definieren, was man damit erreichen will (s. [Standpunkte](standpunkte.md)
-und [Kapitel 4 Konkrete Gestaltung verschiedener Arten von Lernräumen](../4_Gestaltung/0_Gestaltung.md)).
+ist, zu definieren, was man damit erreichen will (s. [Standpunkte](03_Standpunkte.md)
+und [Kapitel 4 Konkrete Gestaltung verschiedener Arten von Lernräumen](../04_Gestaltung/00_Gestaltung.md)).
 
-![Foto Gruppenkojen](../0_Abbildungen/01-02_Gruppenkojen_UB_Tuebingen.JPG)
+![Foto Gruppenkojen](../00_Abbildungen/01-02_Gruppenkojen_UB_Tuebingen.JPG)
 &copy; N.Schanz / Universitätsbibliothek Tübingen
 {: .fs-2 .text-right}
 
@@ -161,9 +161,9 @@ Studierende (und Mitarbeitende) sich aufhalten, statt nur am Standort der
 Einrichtung, fördert die Nutzung, genauso wie Online
 Support zur Verfügung zu stellen. Mitarbeitende und Studierende brauchen
 möglicherweise beide Unterstützung um das Potential innovativer Arten
-von Lernräumen voll auszuschöpfen. Während das [UK Toolkit](../Referenzen.md) betont, wie wichtig es
+von Lernräumen voll auszuschöpfen. Während das [UK Toolkit](../11_Referenzen.md) betont, wie wichtig es
 ist sicherzustellen, dass Lernräume leicht und intuitiv zu benutzen
-sind, fand das Learning Landscape Projekt ([Neary et al., 2010](../Referenzen.md)), dass es,
+sind, fand das Learning Landscape Projekt ([Neary et al., 2010](../11_Referenzen.md)), dass es,
 ohne Unterstützung, eine Tendenz gibt sogar in den innovativsten
 didaktischen Umgebungen auf traditionelle Praktiken zurückzufallen.
 Support sollte auch die Unterstützung des Lehrpersonals bei der
@@ -240,4 +240,4 @@ sein, Studierende zu begeistern.
 [^5]: Value Engineering ist eine prozessorientierte Vorgehensweise, bei
     der unnötige Projektkosten identifiziert und reduziert werden, ohne
     dabei wesentliche Funktionen und Qualitäten des Bauprojekts
-    einzuschränken ([Mathoi, 2007](../Referenzen.md)).
+    einzuschränken ([Mathoi, 2007](../11_Referenzen.md)).

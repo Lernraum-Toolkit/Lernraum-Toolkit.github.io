@@ -40,9 +40,9 @@ langlebigen Geräte an den Rändern der Kurve auslaufen.
 
 **Tool**
 
-[Download Life Cycle Tool (ods)](../../0_Tools/05_05_DE_Life-Cycle-Tool.ods){: .btn .btn-purple .fs-5 .mr-4}
+[Download Life Cycle Tool (ods)](../../00_Tools/05_05_DE_Life-Cycle-Tool.ods){: .btn .btn-purple .fs-5 .mr-4}
 
-[Download Life Cycle Tool (xlsx)](../../0_Tools/05_05_DE_Life-Cycle-Tool.xlsx){: .btn .btn-purple .fs-5 .mr-4}
+[Download Life Cycle Tool (xlsx)](../../00_Tools/05_05_DE_Life-Cycle-Tool.xlsx){: .btn .btn-purple .fs-5 .mr-4}
 
 **Zu berücksichtigende Faktoren für die Lebenszykluskosten**
 
@@ -51,7 +51,7 @@ langlebigen Geräte an den Rändern der Kurve auslaufen.
 | Jährliche Wartungs-/ Betriebskosten | Direkte Kosten für die Wartung von Hardware und Software für ein bestimmtes Gerät und die darauf befindlichen Anwendungen. Die kostengünstigste Art der Wartung ist oft eine Paketlösung direkt zusammen mit dem Kauf der Hard- oder Software, da die Vertragsraten zum Zeitpunkt des Erstkaufs in der Regel niedrig sind. Mittlere Kosten verursachen meist jährliche Wartungsverträge. Das zumeist teuerste Modell ist, keine Wartungsverträge zu haben und für den Service pro Serviceauftrag ("wenn etwas kaputt geht") zu zahlen, da die meisten Hersteller für diese Art von Service einen Aufschlag berechnen. |
 | Aktualisierungskosten             | Niedrige Aktualisierungskosten hat Ausstattung mit einem Aktualisierungszyklus von mehr als 7 Jahren, wie z.B. Netzwerk-Switches. In der Regel beträgt der Aktualisierungszyklus 4 Jahre, z.B. bei Desktop-Computern. Mittelhohe Kostenpositionen sind normalerweise Gadgets wie Kameras, iPods usw. für die Ausleihe, die etwa zwei Jahre halten. Kostenintensive Posten werden jedes Jahr erneuert, in der Regel "Verbrauchsmaterialien" wie USB-Laufwerke, Kopfhörer, Laptop-Netzadapter usw.                                                                                                                      |
 | Innovationskosten                 | Im Gegensatz zu den Aktualisierungskosten, bei denen ein Gerät ersetzt wird, wenn es einen Punkt erreicht, an dem seine Nützlichkeit oder Funktionalität von sich aus nachlässt, werden bei den Innovationskosten die Geräte aktualisiert, sobald die neueste und beste Version herauskommt. Die größten Innovationskosten entstehen, wenn die jüngsten, neu auf den Markt gebrachten experimentellen Geräte und Ausrüstungen gekauft werden, sobald sie herauskommen.                                                                                                                                                |
-| Personalkosten                     | Repräsentiert den Grad an Fachwissen des Personals, der im Allgemeinen benötigt wird, um einen Bereich zu unterstützen, von der Nutzung (Personal der Ebene 1), über die Reparatur (Ebene 2), die Beratung (Ebene 3), die Anpassung (Ebene 2 und 3) bis hin zur Entwicklung (Ebene 2, 3 und 4). Diese Personalebenen finden sich bei [Service-Personal](../../6_Service/3_Personalplanung.md).    |
+| Personalkosten                     | Repräsentiert den Grad an Fachwissen des Personals, der im Allgemeinen benötigt wird, um einen Bereich zu unterstützen, von der Nutzung (Personal der Ebene 1), über die Reparatur (Ebene 2), die Beratung (Ebene 3), die Anpassung (Ebene 2 und 3) bis hin zur Entwicklung (Ebene 2, 3 und 4). Diese Personalebenen finden sich bei [Service-Personal](../06_Service/03_Personalplanung.md).    |
 
 **Zu berücksichtigende Lebenszyklus-Nachhaltigkeitsfaktoren**
 

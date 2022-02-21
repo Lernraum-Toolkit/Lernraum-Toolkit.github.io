@@ -73,6 +73,6 @@ und nicht die glamourösen Aspekte der Technologie selbst zu betrachten.*
 
 -   **Laufend Nutzenden-Feedback** mit Hilfe verschiedener Techniken
     einholen, darunter Online-Umfragen, Interviews, Beobachtungen und
-    Fokusgruppen (siehe Kapitel 7 [Evaluation](../7_Evaluation/0_Evaluation.md)). Wenn
+    Fokusgruppen (siehe Kapitel 7 [Evaluation](../07_Evaluation/00_Evaluation.md)). Wenn
     möglich, sollte man Evaluationen ganzheitlich und koordiniert mit
     anderen Fachbereichen (öffentliche Dienste, Facilities) durchführen.

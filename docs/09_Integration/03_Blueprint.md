@@ -30,6 +30,6 @@ nachzuprüfen, ob das Design und der Betrieb des Raums mit den
 beabsichtigten Zielen übereinstimmen, und zu den Aktivitäten der
 Bedarfsanalyse zurückkehren.
 
-[Download Beispiel Integration Blueprint (docx)](../../0_Tools/09_03_DE_Integration_Blueprint_Beispiel.docx){: .btn .btn-purple .fs-5 .mr-4}
+[Download Beispiel Integration Blueprint (docx)](../../00_Tools/09_03_DE_Integration_Blueprint_Beispiel.docx){: .btn .btn-purple .fs-5 .mr-4}
 
-[Download Template Integration Blueprint (docx)](../../0_Tools/09_03_DE_Integration_Blueprint.docx){: .btn .btn-purple .fs-5 .mr-4}
+[Download Template Integration Blueprint (docx)](../../00_Tools/09_03_DE_Integration_Blueprint.docx){: .btn .btn-purple .fs-5 .mr-4}

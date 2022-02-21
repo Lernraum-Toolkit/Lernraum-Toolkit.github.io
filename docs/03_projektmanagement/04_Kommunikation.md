@@ -10,7 +10,7 @@ nav_order: 4
 Es ist wichtig, sicherzustellen, dass von Anfang an gute
 Kommunikationskanäle aufgebaut und aufrechterhalten werden, um zu
 gewährleisten, das Schlüssel-Stakeholder informiert werden und
-einbezogen bleiben. Der [US Toolkit](../Referenzen.md) stellt dabei besonders folgende
+einbezogen bleiben. Der [US Toolkit](../11_Referenzen.md) stellt dabei besonders folgende
 Punkte heraus, die man für eine effektive Kommunikation über die gesamte
 Planung eines Lernraums hinweg beachten sollte:
 

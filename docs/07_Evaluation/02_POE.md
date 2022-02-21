@@ -9,7 +9,7 @@ nav_order: 2
 
 Die Post-Occupancy Evaluation (POE) ist im „Estates Management“ im
 Hochschulwesen gut etabliert, und AUDE hat an der Erstellung einer von
-der [HEFCE (2006)](../Referenzen.md) zu diesem Thema veröffentlichten Leitlinie
+der [HEFCE (2006)](../11_Referenzen.md) zu diesem Thema veröffentlichten Leitlinie
 mitgearbeitet.
 
 In diesem Leitfaden wird POE als Oberbegriff verwendet, der eine

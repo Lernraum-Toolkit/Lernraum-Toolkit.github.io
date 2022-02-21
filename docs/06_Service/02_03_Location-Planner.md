@@ -6,7 +6,7 @@ grand_parent: 6. Service
 nav_order: 3
 ---
 
-### 6.2.3 Service Location Planner {#_6.2.3}
+### 6.2.3 Service Location Planner
 
 Der Service Location Planner ist ein einfaches Werkzeug, um zu planen,
 wo und wann Dienstleistungen angeboten werden - innerhalb eines
@@ -34,6 +34,6 @@ Arbeitsschichten und Fähigkeiten dienen.
 
 [Link Beispiel Service Location Planner (pdf)](https://learningspacetoolkit.org/wp-content/uploads/Service-Location-Planner-Example1.pdf)
 
-[Download Template Service Location Planner (ods)](../../0_Tools/06_02_03_DE_Service_Location_Planner.ods){: .btn .btn-purple .fs-5 .mr-4}
+[Download Template Service Location Planner (ods)](../../00_Tools/06_02_03_DE_Service_Location_Planner.ods){: .btn .btn-purple .fs-5 .mr-4}
 
-[Download Template Service Location Planner (xlsx)](../../0_Tools/06_02_03_DE_Service_Location_Planner.xlsx){: .btn .btn-purple .fs-5 .mr-4}
+[Download Template Service Location Planner (xlsx)](../../00_Tools/06_02_03_DE_Service_Location_Planner.xlsx){: .btn .btn-purple .fs-5 .mr-4}

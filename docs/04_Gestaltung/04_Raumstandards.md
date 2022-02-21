@@ -51,7 +51,7 @@ sagt „Es ist frustrierend jemand sagen zu hören ‚etwas funktioniert
 nicht und es hat letzte Woche auch nicht funktioniert‘, d.h. sie haben
 es nicht gemeldet.“
 
-Eine Reihe von Mitwirkenden des [UK Toolkits](../Referenzen.md) sprachen über Normen
+Eine Reihe von Mitwirkenden des [UK Toolkits](../11_Referenzen.md) sprachen über Normen
 bezüglich des Raumbedarfs pro Studierender für verschiedene Arten von
 Tätigkeiten. Einige sagten, dass ihre Einrichtung den Schwerpunkt auf
 die Erhöhung des Platzangebots pro Person legt, wohingegen andere
@@ -84,7 +84,7 @@ Anwesenheitsüberwachung in Lernräumen, aber man sollte die Regelungen
 vor Ort und wahrscheinlichen zukünftigen Anforderungen in der
 Designphase berücksichtigen.
 
-Hier ein paar Dinge, die [UK Toolkit](../Referenzen.md)-Mitwirkende über funktionale
+Hier ein paar Dinge, die [UK Toolkit](../11_Referenzen.md)-Mitwirkende über funktionale
 Raumstandards sagten:
 
 -   Türen zu Lernräumen sollten, wenn möglich, verglaste Sichtfenster
@@ -119,6 +119,6 @@ Raumstandards sagten:
 -   Tische, die wie ein Plektrum geformt sind, haben sich als besonders
     effektiv für Gruppenarbeit erwiesen.
 
-    ![Foto Gruppenkojen](../0_Abbildungen/04-04_Flexible_Möbel_UB_Tuebingen.JPG)
+    ![Foto Flexible Möbel](../00_Abbildungen/04-04_Flexible_Moebel_UB_Tuebingen.JPG)
     &copy; N.Schanz / Universitätsbibliothek Tübingen
     {: .fs-2 .text-right}

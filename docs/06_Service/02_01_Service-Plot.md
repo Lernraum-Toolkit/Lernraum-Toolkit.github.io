@@ -6,7 +6,7 @@ grand_parent: 6. Service
 nav_order: 1
 ---
 
-### 6.2.1 Service Plot {#_6.2.1}
+### 6.2.1 Service Plot
 
 *Was ist die eigene Servicephilosophie?*
 
@@ -34,9 +34,9 @@ Antworten:
     Modell auf der anderen
 
 
-![Abbildung 5](../0_Abbildungen/06-02-01_Service_Plot.png)
+![Abbildung 5](../00_Abbildungen/06-02-01_Service_Plot.png)
 
-Abbildung 5. Beispiel für einen ausgefüllten ServicePlot, übernommen aus dem [US Toolkit](../Referenzen.md), lizenziert unter [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.de)
+Abbildung 5. Beispiel für einen ausgefüllten ServicePlot, übernommen aus dem [US Toolkit](../11_Referenzen.md), lizenziert unter [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.de)
 
 Dafür bilden Organisationen ihre aktuellen und zukünftigen Antworten bezogen
 auf sechs Schlüsselthemen ab – Service-Schwerpunkt,

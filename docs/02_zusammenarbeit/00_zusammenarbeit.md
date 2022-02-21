@@ -4,12 +4,12 @@ title: 2. Zusammenarbeit
 nav_order: 3
 has_children: true
 has_toc: true
-permalink: /docs/2_zusammenarbeit
+permalink: /docs/02_Zusammenarbeit
 ---
 
 # 2. Partnerschaftliche Zusammenarbeit
 
-![Meeting](../0_Abbildungen/02-00_Meeting.jpg) [^6]
+![Meeting](../00_Abbildungen/02-00_Meeting.jpg) [^6]
 
 
 **In Kürze**

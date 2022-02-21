@@ -41,7 +41,7 @@ empfehlen, aber es hat sicherlich für uns funktioniert".
 **Sally Jorjani, Head of Academic and Business Liaison, Edinburgh Napier University,** stellte fest, dass ein Projekt zur Schaffung sozialer
 Lernräume in einer Reihe von Empfangsbereichen an sich schon eine Übung
 in Veränderungsmanagement war. Glücklicherweise verfügte sie über
-stichhaltige Evaluationsergebnisse (siehe Abschnitt 7, [Evaluation](../7_Evaluation/0_Evaluation.md) ), um den Bedarf der Studierenden zu
+stichhaltige Evaluationsergebnisse (siehe Abschnitt 7, [Evaluation](../07_Evaluation/00_Evaluation.md) ), um den Bedarf der Studierenden zu
 zeigen. Sie erlebte jedoch das bekannte Projektmanagement-Rätsel, dass
 ein Nutzen für eine Art von Interessengruppe ein Nachteil für eine
 andere sein kann. In diesem Fall verringerte die Tatsache, dass die
