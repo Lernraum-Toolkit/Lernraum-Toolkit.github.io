@@ -10,23 +10,23 @@ nav_order: 3
 Einer der schwierigsten Aspekte für viele Beteiligte eines
 Lernraumprojekts ist es, sich Räume vorzustellen, die sich sehr von denen
 unterscheiden, in denen sie unterrichtet wurden oder einen Großteil
-ihres Arbeitslebens verbracht haben. Es ist einfach sich existierende
+ihres Arbeitslebens verbracht haben. Es ist einfach, sich existierende
 Räume vorzustellen, die heller und besser möbliert sind, aber
-schwieriger einen Plan für eine radikal andere Art von Lernerlebnis zu
+schwieriger, einen Plan für eine radikal andere Art von Lernerlebnis zu
 entwickeln. Dies kann genauso für Architekten und Architektinnen gelten, deren Erfahrung
 mit Hochschulbildung möglicherweise relativ traditionell war: sie können
 architektonisch stimulierende Gebäude entwerfen, brauchen aber eine
 Menge Input von Mitarbeitenden und Studierenden damit diese als Lernräume
 des 21. Jahrhunderts funktionieren. Bruce Rodger, Head of
 Infrastructure, University of Strathclyde, betont die Notwendigkeit der
-Institution, über ihre eigene Vision und was sie erreichen will,
-nachzudenken bevor sie externe Beratung hinzuzieht: „Manchmal werden
+Institution, über ihre eigene Vision und was sie erreichen will
+nachzudenken, bevor sie externe Beratung hinzuzieht: „Manchmal werden
 Architekten etwas zu früh im Prozess eingebunden. Wir müssen sorgfältig
 über die wesentlichen Nutzungen des Raumes nachdenken, bevor
 Designkonzepte in Stein gemeißelt werden.“
 
-Die gute Nachricht ist, dass kreatives Denken eine Fähigkeit ist, die
-sich entwickeln kann und es viele Techniken gibt, die das unterstützen,
+Die gute Nachricht: kreatives Denken ist eine Fähigkeit, die
+man entwickeln kann und es viele Techniken gibt, die das unterstützen,
 wie z.B. der **[Learning Space Canvas](https://drive.google.com/file/d/0ByE1fe2FVKqYZ2tKV3A2UU5xWTQ/view?resourcekey=0-8LRZ6GRHgrM162JOh3DtYw)**
 von Robert Fitzgerald, INSPIRE Centre, University of Canberra.
 
@@ -38,10 +38,10 @@ Saltire Centre Metaphern genutzt, wie z.B. das Erdgeschoss als Stadt und
 Markplatz, die erste Ebene mit 3 Eingängen und Ausgängen als Abflughalle
 eines Flughafens und andere, ruhigere Ebenen als heimischer Garten und
 Wohnzimmer. An der University of Birmingham wurde die Metapher eines
-durch ein Gebäude wachsenden Baums genutzt um Ideen anzuregen, die das
+durch ein Gebäude wachsenden Baums genutzt, um Ideen anzuregen, die das
 Innere nach draußen tragen und das Äußere nach innen. An der
 Loughborough University enthielt der Beratungsprozess für den Design
-School Hörsaal einen Workshop, bei dem Teilnehmenden mit Hilfe von
+School Hörsaal einen Workshop, bei dem die Teilnehmenden mit Hilfe von
 Knetmasse eine Metapher entwickelten.
 
 Ein Beispiel zur Nutzung einer Metapher, angelehnt an die Arbeit von
@@ -85,7 +85,7 @@ auf den Raum? Einige Beispiele können sein:
     Welche unerwünschten Unkräuter treten auf, wenn wir nicht genug
     Instandhaltung machen?
 
--   Wände und Zäune bauen – ist es sinnvoll Wände und Zäune um
+-   Wände und Zäune bauen – ist es sinnvoll, Wände und Zäune um
     Lernbereiche zu haben? Ist dies unverzichtbare Zonierung oder ein
     Hindernis für verknüpftes Lernen? Können wir Zäune entfernen oder
     sie meiden, wenn wir wollen? Brauchen wir Tore, Türen und Öffnungen?
@@ -106,13 +106,13 @@ ausdenken, aber es kann sehr hilfreich sein, auf diese Dinge auf eine
 andere Art zu schauen, die nicht durch unsere spezifischen
 professionellen Perspektiven eingeschränkt ist.
 
-Die University of Birmingham hat auch Pinterest als ein Mittel genutzt
+Die University of Birmingham hat auch Pinterest als ein Mittel genutzt,
 um breite Stakeholder Beteiligung zu unterstützen. Pinterest ist ein
 virtuelles „Mood Board“ und Raum für Zusammenarbeit, den die Universität
 bei den ersten Designmeetings nutzte um die Zielvorgaben für ein Hochschulgebäude zu entwickeln. Matt Sherlock, Assistant
 Director, Learning Environments, University of Birmingham berichtet
 “Manchmal muss man Stakeholder mit ungewöhnlichen Ideen zupflastern, um
-ihr Interesse zu wecken.“ Matt empfand es als relativ leicht die Leute
+ihr Interesse zu wecken.“ Matt empfand es als relativ leicht, die Leute
 dazu zu bringen, sich mit den Ideen auf Pinterest auseinanderzusetzen,
 weil sie sich raussuchen können, ob sie das Material einfach passiv
 aufnehmen oder teilnehmen und Beiträge von anderen bewerten wollen. Die
@@ -122,7 +122,7 @@ kommunizieren zu können.
 
 Viele Leute finden Pläne von Architekten/-innen schwer zu verstehen und haben
 Schwierigkeiten sich vorzustellen, wie der Raum in Wirklichkeit aussehen
-könnte. Das bedeutet, dass es wichtig ist schon in einem frühen Stadium
+könnte. Das bedeutet, dass es wichtig ist, schon in einem frühen Stadium
 eine leicht verständliche visuelle Repräsentation zu haben. Fortschritte
-in digitaler Technologie ermöglichen es Architekten/-innen viel leichter früher
+in digitaler Technologie ermöglichen es Architekten/-innen, viel leichter und früher
 im Projekt 3D Visualisierungen produzieren zu können.  
