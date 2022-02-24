@@ -106,6 +106,10 @@ Raumstandards sagten:
     üblichen Beschaffungsstrategie widersprechen kann, Möbel
     auszuwählen, die zwar robuster aber weniger leicht zu bewegen sind.
 
+    ![Foto Flexible Möbel](../00_Abbildungen/04-04_Flexible_Moebel_UB_Tuebingen.JPG)
+    &copy; N.Schanz / Universitätsbibliothek Tübingen
+    {: .fs-2 .text-right}
+
 -   Größer ist nicht notwendigerweise besser, wenn es um Tischfläche für
     Gruppenarbeit geht. Die Universität Edinburgh testete einige Tische
     für 6 Personen (geformt wie ein Bügelbrett) für Gruppenarbeit indem
@@ -118,7 +122,3 @@ Raumstandards sagten:
 
 -   Tische, die wie ein Plektrum geformt sind, haben sich als besonders
     effektiv für Gruppenarbeit erwiesen.
-
-    ![Foto Flexible Möbel](../00_Abbildungen/04-04_Flexible_Moebel_UB_Tuebingen.JPG)
-    &copy; N.Schanz / Universitätsbibliothek Tübingen
-    {: .fs-2 .text-right}
