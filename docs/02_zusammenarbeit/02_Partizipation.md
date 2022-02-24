@@ -11,7 +11,7 @@ jede Stakeholder-Gruppe anstrebt, um eine effektive Strategie zur
 Gewährleistung dieser Partizipation zu entwickeln und umzusetzen. Ein
 hilfreicher Ausgangspunkt ist das Konzept einer
 Partizipationsleiter[^7], welches breit eingesetzt und für viele
-Kontexte angepasst wurde, seit es 1969 zum ersten Mal von Arnstein
+Kontexte angepasst wurde, seit es 1969 von Arnstein
 eingeführt wurde. Die vereinfachte Version aus dem [UK Toolkit](../11_Referenzen.md) wurde aus Arbeiten
 an der Birmingham City University adaptiert.
 
