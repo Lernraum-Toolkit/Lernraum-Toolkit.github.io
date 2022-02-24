@@ -60,7 +60,7 @@ Ziele und Erwartungen:
     spätere Probleme zu vermeiden, und Vorab-Baukosten sowie die
     langfristigen Betriebskosten ganzheitlich zu betrachten.
 
--   **Mit dem Ziel vor Augen beginnen** um ein gemeinsames Verständnis
+-   **Mit dem Ziel vor Augen beginnen**, um ein gemeinsames Verständnis
     der Projektziele zu schaffen, wie der Erfolg aussehen wird und
     welche Ergebnisse bei den Projekt-Meilensteinen erreicht werden, und
     zwar anhand von Modellen und Beispielen aus der Vergangenheit.
@@ -74,8 +74,8 @@ Ziele und Erwartungen:
 
 -   **Man sollte einen realistischen Zeitplan für das Projekt
     erstellen**, und dabei den Prozess der Entscheidungsfindung
-    berücksichtigen, genügend Zeit für
-    [Überprüfung/Feedback](../07_Evaluation/00_Evaluation.md) einplanen und Zeit für die
+    berücksichtigen und genügend Zeit für
+    [Überprüfung/Feedback](../07_Evaluation/00_Evaluation.md) sowie die
     Entwicklung von Prototypen und die Erprobung der eigenen Ideen
     einplanen.
 
@@ -87,8 +87,8 @@ größte Breite an Stakeholdern einbeziehen (siehe mehr dazu in Kapitel 2,
 [Partnerschaftliche Zusammenarbeit](../02_Zusammenarbeit/00_Zusammenarbeit.md)). Visuelle
 Darstellungen sind in dieser Phase wichtig. Viele Menschen finden es
 schwierig, Pläne zu verstehen und sich in 3D vorzustellen, wie ein
-Gebäude aussehen wird. Den Leuten fällt es schwer, sich auf etwas
-einzulassen, was sie nicht vollständig verstehen können. Deshalb sollten
+Gebäude aussehen wird. Es fällt oft schwer, sich auf etwas
+einzulassen, was man nicht vollständig verstehen kann. Deshalb sollten
 Repräsentationen so schnell wie möglich beschafft werden, sodass die
 Beteiligten wissen, worüber man spricht.
 
@@ -102,7 +102,7 @@ Ein wichtiges Thema ist Kreativität und Innovation im Lernraumdesign
 und Kapitel 2, [Partnerschaftliche Zusammenarbeit](../02_Zusammenarbeit/00_Zusammenarbeit.md)).
 Das [UK Toolkit](../11_Referenzen.md) ist auch für
 vielbeschäftigte Leute aus der Praxis entstanden, um ihnen zu helfen, nutzbare und
-effektive Räume zu gestalten, und betont die Wichtigkeit anerkannte
+effektive Räume zu gestalten, und betont die Notwendigkeit, anerkannte
 Standards für den Entwurf anzuwenden (siehe dazu v.a. die Abschnitte zu
 [funktionalen Raumdesignstandards](../04_Gestaltung/04_Raumstandards.md),
 [Audio-Design-Standards](../04_Gestaltung/08_Audio.md), [Visuelle Design-Standards](../04_Gestaltung/09_Visuell.md)
@@ -110,7 +110,7 @@ und [IT Standards](../04_Gestaltung/10_IT.md)).
 
 Es zahlt sich aus, die Designideen mit einer Reihe von Realitätschecks
 zu prüfen (siehe später in diesem Abschnitt). Architekten/-innen und
-spezialisierte Berater/-innen unterstützen dabei, aber es zahlt sich auch aus,
+spezialisierte Berater/-innen unterstützen dabei, aber es ist auch lohnenswert,
 Leute mit lokalem Know-how einzubeziehen.
 
 Der [US Learning Space Toolkit](../11_Referenzen.md) weist zusätzlich darauf hin, dass es
@@ -120,31 +120,31 @@ man immer wieder Feedback und kann die Ideen im Laufe der Zeit
 verfeinern. Dabei sollte man sich bewusst sein, dass man möglicherweise
 fließend zwischen dem Herausarbeiten der zu lösenden Probleme und der
 Überprüfung potenzieller Lösungen wechseln muss, da Letzteres zur
-Klärung der ersteren beiträgt. Dazu kann es hilfreich sein mehrere
+Klärung der ersteren beiträgt. Dazu kann es hilfreich sein, mehrere
 Entwurfsoptionen zu testen - von den frühen Konzepten bis hin zu
 späteren Details - dies ermöglicht besseres Feedback, lässt Ideen
 miteinander konkurrieren und vermeidet eine vorzeitige Festlegung auf
 eine Richtung. Auch sollte man überlegen, ob man Prototypen zum Testen
 von Raum, Technik und Servicekonzepten entwickeln kann. Das kann auch
 nur bedeuten, die Dinge in vorhandenen Räumen neu zu ordnen oder
-Rollenspiele zu spielen.
+Rollenspiele durchzuführen.
 
 **Bauphase (Stadien 5 und 6)**
 
 Je schneller man diese Phase abschließen kann, desto leichter ist es
 Kosten und Planänderungen zu regeln. Diese Phase wird wahrscheinlich
-eine große Zahl von externen Auftragnehmern involviert sein, sodass man
+eine große Zahl von externen Auftragnehmern involvieren, sodass man
 ein gut durchdachtes Management-Kontrollsystem mit nur einer
 verantwortlichen Person zur Kommunikation von Entscheidungen und
 Informationen an die Auftragnehmer braucht. Effektive Mechanismen zur
 Änderungskontrolle sind in dieser Phase sehr wichtig. Obwohl in dieser
 Phase wahrscheinlich eher allgemeines Verwaltungspersonal und andere
-Fachleute als Nutzende der Räume involviert sind, ist es wichtig effektive
+Fachleute als Nutzende der Räume involviert sind, ist es wichtig, effektive
 Kommunikation beizubehalten, v.a., wenn unvorhergesehene Probleme zu
 Änderungen im ursprünglichen Design führen. Angemessenes Einbeziehen von
 Schlüsselnutzenden des Raum kann auch dabei helfen, „Snagging“ zu
-minimieren. Snagging bedeutet Defekte, die repariert werden müssen, erst
-am Ende eines Bauprojektes zu identifizieren – frühe Identifizierung von
+minimieren. Snagging bedeutet, dass man Defekte, die repariert werden müssen, erst
+am Ende eines Bauprojektes entdeckt – frühe Identifizierung von
 Problemen kann ihre Lösung oft vereinfachen.
 
 **Aneignungs-/Betriebsphase (Stadium 7)**
@@ -167,7 +167,7 @@ Evaluationsberichts der University of Wolverhampton: „Von Beginn des
 Betriebs wurde deutlich, dass die Aufzüge das „Verkehrsaufkommen“ nicht
 bewältigen können … es wurde eine ähnliche Spezifikation wie bei anderen
 Aufzügen innerhalb der Universität genutzt, aber – aufgrund der
-gewaltigen Nutzung – war das nicht genug. Infolgedessen, wurde im
+gewaltigen Nutzung – war das nicht genug. Infolgedessen, wurden im
 Nachhinein auf höhere Auslastung ausgelegte Anlagen eingebaut.“
 
 **Tool**
@@ -176,7 +176,7 @@ Ein Tool aus dem [US Learning Space Toolkit](../11_Referenzen.md), das genutzt w
 sich in der Planung mit den verschiedenen Projektphasen
 auseinanderzusetzen ist die „Process Map“ (Prozessvisualisierung). Sie
 stellt Phasen, Aktivitäten, Teilnehmer und Entscheidungen / Ergebnisse
-für eine großes Lernraumprojekt dar, mit der Idee, dass Institutionen
+für ein großes Lernraumprojekt dar, mit der Idee, dass Institutionen
 sich diesen umfangreichen „idealen“ Fall anschauen und ihn auf ihren
 Bedarf herunter skalieren können. Die Process Map identifiziert 6
 Schlüsselphasen eines Projektes: Visioning (entspricht in etwa der oben
