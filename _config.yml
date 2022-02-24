@@ -32,7 +32,7 @@ aux_links_new_tab: false
 back_to_top: true
 back_to_top_text: "Nach oben"
 
-footer_content: footer_content: Veröffentlicht von der Universitätsbibliothek Tübingen, lizenziert unter <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
+footer_content: Veröffentlicht von der Universitätsbibliothek Tübingen, lizenziert unter <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
 # footer_content: "<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag"
 #style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/"
 #property="dct:title">Toolkit Lernraumgestaltung</span> ist lizenziert unter <a rel="license"
