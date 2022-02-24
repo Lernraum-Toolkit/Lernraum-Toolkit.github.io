@@ -12,12 +12,12 @@ permalink: /docs/01_Paedagogik
 **In Kürze**
 
 - Wie beeinflusst die Art und Weise der Gestaltung des physischen Raums das Lernen im Raum?
-- aktuelle Trends in Lern- und Lehrpraxis
+- Aktuelle Trends in Lern- und Lehrpraxis
 - Notwendigkeit einer Reihe von Leitprinzipien für die Gestaltung von Lernräumen
 
 **Erwartungen an die Lektüre dieses Abschnitts**
 
-Viele Fachleute, die mit der Gestaltung und dem Aufbau von Lernräumen zu tun haben, haben selbst weder einen Hintergrund von Lehr- und Lernpraxis noch stehen sie in direktem Kontakt mit Endnutzenden und Interessensgruppen. Das hat zur Folge, dass wir zu oft verbesserte Versionen von dem bauen, was wir schon haben, anstatt die Annahmen unter denen Lernräume entworfen werden tiefergehend in Frage zu stellen. Sogar Lehrende sind sich möglicherweise nicht in vollem Umfang der Auswirkungen bewusst wie die gebaute Umwelt die Art der Aktivitäten beschränkt, die stattfinden können. Das Ziel dieses Abschnitts ist deshalb, einen kurzen Überblick zu geben, was allgemein als „Good Practice“ im Bereich des Lernens und Lehrens angesehen wird und diejenigen, die sich mit der Gestaltung von Lernräumen beschäftigen, einzuladen schon in einem sehr frühen Stadium darüber nachzudenken, welche Art von Lern- und Lehrerlebnis sie für die Zukunft schaffen wollen.
+Viele Fachleute, die mit der Gestaltung und dem Aufbau von Lernräumen zu tun haben, haben selbst weder einen Hintergrund von Lehr- und Lernpraxis noch stehen sie in direktem Kontakt mit Endnutzenden und Interessensgruppen. Das hat zur Folge, dass wir zu oft verbesserte Versionen von dem bauen, was wir schon haben, anstatt die Annahmen, unter denen Lernräume entworfen werden, tiefergehend in Frage zu stellen. Sogar Lehrende sind sich möglicherweise nicht in vollem Umfang der Auswirkungen bewusst, wie die gebaute Umwelt die Art der Aktivitäten beschränkt, die stattfinden können. Das Ziel dieses Abschnitts ist deshalb, einen kurzen Überblick zu geben, was allgemein als „Good Practice“ im Bereich des Lernens und Lehrens angesehen wird und diejenigen, die sich mit der Gestaltung von Lernräumen beschäftigen, einzuladen, schon in einem sehr frühen Stadium darüber nachzudenken, welche Art von Lern- und Lehrerlebnis sie für die Zukunft schaffen wollen.
 
 ![Foto Schreibtafeln](../00_Abbildungen/01-00_Schreibtafeln_UB_Tuebingen.JPG)
 &copy; N.Schanz / Universitätsbibliothek Tübingen
