@@ -98,9 +98,9 @@ Raums zu definieren, der die erforderlichen Aktivitäten unterstützen
 kann. Es ist eine gute Möglichkeit, Hochschulpersonal einzubinden und zu
 zeigen, dass man die richtigen Fragen stellt und ihre Sprache spricht.
 Eleanor empfiehlt: "Es ist entscheidend, gute akademische Unterstützung
-zu haben. Sie treibt das Projekt voran. Sie konzentrieren sich
-auf die Pädagogik und berücksichtigen die Stimme der Studierenden und
-bringen diese ein".
+zu haben. Sie treibt das Projekt voran. Sie konzentriert sich
+auf die Pädagogik und berücksichtigt die Stimme der Studierenden und
+bringt diese ein".
 
 ---
 
