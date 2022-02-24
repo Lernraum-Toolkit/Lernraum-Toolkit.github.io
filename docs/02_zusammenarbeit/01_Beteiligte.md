@@ -8,15 +8,15 @@ nav_order: 1
 
 Die Stakeholder, die in ein Lernraumprojekt involviert sind, können als
 Teil eines Universitäts-Ökosystems gesehen werden. In groben Zügen sieht
-die Struktur dieses Ökosystems in etwa so aus:
+die Struktur dieses Ökosystems so aus:
 
 | | |
 |------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Strategieebene | Eine Lernraumstrategie, die auf fundierten, pädagogischen Prinzipien basiert, mit der Lern- und Lehrstrategie verbunden ist und idealerweise auch in die Gebäude und Flächenstrategien eingebettet ist. Eine akademische Leitung, die sich für jedes Einzelprojekt einsetzt. |
-| Management-ebene | Die zentrale Fachabteilung, die für die Durchführung der Einzelprojekte verantwortlich ist.                                                                                                                                                                                       |
-| Anwender-ebene   | Einzelne Forschende/Dozierende und Studierende, die an Arbeitsgruppen o.ä. für Einzelprojekte teilnehmen und die letztendlich die Nutzenden des Raums sind. Supportpersonal, das Serviceangebote in oder für den Lernraum anbietet.                                                       |
+| Managementebene | Die zentrale Fachabteilung, die für die Durchführung der Einzelprojekte verantwortlich ist.                                                                                                                                                                                       |
+| Anwenderebene   | Einzelne Forschende/Dozierende und Studierende, die an Arbeitsgruppen o.ä. für Einzelprojekte teilnehmen und die letztendlich die Nutzenden des Raums sind. Supportpersonal, das Serviceangebote in oder für den Lernraum anbietet.                                                       |
 
-In diesen Begriffen zu denken ist ein Ausgangspunkt um herauszufinden
+In diesen Begriffen zu denken ist ein Ausgangspunkt um herauszufinden,
 wer einbezogen werden sollte, obwohl die vereinfachte Struktur nicht
 alle Stakeholder umfasst. Eine beispielhafte Liste von Stakeholdern für
 eine Lernraumprojekt enthält diejenigen, die eine Rolle spielen bei:
@@ -73,7 +73,7 @@ Projekts nach Fertigstellung.
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Projektführung (Projektsponsor)                                                                                                                           | Sicherstellen, dass die Projektergebnisse mit Mission, Plänen und Betrieb der Einrichtung übereinstimmen und/oder diese voranbringen.                | Aufsicht, wichtige Anweisungen und Input für Planung/Design liefern. Gesamt-Zeitplan und Budget, sowie Personal und Ressourcen zum Betrieb des Projektes nach Fertigstellung bewilligen. Können sich mit Problemen und Änderungen innerhalb der Bauphase befassen.                                                                   |
 | Lenkungs- oder Bauausschuss (inklusive Führungspersonal der Universitätsverwaltung, Gebäudeplanung, Bibliotheks- und Studierendenservices und Lehrkörper) | Durch Aufsicht und Management den Projekt-Stakeholder ermöglichen, ihre Rollen und Verantwortlichkeiten wahrzunehmen                                 | Stellen fortlaufend Input und Hinweisen bereit, während sie gleichzeitig als zentrale Sammelstelle von Informationen und Input auf dem Campus dienen. Projektbeteiligte verbinden und als Projektvertretung gegenüber anderen Gruppen innerhalb und außerhalb der Einrichtung handeln. Personal- und Ressourcenentscheidungen leiten. |
-| Gebäude-/Anlagenplanung des Campus, typischerweise auch Projektmanagement                                                                                 | Ein zeit- und budget-gerechtes Projekt liefern. Raumprobleme, wie z.B. Planungsbedingungen, Standort / Kontextabwägungen und operative Dinge managen | Projektbudget und Zeitplan setzen; Designteam und/oder Beratende auswählen; Designprüfungen leiten; und Ausschreibungen, Designgenehmigungsverfahren, Bauadministration und Projektabschluss beaufsichtigen                                                                                                                            |
+| Gebäude-/Anlagenplanung des Campus, typischerweise auch Projektmanagement                                                                                 | Ein zeit- und budgetgerechtes Projekt liefern. Raumprobleme, wie z.B. Planungsbedingungen, Standort / Kontextabwägungen und operative Dinge managen | Projektbudget und Zeitplan setzen; Designteam und/oder Beratende auswählen; Designprüfungen leiten; und Ausschreibungen, Designgenehmigungsverfahren, Bauadministration und Projektabschluss beaufsichtigen                                                                                                                            |
 | Betrieb und Aufrechterhaltung von Einrichtungen                                                                                                           | Zu einem optimal funktionierenden Lernraum beitragen                                                                                                 | Allgemeine Campus-Dienstleistungen (z.B. Café, Post) betreiben und Gebäudesysteme und -bedingungen unterhalten                                                                                                                                                                                                                       |
 | Campusarchitekt/-in                                                                                                                                           | Sicherstellen, dass das Design mit der Campus Vision, Planungen und Standards übereinstimmt                                                          | Zu Themen wie Standort / Kontext, Abgleich mit anderen Plänen und Initiativen und Befolgen von Campus-Richtlinien und Standards beraten und Design darauf prüfen. Können in die Auswahl des Design-Teams und Auswahl/Genehmigung von Möbeln involviert sein.                                                                             |
 
@@ -113,7 +113,7 @@ Technologieplanung an.
 | Zentrale EDV                                 | Sicherstellen, dass Technologiepläne mit der zentralen EDV und Netzwerken übereinstimmen und unterstützt werden können                                            | Zu Technologieplänen beraten. Zentrale EDV und Netzwerksysteme im Lernraum instand halten                                                                                                                                                                    |
 | Stelle für institutionelle Analyse/Bewertung | Stakeholder ermächtigen Erhebungen durchzuführen, zu analysieren und zu vergleichen                                                                               | Bei Erhebungs-/Forschungsabläufen mithelfen, z.B. Zustimmung der lokalen Ethikkommission für Nutzerstudien bekommen, Datenanalyse                                                                                                                            |
 
-Diese Auflistung macht einen entscheidenden Punkt deutlich: die Komplexität von Lernraumprojekten erlaubt keiner Einzelperspektive allein alle notwendigen Anforderungen zu erfassen und genug Informationen aufzunehmen um fundierte Entscheidungen zu treffen. Ein
+Diese Auflistung macht einen entscheidenden Punkt deutlich: die Komplexität von Lernraumprojekten erlaubt keiner Einzelperspektive allein, alle notwendigen Anforderungen zu erfassen und genug Informationen aufzunehmen, um fundierte Entscheidungen zu treffen. Ein
 Lernraumprojekt erfordert einen Teamansatz und das bedeutet
 funktionsübergreifendes Arbeiten von akademischem Personal mit
 unterstützenden Diensten und die aktive Teilnahme von Lernenden selbst.
@@ -121,7 +121,7 @@ Für viele der Beteiligten wird dies die erste Erfahrung mit dieser Art von
 Projekt sein (ein Neubau oder Umbau ist oft eine einmalige Sache im
 Berufsleben) und jedes Projekt ist einzigartig. Effektive Zusammenarbeit
 mit all diesen Stakeholdern ist entscheidend für den Erfolg des
-Projektes. Dazu ist es wichtig klare Rollen und Verantwortlichkeiten
+Projektes. Dazu ist es wichtig, klare Rollen und Verantwortlichkeiten
 festzulegen, einschließlich der Festlegung, wie Entscheidungen getroffen
 werden.
 
@@ -139,7 +139,7 @@ Timing ihrer Einbindung davon abhängt, ob es ein Umbau oder Neubau ist:
 „Die besten von ihnen liefern nicht nur etwas ab, sondern tragen zu dem
 bei, was möglich ist“.
 
-Es ist nicht nur unerlässlich die richtigen Leute an den Tisch zu
+Es ist nicht nur unerlässlich, die richtigen Leute an den Tisch zu
 bekommen, alle müssen einander auch verstehen und Dinge nicht so stehen
 lassen, dass sie falsch interpretiert oder verstanden werden können.
 Eine gemeinsame Sprache ist nötig, damit, wenn ein flexibler Raum
@@ -150,39 +150,39 @@ Dies sind einige Dinge, die Mitwirkende des [UK Toolkit](../11_Referenzen.md) ü
 und umfassenderes Einbeziehen von Stakeholdern berichtet haben:
 
 -   Eine Herausforderung vieler Stakeholder besteht einfach darin, an
-    den Tisch zu kommen
+    den Tisch zu kommen.
 
--   Oft werden Studierende gar nicht hinzugezogen
+-   Oft werden Studierende gar nicht hinzugezogen.
 
 -   [Kommunikation](../03_projektmanagement/04_Kommunikation.md) ist immer ein großes Thema –
-    sie kann anfangs gut sein und im Verlauf schlechter werden
+    sie kann anfangs gut sein und im Verlauf schlechter werden.
 
 -   Man muss mehrmals kommunizieren, auch wenn man dasselbe immer wieder
-    wiederholt
+    wiederholt.
 
 -   Bedenken werden oft zu spät angebracht, wenn Entscheidungen schon
-    getroffen sind
+    getroffen sind.
 
 -   Manche schließen bewusst AV (audiovisuelle Systeme) aus, weil sie
     wissen, dass es teuer wird, aber es kostet tatsächlich mehr, Dinge
-    später zu korrigieren
+    später zu korrigieren.
 
 -   Projektleitungen können sehr groß und formell sein – Leuten fällt es
-    oft schwer sich unter solchen Umständen einzubringen
+    oft schwer, sich unter solchen Umständen einzubringen.
 
 -   Projektleitungsmeetings können oft eine ziemlich aggressive
-    Atmosphäre haben
+    Atmosphäre haben.
 
 -   Studierende sind von großem Wert, weil sie Offensichtliches
     ansprechen, wohingegen andere Leute zu besorgt um ihr Jobs und
     Rollen sein könnten.
 
--   Man muss Stakeholdern Dinge mehrmals erklären und sie bitten diese
+-   Man muss Stakeholdern Dinge mehrmals erklären und sie bitten, diese
     wiederzugeben um sicherzustellen, dass sie verstanden haben.
 
 -   Man muss die wichtigsten Dinge, die man erfülle sollte, im Kopf
     behalten. Eine kurze Zusammenfassung zu der man immer wieder
-    zurückkehrt kann hilfreich sein sich auf die Hauptaspekte zu
+    zurückkehrt kann hilfreich sein, sich auf die Hauptaspekte zu
     fokussieren.
 
 -   Wissenschaftliches Personal, das den Raum anderen Kollegen erklärt,
@@ -192,5 +192,5 @@ und umfassenderes Einbeziehen von Stakeholdern berichtet haben:
     immer hilfreich, wenn man Details bespricht.
 
 -   Wenn man sich mit dem Bauteam trifft, muss es ein klares Verständnis
-    dafür geben, auf was man sich an jedem Punkt geeinigt hat bevor man
+    dafür geben, worauf man sich an jedem Punkt geeinigt hat, bevor man
     zum nächsten Punkt übergeht.
