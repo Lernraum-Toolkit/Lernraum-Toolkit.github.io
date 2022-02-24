@@ -14,7 +14,7 @@ permalink: /docs/02_Zusammenarbeit
 
 **In Kürze**
 
--   bei Lernraumprojekten ist es notwendig
+-   Bei Lernraumprojekten ist es notwendig,
     schon relativ früh eine große Breite an Akteuren und Akteurinnen einzubeziehen
 
 -   Modell für die Art der Beteiligung, die ein
@@ -42,22 +42,22 @@ kann Projektleitungen dazu veranlassen, den (Um-)Bau voran zu treiben und
 noch ausstehende Fragen später klären zu wollen. Dieser Abschnitt soll
 aufzeigen, wie wichtig es ist sicherzustellen, dass Stimmen von
 Stakeholdern, wie Wissenschaftlichem Personal, Studierenden und
-Support-Personal, von Anfang an gehört und bedacht werden um
+Support-Personal, von Anfang an gehört und bedacht werden, um
 kostspielige Fehler zu vermeiden.
 
 Vorschläge im Einzelnen:
 
 -   Projektteams sollten einen stark partizipatorischen Ansatz für die
     Beteiligung von Interessengruppen anstreben, statt nur symbolisch
-    Informationen weiter zu geben.
+    Informationen weiterzugeben.
 
--   Designer/-innen sollten darauf achten kreative Denkprozesse anzuregen, wenn
-    wir davon weg kommen wollen einfach neue Versionen von Dingen zu
+-   Designer/-innen sollten darauf achten, kreative Denkprozesse anzuregen, wenn
+    wir davon wegkommen wollen, einfach neue Versionen von Dingen zu
     erschaffen, die wir schon haben.
 
 -   Es gibt viele einfach Ansätze, die genutzt werden können, um
-    Stakeholder dabei zu unterstützen ihre jeweiligen Standpunkte zu
-    verstehen und zusammen zu arbeiten um bessere Entscheidungen zu
+    Stakeholder dabei zu unterstützen, ihre jeweiligen Standpunkte zu
+    verstehen und zusammen zu arbeiten, um bessere Entscheidungen zu
     treffen.
 
 ---
