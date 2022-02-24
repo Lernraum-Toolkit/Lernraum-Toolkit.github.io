@@ -8,7 +8,7 @@ nav_order: 4
 ## Standpunkte und Perspektiven
 
 **Simon Birkett, IT and Learning Manager, University of Staffordshire**,
-ist erfahren in der Leitung von Lernraumprojekten in einer Reihe von
+ist erfahren in der Leitung von Lernraumprojekten an einer Reihe von
 Universitäten und betrachtet die bessere Gestaltung von Lernräumen als
 eine Art persönliche Mission.
 
@@ -96,15 +96,15 @@ Institution kurzfristig ist, nicht für stichhaltig. Eleanor sagt:
 "Studierende werden zu Ehemaligen, und sie finden den Gedanken
 attraktiv, ein Vermächtnis zu hinterlassen, indem sie bei neuen Gebäuden
 und Projekten mitgewirkt haben, also beteiligen sie sich gern. Wir geben
-ihnen in dieser Hinsicht nicht genug Anerkennung". Sie rät dazu
+ihnen in dieser Hinsicht nicht genug Anerkennung". Sie rät dazu,
 Studierende im ersten Studienjahr einzubeziehen, die möglicherweise
 kleinere Projekte bis zum Abschluss begleiten können.
 
 **James Rutherford, Learning Spaces Development Manager, University of
-Birmingham**, betont, wie wichtig es ist, die Stimmen der Studierenden
-zu hören, erkennt aber auch an, dass Studierende recht konservativ sein
+Birmingham**, betont zwar, wie wichtig es ist, die Stimmen der Studierenden
+zu hören. Allerdings erkennt er auch an, dass Studierende recht konservativ sein
 können und nicht immer wissen, was ihnen gefällt, bis sie es sehen. Er
-sagt, dass wir anerkennen müssen, dass Studierende zu verschiedenen
+sagt, dass wir verstehen müssen, dass Studierende zu verschiedenen
 Zeiten eine Vielzahl von Bedürfnissen haben: individuelles Arbeiten,
 Gruppenarbeit oder nach ruhigen und lebendigen Räumen, und wir müssen
 über eine Zonierung nachdenken, um für Abwechslung zu sorgen. James
