@@ -15,8 +15,8 @@ nav_order: 4
 -   **[FLEXspace](http://flexspace.org/)** (Flexible Learning Environments eXchange) ist ein umfangreiches und rege genutztes Open Access Repository mit Bildern von Lernraumbeispielen und zugehörigen Informationen von Institutionen weltweit.
 
 -   Die City University hat ein **[kurzes Video](http://www.youtube.com/watch?v=sAVtiuHCfCM)** für Tutorien produziert, in dem eine Reihe von neuen Lernräumen und die Arten von Aktivitäten, für die sie geeignet sind, beschrieben werden (insbesondere aktives
-    und kollaboratives Lernen) sowie eine Reihe von Informationen zu Ideen zu aktivem und
-    kollaborativem Lernen in flexiblen und nicht-flexiblen Räumen auf ihrer **[Webseite](https://www.city.ac.uk/about/vision-and-strategy/academic-excellence/education/collaborative-learning)** gesammelt.
+    und kollaboratives Lernen). Auf ihrer **[Webseite](https://www.city.ac.uk/about/vision-and-strategy/academic-excellence/education/collaborative-learning)** hat sie auch Informationen zu aktivem und
+    kollaborativem Lernen in flexiblen und nicht-flexiblen Räumen gesammelt.
 
 -   Das Australian Learning and Teaching Council stellt eine Dokumentation zur Verfügung,
     **[Retrofitting University Learning Spaces](http://learnline.cdu.edu.au/commonunits/documents/Retrofitting%20University%20Learning%20Spaces.pdf)**, die sich mit den Prinzipien effektiver Lernräume und Tipps für die Umsetzung dieser Prinzipien
