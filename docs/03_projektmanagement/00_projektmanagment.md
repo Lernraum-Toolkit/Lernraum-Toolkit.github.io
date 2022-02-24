@@ -28,10 +28,8 @@ sich mit Besonderheiten eines Lernraumprojekts.
 Alle die eine wesentliche Rolle in einem Lernraumprojekt spielen werden
 sich wahrscheinlich mit Dingen beschäftigen, die außerhalb ihrer
 alltäglichen beruflichen Praxis oder ihrer Komfortzone liegen. Der
-vorliegende Abschnitt hängt eng mit Abschnitt 2 ([Partnerschaftliche Zusammenarbeit](../02_Zusammenarbeit/00_Zusammenarbeit.md)) zusammen,
-welcher effektive Mittel beschreibt, sicherzustellen, dass das
-Projektteam den Input bekommt, den es braucht um bestmögliche
-Entscheidungen zu treffen.
+vorliegende Abschnitt hängt eng mit Abschnitt 2 ([Partnerschaftliche Zusammenarbeit](../02_Zusammenarbeit/00_Zusammenarbeit.md)) zusammen. 
+Dieser beschreibt effektive Mittel, mit denen das Projektteam den Input bekommt, den es für bestmögliche Entscheidungen benötigt.
 
 Vorschläge im Einzelnen:
 
@@ -43,9 +41,9 @@ Vorschläge im Einzelnen:
     -   Die „weichen“ Aspekte einer großen Veränderungsinitiative
 
 -   Während der unvermeidlichen Schwierigkeiten durch Verzögerungen,
-    Änderungen der Spezifikationen, Budgetanstiege, etc. ist es
+    Änderungen der Spezifikationen, Budgetanstiege, usw. ist es
     entscheidend, sich auf die ursprüngliche Vision des Projekts zu
-    konzentrieren, um sicherzustellen, dass man am Ende die Art von
+    konzentrieren. So stellt man sicher, dass man am Ende die Art von
     Lern- und Lehrerfahrung ermöglicht, die man sich vorgestellt hat.
     Dazu ist es hilfreich, Prioritäten festzuhalten und diese im Prozess
     immer wieder zu evaluieren.
