@@ -38,7 +38,7 @@ Insbesondere schlagen wir folgendes vor:
     Lernräumen und sollte von Anfang an bei jedem Projekt berücksichtigt
     werden.
 
--   Eine Bedarfsanalyse zu Beginn eines Projektes kann eine Grundlage   für alle weiteren Projektplanungen darstellen und sollte deshalb Teil des Evalutionskonzepts sein.
+-   Eine Bedarfsanalyse zu Beginn eines Projektes kann eine Grundlage   für alle weiteren Projektplanungen darstellen und sollte deshalb Teil des Evaluationskonzepts sein.
 
 -   Wir sollten in der Lage sein, das stattfindende Lernen zu
     evaluieren, genauso wie wir leichter quantifizierbare Maße der
