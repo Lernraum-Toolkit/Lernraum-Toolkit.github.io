@@ -9,11 +9,11 @@ nav_order: 2
 
 Obwohl sich die folgenden Abschnitte mit anerkannten Designstandards für
 bestimmte Aspekte von Lernräumen (z.B. Audiovisuelle Ausrüstung)
-beschäftigen, gibt es keine Formel, die es ermöglicht einen
+beschäftigen, gibt es keine Formel, die es ermöglicht, einen
 erfolgreichen Lernraum zu konzipieren, der den Auftrag einer bestimmten
 Institution erfüllt. Eine vielfältige Gruppe von Stakeholdern (die
 meisten davon befassen sich möglicherweise zum ersten Mal mit diesem
-Thema) kommen zusammen um für eine unvorhersehbare Zukunft zu planen.
+Thema) kommen zusammen, um für eine unvorhersehbare Zukunft zu planen.
 Bei einem großen Bauprojekt werden viele der Technologien, die aktuell
 „State of the art“ sind, schon zum Zeitpunkt der Fertigstellung des Baus
 überholt sein. In diesem Szenario besteht der beste Ausgangspunkt darin,
@@ -41,7 +41,7 @@ Raumdesign übertragen werden:
 7.  Respektiert verschiedene Begabungen und Arten zu Lernen.
 
 [JISC (2006)](../11_Referenzen.md) umreißt eine sehr einfache Reihe von
-Prinzipien, die ein Raum sein sollte:
+Eigenschaften, die ein Raum haben sollte:
 
 -   **Flexibel** – um sowohl aktuelle als auch sich entwickelnde
     pädagogische Konzepte zu beherbergen
@@ -49,7 +49,7 @@ Prinzipien, die ein Raum sein sollte:
 -   **Zukunftssicher** – um eine Neuverteilung oder -gestaltung von
     Räumen zu ermöglichen
 
--   **Mutig –** über bewährte und erprobte Technologie und Didaktik
+-   **Mutig** - über bewährte und erprobte Technologie und Didaktik
     hinausblickend
 
 -   **Kreativ** – um Lernenden und Lehrenden zu motivieren und zu
@@ -135,7 +135,7 @@ Unbehagen ist eine große Ablenkung vom Lernen. Hitze und Kälte, Lärm und
 natürliches sowie künstliches Licht sollten alle sorgfältig gesteuert
 werden. Sitzmöglichkeiten sollten verschiedene Körpergrößen,
 Barrierefreiheit und die langen Zeitspannen berücksichtigen, die
-Studierende herumsitzen ohne sich zu bewegen. Geeignete Flächen zum
+Studierende herumsitzen, ohne sich zu bewegen. Geeignete Flächen zum
 Schreiben und Ablegen von Computern, Bücher und anderen Materialien sind
 ebenfalls nötig: die kleinen, geneigten Flächen an den meisten
 Standard-Stühlen mit Klapptisch sind für diese Zwecke ungeeignet. Der
@@ -146,7 +146,7 @@ Folglich muss der Bedarf an Zonierung und Abgrenzung sorgfältig
 durchdacht werden. Neben diesen funktionalen Anforderungen müssen wir
 auch darüber nachdenken, wie man ein passendes Ambiente für jeden Raum
 schafft, sodass Studierende dort Zeit verbringen wollen.
-Universitätsplaner und -planerinnen versuchen einen „sticky“ Campus zu erschaffen indem
+Universitätsplaner und -planerinnen versuchen einen „sticky“ Campus zu erschaffen, indem
 sie die richtige Umgebung schaffen, um Studierende über den ganzen Tag
 hinweg an sich zu binden (ähnliches versuchen Unternehmen wie Google mit
 ihren Angestellten zu erreichen). Das könnte bedeuten, dass Faktoren wie
@@ -160,11 +160,10 @@ Supportschalter und belastbare Hilfesysteme dort zu platzieren wo
 Studierende (und Mitarbeitende) sich aufhalten, statt nur am Standort der
 Einrichtung, fördert die Nutzung, genauso wie Online
 Support zur Verfügung zu stellen. Mitarbeitende und Studierende brauchen
-möglicherweise beide Unterstützung um das Potential innovativer Arten
+möglicherweise beide Unterstützung, um das Potential innovativer Arten
 von Lernräumen voll auszuschöpfen. Während das [UK Toolkit](../11_Referenzen.md) betont, wie wichtig es
 ist sicherzustellen, dass Lernräume leicht und intuitiv zu benutzen
-sind, fand das Learning Landscape Projekt ([Neary et al., 2010](../11_Referenzen.md)), dass es,
-ohne Unterstützung, eine Tendenz gibt sogar in den innovativsten
+sind, fand das Learning Landscape Projekt ([Neary et al., 2010](../11_Referenzen.md)), dass es ohne Unterstützung eine Tendenz gibt, sogar in den innovativsten
 didaktischen Umgebungen auf traditionelle Praktiken zurückzufallen.
 Support sollte auch die Unterstützung des Lehrpersonals bei der
 Aktualisierung und Digitalisierung der Lehrressourcen zur Anpassung an
@@ -175,7 +174,7 @@ neue Umgebungen umfassen.
 Für Studierende, deren Welt digital, vernetzt, unmittelbar, sozial und
 partizipatorisch ist, ist Zugang zu einem drahtlosen Netzwerk
 unverzichtbar. Die Welt der Studierenden ist nicht nur die physische, in
-der sie sich befinden. Es ist auch die virtuelle in der sie mit Bekannten
+der sie sich befinden. Es ist auch die virtuelle, in der sie mit Bekannten
 chatten, Leute treffen, digitale Inhalte teilen und neue Ideen ausprobieren.
 Da Lernen überall und jederzeit stattfinden kann, gibt es, wenn
 überhaupt, nur wenige Ort wo WLAN nicht nützlich ist.
@@ -212,9 +211,9 @@ können später kostspielige Änderungen vermieden werden. Diese
 Anforderungen können, wenn sie z.B. von der Projektleitung nicht vollständig
 verstanden werden, leicht durch Value-Engineering[^5] umgesetzt werden.
 Neben den Bedürfnissen von Studierenden und Mitarbeitenden mit
-Behinderungen, muss man auch über die studentische Wahrnehmung des
-Campus als sichere Umgebung und inwieweit er eine einladende und
-angenehme Umgebung für internationale Studierende bietet, nachdenken.
+Behinderungen muss man auch über die studentische Wahrnehmung des
+Campus als sichere Umgebung nachdenken und inwieweit er eine einladende und
+angenehme Umgebung für internationale Studierende bietet.
 Nachhaltigkeit steht für viele Universitäten ganz oben auf der
 Tagesordnung, und ein gutes Design kann dazu beitragen, die Auswirkungen
 auf die Umwelt zu minimieren und sicherzustellen, dass die Anlagen eine
@@ -224,7 +223,7 @@ erforderlich ist.
 **Studierende einbeziehen, inspirieren und motivieren**
 
 Studierende werden wahrscheinlich mehr Zeit in Campus-Lernräumen
-verbringen als alle andere und sie haben eine wertvolle Perspektive auf
+verbringen als alle anderen und sie haben eine wertvolle Perspektive auf
 Dinge, die funktionieren und solche, die nicht funktionieren. Sinnvolle
 Wege zu finden, um Studierende in die Planung und Evaluation von
 Raumdesign einzubeziehen ist ein effektiver Weg sicherzustellen, dass
