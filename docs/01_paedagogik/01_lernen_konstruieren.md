@@ -13,7 +13,7 @@ embodiments of educational philosophies“ bezeichnet. Mit anderen Worten,
 die Art in der ein Raum entworfen ist, formt das Lernen, das in diesem
 Raum stattfindet. Das Design vieler Hörsäle und traditioneller
 Unterrichtsräume hat sich über hunderte von Jahren kaum geändert. Das
-Layout ist im Allgemeinen auf ein Vermittlungsmodell ausgelegt dessen
+Layout ist im Allgemeinen auf ein Vermittlungsmodell ausgelegt, dessen
 gebaute Pädagogik besagt, dass eine Person Information an andere
 weitergibt, die diese alle im gleichen Tempo aufnehmen, indem sie sich
 auf die Person an der Vorderseite des Raumes konzentrieren. So ähnlich
@@ -26,9 +26,9 @@ problem-basiertes Lernen[^3] betonen.
 
 Das Thema reicht über formelle Lehrräume hinaus und betrifft andere
 Bereiche, in denen Studierende Zeit verbringen. Studierende verbringen
-viele Übergangszeiten in Fluren oder draußen, wo sie gezwungen sind auf
+viele Übergangszeiten in Fluren oder draußen, wo sie gezwungen sind, auf
 dem Boden oder auf Fensterbrettern zu sitzen. Solche Räume sind nicht
-dafür ausgelegt Lernen oder Interaktion zu fördern und verstärken die
+dafür ausgelegt, Lernen oder Interaktion zu fördern und verstärken die
 Botschaft, dass Studierende erst dann lernen, wenn sie sich in
 Anwesenheit eines Dozierenden in einen formalen Lernraum begeben. Die
 Trennung von Service und Orten, an denen sich das Personal aufhält,
@@ -38,17 +38,17 @@ Lerngemeinschaft geprägt von einem Ethos der forschungsorientierten
 Lehre ([Van Note Chism, 2006](../11_Referenzen.md)).
 
 Die aktuellen Überlegungen zu „Good Practice“ in der Bildung betonen
-nachdrücklich das Lernen im Gegensatz zum Lehren und betonen, dass Lernende
+nachdrücklich das Lernen im Gegensatz zum Lehren und legen darauf Wert, dass Lernende
 Wissen (mit)schöpfen statt vermittelte Information nur zu konsumieren.
 Unsere Lernräume sollten dies wiederspiegeln.
 
 Ein anderer Faktor, der sich erheblich auf die Art des möglichen Lernens
 und Lehrens auswirkt, ist die Allgegenwärtigkeit und Zugänglichkeit
 digitaler Technologie. Da Technologie immer mobiler und günstiger wird,
-bietet sie neue Möglichkeiten neue Arten von Lernaktivitäten zu
-entwickeln, die Studierende anregen Lernressourcen zu schaffen und zu
+bietet sie neue Möglichkeiten, neue Arten von Lernaktivitäten zu
+entwickeln, die Studierende anregen, Lernressourcen zu schaffen und zu
 nutzen sowie in unterschiedlicher Weise innerhalb des physischen Raums
-zusammen zu arbeiten. Die Annäherung von physischen und virtuellen
+zusammenzuarbeiten. Die Annäherung von physischen und virtuellen
 Umgebungen ist deshalb ein wichtiges Thema innerhalb des Toolkits.
 
 Es stimmt zwar, dass Studierende oft klar identifizierbare Orte, wie
@@ -56,7 +56,7 @@ Bibliotheken, zum Lernen wünschen, jedoch ermöglicht der
 konstruktivistische Lernansatz, unterstützt durch die allgegenwärtige
 Technologie, eine ganzheitlichere, vernetztere Sicht auf den
 Universitätscampus. Statt als einzelne Orte, an denen Lernen in Zeit und
-Raum beschränkt ist, fangen wir an den gesamten Campus als Ort zu
+Raum beschränkt ist, fangen wir an, den gesamten Campus als Ort zu
 betrachten, an dem ein kontinuierlicher Fluss von formellem und
 informellem Lernen stattfinden kann.
 
