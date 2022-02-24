@@ -25,8 +25,7 @@ nav_order: 4
 -   Die James Cook University in Australien hat eine Website mit dem
     Titel **["Learning Spaces Snapshots"](https://sites.google.com/site/jculearningspaces/home)** erstellt, auf der eine Sammlung
     von kurzen Videos zu finden ist, die zeigen, wie unterschiedliche
-    pädagogische Ansätze in verschiedenen Arten von Lernräumen umgesetzt
-    werden.
+    pädagogische Ansätze in verschiedenen Arten von Lernräumen umgesetzt werden.
 
 -   Finkelstein, A., Ferris, J., Winer, L. and Weston, C. (2014).
     Principles for designing teaching and learning spaces. Montreal:
