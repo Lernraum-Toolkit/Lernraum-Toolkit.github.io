@@ -7,7 +7,7 @@ nav_order: 3
 
 ## 3.3 Mit professionellen Beratern und Beraterinnen zusammenarbeiten
 
-In einem bedeutendem Lernraumprojekt, v.a. einem, das einen Neubau
+In einem bedeutenden Lernraumprojekt, v.a. einem, das einen Neubau
 beinhaltet, wird man wahrscheinlich mit einer Reihe von professionellen
 Beratern und Beraterinnen zusammenarbeiten. Für diejenigen, die noch nicht an solchen
 Arten von Projekten gearbeitet haben, kann die Vielfalt der Fachleute
