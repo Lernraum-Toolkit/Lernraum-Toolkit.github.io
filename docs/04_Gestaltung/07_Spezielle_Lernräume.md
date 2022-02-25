@@ -44,19 +44,19 @@ PC Pools = 2,75 m² pro Person
 
 ### 4.7.1 Unterrichtsräume für Aktives Lernen
 
-Der Begriff Seminarraum wird hier genutzt um Räume zu beschreiben, die
+Der Begriff Seminarraum wird hier genutzt, um Räume zu beschreiben, die
 für eine Reihe von formalen, gerichteten Lernaktivitäten genutzt werden,
-die etwa folgende Ansätze einschließen können:
+welche etwa folgende Ansätze einschließen können:
 
 -   „Inquiry based learning“
 
--   problembasiertes Lernen
+-   Problembasiertes Lernen
 
--   diskussionsbasiertes Lernen
+-   Diskussionsbasiertes Lernen
 
--   studierendengeleitetes, interaktives Lernen
+-   Studierendengeleitetes, interaktives Lernen
 
--   simulationsbasiertes Lernen ([Van Note Chism, 2006](../11_Referenzen.md))
+-   Simulationsbasiertes Lernen ([Van Note Chism, 2006](../11_Referenzen.md))
 
 Die sozio-konstruktivistische Philosophie stellt die Vorstellung in
 Frage, dass ein Seminarraum eine klar definierte Frontseite haben sollte
@@ -68,25 +68,25 @@ Lehrwand bezeichnet.
 
 Anpassbarkeit ist in diesen Räumen von entscheidender Bedeutung, damit
 eine Gruppe von Lernenden leicht vom Zuhören eines Vortragenden zur
-Arbeit in Gruppen oder Einzelarbeit wechseln können. Der Ablauf der
+Arbeit in Gruppen oder Einzelarbeit wechseln kann. Der Ablauf der
 Aktivitäten muss nahtlos sein, deshalb sind Tische und Stühle sinnvoll,
 die eine schnelle Umgestaltung erlauben, um verschiedene Arten von
 Aktivitäten zu unterstützen. Illustrationen von beispielhaften Layouts
 mit den zur Verfügung stehenden Möbeln zur Orientierung sollten im Raum
 und auf der Raumbuchungsseite vorhanden sein. Das Layout kann
 Auswirkungen auf die Gruppendynamik haben, z.B. erlaubt das
-traditionelle Layout von Stuhlreihen bestimmten Studierenden sich hinten
+traditionelle Layout von Stuhlreihen bestimmten Studierenden, sich hinten
 zu verstecken und Mitarbeit im Seminar zu vermeiden.
 
 Forschende haben die psychologischen und pädagogischen Auswirkungen
 von Unterrichtsraumdichte untersucht, sowohl räumlich (Größe des Raums)
 als auch sozial (Zahl der Studierenden). [Graetz (2006)](../11_Referenzen.md) empfiehlt als
 gute Richtgröße für soziale Dichte in Seminarräumen drei bis fünf
-Gruppen mit jeweils sechs bis zwölf Studierenden. Am Design beteiligte sollten auch
+Gruppen mit jeweils sechs bis zwölf Studierenden. Am Design Beteiligte sollten auch
 auf die Gefahr von Überbelegung in Seminarräumen achten. Studien legen
 nahe, dass von Studierenden erwartet werden kann, mit Abständen von 0,6
 – 1,2 m zwischen Personen und 1,2 – 2,1 m zwischen Tischen effektiv
-zusammen zu arbeiten, ohne sich beengt zu fühlen. Studierende und
+zusammenzuarbeiten, ohne sich beengt zu fühlen. Studierende und
 Lehrende sollten genug Platz haben, um sich einfach von Gruppe zu Gruppe
 bewegen zu können.
 
@@ -102,23 +102,23 @@ vorgeschlagen, dass eine wasserfallförmige vordere Sitzkante besser für
 die Blutzirkulation und Komfort ist als ein rechter Winkel. James
 Rutherford, Universität Birmingham, fand im Rahmen des Studiums für
 einen verwandten Masterabschluss heraus, dass es wenig Forschung zu
-Tischdesign gibt, aber was es gibt, nahelegt, dass nicht-rechteckige
+Tischdesign gibt. Aber was es gibt legt nahe, dass nicht-rechteckige
 Tische Zusammenarbeit fördern und Konfrontation reduzieren.
 
 Ungeachtet des Wertes digitaler Geräte zur Unterstützung von Lernen
 bieten sie auch vielfältige Ablenkungsmöglichkeiten, z.B. das
 verbreitete Phänomen, dass Studierende während der Sitzungen soziale
-Medien checken oder Onlinespiele spielen. [Graetz (2006)](../11_Referenzen.md) weist darauf
+Medien nutzen oder Onlinespiele spielen. [Graetz (2006)](../11_Referenzen.md) weist darauf
 hin, dass Versuche, die Nutzung von Geräten während des Unterrichts
 durch Verordnungen oder Infrastruktur (z.B. einen „Internet Kill
-Switch“) zu unterbinden, teuer sind und wenig dazu beitragen das
+Switch“) zu unterbinden, teuer sind und wenig dazu beitragen, das
 dahinterliegende Problem anzugehen. Hier kann Raumdesign relevant sein –
 ein besserer Ansatz wäre sicherzustellen, dass Laptopbildschirme für den
 Lehrenden leicht sichtbar sein sollten, wenn sie durch den Raum laufen.
 Lehrende müssen in der Lage sein, die Studierenden während der
 Unterrichtszeit am Lernprozess zu beteiligen und Lernräume müssen so
 entworfen sein, dass sie diese Beteiligung erleichtern: es ist schwierig
-für Studierende andere Aktivitäten zu erledigen, wenn sie mit einem
+für Studierende, andere Aktivitäten zu erledigen, wenn sie mit einem
 Lehrenden reden, an einer Gruppenaktivität arbeiten oder ihre Geräte für
 akademische Zwecke nutzen.
 
@@ -136,12 +136,12 @@ zur Nutzung einer Reihe von kollaborativen Lern- und Lehrpraktiken voll
 auszuschöpfen.
 
 Die Singapur Management Universität testet einen neuen Aktiven Lernraum,
-der kein formales oder vorgeschriebenes Layout hat. Der Lehrenden kommen
+der kein formales oder vorgeschriebenes Layout hat. Die Lehrenden kommen
 an, stellen das Layout her, dass sie in der Sitzung brauchen und am Ende
-stellen sie und die Studierenden die Möbel an die Wände des Raums sodass
+stellen sie und die Studierenden die Möbel an die Wände des Raums, sodass
 der nächste Lehrende reinkommen und entscheiden kann, was er/sie
 braucht. Dies bedeutet, die Situation in Frage zu stellen, in der
-Lehrende einfach das Layout akzeptieren mit dem sie konfrontiert werden.
+Lehrende einfach das Layout akzeptieren, mit dem sie konfrontiert werden.
 
 ### 4.7.2 Computerräume
 
@@ -163,7 +163,7 @@ Zeitpunkten, wohingegen andere frei verfügbare Einrichtungen sind, die
 nicht für Lehrzwecke nutzbar sind.
 
 Audioverstärkung und Hörassistenz-Technologie kann in Räumen, die für
-Lehrzwecke genutzt werden, notwendig sein, aufgrund des zusätzlichen
+Lehrzwecke genutzt werden, notwendig sein, z.B. aufgrund des 
 Hintergrundrauschens durch PC-Lüfter und die zusätzliche Heizung,
 Lüftung und Klimatisierung, die in Räumen mit vielen PCs notwendig ist.
 
@@ -189,7 +189,7 @@ Abmessungen von Computerarbeitsstationen in Büros werden gesetzlich
 bestimmt durch die European Display Screen Equipment Directive
 (90/270/EEC) und die Abmessung von Arbeitsstationen sollten dem
 Britischen Standard EN 527-1:2011 entsprechen. PC-Monitore (oder ganze
-PC, wenn es sich um eine All-in-one Einheit handelt) sollten so
+PCs, wenn es sich um eine All-in-one Einheit handelt) sollten so
 aufgestellt werden, dass sie einfaches Kippen und Höhenanpassungen des
 Displays durch den Nutzer erleichtern, und Stühle sollten standardmäßig
 drehbar, auf Laufrollen und verstellbar sein.
