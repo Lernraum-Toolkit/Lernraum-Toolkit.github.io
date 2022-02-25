@@ -6,7 +6,7 @@ nav_order: 5
 ---
 
 ## 3.5 Realitätschecks
-Es zahlt sich aus regelmäßig Realitätschecks auf die Designideen
+Es zahlt sich aus, regelmäßig Realitätschecks auf die Designideen
 anzuwenden. Das Baudezernat / Bauamt, Architekt/-in und Berater/-innen werden einen
 dabei unterstützen, aber es ist immer gut, auch Leute mit lokalem
 Know-how zu involvieren. Diese Checklisten für unterschiedliche Aspekte
@@ -33,8 +33,7 @@ des Baus wurde im [UK Toolkit](../11_Referenzen.md) von den JISC Empfehlungen zu
     ohne Zugangswege zu blockieren?
 
 - [ ]  Wurden die Funktionen in unterschiedlichen Teilen des Gebäudes im
-    Verhältnis zueinander betrachtet, im Hinblick auf Lärm, Gesundheits-
-    und Gefahrenquellen und besonderen Sicherheitsanforderungen?
+    Verhältnis zueinander betrachtet, im Hinblick auf Lärm, Gefahren für Gesundheit und Sicherheit sowie besonderen Sicherheitsanforderungen?
 
 - [ ]  Was ist mit Funktionen in unterschiedlichen Teilen des Gebäudes im
     Verhältnis zueinander, in Bezug auf Sichtlinien und Fragen der
@@ -46,8 +45,7 @@ des Baus wurde im [UK Toolkit](../11_Referenzen.md) von den JISC Empfehlungen zu
 
 - [ ]  Wurde genug über zukünftige Veränderungen nachgedacht? Insbesondere
     wenn Planung oder Probleme eine Verzögerung des Projektes verursacht
-    haben, kann es notwendig sein, die Pläne zu überarbeiten, z.B.
-    stellte eine Hochschule, die eine photographische Dunkelkammer
+    haben, kann es notwendig sein, die Pläne zu überarbeiten. Beispielsweise    stellte eine Hochschule, die eine photographische Dunkelkammer
     plante, fest, dass die Digitale Revolution sie überholte, während
     sie mit den Planungsdiskussionen beschäftigt waren.
 
@@ -75,7 +73,7 @@ in seine Realitätschecks einbezieht. Man kann damit anfangen, zu fragen:
     anderen Räumen mit spezieller Maschinenausstattung berücksichtigt?
 
 - [ ]  Sind Details wie Regalgrößen etc. bekannt um sicherzustellen, dass
-    die Ausrüstung in den geplanten Raum passen?
+    die Ausrüstung in den geplanten Raum passt?
 
 - [ ]  Gab es ausreichend Zusammenarbeit zwischen den technischen und
     IT-Lieferanten und dem eigenen technischen oder IT-Personal, um
@@ -88,7 +86,7 @@ in seine Realitätschecks einbezieht. Man kann damit anfangen, zu fragen:
 - [ ]  Ist Mobiltelefonempfang möglich, wo es nötig ist, wie im
     Eingangsbereich und in sozialen und kollaborativen Bereichen?
 
-- [ ]  Wird Drucken/Kopieren und andere Geräte in offen gestalteten Bereich
+- [ ]  Werden Drucker/Kopierer und andere Geräte in offen gestalteten Bereichen
     Lärm verursachen?
 
 - [ ]  Wurden alle Zugänglichkeitsfragen voll berücksichtigt, z.B. erlaubt
@@ -96,13 +94,13 @@ in seine Realitätschecks einbezieht. Man kann damit anfangen, zu fragen:
     Monitore/Tastaturen/Rollstuhlzugang wo nötig?
 
 - [ ]  Wurde an alle Orte gedacht, die Leute als Lernräume nutzen könnten –
-    ist WLAN etwa in Gartenbereiche und Studentenzimmern verfügbar?
+    ist WLAN etwa in Gartenbereichen und Studentenzimmern verfügbar?
 
-- [ ]  Ist klar, aus welcher Quelle die Kosten für neue und Ersatz-Geräten
-    finanziert wird (das Projekt-, Instituts- oder lokales Budge?)
+- [ ]  Ist klar, aus welcher Quelle die Kosten für neue und Ersatz-Geräte
+    finanziert werden (das Projekt-, Instituts- oder lokales Budget?)
 
 - [ ]  Wurden alle möglichen Schritte unternommen, um Flexibilität zu
-    erleichtern, z.B. die Verwendung von Doppelböden, so dass
+    erleichtern, z.B. die Verwendung von Doppelböden, sodass
     Dienstleistungen nach Bedarf verlegt werden können?
 
 - [ ]  Gibt es ein klares Verständnis für die laufenden Kosten, die mit der
@@ -120,7 +118,7 @@ soll. Andererseits wird ein stimulierender Raum selbst Ideen für neue
 Wege des Lernens und Arbeitens generieren, deshalb sollten wir
 vorsichtig sein, zu sehr auf die Art und Weise zu fokussieren, wie wir
 die Dinge jetzt tun. Die folgenden Hinweise können auf einige
-potentielle Probleme hinweisen ohne den Wunsch nach Kreativität und
+potentielle Probleme hinweisen, ohne den Wunsch nach Kreativität und
 Innovation zu ersticken. Man sollte auch darüber nachdenken Spaces
 Sheets zu nutzen, um sicherzustellen, dass man alle Anforderungen
 vollständig und in einer Weise erfasst hat, dass sie genau kalkuliert
@@ -142,11 +140,10 @@ werden können:
     Platz bieten, um schwere Jacken aufzuhängen und nasse Regenschirme
     unterzubringen?
 
-- [ ]  Gibt es ausreichend sichere Aufbewahrungen für persönliche
+- [ ]  Gibt es ausreichend sichere Aufbewahrungsorte für persönliche
     Gegenstände von Personal und Studierenden?
 
-- [ ]  Gibt es Überlegungen in öffentlich zugänglichen Bereichen in Bezug
-    auf Datenschutz? Dies kann insbesondere dann eine Rolle spielen,
+- [ ]  Wurde in öffentlich zugänglichen Bereichen der Datenschutz berücksichtigt? Dies kann insbesondere dann eine Rolle spielen,
     wenn Personal und Studierende denselben Raum nutzen.
 
 - [ ]  Wie sieht es mit flexiblen Räumen in Bezug auf Gesundheits- und
@@ -157,8 +154,7 @@ werden können:
     und die Risiken von sich schlängelnden Stromkabeln.
 
 - [ ]  Atriumbereiche, Zwischengeschosse und offene Fußwege schaffen ein
-    Gefühl von Höhe und Raum – wurde auf diese Räume in Bezug auf
-    Gesundheits- und Sicherheitsabwägungen geschaut, insbesondere in
+    Gefühl von Höhe und Raum – wurden hier Gesundheits- und Sicherheitsabwägungen berücksichtigt, insbesondere in
     Bezug auf Objekte, die von einer Ebene zur nächsten fallen können?
     Man sollte etwa sicherstellen, dass Geländer an Galerien so geformt
     sind, dass Leute keine Gegenstände auf der Kante ablegen können.
@@ -167,7 +163,7 @@ werden können:
     – können Reinigungs- und ähnliche Services mit Nutzungsspitzen
     umgehen?
 
-- [ ]  Können Cafeteria-Bereiche Spitzenbelastung ohne Wartschlangen und
+- [ ]  Können Cafeteria-Bereiche Spitzenbelastung ohne Warteschlangen und
     Staus bewältigen?
 
 - [ ]  Wurde die Zirkulation im Raum zu Spitzenzeiten berücksichtigt, etwa,
@@ -190,8 +186,8 @@ werden können:
     geplanten oder zonierten Räumen), um die Nutzung der Räume durch
     Nutzer und das Auffinden von Services zu erleichtern?
 
-- [ ]  Wurde nachgedacht über Kosten und die potentiellen Schwierigkeiten
-    von Änderungen der Beschilderung, während die Gebäudenutzung sich
+- [ ]  Wurde über Kosten und die potentiellen Schwierigkeiten
+    von Änderungen der Beschilderung nachgedacht, während die Gebäudenutzung sich
     entwickelt?
 
 - [ ]  Wo es Service-Punkte in Studierendenbereichen gibt, wird das
@@ -212,10 +208,10 @@ werden können:
 - [ ]  Wurde an Sicherheit für Menschen und Ausstattung außerhalb normaler
     Öffnungszeiten gedacht?
 
-- [ ]  Raum um sich privat zu treffen – man kann darüber nachdenken private
+- [ ]  Raum um sich privat zu treffen – man kann darüber nachdenken, private
     Bereiche zu haben, die keine Reservierung durch ein Buchungssystem
-    benötigen, um auf ad hoc Ereignisse reagieren zu können, wie einen
+    benötigen. Somit kann man auf ad hoc Ereignisse reagieren zu können, wie einen
     verzweifelten Studierenden.
 
-- [ ]  Wurde genügend über zukünftige Veränderungen nachgedacht oder sich
-    zu sehr darauf konzentriert wie die Dinge momentan sind?
+- [ ]  Wurde genügend über zukünftige Veränderungen nachgedacht oder hat man sich
+    zu sehr darauf konzentriert, wie die Dinge momentan sind?
