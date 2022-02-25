@@ -26,7 +26,7 @@ Das Lebenszyklus-Tool hilft dabei, diese Faktoren zu durchdenken und sieben
 Faktoren für jeden Raum zu bewerten, bietet einen Gewichtungsvorschlag
 für die Faktoren und eine Grafik zur Visualisierung der Kosten- und
 Nachhaltigkeitsfaktoren, um einen Überblick über den
-Technologie-Lebenszyklus zu geben - wie gut die Anschaffungskosten mit
+Technologie-Lebenszyklus zu geben und zu zeigen, wie gut die Anschaffungskosten mit
 den Gesamtbetriebskosten im Einklang stehen. Zur Veranschaulichung
 werden vier Jahre als Standardzeitraum für die Berechnung der
 Lebenszykluskosten angenommen. Der tatsächliche Lebenszyklus eines einzelnen
