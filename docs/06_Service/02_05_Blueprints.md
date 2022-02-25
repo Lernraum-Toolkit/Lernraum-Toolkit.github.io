@@ -14,18 +14,18 @@ physischen Gegebenheiten, die Aktivitäten des Personals und die
 Unterstützungssysteme/Infrastruktur festgelegt werden, die für die
 Bereitstellung des Dienstes über seine unterschiedlichen Kanäle
 erforderlich sind. Um beispielsweise zu planen, wie man Geräte an
-Benutzer ausleiht, würde ein Servicekonzept helfen, zu bestimmen, wie
+Nutzende ausleiht, würde ein Servicekonzept bei der Entscheidung helfen, wie
 dies am Serviceschalter geschieht, welche Arten von Wartungs- und
 Support-Aktivitäten hinter den Kulissen erforderlich sind, wie die
-Benutzer über die verfügbaren Geräte informiert werden, wie diese ein-
-und ausgecheckt werden und mit welchen Mitteln die Benutzer im Umgang
+Nutende über die verfügbaren Geräte informiert werden, wie diese ein-
+und ausgecheckt werden und mit welchen Mitteln die Nutzenden im Umgang
 mit dem Gerät geschult werden.
 
 Servicekonzepte können verschiedene Formen annehmen - einige sind
 grafischer als andere - aber sie sollten die verschiedenen Mittel/Kanäle
 aufzeigen, über die die Dienste bereitgestellt werden, und die
 physischen Gegebenheiten des Dienstes, die Aktivitäten der
-„Front-Line“-Mitarbeiter und hinter den Kulissen und die Supportsysteme
+„Front-Line“-Mitarbeitenden und hinter den Kulissen und die Supportsysteme
 aufzeigen. Sie werden in einem iterativen Prozess vervollständigt - in
 einem ersten Durchgang, in dem Erkenntnisse aus Personas, Journey Maps
 und der Standortplanung berücksichtigt werden, anschließend wird der
