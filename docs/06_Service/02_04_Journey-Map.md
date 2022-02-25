@@ -9,7 +9,7 @@ nav_order: 4
 ### 6.2.4 Journey Map
 
 Eine Customer Journey Map ist eine visuelle Darstellung, die zeigt, wie
-ein Kunde oder Nutzer eine Dienstleistung im Laufe der Zeit erlebt.
+Nutzende eine Dienstleistung im Laufe der Zeit erleben.
 Journey Maps können evaluative Werkzeuge sein, die aktuelle Erfahrungen
 diagnostizieren, oder sie können generative Werkzeuge sein, die
 gewünschte zukünftige Erfahrungen für noch nicht existierende Dienste
@@ -19,13 +19,13 @@ vor der Dienstleistung, einer Dienstleistungszeitspanne (die in
 verschiedene Segmente unterteilt werden sollte) und einer Zeitspanne
 nach der Dienstleistung, wobei die Y-Achse die verschiedenen
 "Berührungspunkte" zu diesen wichtigen Zeitpunkten anzeigt. Diese
-Berührungspunkte sind die Momente, in denen der Benutzer mit
-Informationen, Technologie, Möbeln, Raum, Personal und anderen Benutzern
-interagiert - oft sind es die Momente, in denen sie in irgendeiner Weise
+Berührungspunkte sind die Momente, in denen Nutzende mit
+Informationen, Technologie, Möbeln, Raum, Personal und anderen Nutzenden
+interagieren - oft sind es die Momente, in denen sie in irgendeiner Weise
 Unterstützung benötigen. Eine Möglichkeit, diese Berührungspunkte zu
 identifizieren oder zu kategorisieren, ist der A E I O U-Rahmen aus der
 Ethnographie: Aktivitäten, Environment (Umgebung), Interaktionen,
-Objekte und User (Benutzer).
+Objekte und User (Nutzende).
 
 Journey Maps sollten zu einem frühen Zeitpunkt eines Projekts erstellt
 und mit einer Reihe von Szenarien durchlaufen werden - mit Blick auf
