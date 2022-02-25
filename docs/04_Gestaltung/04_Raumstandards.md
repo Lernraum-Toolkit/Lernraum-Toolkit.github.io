@@ -8,7 +8,7 @@ nav_order: 4
 ## 4.4 Funktionale Raumstandards
 
 Für jeden einzelnen Raum oder Zone innerhalb eines Lernraums muss man
-die Tätigkeiten, die dort stattfinden werden, verstehen, um die
+die Tätigkeiten verstehen, die dort stattfinden werden, um die
 einzuhaltenden funktionalen Spezifikationen festzulegen. Die gesamte
 Form und Konfiguration des Raum kann ein zentraler Faktor dabei sein
 festzulegen, was möglich ist, z.B. ob es Säulen gibt, die die Decke
@@ -33,12 +33,11 @@ berücksichtigen muss, umfassen:
 
 Wie schon erwähnt, ist die Nutzbarkeit (Usability) ein
 Schlüsseldesignprinzip für alle Lernräume und sollte immer im Auge
-behalten werden. In den meisten Räumen sollten Nutzende im Allgemeinen in
-der Lage sein, zu tun, was sie tun wollen, ohne Schulungen zu
+behalten werden. In den meisten Räumen sollten Nutzende im Allgemeinen tun können, was sie tun wollen, ohne Schulungen zu
 absolvieren oder viele Anweisungen lesen zu müssen. Matt Sherlock sagte
 dazu „Alles muss zweckmäßig sein und dies ist ein Schlüsselbegriff, der
 im Toolkit erscheinen sollte. Es kann auch innovativ sein, aber
-zweckmäßig ist das wichtigste.“ Es ist möglich Räume zu entwerfen, die
+zweckmäßig ist das wichtigste.“ Es ist möglich, Räume zu entwerfen, die
 intuitiv nutzbar sind.
 
 Technik kann dazu genutzt werden, solche Information und Unterstützung,
@@ -47,7 +46,7 @@ Lehrraum an der Universität Birmingham den Nutzer mit allen
 Informationen über den Raum einschließlich Stundenplan und Anweisungen
 zur Nutzung der Ausrüstung. Das Lernraumteam würde dies gern ausweiten
 um ein einfaches Mittel zur Fehlermeldung bereitzustellen. Matt Sherlock
-sagt „Es ist frustrierend jemand sagen zu hören ‚etwas funktioniert
+sagt: „Es ist frustrierend jemand sagen zu hören ‚etwas funktioniert
 nicht und es hat letzte Woche auch nicht funktioniert‘, d.h. sie haben
 es nicht gemeldet.“
 
@@ -100,7 +99,7 @@ Raumstandards sagten:
     zu interpretieren als eine digitale Nummernanzeige.
 
 -   Für wirklich flexible Räume müssen Mitarbeitende und Studierende in
-    der Lage sein, Möbel einfach zu bewegen, z.B. Tische zusammenstellen
+    der Lage sein, Möbel einfach zu bewegen, z.B. Tische zusammenstellen,
     um verschiedene Formen und Layouts zu schaffen. Leichte und
     stapelbare Möbel können am praktischsten sein, was allerdings der
     üblichen Beschaffungsstrategie widersprechen kann, Möbel
@@ -112,7 +111,7 @@ Raumstandards sagten:
 
 -   Größer ist nicht notwendigerweise besser, wenn es um Tischfläche für
     Gruppenarbeit geht. Die Universität Edinburgh testete einige Tische
-    für 6 Personen (geformt wie ein Bügelbrett) für Gruppenarbeit indem
+    für 6 Personen (geformt wie ein Bügelbrett) für Gruppenarbeit, indem
     sie Modelle in vier verschiedenen Breiten baute und diese in der
     Bibliothek ausprobierte. Man hätte annehmen können, dass Studierende
     die breitesten Tische bevorzugen würden, aber man fand heraus, dass
