@@ -101,19 +101,19 @@ London:
     Beleuchtungszonen innerhalb des Raums erlauben.
 
 -   Durch die zunehmende Nutzung von „Lecture Capture“ Technologien ist
-    es wichtig die Beleuchtungsanforderungen in Bezug auf alle visuellen
+    es wichtig, die Beleuchtungsanforderungen in Bezug auf alle visuellen
     Ressourcen, die in einer bestimmten Sitzung genutzt werden, zu
     verstehen.
 
 -   Wenn Bewegungsmelder genutzt werden, um Energieverschwendung zu
-    vermeiden, ist es wichtig, dass die Sensortechnologie in der Lage
-    ist, neben Bewegungen auch statische Belegung zu erkennen, da ein
+    vermeiden, muss die Sensortechnologie in der Lage
+    sein, neben Bewegungen auch statische Belegung zu erkennen, da ein
     Vorlesungspublikum oder Studierende, die eine Prüfung schreiben,
     sich möglicherweise sehr wenig bewegen.
 
 -   Fluoreszierende Lichter sollten sorgfältig ausgewählt werden, da
-    Lernende, die Tablets benutzen, aufgrund des horizontalen Winkels in
-    dem Tablets genutzt werden starke Reflektionen bekommen.
+    Lernende, die Tablets benutzen, aufgrund des horizontalen Winkels, in
+    dem Tablets genutzt werden, starke Reflektionen bekommen.
 
 ### Ressourcen spezifisch für Beleuchtung
 
