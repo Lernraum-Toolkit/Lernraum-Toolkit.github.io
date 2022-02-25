@@ -13,7 +13,7 @@ nav_order: 12
 
 -   Die TU Delft hat ein "Cookbook" veröffentlicht mit Standards zur Gestaltung von Lehrräumen und informellen (Selbst-)Lernräumen an ihrer Einrichtung (**[Link zu PDF](http://homepage.tudelft.nl/9c41c/Cookbook_Education_Spaces_v2_0.pdf)**) und stellt außerdem ein **[Online-Tool](http://tudesc.com)** zur Planung von Lesbarkeit und Sichtlinien in Lehrräumen zur Verfügung.
 
--   Einige Empfehlungen und Good-Practice Beispiele zur barrierefreien Gestaltung von Lehr- und Lernräumen bietet der **[DINI-Lernraum-Atlas](https://intern.dini.de/confluence/display/LEHO/Barrierefreiheit+und+Nutzerfreundlichkeit#expand-weiterfhrend)**
+-   Einige Empfehlungen und Good-Practice Beispiele zur barrierefreien Gestaltung von Lehr- und Lernräumen bietet der **[DINI-Lernraum-Atlas](https://intern.dini.de/confluence/display/LEHO/Barrierefreiheit+und+Nutzerfreundlichkeit#expand-weiterfhrend)**.
 
 - Ein Erfahrungsbericht zum Thema behindertengerechte Universitätsbibliothek aus der UB Marburg: Rohde, I. (29.09.2021). Behindertengerechte Universitätsbibliothek – ein Erfahrungsbericht aus der UB Marburg. Vortrag bei einer Veranstaltung des dbv. **[Link zur Vortragsbeschreibung und Folien](http://blog-servicekommission.bibliotheksverband.de/nachlese-zum-vortrag-am-29-september/)**
 
