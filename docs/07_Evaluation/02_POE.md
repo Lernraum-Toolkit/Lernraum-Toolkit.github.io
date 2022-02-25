@@ -25,28 +25,28 @@ oder die technische Leistung des Gebäudes. Sie dienen mehreren Zwecken:
 
 -   Probleme in Gebäuden identifizieren und lösen;
 
--   auf die Bedürfnisse der Nutzer reagieren;
+-   Auf die Bedürfnisse der Nutzer reagieren;
 
 -   Raumnutzung durch Feedback aus der Nutzung verbessern;
 
 -   Auswirkungen von Veränderungen auf Gebäude verstehen, sei es durch
     Budgetkürzungen oder Arbeitskontext;
 
--   informierte Entscheidungsfindung.
+-   Informierte Entscheidungsfindung.
 
 **Mittelfristige Vorteile von POE**
 
--   integrierte Kapazitäten für eine Anpassung des Gebäudes an
+-   Integrierte Kapazitäten für eine Anpassung des Gebäudes an
     organisatorischen Wandel und Wachstum;
 
--   neue Nutzungsmöglichkeiten für Gebäude finden;
+-   Neue Nutzungsmöglichkeiten für Gebäude finden;
 
 -   Verantwortlichkeit der Planer für die Gebäudeleistung.
 
 **Langfristige Vorteile von POE**
 
--   langfristige Verbesserungen der Gebäudeleistung;
+-   Langfristige Verbesserungen der Gebäudeleistung;
 
 -   Verbesserung der Planungsqualität;
 
--   strategische Überprüfung.
+-   Strategische Überprüfung.
