@@ -9,8 +9,8 @@ nav_order: 1
 
 *Die folgenden Punkte sind allgemein anerkannte Techniken, Methoden und
 Prozesse zur Vorstellung, Planung, Implementierung und Aufrechterhaltung
-von Technologie in Lernräumen aufgeführt, die sich an den Bedürfnissen
-der Nutzenden orientiert.*
+von Technologie in Lernräumen, die sich an den Bedürfnissen
+der Nutzenden orientieren.*
 
 **Vision und erste Schritte**
 
@@ -30,11 +30,10 @@ der Nutzenden orientiert.*
 
 **Planung**
 
--   **Das Budget und den Zeitrahmen, mit dem man arbeiten, verstehen.**
+-   **Das Budget und den Zeitrahmen verstehen, mit dem man arbeitet.**
     Prüfen, wie dies mit bestehenden Plänen für die
     Implementierung/Einführung von Technologie zusammenpasst, und wenn
-    es Überschneidungen gibt, prüfen, ob es Möglichkeiten gibt,
-    Synergien zwischen ihnen zu schaffen.
+    es Überschneidungen gibt, prüfen, ob man Synergien zwischen ihnen schaffen kann.
 
 -   **Über den geplanten Zeitrahmen hinausdenken**. Wo immer möglich,
     den Schwerpunkt auf Flexibilität und Anpassungsfähigkeit der
@@ -65,4 +64,4 @@ der Nutzenden orientiert.*
     Benutzungszufriedenheit, Support-Service usw. - zur Verfeinerung und
     Verbesserung.
 
-*Abschnitt zu “Überdenken der Lehrpraxis mit Technologie”* aus deutscher Übertragung rausgelassen (bei Interesse, siehe [UK Toolkit](https://www.ucisa.ac.uk/learningspace), Kapitel 5.1)
+*Abschnitt zu “Überdenken der Lehrpraxis mit Technologie”* in deutscher Übertragung nicht enthalten (bei Interesse, siehe [UK Toolkit](https://www.ucisa.ac.uk/learningspace), Kapitel 5.1)
