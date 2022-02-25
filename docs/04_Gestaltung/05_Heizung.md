@@ -28,9 +28,9 @@ Management solcher Räume darstellt. Zu den Problemen gehörten die
 wahrgenommene Unzulänglichkeit der meisten Systeme und Frustration über
 das Fehlen lokaler Kontrollmöglichkeiten. Dies drückte sich oft als
 Spannung zwischen den für die Verwaltung des Raumes Verantwortlichen und der
-Bau-/Gebäudeabteilung aus, die das System verwalten, und belegen
-die Wichtigkeit, ein gemeinsames Verständnis zwischen allen Abteilungen
-zu erreichen, die am Betrieb solcher Räume beteiligt sind. Die Studie
+Bau-/Gebäudeabteilung aus, die das System verwalten. Sie belegen auch, wie wichtig
+ein gemeinsames Verständnis zwischen allen am Betrieb solcher Räume beteiligten
+Abteilungen ist. Die Studie
 fand außerdem heraus, dass Beschwerden bezogen auf Heizung, Belüftung
 und Kühlung meist dann auftauchten, wenn Änderungen an der internen
 Aufteilung von großen Räumen vorgenommen wurden, die ursprünglich als
@@ -68,8 +68,8 @@ Die Schwierigkeit, die Anforderung der Reaktionsfähigkeit auf
 individuelle Präferenzen zu erfüllen, kann zu einer Catch-22 Situation
 führen: frustrierte Gebäudenutzende machen sich an der Steuerung zu
 schaffen, bringen dadurch das Gleichgewicht des Systems durcheinander,
-dies kann wiederum dazu führen das lokale Steuerungen bewusst entfernt
-werden, was wiederum Nutzendenfrustration verstärkt.
+dies kann wiederum dazu führen, dass lokale Steuerungen bewusst entfernt
+werden, was dann Nutzendenfrustration verstärkt.
 
 Es ist bezeichnend, dass ein wichtiger Faktor bei der Analyse des „Sick
 Building Syndrome“ der Mangel an persönlicher Kontrolle war. Als Folge
@@ -102,7 +102,7 @@ Flexibilität bieten und sich sehr viel erfolgreicher zeigen als
 Lösungen, die Nachhaltigkeit über alles andere stellen.
 
 -   In Bereichen, wo dies praktikabel ist, sollte es möglich sein,
-    Fenster zur natürlichen Belüftung zu öffnen
+    Fenster zur natürlichen Belüftung zu öffnen.
 
 -   Raumplanende müssen anerkennen, dass Menschen unterschiedlich auf
     Umgebungsfaktoren reagieren und, wenn möglich, ein Grad an lokaler
