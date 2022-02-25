@@ -25,10 +25,9 @@ per E-Mail, Telefon, Videokonferenz und Instant Messaging unterstützt werden so
 Dies kann intern, mit Servicepartnern und/oder Mitgliedern des
 Designteams erfolgen und wird ein iterativer Prozess sein, der die
 Tabelle im Laufe der Zeit verfeinert. Die daraus resultierende Tabelle
-wird dazu beitragen, sicherzustellen, dass Raum, Technologie und
-Mobiliar die Bereitstellung von Dienstleistungen ermöglichen. Sie kann
-auch als Grundlage für die Ressourcenplanung in Bezug auf Personal,
-Arbeitsschichten und Fähigkeiten dienen.
+wird dazu beitragen, dass Raum, Technologie und Mobiliar die Bereitstellung 
+von Dienstleistungen ermöglichen. Sie kann auch als Grundlage für die Ressourcenplanung 
+in Bezug auf Personal, Arbeitsschichten und Fähigkeiten dienen.
 
 **Beispiel und Tool**
 
