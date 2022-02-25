@@ -56,7 +56,7 @@ z.B. sagt, dass sich Studierende mit orangefarbenen Stühlen
 zusammenfinden und eine Gruppe bilden, aber einige Studierende kommen
 mit dieser Art von Aktivität nicht gut zurecht. Caroline ist auch der
 Meinung, dass die Stühle in kleinen Gruppen gut funktionieren, aber
-sobald es mehr als 30 werden, der Raum anfängt, unordentlich und
+sobald es mehr als 30 werden, fängt der Raum an, unordentlich und
 unkontrolliert auszusehen, und einigen Studierenden gefällt das nicht.
 Kulturelle Faktoren spielen hier eine Rolle, und insbesondere einige
 Gruppen internationaler Studierender zeigen eine starke Vorliebe für
