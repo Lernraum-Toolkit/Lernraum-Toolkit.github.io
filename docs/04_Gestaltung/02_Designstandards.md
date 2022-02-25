@@ -69,7 +69,7 @@ Merkmale des Raumes[^9]:
     Förderung des Lernens beitragen. In der Vergangenheit hatte Komfort
     bei der Auswahl von Möbeln für die Nutzung durch Studierende keine
     hohe Priorität, aber das Bereitstellen von bequemen Möbeln von hoher
-    Qualität ist ein wichtiger Faktor um „time on task“ (etwa:
+    Qualität ist ein wichtiger Faktor, um „time on task“ (etwa:
     konzentriertes Arbeiten, [Chickering & Gamson, 1987](../11_Referenzen.md)) in einem
     Lernraum zu gewährleisten.
 
@@ -80,7 +80,7 @@ Merkmale des Raumes[^9]:
     Supportteams untergebracht werden. Die aktuellen Trends zur
     Integration von Lern- und Sozialräumen bringen ihre eigenen Probleme
     mit sich, nicht zuletzt die Übertragung von Lärm und Essensgerüchen
-    von Sozialräumen in formellere Lernbereiche, deshalb müssen
+    von Sozialräumen in formellere Lernbereiche. Deshalb müssen
     Zonierung und Differenzierung sorgfältig durchdacht werden.
 
 -   **Nachhaltigkeit** – bezieht sich auf ökologische Nachhaltigkeit,
