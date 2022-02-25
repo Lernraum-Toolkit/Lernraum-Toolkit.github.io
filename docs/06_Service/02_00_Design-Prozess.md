@@ -18,29 +18,29 @@ einzelnen Schritten und Tools arbeitet.
 Die Service Design Tools, die dieser Lernraum-Toolkit beinhaltet, sind:
 
 -   [**ServicePlot**](02_01_Service-Plot.md) um die eigene Service Philosophie, Wert
-    und Vision zu verstehen
+    und Vision zu verstehen.
 
 -   [**Personas Overview**](02_02_Personas.md) um die Motivationen und
-    Verhalten der Nutzer darzustellen
+    Verhalten der Nutzer darzustellen.
 
 -   [**Service Location Planner**](02_03_Location-Planner.md) um festzulegen
-    welche Services wo, wann und durch wen angeboten werden
+    welche Services wo, wann und durch wen angeboten werden.
 
 -   [**Customer Journey Map**](02_04_Journey-Map.md) um die Nutzung von Service/Raum
     über die Zeit aufzuzeichnen und Zeiten der Interaktion oder
     “Berührungspunkte” zu identifizieren.
 
 -   [**Service Blueprints**](02_05_Blueprints.md) zur Orientierung,
-    wie sowohl „Front-Line“-Mitarbeiter als auch diejenigen hinter den
+    wie sowohl „Front-Line“-Mitarbeitende als auch diejenigen hinter den
     Kulissen Service durch verschiedene Kanäle anbieten werden
 
 Zusammengenommen können diese Tools iterativ genutzt werden, um sich
 immer wieder gegenseitig zu ergänzen. Zum Beispiel, wenn man einmal
 seine Zukunftsvision entwickelt hat, kann man Journey Maps für Personas
-erstellen um diese Vision zu veranschaulichen, um daraus wiederum
+erstellen um diese Vision zu veranschaulichen und daraus wiederum
 Erkenntnisse für die Servicekonzepte zu ziehen. Auf dem Weg dorthin wird
 man sich immer wieder hin und her bewegen – etwa durch die Pläne etwas
-dazulernen, dass einen dazu veranlasst eine neue Journey Map zu
+dazulernen, das einen dazu veranlasst, eine neue Journey Map zu
 erstellen, ein neues Service Angebot aufzubauen und auszuprobieren oder
-sogar seine Vision zu überdenken. Die zu Verfügung gestellten Ressourcen
+sogar die eigene Vision zu überdenken. Die zu Verfügung gestellten Ressourcen
 bieten weitere Einblicke in diese Werkzeuge und wie sie zusammenspielen.
