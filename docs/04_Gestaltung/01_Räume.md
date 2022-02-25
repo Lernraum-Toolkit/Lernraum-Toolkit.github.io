@@ -17,7 +17,7 @@ nav_order: 1
 </details>
 
 Es ist wichtig zu beachten, dass ein bestimmter Raumtyp, der an einem
-Ort gut funktioniert, im Kontext eines anderen nicht unbedingt die beste
+Ort gut funktioniert, im Kontext eines anderen Ortes nicht unbedingt die beste
 Lösung ist. Man sollte Modell- oder Beispielräume (wie die in
 [FLEXspace](http://flexspace.org/) dokumentierten) ganzheitlich betrachten, die verschiedenen Eigenschaften
 des Raumes berücksichtigen und diese dann mit dem Raum vergleichen, den
@@ -111,9 +111,8 @@ Gebrauch sind.
     Nutzenden ihre Ideen entwickeln, erfassen, präsentieren und austauschen
     können.
 
--   **Die Nutzung des Raums überwachen**, um festzustellen, ob eine
-    Feinabstimmung erforderlich ist, um die Bedürfnisse der Nutzenden zu
-    erfüllen.
+-   **Die Nutzung des Raums überwachen**, damit man feststellen kann, ob eine
+    Feinabstimmung für die Erfüllung der Nutzerbedürfnisse erforderlich ist.
 
 ### 4.1.2 Werkzeuge
 
@@ -139,9 +138,9 @@ Im Rahmen des US Learning Space Toolkit-Projekts wurde eine Taxonomie
 entwickelt, die bei der Beschreibung und Organisation von Lernraum- und
 Nachbarschaftsprofilen helfen soll. Es handelt sich dabei zwar nicht um
 einen völlig umfassenden Beschreibungsrahmen für Lernräume, aber es ist
-ein nützliches Werkzeug zur Analyse bestehender Lernräume. Diese
-Taxonomie kann dazu verwendet werden, bestehende und zukünftige
-Lernräume systematischer zu beschreiben, um sicherzustellen, dass die
+ein nützliches Werkzeug zur Analyse bestehender Lernräume. Man kann diese
+Taxonomie dazu verwenden, bestehende und zukünftige
+Lernräume systematischer zu beschreiben, und dadurch sicherstellen, dass die
 verschiedenen Facetten von Lernräumen explizit berücksichtigt werden.
 
 ![Abbildung 2](../00_Abbildungen/04-01_Learning-Space-Taxonomy.png)
@@ -162,7 +161,7 @@ Abbildung 2. Die Learning Space Taxonomy, übernommen aus dem [US Toolkit](../11
 
 -   **Flexibilität für zukünftige Änderungen einbauen.** Man sollte damit rechnen, Wände zwischen kleineren Räumen zu entfernen, Wände innerhalb größerer Räume hinzuzufügen und völlig neue Raumnutzungen einzuführen. Einige dieser Veränderungen könnten sogar während der Bauarbeiten oder kurz danach stattfinden.
 
--   **Wenn möglich, sollte ein Teil des Raumes frei bleiben**, um für die unvermeidliche Neunutzung vorzusorgen oder ein übersehenes Programmelement unterzubringen oder um andere Räume zu erweitern.
+-   **Wenn möglich, sollte ein Teil des Raumes frei bleiben**, um für die unvermeidliche Neunutzung vorzusorgen, ein übersehenes Programmelement unterzubringen oder um andere Räume zu erweitern.
 
 -   **Man sollte auf mehr als den Mindestflächen für die Infrastruktur bestehen,** einschließlich Flächen für mechanische Systeme, elektrische Schaltanlagen sowie Daten- und audiovisuelle Geräte. Diese Räume sollten so bemessen sein, dass sie von Anfang an leicht zugänglich sind und in Zukunft erheblich erweitert werden können.
 
