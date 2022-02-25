@@ -66,7 +66,7 @@ Tabelle beschrieben.
 <td>Strategie</td>
 <td>Fähigkeit, potenzielle Lösungen zu identifizieren und den aus technologischer Sicht besten Weg für das Gesamtprojekt zu wählen</td>
 <td><p>Die Technologie-Vision entwickeln.</p>
-<p>fragt: Was ist einzigartig auf dem Campus und wie kann die Bibliothek unterstützen?</p>
+<p>Fragt: Was ist einzigartig auf dem Campus und wie kann die Bibliothek unterstützen?</p>
 <p>Kontakte für die Entwicklung hochwertiger Lösungen gewinnen; einen Technologieplan für das Projekt vorbereiten</p></td>
 </tr>
 <tr class="odd">
