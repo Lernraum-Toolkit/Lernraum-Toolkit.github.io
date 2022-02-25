@@ -8,7 +8,7 @@ nav_order: 6
 ## 5.6 Beispiel: Schreibtechnologien
 
 Man hätte diesen Abschnitt vielleicht mit dem Untertitel
-Low-Tech-Technologien versehen können, da einige Geräte, die die
+Low-Tech-Technologien versehen können, da einige Geräte, welche die
 Zusammenarbeit in Lernräumen am besten unterstützen, keine digitale
 Komponente enthalten müssen. Beschreibbare Oberflächen in Lernräumen
 sind sehr förderlich für Zusammenarbeit, Beteiligung und aktives Lernen.
@@ -32,7 +32,7 @@ auf das Glas projiziertes Bild zu beschriften. Glasschreibtafeln können
 in Lernräumen auch Nachteile haben, da sie anfällig für Blendung und
 Reflexionen sind, insbesondere wenn die Studierenden versuchen, den
 Inhalt auf den Tafeln zu fotografieren. Außerdem kann es schwierig sein,
-sie in Vorlesungsaufzeichnungs-systemen zu integrieren, da der Inhalt
+sie in Vorlesungsaufzeichnungssystemen zu integrieren, da der Inhalt
 auf der Tafel oft genauso wichtig, wenn nicht sogar wichtiger ist als
 die digitale Präsentation.
 
