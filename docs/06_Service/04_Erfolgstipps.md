@@ -22,7 +22,7 @@ abgeschlossen hat.*
     Erfahrungsstufen oder anderen festgelegten Kategorien geprüft.
     Dadurch wird eine Grundlage für die zukünftige Planung geschaffen,
     so dass ein Vergleich mit dem zukünftigen Bedarf möglich ist und
-    Lücken z.B. in Bezug auf die Gesamtzahl der Mitarbeiter,
+    Lücken z.B. in Bezug auf die Gesamtzahl des Personals,
     Fähigkeiten, Wissensgebiete und Erfahrungen identifiziert werden
     können.
 
@@ -49,22 +49,22 @@ abgeschlossen hat.*
     Vielzahl von Serviceleistungen zu verschiedenen Zeiten nutzen. Damit
     kann man sich die Nutzung der Serviceangebote in der Anfangszeit im
     Vergleich zur etablierten Nutzung anschauen und verstehen, wie die
-    Erfahrungen von Benutzer zu Benutzer variieren, idealerweise für
+    Erfahrungen von unter den Nutzenden variieren, idealerweise für
     mindestens 5 verschiedene Personas, die jede Kerndienstleistung
     nutzen.
 
 -   Dienstpläne für alle Kerndienste und mindestens alle neuen Dienste
-    erstellen, indem man Input der Verwaltung, Mitarbeitern und Nutzern
-    nutzt. Diese Entwürfe dienen als Planungsinstrumente, aber auch als
+    erstellen, indem man auf Input der Verwaltung, des Personals und der Nutzenden
+    zurückgreift. Diese Entwürfe dienen als Planungsinstrumente, aber auch als
     Referenzquelle für Schulung, Betrieb und Evaluation.
 
 **Plan umsetzen**
 
--   Erprobung neuer Dienstleistungen in Verbindung mit der Erstellung von Prototypen neuer Räume, wobei das gesamte Modell getestet wird. Dies hilft dabei, Fragen zu beantworten, die sich aus Journey Maps und Konzepten ergeben, Risiken zu mindern, das Design zu verfeinern und sowohl die Nutzer als auch das Personal auf die neue Umgebung umzustellen.
+-   Erprobung neuer Dienstleistungen in Verbindung mit der Erstellung von Prototypen neuer Räume, wobei das gesamte Modell getestet wird. Dies hilft dabei, Fragen zu beantworten, die sich aus Journey Maps und Konzepten ergeben, Risiken zu mindern, das Design zu verfeinern und sowohl die Nutzenden als auch das Personal auf die neue Umgebung umzustellen.
 
 -   Ein Schulungsprogramm für das Personal entwickeln, um Lücken
     zwischen der Auditphase und den in den Konzepten dokumentierten
     künftigen Serviceanforderungen zu schließen. Dies erleichtert es,
-    die Mitarbeiter auf die zukünftige Erbringung von Serviceleistungen
-    vorzubereiten und eine Richtlinie für zukünftige Mitarbeiter zu
+    die Mitarbeitenden auf die zukünftige Erbringung von Serviceleistungen
+    vorzubereiten und eine Richtlinie für zukünftiges Personal zu
     erstellen.
