@@ -33,12 +33,12 @@ berücksichtigen:
 
 -   **Level/Niveau:** Grad der erforderlichen Erfahrung, Kenntnisse und
     Fähigkeiten, im Allgemeinen in vier Stufen unterteilt, wobei Stufe 1
-    die einfachste und Stufe 4 die fortgeschrittenste ist
+    die einfachste und Stufe 4 die fortgeschrittenste ist.
 
 -   **Raum:** Die Zuordnung von Mitarbeitern zu Räumen oder
     Servicebereichen, z.B. das Verhältnis von Personal am
     Informationsschalter vs. Gruppenarbeitsräume vs. Infrastruktur
-    hinter den Kulissen
+    hinter den Kulissen.
 
 Die Abbildung oben veranschaulicht, wie man unter Berücksichtigung
 dieser verschiedenen Faktoren vorgeht, und die Tabelle unten erklärt die
