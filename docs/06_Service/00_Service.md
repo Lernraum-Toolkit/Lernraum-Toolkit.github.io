@@ -13,7 +13,7 @@ permalink: /docs/06_Service
 
 -   Wir betrachten zunächst einige Leitprinzipien, die bei der Planung des Serviceangebots für einen Lernraum helfen können;
 
--   Wir stellen einen Prozess zur Gestaltung des Serviceangebots vor, der auf einer Reihe von Methoden und Tools basiert. Auch wird dargestellt wie man eine Abschätzung des benötigten Personals vornimmt.
+-   Wir stellen einen Prozess zur Gestaltung des Serviceangebots vor, der auf einer Reihe von Methoden und Tools basiert. Auch wird dargestellt, wie man eine Abschätzung des benötigten Personals vornimmt.
 
 **Erwartungen an die Lektüre dieses Abschnitts**
 
