@@ -43,17 +43,17 @@ beschränkt durch die Größe in der man im natürlichen Fluss schreiben
 kann. Technik kann für dieses Problem auf folgenden Weise Lösungen
 bieten:
 
--   Nutzung eines Visualisierers[^13] als horizontale Schreibfläche
+-   Nutzung eines Visualisierers[^13] als horizontale Schreibfläche.
 
 -   Nutzung eines berührungsempfindlichen, fest installierten
-    Anzeigebildschirms (z.B. ein Smart Sympodium)[^14]
+    Anzeigebildschirms (z.B. ein Smart Sympodium)[^14].
 
 -   Nutzung eines interaktiven Whiteboards dessen Anzeige auf eine
-    größere Projektionsoberfläche dupliziert wird
+    größere Projektionsoberfläche dupliziert wird.
 
--   Nutzung eines portablen Tablets dessen Anzeige auf eine größere
+-   Nutzung eines portablen Tablets, dessen Anzeige auf eine größere
     Projektionsfläche gespiegelt wird (möglicherweise über den festen
-    PC am Dozierendenpult)
+    PC am Dozierendenpult).
 
 ### Visuelle Designempfehlungen
 
@@ -78,9 +78,9 @@ bieten:
     präsentiert. Kein Lernender sollte seinen Kopf in einem extremen
     Winkel drehen müssen. Im Allgemeinen bietet ein Betrachtungswinkel
     von weniger als 45° zur Mitte des Bildschirms ein gutes
-    Betrachtungserleben, während ein Betrachtungswinkel innerhalb von
+    Betrachtungserlebnis, während ein Betrachtungswinkel innerhalb von
     45° zum nahen Rand des Bildschirms ein akzeptables
-    Betrachtungserleben ergibt.
+    Betrachtungserlebnis ergibt.
 
 -   Kein Lernender sollte zum oberen Teil des Bildschirms mehr als 35°
     oder 15° zum Bildschirmzentrum nach oben schauen müssen (um
@@ -95,7 +95,7 @@ bieten:
     Boden- zu Bildschirmhöhen ist, dass es 1200mm über dem fertigen
     Boden normalerweise dem größten Teil eines sitzenden Publikums in
     einem flachen Raum erlauben würde, den unteren Teil des Bildes zu
-    sehen. Aber diese Höhe ist normalerweise zu hoch sie als interaktive
+    sehen. Aber diese Höhe ist normalerweise zu hoch, um sie als interaktive
     Schreibfläche zu nutzen, da die oberen Teile des Bildschirms für die
     meisten Lehrenden nicht erreichbar wären. Wenn „Ultra-short
     throw“-Projektoren installiert sind, sollte beachtet werden, dass
@@ -103,7 +103,7 @@ bieten:
     werden könnten - deshalb sollte die optimale Anbringungshöhe gut
     durchdacht sein.
 
--   Den Dozierendenpult nicht vor den Projektor platzieren, dies kann zu
+-   Das Dozierendenpult nicht vor den Projektor platzieren, dies kann zu
     Blendungen des Lehrenden führen und die Sicht der Studierenden auf
     die Präsentation einschränken.
 
@@ -124,11 +124,11 @@ bieten:
     Publikum drehen zu müssen.
 
 -   Nach Norden ausgerichtete Lehrwände werden nicht durch Sonnenlicht
-    beeinträchtigt, anders ausgerichtete Raumanordnungen werden warscheinlich
+    beeinträchtigt, anders ausgerichtete Raumanordnungen werden wahrscheinlich
     Jalousien benötigen.
 
 -   Sicherheitsmaßnahmen nutzen, wie Anti-Diebstahl Riegel oder
-    Plomben-Alarme um Geräte wie Projektoren zu schützen
+    Plomben-Alarme, um Geräte wie Projektoren zu schützen.
 
 -   Sicherstellen, dass die Stabilität des Bildes eines an der Decke
     befestigten Projektors nicht durch Schritte im Raum darüber oder
@@ -140,11 +140,11 @@ bieten:
 -   Ultrakurzdistanzprojektor sind in kleineren Lernräumen nützlich.
     Während sie bezüglich der maximalen Bildgröße limitiert sind, haben
     sie den Vorteil, dass sie keinen „Hot Spot“[^15] haben, der zu
-    Nutzenden zurück reflektiert, und die Lehrkraft weder den Projektorstrahl
-    versperrt, wenn er vor der Tafel steht, noch selbst dadurch
-    geblendet wird.
+    Nutzenden zurück reflektiert, und Lehrkräfte weder den Projektorstrahl
+    versperren, wenn sie vor der Tafel stehen, noch selbst dadurch
+    geblendet werden.
 
--   In bestimmten Situationen können große LCD oder LED Bildschirme als
+-   In bestimmten Situationen können große LCD- oder LED-Bildschirme als
     Hauptbildschirm geeigneter sein oder in Kombination mit Daten- und
     Videoprojektoren genutzt werden, um zusätzliche Anzeigen für die
     Sitzplätze zu bieten, die den Hauptbildschirm nicht leicht sehen
@@ -152,19 +152,19 @@ bieten:
     Bildschirmauflösung der Flachbildschirme mit dem Bildschirmformat
     der PC-Monitore und dem projizierten Bild übereinstimmen.
 
--   Eine Herausforderung in großen Räumen ist, eine Methode zum
+-   In großen Räumen ist es eine Herausforderung, eine Methode zum
     Schreiben oder Illustrieren für die Lehrkraft zu ermöglichen, welche
     für die Studierenden klar erkennbar ist. Konventionelle Whiteboards
     haben einen bearbeitbaren Höhenbereich zwischen 1000mm und 2000mm,
     je nach Größe des Lehrenden. An Schienen angebrachte Tafeln
-    ermöglichen es dem Lehrenden diese bearbeitbare Höhe zu erweitern,
-    da der Lehrende einfach eine Tafel hochschieben kann, damit
-    Studierende sie besser sehen können während er/sie selbst auf der
+    ermöglichen es dem Lehrenden, diese bearbeitbare Höhe zu erweitern. 
+    Der Lehrende kann einfach eine Tafel hochschieben, damit
+    Studierende sie besser sehen können, während er/sie selbst auf der
     zweiten Tafel darunter weiterschreibt. Die Nutzung von
     Visualisierern kann ebenfalls in einigen Fällen helfen.
 
 -   Wenn man dieselbe Fläche für Projektion und Schreiben nutzt wird es
-    einen Kompromiss geben müssen. Tafeln, die gesäubert werden können
+    einen Kompromiss geben müssen. Tafeln, die gesäubert werden können,
     reflektieren, Tafeln, die nicht reflektieren, können nicht trocken
     abgewischt werden, sind also ungeeignet fürs Schreiben.
 
