@@ -23,8 +23,8 @@ Sie können jedoch auch bei der Bereitstellung von Lerninhalten Anwendung
 finden und sind auch im Bereich der Lernanalytik[^25] von Bedeutung, wo
 die Anwesenheit[^26] und die Nutzung institutioneller Einrichtungen als
 potenzielle Indikatoren für die Leistung von Studierenden angesehen
-werden. Sie können auch bei der Evaluierung von Nutzungsmustern von
-Lernräumen von Bedeutung sein.
+werden. Auch bei der Evaluierung von Nutzungsmustern von
+Lernräumen können sie von Bedeutung sein.
 
 ---
 
