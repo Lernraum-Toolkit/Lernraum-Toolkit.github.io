@@ -15,9 +15,9 @@ und nicht die glamourösen Aspekte der Technologie selbst zu betrachten.*
 
 **Erste Schritte**
 
--   damit beginnen, alle **bereits existierenden Dokumente und Informationen zu sammeln**, die helfen, den aktuellen Stand und die bevorstehenden Pläne der Institution zu verstehen.
+-   Damit beginnen, alle **bereits existierenden Dokumente und Informationen zu sammeln**, die helfen, den aktuellen Stand und die bevorstehenden Pläne der Institution zu verstehen.
 
--   bei Bedarf **Schreibtischrecherchen und Exkursionen durchführen**,
+-   Bei Bedarf **Schreibtischrecherchen und Exkursionen durchführen**,
     um Beispiele für die Umsetzung an anderen Institutionen oder neue
     Technologien, die angeboten werden, zu erkunden. Dabei jedoch kritisch
     vorgehen und sich ein eigenes Urteil über den jeweiligen Erfolg
@@ -26,7 +26,7 @@ und nicht die glamourösen Aspekte der Technologie selbst zu betrachten.*
 
 **Planung und Implementierung**
 
--   **ein Arbeitsblatt erstellen**, um die Vision und den Bedarf der
+-   **Ein Arbeitsblatt erstellen**, um die Vision und den Bedarf der
     Nutzenden zu skizzieren, sowie ein Kontrollbogen für das Budget. Das
     Projekt regelmäßig überprüfen, um sicherzustellen, dass es nicht von
     seinem beabsichtigten Kurs abweicht.
@@ -34,7 +34,7 @@ und nicht die glamourösen Aspekte der Technologie selbst zu betrachten.*
 -   **Partnerschaften mit internen und externen Fachleuten aufbauen** - Expertise für Unterrichtstechnologie innerhalb der     eigenen Organisation und, falls erforderlich, Beratungen - um die
     Ziele bestmöglich zu erreichen.
 
--   **eine gute „A/S-Reputation“ und die Dauer der Garantie** als Teil
+-   **Eine gute „A/S-Reputation“ und die Dauer der Garantie** als Teil
     der Hardware-Auswahlkriterien berücksichtigen. Geräte und
     Ausstattung der „Business-Class“ von etablierten Anbietenden mit einer
     langen Garantieleistungshistorie auswählen. Garantien kaufen, die
@@ -52,7 +52,7 @@ und nicht die glamourösen Aspekte der Technologie selbst zu betrachten.*
 -   **Einen 20-prozentigen Vorbehalt für unerwartete Kosten in das
     Budget einbauen**, die sich aus der Lösung von Problemen,
     Änderungsaufträgen und dem Kauf von zusätzlichem Zubehör ergeben
-    können. Es ist zwar wünschenswert, Umwege zu vermeiden, aber es ist
+    können. Zwar ist es wünschenswert, Umwege zu vermeiden, aber es ist
     nicht ungewöhnlich, dass die Kosten gegen Ende eines Projekts
     aufgrund verschiedener Probleme oder wechselndem Bedarf das Budget
     überschreiten.
