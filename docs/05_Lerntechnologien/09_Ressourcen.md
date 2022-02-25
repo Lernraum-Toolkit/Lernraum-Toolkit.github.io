@@ -42,7 +42,7 @@ nav_order: 9
 
 -   Das University College London bietet ein umfangreiches
     **[Ressourcenzentrum](https://wiki.ucl.ac.uk/display/LecturecastResourceCentre/Lecturecast+Resource+Centre)**, das sich mit allen Aspekten der Aufzeichnung von
-    Vorlesungen (Lecture Capture) befasst:
+    Vorlesungen (Lecture Capture) befasst.
 
 -   Wagner, J. (2019). „Bewegung fördert Lernen“ – \[Smarte\] Angebote bewegungsfördernder Geräte am Lernort Bibliothek. In: L. Freyberg & Wolf, S. *Smart Libraries: Konzepte, Methoden und Strategien* (Vol. 76). bit online Verlag.
 
