@@ -86,7 +86,7 @@ Aufgabenbereich auch auf die externe Fassade des Gebäudes ausweitet. Bei
 der Innenarchitektur geht es um viel mehr als nur um Dekoration – der
 Schwerpunkt liegt auf funktionellem Design und effektiver Nutzung und
 auch ein Verständnis für technische Fragen, wie Heizung, Belüftung und
-Klimatisierung, sowie Akustik und Beleuchtung kann erforderlich sein. In einem Lernraumprojektes würde der/die Verantwortliche für  Innenarchitektur z.B. das Layout des Raums planen, während sich der/die Architekt/-in um mögliche Änderungen an tragenden Wänden kümmert. Architekturfirmen
+Klimatisierung, sowie Akustik und Beleuchtung kann erforderlich sein. In einem Lernraumprojekt würde der Verantwortliche für Innenarchitektur das Layout des Raums zusammen mit einem/einer Architekten/-in planen, der/die sich dann um mögliche Änderungen an tragenden Wänden kümmert. Architekturfirmen
 arbeiten oft mit bestimmten Innenarchitekten zusammen.
 
 **Maschinenbau- und Elektroingenieur/-in**
