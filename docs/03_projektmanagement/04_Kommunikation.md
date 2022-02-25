@@ -7,15 +7,14 @@ nav_order: 4
 
 ## 3.4 Kommunikation
 
-Es ist wichtig, sicherzustellen, dass von Anfang an gute
-Kommunikationskanäle aufgebaut und aufrechterhalten werden, um zu
-gewährleisten, das Schlüssel-Stakeholder informiert werden und
+Man muss sicherzustellen, dass von Anfang an gute
+Kommunikationskanäle aufgebaut und aufrechterhalten werden, sodass Schlüssel-Stakeholder informiert werden und
 einbezogen bleiben. Der [US Toolkit](../11_Referenzen.md) stellt dabei besonders folgende
 Punkte heraus, die man für eine effektive Kommunikation über die gesamte
 Planung eines Lernraums hinweg beachten sollte:
 
 -   **Konkret kommunizieren,** indem man Beispiele, Modelle,
-    Geschichten/Stories, Studienreisen oder andere Techniken verwendet,
+    Geschichten/Stories, "student journeys" (welche die "Reisen" der Studierenden durch das Studium beschreiben) oder andere Techniken verwendet,
     um abstrakte Ideen für das Projektteam und die Beteiligten greifbar
     zu machen.
 
@@ -27,14 +26,14 @@ Planung eines Lernraums hinweg beachten sollte:
     verschiedenen Zugangsmöglichkeiten** einrichten, um die
     unterschiedlichen Interessen zueinander zu bringen und Konsens zu
     erreichen - z.B. interaktive Projekt-Website, Community-Seite auf
-    Facebook usw.
+    sozialen Netzwerken usw.
 
 Bestimmte Leitprinzipien gelten unabhängig von Art und Umfang des
 Projekts. Dazu gehören die Kommunikation des Gesamtprozesses und des
 Stands innerhalb der Roadmap bzw. des weiteren Vorgehens, proaktive und
 regelmäßige Kommunikation, die Verwendung unterschiedlicher
 Kommunikationsmittel, damit Stakeholder unterschiedliche Möglichkeiten
-haben sich einzubringen, das Verstehen unserer Zielgruppe, das
+haben sich einzubringen, das Verstehen der Zielgruppe, das
 Wiederholen von Schlüsselbotschaften wie Nutzen und Grundgedanken, das
 Zuhören und Anerkennen von Bedenken sowie die Kommunikation von
 Erfolgen.
@@ -56,7 +55,7 @@ und Beteiligung.
 | Projektwebseite                                              | Zentrale Informationsressource über das Projekt inklusive Hintergrundinformation und aktualisiertem Fortschritt. Kann Links zu Dokumentation der Planung, Referenzen, Blogs, Wikis, etc. enthalten | Classroom Technology Upgrade Project der University of Arizona [(Link zu Preview auf learningspacetoolkit.org)](https://learningspacetoolkit.org/university-of-arizona-classroom-technology-upgrade-project-preview/index.html)                |
 | Projektblog                                                  | Ressource um laufenden Fortschritt zu veröffentlichen und um Rückmeldung und Kommentare der Öffentlichkeit einzuholen                                                                              | Noel Studio for Academic Creativity der Eastern Kentucky University [(Link zu Preview auf learningspacetoolkit.org)](https://learningspacetoolkit.org/noel-studio-for-academic-creativity-at-eastern-kentucky-university-example/index.html)  Blogbeiträge zu Bauprojekte der Staats- und Universitätsbibliothek Hamburg [(Link zur Blog-Kategorie "Baustelle Stabi")](https://blog.sub.uni-hamburg.de/?cat=10)  |
 | Projektwiki                                                  | Ressource um laufenden Fortschritt zu veröffentlichen mit einem Schwerpunkt auf dem Mitwirken der Öffentlichkeit und dem Aufbau einer kumulativen Ressource / Geschichte                 | NC State University SCALE-Up Initiative [(Link zu Preview auf learningspacetoolkit.org)](https://learningspacetoolkit.org/nc-state-university-scale-up-initiative-example/index.html)                                                       |
-| Mitarbeitenden-versammlung                                      | Als eingeladene Veranstaltung kann sie eine Möglichkeit sein, Informationen an alle zu vermitteln                                                                                                  |                                                                                                                                                                                              |
+| Mitarbeitendenversammlung                                      | Als eingeladene Veranstaltung kann sie eine Möglichkeit sein, Informationen an alle zu vermitteln                                                                                                  |                                                                                                                                                                                              |
 | Review Workshops mit Studierenden, Lehrkräften und Mitarbeitenden | Mechanismus um Input im Verlauf des Projekts zu bekommen und das Projekt in den Köpfen der Leute zu halten                                                                                         |                                                                                                                                                                                              |
 | Email                                                        | Wie persönliche Treffen, ein „push“ Kommunikationsmittel um sicherzustellen, dass alle einen gewissen Wissensstand über den Status des Projektes haben.                                            |                                                                                                                                                                                              |
 
@@ -78,7 +77,7 @@ Projekt zu fördern und zu verbreiten, was es innovativ macht.
 | Listservs                      | Projektupdates die das Teilen mit einer breiteren Gemeinschaft von Interessierten ermöglicht                                                                                                         | Infocommons der University of Binghamton [(Link zu Preview auf learningspacetoolkit.org)](https://learningspacetoolkit.org/infocommons-example/index.html)                                                                                    |
 | Twitter                        | Kurze, informelle Updates des Projektstatus zur laufenden Nutzung um längerformatige Kommunikation anzukündigen oder zu verlinken                                                                    | Noel Studio for Academic Creativity der Eastern Kentucky University [(Link zu Preview auf learningspacetoolkit.org)](https://learningspacetoolkit.org/noel-studio-for-academic-creativity-at-eastern-kentucky-university-example-2/index.html) |
 | Flickr                         | Projektspezifisches Teilen von Bildern                                                                                                                                                               | University of Pennsylvania Weigle Information Commons [(Link zu Preview auf learningspacetoolkit.org)](https://learningspacetoolkit.org/university-of-pennsylvania-weigle-information-commons/index.html)                                     |
-| Webseite                       | Zentrale Informationsressource über das Projekt inklusive Hintergrundinformationen und aktualisiertem Fortschritt. Kann links zu Dokumentation der Planung, Referenzen, Blogs, Wikis, etc. enthalten | Ryerson University Student Learning Center [(Link zu Preview auf learningspacetoolkit.org)](https://learningspacetoolkit.org/ryerson-university-student-learning-center/index.html)                                                           |
+| Webseite                       | Zentrale Informationsressource über das Projekt inklusive Hintergrundinformationen und aktualisiertem Fortschritt. Kann Links zu Dokumentation der Planung, Referenzen, Blogs, Wikis, etc. enthalten | Ryerson University Student Learning Center [(Link zu Preview auf learningspacetoolkit.org)](https://learningspacetoolkit.org/ryerson-university-student-learning-center/index.html)                                                           |
 | Facebook                       | Zentrale Informationsressource über das Projekt, das genutzt wird wegen seiner integrierter Community-Beteiligungs-Feature wie Fotos teilen, Kommentieren und „Liken“                                | Yale Center for Science and Social Science Information [(Link zu Preview auf learningspacetoolkit.org)](https://learningspacetoolkit.org/yale-center-for-science-and-social-science-information/index.html)                                   |
-| Richtlinien und Referenzen     | Referenzinformationen, die dazu dienen, das Projekt durch den Prozess und die Umsetzung zu leiten oder eine Reihe von Projekten unterstützen                                                         | University of British Columbia Learning Space Design Guidelines [(Link zu Preview auf learningspacetoolkit.org)](https://learningspacetoolkit.org/university-of-british-columbia-learning-space-design-guidelines-example/index.html)         |
+| Richtlinien und Referenzen     | Referenzinformationen, die dazu dienen, das Projekt durch den Prozess und die Umsetzung zu leiten oder eine Reihe von Projekten zu unterstützen                                                         | University of British Columbia Learning Space Design Guidelines [(Link zu Preview auf learningspacetoolkit.org)](https://learningspacetoolkit.org/university-of-british-columbia-learning-space-design-guidelines-example/index.html)         |
 | Artikel und Whitepapers        | Artikel und Whitepapers können zeigen, wo das Projekt eine theoretischere oder längerfristige Wirkung hat                                                                                            | Learning Environments: Where Space, Technology, and Culture converge [(Link zu Preview auf learningspacetoolkit.org)](https://learningspacetoolkit.org/learning-environments-where-space-technology-and-culture-converge-example/index.html)  |
