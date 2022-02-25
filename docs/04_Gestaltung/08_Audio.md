@@ -24,19 +24,19 @@ Gruppendiskussionen zu hören und daran teilzunehmen.
 Verschiedene Lernräume verlangen unterschiedliche Behandlung, z.B.
 
 -   Ein Hörsaal benötigt Tonverstärkung, damit alle Lernenden hören
-    können
+    können.
 
 -   Ein offener Gruppenarbeitsbereich wird eine Geräuschdämpfung
     erforderlich machen, damit Lernende nicht lauter sprechen müssen um
-    Hintergrundgeräusche zu übertönen
+    Hintergrundgeräusche zu übertönen.
 
--   Eine Bibliothek muss von Außengeräuschen abgeschirmt werden
+-   Eine Bibliothek muss von Außengeräuschen abgeschirmt werden.
 
 -   Bereiche, die an Lärm ausstrahlende Lernräume angrenzen (z.B. einen
     Musikraum), müssen vor diesen Geräuschen geschützt werden.
 
 Man sollte sich zunächst über die Geräuschquellen klarwerden, bevor man
-anfängt den Raum zu entwerfen. Genauso wie Lärm, der durch Gebäudenutzende
+anfängt, den Raum zu entwerfen. Genauso wie Lärm, der durch Gebäudenutzende
 und ihre Aktivitäten entsteht, kann es sein, dass man auch Lärm von
 Heizungslüftern und Kühlsystemen minimieren muss.
 
@@ -87,12 +87,12 @@ kontrolliert und gemanagt wird, kann es sinnvoll sein, Fachleute für Akustik
 zu beauftragen, die dabei helfen, den Lärm innerhalb des geplanten Raums
 zu modellieren und zu Boden-, Decken- und Wandverkleidungen zu beraten.
 Schalldämmung ist oft etwas, das in Frage gestellt wird, wenn Budgets
-ansteigen und Einsparungen erforderlich sind, aber das kann falsches
+ansteigen und Einsparungen erforderlich sind. Das kann aber falsches
 Wirtschaften bedeuten, da es kostspielig sein kann, Fehler im Nachhinein
 zu beheben. Gute professionelle Beratung in einem frühen Stadium sollte
 helfen, diese Art von Fehlern zu vermeiden.
 
-*Ausführungen zu “Assistive listening systems”* aus der deutschen Übertragung rausgelassen (bei Interesse, siehe [UK Toolkit](https://www.ucisa.ac.uk/learningspace), Kapitel 4.7)
+*Ausführungen zu “Assistive listening systems”* in der deutschen Übertragung nicht enthalten (bei Interesse, siehe [UK Toolkit](https://www.ucisa.ac.uk/learningspace), Kapitel 4.7)
 
 ### Hinweise und Tipps
 
@@ -104,10 +104,10 @@ helfen, diese Art von Fehlern zu vermeiden.
 
 -   Die Verlegung von Beleuchtungs- und Audiokabeln und die Anordnung
     der Anschlüsse sollte beachtet und so weit wie möglich getrennt
-    werden, um Probleme zu vermeiden, wie dass das Dimmen des Lichts mit
-    dem Ton interferiert. Parallele Verlegung von Kabeln sollte
+    werden, um Probleme zu vermeiden, wie etwa die Beeinflussung von 
+    Tonsignalen durch Lichtdimmer. Parallele Verlegung von Kabeln sollte
     vermieden werden. Stromquellen für Audio- und Umgebungsdienste, wie
-    Beleuchtung und Heizung, Belüftung und Klimatisierung, sollten
+    Beleuchtung, Heizung, Belüftung und Klimatisierung, sollten
     idealerweise phasensepariert sein und Masseanschlüsse dediziert für
     Audio sein (d.h. nicht mit irgendetwas anderem im Gebäude geteilt).
 
