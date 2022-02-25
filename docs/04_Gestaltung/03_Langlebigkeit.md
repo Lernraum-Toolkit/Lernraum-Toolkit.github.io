@@ -14,7 +14,7 @@ zusammen, das berücksichtigt, dass Gebäude ein gewisses Maß an
 Beständigkeit brauchen und sich gleichzeitig im Laufe ihres Lebens an
 eine Vielzahl von Nutzungen anpassen können.
 
-Beim Entwurf eines Gebäudes, ist es oft sinnvoll, es als eine Reihe von
+Beim Entwurf eines Gebäudes ist es oft sinnvoll, es als eine Reihe von
 Komponenten oder Schichten mit unterschiedlicher Lebensdauer zu
 betrachten. Die Abbildung unten ist der Arbeit von [Brand (1994)](../11_Referenzen.md)
 entnommen und zeigt die Schichten einschließlich des geographischen
@@ -30,7 +30,7 @@ Zahlen in verschiedenen Fachbereichen variieren.
 
 Abbildung 3. Brands "Six S" ([Brand (1994)](../11_Referenzen.md), Darstellung übernommen aus dem [UK Toolkit](../11_Referenzen.md), lizenziert unter [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.de)).
 
-Die Flexibilität des Gebäudes beruht daher auf Bauelemente am unteren
+Die Flexibilität des Gebäudes beruht daher auf Bauelementen am unteren
 Ende der Liste in der Abbildung. Je besser die Elemente weiter oben in
 der Liste von der physischen Hülle und Servicestrategie des
 Gesamtgebäudes unabhängig gehalten werden können, desto mehr Gelegenheit
@@ -53,4 +53,4 @@ Einkaufszentrumsmodel, bei dem Innenausstattung schnell und günstig
 geändert werden kann, bis zur Erwartung, dass es etwa 10 Jahre lang
 keine wesentlichen Änderungen geben wird. Welches Ende des Spektrums man
 auch anpeilt, man muss abwägen, ob alle Komponenten ausreichend
-beständig sind um diese Zeitspanne zu halten.
+beständig sind, um diese Zeitspanne zu halten.
