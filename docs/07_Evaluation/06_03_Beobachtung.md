@@ -9,9 +9,9 @@ nav_order: 3
 
 ### 7.6.3 Beobachtung
 
-Die formale Beobachtung der Benutzer ist eine kostengünstige Methode, um
+Die formale Beobachtung der Benutzenden ist eine kostengünstige Methode, um
 mehr über das Verhalten der Lernenden und die Nutzung der vorhandenen
-Räume zu erfahren. Die Beobachtung kann neue Informationen über Benutzer
+Räume zu erfahren. Die Beobachtung kann neue Informationen über Benutzende
 liefern und uns in Bereiche innerhalb der Einrichtung führen, in die wir
 uns nicht oft begeben. Der Hauptzweck von Beobachtungen ist
 Beschreibung. Beschreibungen von Beobachtungen sollten eine Beschreibung
@@ -28,19 +28,19 @@ der vorhandenen Räume durch die Lernenden führen.
 -   Kann zum Sammeln von Belegen für tatsächliches Verhalten in einem
     Raum statt berichtetes Verhalten verwendet werden; ermöglicht es dem
     Untersuchenden, Annahmen über Räume, Technologien und andere
-    Merkmale zu testen
+    Merkmale zu testen.
 
 -   Ermöglicht es dem Personal, routinemäßige Aktivitäten um sie herum
     besser wahrzunehmen und Räume und Aktivitäten an weniger vertrauten
-    Orten in der Institution zu erleben
+    Orten in der Institution zu erleben.
 
 **Schwächen**
 
 -   Gültigkeit und Zuverlässigkeit der Daten kann beeinträchtigt werden,
-    wenn Personen wissen, dass sie beobachtet werden
+    wenn Personen wissen, dass sie beobachtet werden.
 
--   Schwierig Präferenzen und Meinungen, allein durch Beobachtung
-    einzuschätzen
+-   Schwierig, Präferenzen und Meinungen allein durch Beobachtung
+    einzuschätzen.
 
 **Zu berücksichtigende Punkte**
 
