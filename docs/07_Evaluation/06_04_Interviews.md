@@ -25,25 +25,25 @@ Elemente, die von den Benutzern als unzureichend empfunden werden.
 
 **Stärken**
 
--   Hochflexible Methode, die spontan angepasst werden kann
+-   Hochflexible Methode, die spontan angepasst werden kann.
 
--   Eine Vielzahl von Themen kann abgedeckt werden
+-   Eine Vielzahl von Themen kann abgedeckt werden.
 
--   Kann unterschiedlich lang sein, um Terminpläne zu berücksichtigen
+-   Kann unterschiedlich lang sein, um Terminpläne zu berücksichtigen.
 
 -   Bietet einen reichhaltigen Einblick in individuelle Perspektiven und
-    Verhaltensweisen
+    Verhaltensweisen.
 
 **Schwächen**
 
--   Zeitintensiv aufgrund der Eins-zu-eins-Natur der Methode
+-   Zeitintensiv aufgrund der Eins-zu-eins-Natur der Methode.
 
 -   Der Interviewer muss in der Lage sein, eine Beziehung zum Befragten
-    aufzubauen
+    aufzubauen.
 
 -   Angesichts der relativ kleinen Zahl der befragten Personen sind die
     Ergebnisse möglicherweise nicht repräsentativ für die
-    Gesamtpopulation
+    Gesamtpopulation.
 
 **Zu berücksichtigende Punkte**
 
@@ -68,7 +68,7 @@ Elemente, die von den Benutzern als unzureichend empfunden werden.
     viel Gruppenarbeit, usw.). Man sollte eine Liste potenzieller
     Teilnehmer für zukünftige Projekte führen, auch wenn sie nicht die
     Kriterien des aktuellen Projekts erfüllen. Man sollte mit der
-    institutionellen Einheit sprechen, die die Studierendenstatistik
+    institutionellen Einheit sprechen, welche die Studierendenstatistik
     erstellt. Diese können möglicherweise E-Mail-Adressen und
     demografische Daten für bestimmte Studierendengruppen zur Verfügung
     stellen.
@@ -133,6 +133,6 @@ Elemente, die von den Benutzern als unzureichend empfunden werden.
     -   Beispielinterviewfragen:
         [Faculty](https://learningspacetoolkit.org/needs-assessment/data-gathering-tools-2/example-interview-questions-faculty/index.html)
 
--   Beispiel zur Evaluation der Nutzung der neu gestalteten Lernwelt der Hochschule der Medien Stuttgart mit Online-Befragung und Leitfadeninterviews: Strahl, A. (2016). Flexible und vielfältige Ausstattung—Ein Schlüssel zur erfolgreichen Lernumgebung. *o-bib. Das offene Bibliotheksjournal / herausgegeben vom VDB*, *Bd. 3*, 225-242 Seiten. doi: [10.5282/O-BIB/2016H4S225-242](https://doi.org/10.5282/O-BIB/2016H4S225-242)
+-   Beispiel zur Evaluation der Nutzung der neu gestalteten Lernwelt an der Hochschule der Medien Stuttgart mit Online-Befragung und Leitfadeninterviews: Strahl, A. (2016). Flexible und vielfältige Ausstattung—Ein Schlüssel zur erfolgreichen Lernumgebung. *o-bib. Das offene Bibliotheksjournal / herausgegeben vom VDB*, *Bd. 3*, 225-242 Seiten. doi: [10.5282/O-BIB/2016H4S225-242](https://doi.org/10.5282/O-BIB/2016H4S225-242)
 
--   Beispiel Interview mit einem Nutzer um Drucken für Nutzer zu verbessern: [Beschreibung auf der Design Thinking for Libraries Webseite](http://designthinkingforlibraries.com/interviewing-a-patron)
+-   Beispiel Interview mit einem Nutzer, um Drucken für Nutzer zu verbessern: [Beschreibung auf der Design Thinking for Libraries Webseite](http://designthinkingforlibraries.com/interviewing-a-patron)
