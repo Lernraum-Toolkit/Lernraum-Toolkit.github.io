@@ -14,13 +14,13 @@ dieser Räume zu erzeugen. Oft werden diese drei Bereiche einzeln
 betrachtet und budgetiert. Diese Trennung schafft Probleme für Projekte,
 z.B. könnte Technologie-Hardware ausgewählt werden für die es
 unzureichende Mittel für Support und Aktualisierung gibt. Dieses
-Werkzeug befasst sich mit dieser Problematik in dem es einen Vergleich
+Werkzeug befasst sich mit dieser Problematik, indem es einen Vergleich
 von Kosten – auf einem hohen Level – für Raum, Technologie und Personal
 ebenso wie Vergleiche über verschiedene geplante Räume ermöglicht.
 
 Das Werkzeug ist eine Tabellenkalkulation zum Herunterladen mit je einem
-Tab für Raumkosten, Technikkosten, Personalkosten, und einer
-Zusammenfassungstabelle mit einem Übersichtsplan der die drei Bereiche
+Reiter für Raumkosten, Technikkosten, Personalkosten, und einer
+Zusammenfassungstabelle mit einem Übersichtsplan, der die drei Bereiche
 vergleicht, für jeden Raum und insgesamt. Das Tool enthält Beispieldaten
 neben den leeren Feldern zum Ausfüllen für einen bestimmten Raum. Die
 Raumkosten werden auf Quadrat-Fuß-Basis kalkuliert. Die Technikkosten
