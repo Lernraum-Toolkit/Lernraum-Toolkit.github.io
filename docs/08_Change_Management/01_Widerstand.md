@@ -95,7 +95,7 @@ bewegen, Veränderungen anzunehmen und zu begrüßen[^31]:
 -   Wir vertrauen/respektieren/mögen die Person/Gruppe, die die Änderung
     vorschlägt;
 
--   Wir können das große Ganze sehen und, wie die Veränderung dazu
+-   Wir können das große Ganze sehen und auch, wie die Veränderung dazu
     beiträgt;
 
 -   Wir erhalten Unterstützung und Zeit, um uns auf Veränderungen
