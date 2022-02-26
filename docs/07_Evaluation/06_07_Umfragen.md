@@ -13,14 +13,14 @@ Umfragen können eine Fülle von Informationen über die Präferenzen und
 das Verhalten der Nutzer bezüglich bestehender Lernräume und
 Technologien liefern, die als Entscheidungsgrundlage für die Planung
 neuer Räume dienen können. Umfragen sind auch nützlich, um Feedback zu
-sammeln, um zu beurteilen, wie gut die derzeitigen Räume funktionieren.
+sammeln, mit dem man beurteilt, wie gut die derzeitigen Räume funktionieren.
 Umfragen (oder Fragebögen) werden zur Erfassung quantitativer Daten
 verwendet. Das Hinzufügen von offenen Fragen ermöglicht auch die
-Erfassung qualitativer Informationen. Sie ermöglichen die Erfassung von
-Daten eines Teils der Gruppe um ein oder mehrere Merkmale einer ganzen
+Erfassung qualitativer Informationen. Sie erlauben die Erfassung von
+Daten eines Teils der Gruppe, um ein oder mehrere Merkmale einer ganzen
 Gruppe zu beschreiben. Umfragen dienen dazu, auf effiziente Weise viele
 Daten über die Benutzer zu erhalten und können über das Internet, per
-E-Mail, Telefon oder persönlich durchgeführt werden. Umfragen helfen
+E-Mail, Telefon oder persönlich durchgeführt werden. Sie helfen
 Untersuchern, Informationen zu sammeln, um Wissen, Einstellungen und
 Verhalten zu beschreiben, zu vergleichen oder zu erklären. Die für die
 Umfrage ausgewählte Population hat mindestens ein gemeinsames Merkmal
@@ -29,29 +29,29 @@ Gebäude X).
 
 **Stärken**
 
--   Eine Möglichkeit, Informationen von großen Populationen zu erfassen
+-   Eine Möglichkeit, Informationen von großen Populationen zu erfassen.
 
 -   Erlaubt es, eine große Menge an Feedback/Daten in kurzer Zeit zu
-    erfassen
+    erfassen.
 
--   Eine Umfrage kann ganz oder teilweise wiederverwendet werden
+-   Eine Umfrage kann ganz oder teilweise wiederverwendet werden.
 
 **Schwächen**
 
 -   Es kann eine Herausforderung sein, gute Fragen für eine Umfrage zu
-    formulieren
+    formulieren.
 
 -   Das Entwickeln und Schreiben von Fragen erfordert Übung und sollte
     vor dem Fertigstellen einer Umfrage und ihrer Verteilung an die
-    Stichprobenpopulation getestet werden
+    Stichprobenpopulation getestet werden.
 
 -   Es kann schwierig sein, eine repräsentative Stichprobe der
-    benötigten Nutzerkategorien zu erhalten
+    benötigten Nutzerkategorien zu erhalten.
 
--   Lange Umfragen werden zu einer geringeren Beteiligung führen
+-   Lange Umfragen werden zu einer geringeren Beteiligung führen.
 
 -   Häufige Umfragen werden von der Nutzergemeinschaft möglicherweise
-    als Belästigung empfunden
+    als Belästigung empfunden.
 
 **Zu berücksichtigende Punkte**
 
@@ -59,7 +59,7 @@ Gebäude X).
     Verwendung der Umfrageergebnisse und der Untersuchungsfragen, die
     die Umfrage motivieren. Die interessierenden Gruppen sollten gut
     definiert sein. Man sollte über Qualität versus Quantität
-    nachdenken. Man sollte eher Zeit in die sorgfältige Auswahl der
+    nachdenken und eher Zeit in die sorgfältige Auswahl der
     Teilnehmer investieren, anstatt zu versuchen, alle möglichen
     Personen zu befragen.
 
@@ -73,8 +73,8 @@ Gebäude X).
     werden, anschauen.
 
 -   Der Entwicklungsprozess der Umfrage beginnt mit allgemeinen
-    Untersuchungsfragen, bevor die Fragen, aus denen sich das Instrument
-    zusammensetzt, formuliert werden. Die Art und Weise, wie die Fragen
+    Untersuchungsfragen, bevor die Fragen formuliert werden, aus denen sich das Instrument
+    zusammensetzt. Die Art und Weise, wie die Fragen
     formuliert werden, könnte die Art der erhaltenen Antworten
     beeinflussen. Fragen sollten mit einfachen Worten und ohne
     Fachjargon formuliert werden. Wenn es notwendig ist, Fachbegriffe zu
@@ -100,7 +100,7 @@ Gebäude X).
     den Umfrage-Daten aufzubauen, die einer weiteren Untersuchung
     bedürfen.
 
--   Pilotieren der Umfrage mit Vertretern der Population(en), die man
+-   Testlauf der Umfrage mit Vertretern der Population(en), die man
     ansprechen möchte.
 
 -   Online-Tools wie Survey Monkey und Google Forms sind für die
@@ -118,7 +118,7 @@ Gebäude X).
     – Beispielumfragen, die unter einer Creative-Commons-Lizenz
     veröffentlicht wurden
 
--   Beispiel zur Evaluation der Nutzung der neu gestalteten Lernwelt der
+-   Beispiel zur Evaluation der Nutzung der neu gestalteten Lernwelt an der
     Hochschule der Medien Stuttgart mit Online-Befragung und
     Leitfadeninterviews: Strahl, A. (2016). Flexible und vielfältige Ausstattung — Ein Schlüssel zur erfolgreichen Lernumgebung. *o-bib. Das offene Bibliotheksjournal, 3*, 225-242. doi: [10.5282/O-BIB/2016H4S225-242](https://doi.org/10.5282/O-BIB/2016H4S225-242)
 
