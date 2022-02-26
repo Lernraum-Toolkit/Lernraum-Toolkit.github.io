@@ -19,7 +19,7 @@ beitragen.
 **Ein gemeinsames Verständnis der Prioritäten für die
 Entscheidungsfindung aufbauen**
 
--   **Die "Werkzeuge",** die die Grundlage für die Entscheidungsfindung
+-   **Die "Werkzeuge",** welche die Grundlage für die Entscheidungsfindung
     bilden (Missions- und Visionserklärungen, strategischer Plan usw.),
     **erstellen und/oder auf sie zurückgreifen**.
 
@@ -53,12 +53,12 @@ Entscheidungsfindung aufbauen**
         Publikumsverkehr erzeugen wird.
 
     -   **Personaleinsatz** und **Geräteverteilung/gemeinsame
-        Benutzung**
+        Benutzung**.
 
-    -   **Zugangsebenen des Raums** und **Sicherheit**
+    -   **Zugangsebenen des Raums** und **Sicherheit**.
 
     -   **Angemessenes Gleichgewicht zwischen Vielfalt und
-        Wahlmöglichkeiten** aus Sicht der Nutzer
+        Wahlmöglichkeiten** aus Sicht der Nutzer.
 
 **Nachhaltigkeit beachten**
 
@@ -68,8 +68,8 @@ Entscheidungsfindung aufbauen**
     für heute entwerfen.**
 
 -   Budgets so entwickeln, dass sie einmalige und laufende Kosten über
-    Bereiche hinweg verbinden
+    Bereiche hinweg verbinden.
 
 -   Festlegen, wie die geplanten Räume betrieben werden und
     sicherstellen, dass Designattribute den Betrieb nicht
-    beeinträchtigen (z.B. unnötige Personalbesetzung schaffen)
+    beeinträchtigen (z.B. unnötige Personalbesetzung schaffen).
