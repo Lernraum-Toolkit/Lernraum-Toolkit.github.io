@@ -35,7 +35,7 @@ Einer der Gründe hängt mit der inhärenten Schwierigkeit eines solchen
 Unterfangens zusammen. Eine Studie für Jisc von 2009, in der untersucht
 wurde, wie Lernräume evaluiert wurden, hat folgendes ergeben:
 
-> “Die Bewertung des Lernens ist nicht zuletzt deshalb schwierig, weil es viele Vorstellungen davon gibt, was Lernen ausmacht und wie der Prozess abläuft. Es herrscht weitgehend Einigkeit darüber, dass die derzeitigen Bewertungsmethoden das Lernen nicht vollständig erfassen,  aber es gibt wenig Konsens darüber, wie sie zu diesem Zweck ergänzt oder ersetzt werden könnten. Daher verdanken Lernraum-Evaluationen oft mehr der Raum-Evaluation im Allgemeinen, wobei Prozesse des Lernens und Lehrens oft nur in einem bescheidenen Maße, wenn überhaupt, evaluiert werden.” (übersetzt nach [Pearshouse et al., 2009](../11_Referenzen.md))
+> “Die Bewertung des Lernens ist nicht zuletzt deshalb schwierig, weil es viele Vorstellungen davon gibt, was Lernen ausmacht und wie der Prozess abläuft. Es herrscht weitgehend Einigkeit darüber, dass die derzeitigen Bewertungsmethoden das Lernen nicht vollständig erfassen,  aber es gibt wenig Konsens darüber, wie sie zu diesem Zweck ergänzt oder ersetzt werden könnten. Daher verdanken Lernraum-Evaluationen oft mehr der Raum-Evaluation im Allgemeinen, wobei Lern- und Lehrprozesse oft nur in einem bescheidenen Maße, wenn überhaupt, evaluiert werden.” (übersetzt nach [Pearshouse et al., 2009](../11_Referenzen.md))
 
 Wenn wir akzeptieren, dass Lernraumprojekte Veränderungsprojekte sind,
 dann müssen wir sorgfältig überlegen, wie wir den Erfolg eines solchen
