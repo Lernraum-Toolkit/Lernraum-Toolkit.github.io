@@ -8,7 +8,7 @@ nav_order: 3
 ## 9.3 Integrationsplan (Blueprint)
 
 Eine erfolgreiche Lernumgebung ist mehr als die Summe ihrer Teile. Sie
-ist ein integriertes Ganzes in der jeder Aspekt die anderen verstärkt
+ist ein integriertes Ganzes, in der jeder Aspekt die anderen verstärkt
 und mit ihnen koordiniert ist. Der Integrationsplan ist ein einfaches
 Planungs- und Betriebswerkzeug, das dazu ermutigt darüber nachzudenken,
 wie die geplante Nutzung des Raums durch spezifische Aspekte des Raumes,
@@ -17,7 +17,7 @@ Indem man alle Informationen „auf derselben Seite“ zusammenstellt, kann
 man über diese Bereiche hinweg vergleichen, Fragen identifizieren und
 mögliche Konfliktpunkte erkennen.
 
-Es gibt zwei verschiedene Wege den Integrationsplan zu nutzen: (1)
+Es gibt zwei verschiedene Wege, den Integrationsplan zu nutzen: (1)
 später im Prozess, um die Ergebnisse von anderen Tools zusammenzutragen
 und zu synthetisieren oder (2) früher im Prozess, um vorläufige Ideen
 festzuhalten und Fragen oder "Löcher" zu identifizieren, die mit anderen
