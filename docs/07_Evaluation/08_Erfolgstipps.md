@@ -19,7 +19,7 @@ Nutzer aufgeführt.*
     Hochschulforschung, Informationstechnologie und Lehr- und
     Lernexperten.
 
--   Sammeln von Informationen über derzeit genutzten Räume in der Nähe
+-   Sammeln von Informationen über derzeit genutzte Räume in der Nähe
     des geplanten / vorgestellten Raumes. Beobachtungsdaten und Fotos
     von Nutzern in anderen relevanten Räumen können für den
     Informationsaustausch mit den Stakeholdern nützlich sein.
@@ -41,9 +41,9 @@ Nutzer aufgeführt.*
 
 **Den Prozess weiterführen**
 
--   Anhand der Ziele für den Raum einen Plan zur Evaluation des Raums
+-   Anhand der Ziele für den Raum einen Plan zur Raumevaluation
     entwickeln, um zu untersuchen, wie gut der Raum, Technologien,
-    Serviceleistungen usw. den Bedürfnissen der Nutzer entsprechen.
+    Serviceleistungen usw. den Nutzerbedürfnissen entsprechen.
     Strategien erkunden, um herauszufinden, wie gut der Raum das Lernen
     und Lehren und nicht nur die Zufriedenheit der Nutzer unterstützt.
 
