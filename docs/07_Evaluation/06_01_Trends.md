@@ -9,7 +9,7 @@ nav_order: 1
 
 ### 7.6.1 Trends und Berichte
 
-Es ist sinnvoll im Rahmen der Bedarfsanalyse mehr über Entwicklungen im
+Es ist sinnvoll, im Rahmen der Bedarfsanalyse mehr über Entwicklungen im
 Lehr- und Lernbereich zu erfahren, sowohl auf Ebene der eigenen
 Institution als auch im Hochschulbereich allgemein. Diese Trends geben
 Einblick in aktuelle Dynamiken, wie z.B. die Nutzung von Technologie
