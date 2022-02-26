@@ -21,7 +21,7 @@ permalink: /docs/
 
 ## Allgemein
 
--   Toolkit zu Design Thinking als Methode zur Weiterentwicklung/Ideenfindung mit Fokus auf Bibliotheken (**[Link zur Webseite von Design Thinking for Libraries](http://designthinkingforlibraries.com/)**, Englisch, Teile auch auf Deutsch). Einige Techniken zu Inspiration und Ideenfindung, z.B. in diesem Video (**[Link zu youtube Video](https://www.youtube.com/watch?v=wS4MpEAxYMk)**) oder Inspirationstours (**[Link zu Beschreibung](http://designthinkingforlibraries.com/inspiration-tours)** auf der Design Thinking for Libraries Webseite)
+-   Toolkit zu Design Thinking als Methode zur Weiterentwicklung/Ideenfindung mit Fokus auf Bibliotheken (**[Link zur Webseite von Design Thinking for Libraries](http://designthinkingforlibraries.com/)**, Englisch, Teile auch auf Deutsch). Einige Techniken zu Inspiration und Ideenfindung, z.B. in diesem Video (**[Link zu Youtube Video](https://www.youtube.com/watch?v=wS4MpEAxYMk)**) oder Inspirationstours (**[Link zu Beschreibung](http://designthinkingforlibraries.com/inspiration-tours)** auf der Design Thinking for Libraries Webseite)
 
 -   Die **[AG Lernräume der Deutsche Initiative für Netzwerkinformation (DINI)](https://dini.de/ag/lernraeume/)** beschäftigt sich mit realen und virtuellen Lernräumen im Hochschulbereich, entwickelt Empfehlungen und bietet Austausch- und Informationsveranstaltungen an.
 
@@ -36,7 +36,7 @@ permalink: /docs/
 
 -   ACRL (Association of College & Research Libraries) Wiki, Abschnitt Academic Library Building Design enthält mit **[Resources for Planning](https://acrl.libguides.com/c.php?g=459032&amp;p=3138023&amp;preview=883d26b2b199b4901ce74829e56d2e18)** eine umfassende Sammlung von Informationen, Ressourcen und
     Literaturhinweisen zur Planung und Design von Bibliotheksgebäuden
-    (Fokus USA)
+    (Fokus USA).
 
 ## Theoretischer Hintergrund zur Raumnutzung Studierender und Lernraumgestaltung und -management
 
@@ -46,7 +46,7 @@ permalink: /docs/
     Eigenbrodt, O. (2021). *Lernwelt Wissenschaftliche Bibliothek: Pädagogische und raumtheoretische Facetten.* Berlin: De Gruyter. doi: **[10.1515/9783110402025](https://doi.org/10.1515/9783110402025)**
 
 
--   sehr gute, konkrete Übertragung von architekturpsychologischen
+-   Sehr gute, konkrete Übertragung von architekturpsychologischen
     Erkenntnissen auf Bibliotheksgestaltung für eine mögliche
     Verhaltenssteuerung der Nutzer: Depping, R. (2013). Können
     Bibliotheksbau und -ausstattung verhaltenssteuernd wirken? *b.i.t.
