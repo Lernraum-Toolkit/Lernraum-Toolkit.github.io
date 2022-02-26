@@ -15,8 +15,8 @@ dass "die Matrix niemals so groß sein sollte, dass man einzigartige
 Räume hat".
 
 In Strathclyde hat die Universität Schritte unternommen, um die
-fakultätseigenenen Räume in die zentrale Struktur zu integrieren, um bei
-dieser Art von Portfoliomanagement zu helfen. Einer der Hauptgründe
+fakultätseigenenen Räume in die zentrale Struktur zu integrieren, was bei
+dieser Art von Portfoliomanagement hilft. Einer der Hauptgründe
 dafür war ein Brand im Jahr 2012, bei dem 50 Lehrräume 18 Monate lang
 nicht genutzt werden konnten. Der Brand machte Bruce klar, dass die
 Notfallpläne der Universitäten dazu neigen, nicht ernsthaft über
@@ -42,8 +42,8 @@ empfehlen, aber es hat sicherlich für uns funktioniert".
 Lernräume in einer Reihe von Empfangsbereichen an sich schon eine Übung
 in Veränderungsmanagement war. Glücklicherweise verfügte sie über
 stichhaltige Evaluationsergebnisse (siehe Abschnitt 7, [Evaluation](../07_Evaluation/00_Evaluation.md) ), um den Bedarf der Studierenden zu
-zeigen. Sie erlebte jedoch das bekannte Projektmanagement-Rätsel, dass
-ein Nutzen für eine Art von Interessengruppe ein Nachteil für eine
+zeigen. Sie erlebte jedoch das bekannte Projektmanagement-Dilemma, dass
+ein Nutzen für eine Interessengruppe ein Nachteil für eine
 andere sein kann. In diesem Fall verringerte die Tatsache, dass die
 Empfangsbereiche eingerichtet und effektiv der Kontrolle der
 Studierenden überlassen worden waren, die Flexibilität für die
@@ -52,8 +52,7 @@ zu bestimmten Zeiten des Jahres komplett zu buchen und für bestimmte
 Aktivitäten zu nutzen. Entscheidend für den Erfolg des Projekts war die
 enge Zusammenarbeit mit den Dienststellen und die Darlegung des
 Gesamtwerts in Bezug auf den Nutzen für die Studierenden sowie die
-Überlegung, den Raum als multifunktional zu betrachten, z.B. die
-Überlegung, wie das Mobiliar umkonfiguriert werden könnte, um
+Überlegung, den Raum als multifunktional zu betrachten, z.B. indem man darüber nachdenkt, wie das Mobiliar umkonfiguriert werden könnte, um
 regelmäßigen, aber weniger häufigen Bedürfnissen gerecht zu werden.
 
 **Paul Burt, Learning Spaces Service Owner, University College London (UCL)**, berichtete, dass die UCL eine Initiative namens "Meet and
