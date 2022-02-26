@@ -9,7 +9,7 @@ nav_order: 5
 ## 7.5 Good Practice bei der Planung und Umsetzung von Bedarfs- und Post-Occupancy-Erfassung
 
 Im Folgenden werden bewährte Verfahren, Methoden und Techniken
-zusammengefasst, die die Beurteilung in Bezug auf Lernräume
+zusammengefasst, welche die Beurteilung in Bezug auf Lernräume
 unterstützen. Sie befassen sich sowohl mit der Bedarfsanalyse, die
 Institutionen hilft, die angestrebten Ziele und Aktivitäten für einen
 Lernraum zu verstehen, als auch mit der Post-Occupancy-Evaluation, die
@@ -20,8 +20,8 @@ Räume und der Erfüllung der ursprünglichen Projektziele zu beantworten.
 
 -   Die Ziele des Projekts sollten eine Grundlage für die Erarbeitung
     des Beurteilungsprozesses bilden. In der Phase der Bedarfsanalyse
-    kann die Entwicklung von Zielen einen wiederholten Prozess der
-    Sammlung von Informationen von den vorgesehenen Benutzergruppen und
+    kann die Entwicklung von Zielen einen wiederholten Sammlungsprozess von 
+    Informationen von den vorgesehenen Benutzergruppen und
     der Formulierung und Verfeinerung von Zielen beinhalten.
     Abschließend muss bei der POE eine Bewertung in Bezug auf diese
     Ziele vorgenommen werden.
@@ -35,14 +35,14 @@ Räume und der Erfüllung der ursprünglichen Projektziele zu beantworten.
     diesem Toolkit durchsehen, um zu schauen, ob es Modelle gibt, die man
     übernehmen oder anpassen möchte.
 
--   Bei der Evaluation sollte man sich mit Partnern zusammenschließen um
+-   Bei der Evaluation sollte man sich mit Partnern zusammenschließen, um
     von Fachleuten auf dem Campus zu profitieren; die meisten Einrichtungen
     haben beispielsweise eine Abteilung für Hochschuldaten und Kennzahlen,
-    die über Mitarbeiter verfügt, die mit Methoden und Protokollen vertraut
+    welche über Mitarbeitende verfügt, die mit Methoden und Protokollen vertraut
     sind. Vielleicht kann man auch bei einigen ihrer Bemühungen, wie z.B.
     Studierendenumfragen, mit einsteigen.
 
--   Mit Lehr- und Lernexperten und Unterrichtsdesignern diskutieren, wie
+-   Man kann mit Experten und Expertinnen im Bereich Lehre, Lernen und Unterrichtsdesign diskutieren, wie
     die Lernergebnisse mit den Zielen für den Raum und den geplanten
     Aktivitäten, die dort stattfinden sollen, verknüpft werden können.
     Die meisten raumbezogenen Evaluationen konzentrieren sich auf die
@@ -57,8 +57,7 @@ Räume und der Erfüllung der ursprünglichen Projektziele zu beantworten.
     bestehende Lücken in der Art der Einrichtung oder Dienstleistungen
     zu erkennen.
 
--   Sowohl qualitative als auch quantitative Techniken in Betracht
-    ziehen; die Triangulation trägt dazu bei, ein umfassenderes
+-   Sowohl qualitative als auch quantitative Techniken nutzen; die Triangulation trägt dazu bei, ein umfassenderes
     Verständnis zu bekommen, was die Daten bedeuten.
 
 -   Bestimmen, welche Nutzergruppen angesprochen werden sollen, z.B.
@@ -79,7 +78,7 @@ Räume und der Erfüllung der ursprünglichen Projektziele zu beantworten.
     und einem Lernergebnis zu suchen, löst man sich besser von dem
     Gedanken, dass der Raum ein Ergebnis eindeutig festlegen kann.
     Vielmehr ist es besser zu ermitteln, ob man die Chance auf ein
-    bestimmtes Ergebnis erhöht hat, ob man die gewünschten Aktivitäten
+    bestimmtes Ergebnis gesteigert, die gewünschten Aktivitäten
     ermöglicht und die Wahrscheinlichkeit ihres Auftretens erhöht hat.
 
 -   Den Bedarf und die Leistung erfassen, (im Idealfall) vor und nach
