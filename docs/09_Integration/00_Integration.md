@@ -12,7 +12,7 @@ permalink: /docs/09_Integration
 Mit dem Learning Space Toolkit lässt sich der Bedarf an Raum-,
 Technologie- und Serviceangeboten ermitteln und dann planen, wie dieser
 Bedarf am besten gedeckt werden kann. Der Abschnitt Integration enthält
-Werkzeuge und Ressourcen, um dies ganzheitlich zu tun indem er dabei
+Werkzeuge und Ressourcen, um dies ganzheitlich zu tun, indem er dabei
 hilft, vier Verbindungen herzustellen:
 1. Zusammenhänge zwischen dem
 identifizierten Bedarf und den vorgeschlagenen Lösungen
@@ -23,14 +23,14 @@ und den Dienstleistungen
 Implementierung eines Lernraums beteiligt sind.
 
 Dieser Abschnitt hilft dabei diese Zusammenhänge herzustellen, indem er
-Leitprinzipien und Ressourcen zur Verfügung stellt, die die Integration
+Leitprinzipien und Ressourcen zur Verfügung stellt, welche die Integration
 verschiedener Aspekte der Planung und Erhaltung eines Lernraums
 erleichtert. Er enthält eine Vielzahl von Werkzeugen, die man nutzen
 kann, um verschiedene Aspekte eines oder mehrerer Lernräume zusammen zu
 bringen, z.B. einen erweiterten Workshop und Aktivitäten, ein
 integriertes Budgetierungswerkzeug für Räume, Technologie und
-Service/Personal und einen Integrationsplan (Blueprint) um Räume,
+Service/Personal und einen Integrationsplan (Blueprint), um Räume,
 Technologie und Service/Personal aufeinander abzustimmen – entweder zum
-Einsatz am Anfang oder später im Prozess um Informationen von
+Einsatz am Anfang oder später im Prozess, um Informationen von
 verschiedenen Werkzeugen zusammen zu bringen, um diese abzugleichen,
 Lücken zu identifizieren und ganzheitlich zu planen.
