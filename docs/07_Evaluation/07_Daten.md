@@ -16,8 +16,7 @@ Ergebnisse für die Weitergabe an andere zu verpacken, hängt vom
 Zeitrahmen, den Ressourcen und der Zielgruppe ab. Die folgenden
 Werkzeuge können dabei helfen, die Daten so zu verpacken, dass sie bei
 der Raum-, Service- und Technologieplanung hilfreich sind. Bevor diese
-Tools zur Anwendung kommen, sollte man schon ein paar Analysen der Daten
-durchgeführt haben.
+Tools zur Anwendung kommen, sollte man schon ein paar Datenanalysen durchgeführt haben.
 
 **Use Case Tool** – zur Kommunikation der wichtigsten
 Benutzerbedürfnisse für Räume, Dienstleistungen und Technologien
@@ -55,14 +54,14 @@ die Designprojekte durchführen, darunter:
 
 -   Annahmen und Wissen über Benutzer explizit machen und dadurch dem
     Team eine gemeinsame Sprache geben, mit der es sinnvoll über
-    Benutzer sprechen kann
+    Benutzer sprechen kann.
 
 -   Dem Projektteam die Möglichkeit geben, sich auf eine kleine Gruppe
     von spezifischen Benutzern, die anders sind als die Teammitglieder
-    selbst, zu konzentrieren und für diese zu entwerfen
+    selbst, zu konzentrieren und für diese zu entwerfen.
 
 -   Empathie gegenüber den Nutzern in einer Weise aufbauen, die Berichte
-    über qualitative und quantitative Daten nicht leisten können
+    über qualitative und quantitative Daten nicht leisten können.
 
 **Tools**
 
@@ -79,7 +78,7 @@ die Designprojekte durchführen, darunter:
     Entwicklung von Personas verwendet werden.
 
 -   [Beispiel Undergraduate Personas (pdf, learningspacetoolkit.org)](https://learningspacetoolkit.org/wp-content/uploads/NCSU-Libraries-personas-IMLS-.pdf)
-    – NCSU-Libraries veranschaulichen, wie endgültige Personas aussehen
+    – NCSU Libraries veranschaulichen, wie endgültige Personas aussehen
     könnten.
 
 **Ressourcen**
