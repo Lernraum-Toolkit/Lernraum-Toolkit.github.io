@@ -23,23 +23,23 @@ Projektentwurf zu integrieren.
 
 -   Nützlich bei der Identifizierung der Designelemente eines Raums, die
     am nützlichsten sind, sowie der Elemente, die von den Benutzern als
-    unzureichend empfunden werden
+    unzureichend empfunden werden.
 
 -   Gelegenheit, durch einen Gruppendialog offenes Feedback von den
-    Teilnehmern zu erhalten
+    Teilnehmern zu erhalten.
 
 -   Ermöglicht Nachfragen des Untersuchers aufgrund der persönlichen
-    Interaktion mit den Teilnehmern
+    Interaktion mit den Teilnehmern.
 
 **Schwächen**
 
--   Nicht so effektiv bei der Messung von Leistungsaspekten
+-   Nicht so effektiv bei der Messung von Leistungsaspekten.
 
 -   Die Teilnehmer können sich gegenseitig beeinflussen und dem
-    "Gruppendenken" unterliegen
+    "Gruppendenken" unterliegen.
 
 -   Kann zeitaufwendig sein (4-6 Wochen für die Planung, Durchführung
-    und Analyse der Daten)
+    und Analyse der Daten).
 
 **Zu berücksichtigende Punkte**
 
@@ -78,8 +78,8 @@ Projektentwurf zu integrieren.
 
 -   Die Fragen sollten von allgemein zu spezifisch strukturiert werden,
     beginnend mit einer kurzen Eisbrecherfrage, um die Gruppe
-    aufzulockern.- Die Fragen sollten ergebnisoffen sein, um eine
-    Diskussion zu ermöglichen. "Ja"- und "Nein"-Fragen vermeiden.
+    aufzulockern. Sie sollten ergebnisoffen sein, um eine
+    Diskussion zu ermöglichen, und man sollte "Ja"- und "Nein"-Fragen vermeiden.
     Fragen, die mit "Was" oder "Wie" beginnen, werden häufig die
     Beteiligung der Gruppe am meisten fördern.
 
