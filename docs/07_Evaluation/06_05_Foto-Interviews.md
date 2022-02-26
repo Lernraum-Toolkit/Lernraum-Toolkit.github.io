@@ -10,7 +10,7 @@ nav_order: 5
 ### 7.6.5 Foto-Interviews / Fototagebuch
 
 Das Foto-Interview oder Fototagebuch ist eine qualitative
-Forschungsmethode, bei der der Untersucher dem Befragten eine Kamera und
+Forschungsmethode, bei welcher der Untersucher dem Befragten eine Kamera und
 eine Liste von Aufforderungen zum Fotografieren gibt. Nach dem
 Fotografieren über einen bestimmten Zeitraum (über kurze Zeit bis zu
 mehreren Tagen) führt der Untersucher ein Interview mit dem Teilnehmer
@@ -28,28 +28,28 @@ zu erfahren, wie Studierende vorhandene Lernräume nutzen und wahrnehmen.
 
 -   Fotos in Verbindung mit Beschreibungen und Detailangaben des
     Befragten bieten einen reichhaltigen Einblick in Verhaltensweisen,
-    Perspektiven und Meinungen
+    Perspektiven und Meinungen.
 
 -   Die Fotos und die Diskussion in einer synchronisierten Videodatei
     aufzuzeichnen, bietet den Beteiligten eine gute Möglichkeit, das
     Verhalten, die Vorlieben und die Anforderungen der Benutzer sowohl
-    zu hören als auch zu sehen
+    zu hören als auch zu sehen.
 
 **Schwächen**
 
 -   Der Untersucher benötigt Zugang zu Kameras und ein Verfahren zur
-    Ausleihe / Zuweisung an die Befragten
+    Ausleihe / Zuweisung an die Befragten.
 
 -   Wenn es einen Abstand zwischen der Übergabe einer Kamera an den
     Teilnehmer und dem Interview gibt, kann das größere logistische
     Herausforderungen bei der Planung der Treffpunktzeiten und des
-    Interviews mit sich bringen
+    Interviews mit sich bringen.
 
 -   Die Methode ist zeitintensiv, da es sich um eine
-    Eins-zu-Eins-Methode handelt
+    Eins-zu-Eins-Methode handelt.
 
 -   Der Interviewer muss in der Lage sein, eine Beziehung zum Befragten
-    aufzubauen
+    aufzubauen.
 
 \* *Diese Methode wurde durch die Arbeit von Nancy Fried Foster und dem
 Forschungsteam der Bibliothek der Universität Rochester in der
@@ -93,20 +93,20 @@ Rochester](http://hdl.handle.net/1802/7520).*
     der Regel einen Anreiz zur Teilnahme.
 
 -   Das Interview sollte an einem Ort stattfinden, der für die befragte
-    Person praktisch, ruhig und bequem ist. Vielleicht kann das
+    Person praktisch, ruhig und bequem ist. Vielleicht kann man das
     Interview im Büro eines Teilnehmers oder in einer ruhigen Umgebung
-    in der Nähe seines Arbeitsplatzes oder wo er sich auf dem Campus
-    aufhält, stattfinden.
+    in der Nähe seines Arbeitsplatzes oder Aufenthaltsort auf dem Campus
+    durchführen.
 
 -   Während des Interviews dienen die Fotos als Gesprächsgerüst. Die
-    Fotos werden verwendet um nützliche Informationen zu erhalten, die
-    in der ursprünglichen Aufforderung nicht direkt enthalten waren. Dem
-    Befragten ausreichend Zeit geben, um zu antworten. Man sollte sich
+    Fotos werden verwendet, um nützliche Informationen zu erhalten, die
+    in der ursprünglichen Aufforderung nicht direkt enthalten waren. Der
+    Befragte sollte ausreichend Zeit haben, um zu antworten. Man sollte sich
     angewöhnen zu pausieren und den Befragten nachdenken und reden zu
     lassen.
 
 -   Man kann Screencast-Programme (Bildschirmaufzeichnungsprogramm)
-    nutzen um die Bilder synchron mit dem Interviewverlauf aufzeichnen.
+    nutzen, um die Bilder synchron mit dem Interviewverlauf aufzeichnen.
 
 -   Sich so bald wie möglich nach Abschluss des Interviews Zeit nehmen,
     um wichtige Ideen und Erkenntnisse zu dokumentieren, die auffielen.
@@ -123,7 +123,7 @@ Rochester](http://hdl.handle.net/1802/7520).*
 
 -   [Beispiel Fotointerview Aufforderungen](https://learningspacetoolkit.org/needs-assessment/data-gathering-tools-2/photo-interviews-examples/index.html)
     – Beispielhafte Aufforderungen, die in den Bibliotheken der NCSU als Teil eines Foto-Interview-Projekts (Fototagebuch) verwendet wurden,
-    das darauf ausgerichtet war, Meinungen und Perspektiven zu bestehenden Räumen und Dienstleistungen kennen zu lernen.
+    das darauf ausgerichtet war, Meinungen und Perspektiven zu bestehenden Räumen und Dienstleistungen kennenzulernen.
 
 -   Bedi, S., & Webb, J. (2017). Through the Students’ Lens: Photographic Methods for Research in Library Spaces. *Evidence Based Library and Information Practice*, 12-2. [Link zu Artikel](https://journals.library.ualberta.ca/eblip/index.php/EBLIP/article/view/28837/21341)
 
