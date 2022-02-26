@@ -34,7 +34,7 @@ bekommen können".
 Dieser Mangel an Transparenz über dezentrale Räume hat direkte
 Auswirkungen auf die Unterstützung und die Erlebnisse der Studierenden.
 Wenn zentrale Servicemanager keine Informationen über die Räume erhalten
-können, kann man sich vorstellen, wie viel schwieriger es für
+können, kann man sich vorstellen, wie viel schwerer es für
 Studierende ist. Wir haben gehört, dass es für Studierende schwierig
 ist, Orte zu identifizieren, an denen sie lernen können, schwierig
 herauszufinden, ob in dem Raum IT-Ressourcen zur Verfügung stehen, und
@@ -65,4 +65,4 @@ sicherzustellen, dass die Studierenden auf jedem Gerät, das sie zu
 Hause, auf dem Campus oder anderswo benutzen, Zugang zu den gleichen
 Software-Einrichtungen haben.
 
-*Abschnitt zu Stundenplanung/Raumvergabe* aus deutscher Übertragung rausgelassen (bei Interesse, siehe [UK Toolkit](https://www.ucisa.ac.uk/learningspace), Kapitel 7.5)
+*Abschnitt zu Stundenplanung/Raumvergabe* in deutscher Übertragung nicht enthalten (bei Interesse, siehe [UK Toolkit](https://www.ucisa.ac.uk/learningspace), Kapitel 7.5)
