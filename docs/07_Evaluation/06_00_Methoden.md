@@ -38,11 +38,11 @@ University entschied sich für einen ethnografischen Ansatz zur Bewertung
 ihres SOLSTICE-Raums[^29]; der Ansatz umfasste die Beobachtung von
 Lehrveranstaltungen, die Befragung von Studierenden in Fokusgruppen
 (gefolgt von weiteren schriftlichen Fragen) und Reflexionen der
-Dozenten. Andere Universitäten haben in regelmäßigen Abständen
+Lehrenden. Andere Universitäten haben in regelmäßigen Abständen
 Fotoaufnahmen verwendet, um die Konfiguration der Möbel und die Nutzung
 des Raumes festzuhalten.
 
-Andere Methoden, um die Nutzer an der Bewertung zu beteiligen, sind
+Andere Methoden, um die Nutzenden an der Bewertung zu beteiligen, sind
 unter anderem:
 
 -   Videotagebücher;
@@ -59,7 +59,7 @@ Forschungsethikkommission bedürfen.
 Der Bedarfsanalyse-Abschnitt des US Learning Space Toolkits beschreibt
 eine Reihe von konkreten Datenerfassungsmethoden und -tools, um mehr
 über die Bedürfnisse und Motivationen der Nutzer zu erfahren. Was müssen
-die Benutzer tun? Wo werden sie Aufgaben erledigen? Wie machen sie ihre
+die Benutzenden tun? Wo werden sie Aufgaben erledigen? Wie machen sie ihre
 Arbeit allein und mit anderen? Was sind ihre Motivationen und
 Bestrebungen? Das Beantworten solcher Fragen durch Nutzerforschung ist
 für die Gestaltung effektiver Räume von entscheidender Bedeutung und
