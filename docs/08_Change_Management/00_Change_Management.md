@@ -11,20 +11,20 @@ permalink: /docs/08_Change_Management
 
 **In Kürze**
 
--   wir betrachten Ansätze für das Change Management und stellen die
+-   Wir betrachten Ansätze für das Change Management und stellen die
     heraus, die in einem Lernraumprojekt effektiv sein könnten
 
--   wir überlegen, welche Art von Veränderungen notwendig sein könnten,
+-   Wir überlegen, welche Arten von Veränderungen notwendig sein könnten,
     um neue Lernräume längerfristig effektiv zu verwalten;
 
--   wir betrachten die erforderliche Unterstützung sowohl für das
+-   Wir betrachten die erforderliche Unterstützung sowohl für das
     Personal als auch für die Studierenden, um den neuen Raum effektiv
     zu nutzen.
 
 **Erwartungen an die Lektüre dieses Abschnitts**
 
 Eine der wichtigsten Botschaften der Mitwirkenden dieses Toolkit über
-Projektmanagement und das Einbeziehen von Stakeholdern, war, dass
+Projektmanagement und das Einbeziehen von Stakeholdern war, dass
 Lernraumprojekte Veränderungsprojekte sind. In diesem Abschnitt
 versuchen wir, die Arten von Veränderungen zu identifizieren, die eine
 zutiefst persönliche und emotionale Reaktion der Stakeholder hervorrufen
@@ -33,14 +33,14 @@ werden.
 
 Insbesondere schlagen wir vor, dass:
 
--   Man die Zeit und die Ressourcen, die für die Durchführung von
+-   man die Zeit und die Ressourcen, die für die Durchführung von
     Veränderungsmanagement-Aktivitäten benötigt werden, nicht
     unterschätzen sollte;
 
--   Man nicht erwarten darf, dass ein Projektleiter mit einem
+-   man nicht erwarten darf, dass Projektleiter mit einem
     Hintergrund im Bauwesen (unabhängig davon, ob es sich um interne
-    Mitarbeiter der Organisation oder externe handelt) ein Spezialist im
-    Bereich des Veränderungsmanagements ist: sie benötigen fachliche
+    Mitarbeiter der Organisation oder externe handelt) Spezialisten im
+    Bereich des Veränderungsmanagements sind: sie benötigen fachliche
     Unterstützung;
 
 -   wirksame Veränderung partizipatorisch ist, aber geleitet werden
