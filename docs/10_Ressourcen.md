@@ -21,7 +21,7 @@ permalink: /docs/
 
 ## Allgemein
 
--   Toolkit zu Design Thinking als Methode zur Weiterentwicklung/Ideenfindung mit Fokus auf Bibliotheken (**[Link zur Webseite von Design Thinking for Libraries](http://designthinkingforlibraries.com/)**, Englisch, Teile auch auf Deutsch). Einige Techniken zu Inspiration und Ideenfindung, z.B. in diesem Video (**[Link zu Youtube Video](https://www.youtube.com/watch?v=wS4MpEAxYMk)**) oder Inspirationstours (**[Link zu Beschreibung](http://designthinkingforlibraries.com/inspiration-tours)** auf der Design Thinking for Libraries Webseite)
+-   Toolkit zu Design Thinking als Methode zur Weiterentwicklung/Ideenfindung mit Fokus auf Bibliotheken (**[Link zur Webseite von Design Thinking for Libraries](http://designthinkingforlibraries.com/)**, Englisch, Teile auch auf Deutsch). Einige Techniken zu Inspiration und Ideenfindung, z.B. in diesem Video (**[Link zu YouTube Video](https://www.youtube.com/watch?v=wS4MpEAxYMk)**) oder Inspirationstours (**[Link zu Beschreibung](http://designthinkingforlibraries.com/inspiration-tours)** auf der Design Thinking for Libraries Webseite)
 
 -   Die **[AG Lernräume der Deutsche Initiative für Netzwerkinformation (DINI)](https://dini.de/ag/lernraeume/)** beschäftigt sich mit realen und virtuellen Lernräumen im Hochschulbereich, entwickelt Empfehlungen und bietet Austausch- und Informationsveranstaltungen an.
 

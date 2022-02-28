@@ -9,7 +9,9 @@ permalink: /docs/02_Zusammenarbeit
 
 # 2. Partnerschaftliche Zusammenarbeit
 
-![Meeting](../00_Abbildungen/02-00_Meeting.jpg) [^6]
+![Meeting](../00_Abbildungen/02-00_Meeting.jpg)
+&copy; Meeting Vektor-Grafik, [Vecteezy](https://de.vecteezy.com/gratis-vektor/meeting)
+{: .fs-2 .text-right}
 
 
 **In Kürze**
@@ -59,7 +61,3 @@ Vorschläge im Einzelnen:
     Stakeholder dabei zu unterstützen, ihre jeweiligen Standpunkte zu
     verstehen und zusammen zu arbeiten, um bessere Entscheidungen zu
     treffen.
-
----
-
-[^6]: Meeting Vektor-Grafik von [Vecteezy](https://de.vecteezy.com/gratis-vektor/meeting)

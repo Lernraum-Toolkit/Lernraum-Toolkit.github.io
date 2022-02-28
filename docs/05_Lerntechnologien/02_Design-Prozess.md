@@ -7,7 +7,7 @@ nav_order: 2
 
 ## 5.2 Technologie Design Prozess
 
-Der Technologie Design Prozess beginnt mit dem Entwickeln einer Technologie-Vision, die als Leitliinie während des gesamten Prozesses dient. Dann erstellt man daraus eine konkretere Form / ein Programm zur Umsetzung. Ganz genau festgelegt werden sollten die Anforderungen und Voraussetzungen für jeden einzelnen Raum, um festzulegen, wie jeder einzelne Raum funktionieren soll und welche Technologien in jeden Raum eingebracht werden sollen.
+Der Technologie Design Prozess beginnt mit dem Entwickeln einer Technologie-Vision, die als Leitlinie während des gesamten Prozesses dient. Dann erstellt man daraus eine konkretere Form / ein Programm zur Umsetzung. Ganz genau festgelegt werden sollten die Anforderungen und Voraussetzungen für jeden einzelnen Raum, um festzulegen, wie jeder einzelne Raum funktionieren soll und welche Technologien in jeden Raum eingebracht werden sollen.
 
 Im weiteren Design-Prozess können folgende Tools hilfreich sein:
 

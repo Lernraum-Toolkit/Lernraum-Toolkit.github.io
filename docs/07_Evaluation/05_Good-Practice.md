@@ -20,7 +20,7 @@ Räume und der Erfüllung der ursprünglichen Projektziele zu beantworten.
 
 -   Die Ziele des Projekts sollten eine Grundlage für die Erarbeitung
     des Beurteilungsprozesses bilden. In der Phase der Bedarfsanalyse
-    kann die Entwicklung von Zielen einen wiederholten Sammlungsprozess von 
+    kann die Entwicklung von Zielen einen wiederholten Sammlungsprozess von
     Informationen von den vorgesehenen Benutzergruppen und
     der Formulierung und Verfeinerung von Zielen beinhalten.
     Abschließend muss bei der POE eine Bewertung in Bezug auf diese
@@ -29,8 +29,8 @@ Räume und der Erfüllung der ursprünglichen Projektziele zu beantworten.
 -   In einer ersten Datenerfassungsphase ist zu ermitteln, was auf dem
     Campus gemacht wurde; es sollten Berichte und Daten der Hochschulleitung,
     ggf. der Stabsstelle für Hochschuldaten und Kennzahlen, der IT-Abteilung,
-    dem Studierendenwerk und anderen relevanten Stellen gesammelt werden.  
-    Man sollte dann die wichtigsten institutionellen Ziele identifizieren,
+    dem Studierendenwerk und anderen relevanten Stellen gesammelt werden. Man
+    sollte dann die wichtigsten institutionellen Ziele identifizieren,
     vor allem in Bezug auf das Lernen. Man kann Literatur und Beispiele in
     diesem Toolkit durchsehen, um zu schauen, ob es Modelle gibt, die man
     übernehmen oder anpassen möchte.

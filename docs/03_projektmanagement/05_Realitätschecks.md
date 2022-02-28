@@ -210,7 +210,7 @@ werden können:
 
 - [ ]  Raum um sich privat zu treffen – man kann darüber nachdenken, private
     Bereiche zu haben, die keine Reservierung durch ein Buchungssystem
-    benötigen. Somit kann man auf ad hoc Ereignisse reagieren zu können, wie einen
+    benötigen. Somit kann man auf ad hoc Ereignisse reagieren, wie einen
     verzweifelten Studierenden.
 
 - [ ]  Wurde genügend über zukünftige Veränderungen nachgedacht oder hat man sich

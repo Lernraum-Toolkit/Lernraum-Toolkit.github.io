@@ -95,7 +95,7 @@ Rochester](http://hdl.handle.net/1802/7520).*
 -   Das Interview sollte an einem Ort stattfinden, der für die befragte
     Person praktisch, ruhig und bequem ist. Vielleicht kann man das
     Interview im Büro eines Teilnehmers oder in einer ruhigen Umgebung
-    in der Nähe seines Arbeitsplatzes oder Aufenthaltsort auf dem Campus
+    in der Nähe seines Arbeitsplatzes oder Aufenthaltsorts auf dem Campus
     durchführen.
 
 -   Während des Interviews dienen die Fotos als Gesprächsgerüst. Die

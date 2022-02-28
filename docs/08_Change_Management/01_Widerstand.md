@@ -71,7 +71,7 @@ Veränderungen mitgeteilt haben:
     ursprünglichen Plan abzuweichen.
 
 Jisc hat einige Bedingungen identifiziert, die Menschen eher dazu
-bewegen, Veränderungen anzunehmen und zu begrüßen[^31]:
+bewegen, Veränderungen anzunehmen und zu begrüßen[^29]:
 
 -   Wir haben die Veränderung angeregt;
 
@@ -113,5 +113,5 @@ bewegen, Veränderungen anzunehmen und zu begrüßen[^31]:
 
 ---
 
-[^31]: Jisc (updated 2014) Change management, The theory, methodologies
+[^29]: Jisc (updated 2014) Change management, The theory, methodologies
     and techniques to help manage change effectively. [Link zu Guide](http://www.jisc.ac.uk/guides/change-management/resistance-to-change)

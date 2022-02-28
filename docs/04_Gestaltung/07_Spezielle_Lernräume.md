@@ -40,7 +40,7 @@ Seminarraum = 2,2-2,50 m² pro Person
 
 PC Pools = 2,75 m² pro Person
 
-*Abschnitt zu “Interaktiven Hörsälen”** aus der deutschen Übertragung rausgelassen (bei Interesse, siehe [UK Toolkit](https://www.ucisa.ac.uk/learningspace), Kapitel 4.6)
+*Abschnitt zu “Interaktiven Hörsälen”* in der deutschen Übertragung nicht enthalten (bei Interesse, siehe [UK Toolkit](https://www.ucisa.ac.uk/learningspace), Kapitel 4.6)
 
 ### 4.7.1 Unterrichtsräume für Aktives Lernen
 
@@ -163,7 +163,7 @@ Zeitpunkten, wohingegen andere frei verfügbare Einrichtungen sind, die
 nicht für Lehrzwecke nutzbar sind.
 
 Audioverstärkung und Hörassistenz-Technologie kann in Räumen, die für
-Lehrzwecke genutzt werden, notwendig sein, z.B. aufgrund des 
+Lehrzwecke genutzt werden, notwendig sein, z.B. aufgrund des
 Hintergrundrauschens durch PC-Lüfter und die zusätzliche Heizung,
 Lüftung und Klimatisierung, die in Räumen mit vielen PCs notwendig ist.
 
@@ -186,13 +186,13 @@ können ausreichend gesichert werden.
 Jede Computerarbeitsstation sollte so aufgebaut sein, dass sich der
 Nutzende in der korrekten ergonomischen Position befindet. Design und
 Abmessungen von Computerarbeitsstationen in Büros werden gesetzlich
-bestimmt durch die European Display Screen Equipment Directive
-(90/270/EEC) und die Abmessung von Arbeitsstationen sollten dem
-Britischen Standard EN 527-1:2011 entsprechen. PC-Monitore (oder ganze
-PCs, wenn es sich um eine All-in-one Einheit handelt) sollten so
-aufgestellt werden, dass sie einfaches Kippen und Höhenanpassungen des
-Displays durch den Nutzer erleichtern, und Stühle sollten standardmäßig
-drehbar, auf Laufrollen und verstellbar sein.
+bestimmt durch die Arbeitsstättenverordnung, Abschnitt 6 (Maßnahmen
+zur Gestaltung von Bildschirmar-beitsplätzen), und die Abmessung
+von Arbeitsstationen sollten der DIN Norm EN 527-1 entsprechen.  
+PC-Monitore (oder ganze PCs, wenn es sich um eine All-in-one Einheit
+handelt) sollten so aufgestellt werden, dass sie einfaches Kippen und
+Höhenanpassungen des Displays durch den Nutzer erleichtern, und Stühle
+sollten standardmäßig drehbar, auf Laufrollen und verstellbar sein.
 
 ### 4.7.3 Outdoor-Lernräume / Sommerlesesaal
 

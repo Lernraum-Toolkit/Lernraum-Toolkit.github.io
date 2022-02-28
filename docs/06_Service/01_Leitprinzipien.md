@@ -38,7 +38,7 @@ mit dem Raum und den Nutzern interagiert.
 
 -   **Serviceangebote nutzen um eine Gemeinschaft aufzubauen und zu involvieren** indem man Veranstaltungen wie Workshops, Schulungen, Tutorials, Vorträge, Seminar, Wettbewerbe und soziale Zusammenkünfte plant. Diese Serviceangebote können die Nutzung und Anpassungsfähigkeit des Lernraums für seine Nutzergemeinschaft erhöhen.
 
--   **Verstehen, dass für einen guten Service „Front-line“-Mitarbeitenden benötigt werden, die auf eine natürliche und nicht skript-gebundenen Art festgeschriebene Rollen spielen,** und dass sie spezielle Schulung und Vorbereitung brauchen, damit sie Nutzerbedürfnisse verstehen, sich in die Rolle hineinversetzen und sich auf verschiedene Szenarien oder Situationen vorbereiten, mit denen sie zu tun haben werden.
+-   **Verstehen, dass für einen guten Service „Front-line“-Mitarbeitende benötigt werden, die auf eine natürliche und nicht skript-gebundene Art festgeschriebene Rollen spielen,** und dass sie spezielle Schulung und Vorbereitung brauchen, damit sie Nutzerbedürfnisse verstehen, sich in die Rolle hineinversetzen und sich auf verschiedene Szenarien oder Situationen vorbereiten, mit denen sie zu tun haben werden.
 
  
 

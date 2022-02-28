@@ -38,7 +38,7 @@ Lerngemeinschaft geprägt von einem Ethos der forschungsorientierten
 Lehre ([Van Note Chism, 2006](../11_Referenzen.md)).
 
 Die aktuellen Überlegungen zu „Good Practice“ in der Bildung betonen
-nachdrücklich das Lernen im Gegensatz zum Lehren und legen darauf Wert, dass Lernende
+nachdrücklich das Lernen im Gegensatz zum Lehren und legen Wert darauf, dass Lernende
 Wissen (mit)schöpfen statt vermittelte Information nur zu konsumieren.
 Unsere Lernräume sollten dies wiederspiegeln.
 

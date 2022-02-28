@@ -2,7 +2,7 @@
 layout: default
 title: Ressourcen
 parent: 5. Lerntechnologien
-nav_order: 9
+nav_order: 8
 ---
 
 ## Ressourcen
@@ -14,7 +14,7 @@ nav_order: 9
     publizierte es Horizon Reports, die den Einfluss von
     Schlüsseltrends, Herausforderungen und wichtige technische
     Entwicklungen auf wissenschaftliche Bibliotheken weltweit
-    untersuchten. (**[Link zu Horizon Reports 2014-2017](https://library.educause.edu/resources/2017/12/horizon-report-library-edition-2014-2017)**).
+    untersuchten. (**[Link zu Horizon Reports, Library Edition 2014-2017](https://library.educause.edu/resources/2017/12/horizon-report-library-edition-2014-2017)** und **[Link zu allen Horizon Reports](https://library.educause.edu/search#?publicationandcollection_search=Horizon%20Report)**).
 
 -   **[ExpLAB Schloss Schneckenhof](https://www.bib.uni-mannheim.de/standorte/explab-schloss-schneckenhof/)** der Universitätsbibliothek Mannheim mit Angeboten zu kreativem, gemeinschaftlichen Lernen mit moderner technischer Infrastruktur (Virtual Reality Brillen, Eye-Tracking-Station)
 

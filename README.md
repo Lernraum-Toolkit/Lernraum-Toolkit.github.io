@@ -7,7 +7,7 @@ Das Lernraum Toolkit soll gesammelte Informationen zur Gestaltung von Lernräume
 ## Über das Toolkit
 **Hintergrund**
 
-Im Zuge der Digitalisierung in allen Bereichen unserer Gesellschaft wandelt sich auch der Auftrag von (wissenschaftlichen) Bibliotheken immer weiter weg von klassischen Dienstleistungen wie dem Leihverkehr. Gleichzeitig sind Bibliotheken entgegen früherer Prognosen als physische Lernorte beliebter denn je und Einrichtungen müssen auf diesen gestiegenen Bedarf reagieren. Damit stehen viele Einrichtungen vor der komplexen Planungsaufgabe, neue Konzepte für Lernräume zu entwerfen und umzusetzen, ob im Rahmen von Umgestaltungen oder Umwidmung von Bereichen oder im Rahmen von Neubauten. Dabei verschiebt sich der Fokus von der reinen quantitativen Aufstockung, z.B. mehr Einzelarbeitsplätze anzubieten, hin zu qualitativen Veränderungen, wie etwa abwechslungsreichere Arbeitsplatzangebote mit vielfältiger Ausstattung bieten, verschiedene Aktivitäten ermöglichen, soziale Begegnungsmöglichkeiten schaffen und technische Lösungen mitdenken. Viele Einrichtungen finden für diese Herausforderungen eigene Lösungen, im deutschsprachigen Bereich fehlt aber eine Sammlung von Informationen, Empfehlungen und Best Practices, welche die Gestaltung von Lernräumen im universitären Kontext fundiert unterstützen kann. Diese Lücke versucht das Lernraum Toolkit--basierend auf zwei Toolkits aus dem englischsprachigen Sprachraum--zu schließen.
+Im Zuge der Digitalisierung in allen Bereichen unserer Gesellschaft wandelt sich auch der Auftrag von (wissenschaftlichen) Bibliotheken immer weiter weg von klassischen Dienstleistungen wie dem Leihverkehr. Gleichzeitig sind Bibliotheken entgegen früherer Prognosen als physische Lernorte beliebter denn je und Einrichtungen müssen auf diesen gestiegenen Bedarf reagieren. Damit stehen viele Einrichtungen vor der komplexen Planungsaufgabe, neue Konzepte für Lernräume zu entwerfen und umzusetzen, ob im Rahmen von Umgestaltungen oder Umwidmung von Bereichen oder im Rahmen von Neubauten. Dabei verschiebt sich der Fokus von der reinen quantitativen Aufstockung, z.B. mehr Einzelarbeitsplätze anzubieten, hin zu qualitativen Veränderungen, wie etwa abwechslungsreichere Arbeitsplatzangebote mit vielfältiger Ausstattung bieten, verschiedene Aktivitäten ermöglichen, soziale Begegnungsmöglichkeiten schaffen und technische Lösungen mitdenken. Viele Einrichtungen finden für diese Herausforderungen eigene Lösungen, im deutschsprachigen Bereich fehlt aber eine Sammlung von Informationen, Empfehlungen und Best Practices, welche die Gestaltung von Lernräumen im universitären Kontext fundiert unterstützen kann. Diese Lücke versucht das Lernraum Toolkit -- basierend auf zwei Toolkits aus dem englischsprachigen Sprachraum -- zu schließen.
 
 **Quellen**
 
@@ -25,11 +25,13 @@ Entwicklungen im Bereich der Lernraumplanung und -gestaltung können rasant sein
 
 **Autoren**
 
-Dr. Katharina Zinke
+Katharina Zinke
+
+Markus Wust
 
 **Lizenz**
 
-Dieses Toolkit Lernraumgestaltung ist lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)).
+Dieses Lernraum Toolkit ist lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)).
 
 **Haftungsausschluss**
 
@@ -39,12 +41,6 @@ Alle im Toolkit zur Verfügung gestellten Informationen, Erklärungen, Abbildung
 
 ## Über das Toolkit-Projekt
 
-Die Übersetzung, Zusammenstellung und Ergänzung von [UK Higher Education Toolkit](https://www.ucisa.ac.uk/learningspace) und [Learning Space Toolkit US](https://learningspacetoolkit.org) für das Toolkit Lernraumgestaltung wurde erarbeitet im Rahmen des Projektes „Learning Space Toolkit: Best Practice Kreativräume entwickeln und evaluieren“ (Universitätsbibliothek Tübingen) innerhalb des Förderprogramms des Landes Baden-Württemberg „Wissenschaftliche Bibliotheken gestalten den digitalen Wandel (BW-Big diWa)“
+Die Übersetzung, Zusammenstellung und Ergänzung von [UK Higher Education Toolkit](https://www.ucisa.ac.uk/learningspace) und [Learning Space Toolkit US](https://learningspacetoolkit.org) für das Lernraum Toolkit wurde erarbeitet im Rahmen des Projektes „Learning Space Toolkit: Best Practice Kreativräume entwickeln und evaluieren“ (Universitätsbibliothek Tübingen) innerhalb des Förderprogramms **„Wissenschaftliche Bibliotheken gestalten den digitalen Wandel (BW-Big diWa)“** des Ministeriums für Wissenschaft, Forschung und Kunst des Landes Baden-Württemberg [(MWK)](https://mwk.baden-wuerttemberg.de/).
 
-<a rel="license"
-href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0"
-src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br /><span
-xmlns:dct="http://purl.org/dc/terms/"
-property="dct:title">Toolkit Lernaumgestaltung</span> von <a xmlns:cc="http://creativecommons.org/ns#"
-href="https://lernraum-toolkit.github.io/"
-property="cc:attributionName" rel="cc:attributionURL">Katharina Zinke (Universitätsbibliothek Tübingen)</a> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Toolkit Lernraumgestaltung</span> der <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Universitätbibliothek Tübingen</span> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz</a>.

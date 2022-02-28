@@ -167,7 +167,7 @@ Evaluationsberichts der University of Wolverhampton: „Von Beginn des
 Betriebs wurde deutlich, dass die Aufzüge das „Verkehrsaufkommen“ nicht
 bewältigen können … es wurde eine ähnliche Spezifikation wie bei anderen
 Aufzügen innerhalb der Universität genutzt, aber – aufgrund der
-gewaltigen Nutzung – war das nicht genug. Infolgedessen, wurden im
+gewaltigen Nutzung – war das nicht genug. Infolgedessen wurden im
 Nachhinein auf höhere Auslastung ausgelegte Anlagen eingebaut.“
 
 **Tool**

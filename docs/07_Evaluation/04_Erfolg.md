@@ -11,7 +11,7 @@ nav_order: 4
 Der Learning and Skills Council, der (bis zu seiner Auflösung im Jahr
 2010) für ein Hochschulbauprogramm in Bereich der Höheren
 Bildungseinrichtungen zuständig war, schlug vor, die folgenden Kriterien
-in allen neuen Projekten zu berücksichtigen[^27]:
+in allen neuen Projekten zu berücksichtigen[^25]:
 
 -   Innovation und Exzellenz - ist es eine innovative und qualitativ
     hochwertige, neue Art von Lernumgebung für das 21. Jahrhundert?
@@ -36,4 +36,4 @@ in allen neuen Projekten zu berücksichtigen[^27]:
 
 ---
 
-[^27]: Learning and Skills Council (2002) Guidance on College Property Strategies: [Link zu PDF](http://dera.ioe.ac.uk/13355/2/Supplement_A_to_Circular_02-20_Guidance_on_college_property_strategies.pdf)
+[^25]: Learning and Skills Council (2002) Guidance on College Property Strategies: [Link zu PDF](http://dera.ioe.ac.uk/13355/2/Supplement_A_to_Circular_02-20_Guidance_on_college_property_strategies.pdf)

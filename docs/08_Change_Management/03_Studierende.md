@@ -47,7 +47,7 @@ wurde ein Wettbewerb unter Grafikdesign-Studierenden durchgeführt, bei
 dem ein Spickzettel für jede Kapsel/Pod erstellt werden sollte, um den
 Studierenden die möglichen Einsatzmöglichkeiten aufzuzeigen.
 
-Ein ähnliches Problem wurde bei der Eröffnung des Techno-Cafés[^32] der
+Ein ähnliches Problem wurde bei der Eröffnung des Techno-Cafés[^30] der
 Durham University im Jahr 2005 festgestellt. Dieser Raum bestand aus
 einigen sehr hoch technisierten Lernkapseln, die das aktive und
 gemeinschaftliche Lernen von Informatikstudierenden unterstützen
@@ -66,4 +66,4 @@ schwer, sie zu einer anderen Arbeitsweise zu ermutigen.
 
 ---
 
-[^32]: Link zur [JISC Case Study des Techno-Cafés](https://jiscinfonetcasestudies.pbworks.com/w/page/45250009/Durham%20University%20-%20Techno-Cafe) an der Durham University
+[^30]: Link zur [JISC Case Study des Techno-Cafés](https://jiscinfonetcasestudies.pbworks.com/w/page/45250009/Durham%20University%20-%20Techno-Cafe) an der Durham University

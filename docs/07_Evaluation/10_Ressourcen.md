@@ -26,7 +26,7 @@ nav_order: 10
 
 -   Ethnografische Forschungsmethoden mit Anwendungsbeispiel in einer öffentlichen Bibliothek: Wildemann, B. (2017). Die Bibliothek mit den Augen der Nutzer sehen. Ethnografische Forschungsmethoden im praktischen Einsatz. *Bibliotheksdienst*, *51*(7), 589-595. doi: **[10.1515/bd-2017-0063](https://doi.org/10.1515/bd-2017-0063)**
 
--   Anschauliche Erklärung von ethnografischen Methoden: **[Link zu Youtube Video](https://www.youtube.com/user/ProjektPerle2012/featured)**
+-   Anschauliche Erklärung von ethnografischen Methoden: **[Link zu YouTube Video](https://www.youtube.com/user/ProjektPerle2012/featured)**
 
 -   Jamieson, H. (2016). Spaces for learning? Using ethnographic techniques. In A. Priestner & Borg, M. (Eds.) *User Experience in Libraries: Applying Ethnography and Human-Centred Design*, 173-177.
 
