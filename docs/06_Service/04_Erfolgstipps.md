@@ -34,7 +34,7 @@ abgeschlossen hat.*
 -   Kategorien von Serviceleistungen im Zusammenhang mit dem Organigramm
     der Einrichtung erstellen und/oder die Organisationsstruktur an
     zukünftige Serviceleistungen anpassen. Dies hilft dabei, den
-    verantwortlichen "Eigentümer" für jeden Servicebereich zu
+    verantwortlichen „Eigentümer“ für jeden Servicebereich zu
     identifizieren und die zentralen Dienstleistungen zu bestimmen.
 
 **Für die Zukunft planen**

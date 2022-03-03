@@ -60,7 +60,7 @@ Rochester](http://hdl.handle.net/1802/7520).*
 **Zu berücksichtigende Punkte**
 
 -   Mit einem kleinen Team sollte man eine Liste mit 10-15
-    Fotoanweisungen (d.h. "Ihr Lieblingsplatz zum Lernen") erstellen,
+    Fotoanweisungen (d.h. „Ihr Lieblingsplatz zum Lernen”) erstellen,
     die eine Reihe von Themen abdecken. Siehe Beispiele im [Learning
     Space Toolkit’s Needs Assessment Data Gathering Tools](https://learningspacetoolkit.org/wp-content/uploads/2011/10/PhotoInterviews-Examples.pdf).
     Vielleicht sollten die Evaluationsfachleute der Universität

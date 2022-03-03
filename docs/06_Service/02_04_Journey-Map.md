@@ -18,7 +18,7 @@ Maps in ihrem Kern die Zeit entlang einer X-Achse mit einer Zeitspanne
 vor der Dienstleistung, einer Dienstleistungszeitspanne (die in
 verschiedene Segmente unterteilt werden sollte) und einer Zeitspanne
 nach der Dienstleistung, wobei die Y-Achse die verschiedenen
-"Berührungspunkte" zu diesen wichtigen Zeitpunkten anzeigt. Diese
+„Berührungspunkte“ zu diesen wichtigen Zeitpunkten anzeigt. Diese
 Berührungspunkte sind die Momente, in denen Nutzende mit
 Informationen, Technologie, Möbeln, Raum, Personal und anderen Nutzenden
 interagieren - oft sind es die Momente, in denen sie in irgendeiner Weise

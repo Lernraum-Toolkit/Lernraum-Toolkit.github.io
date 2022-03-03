@@ -20,7 +20,7 @@ mögliche Konfliktpunkte erkennen.
 Es gibt zwei verschiedene Wege, den Integrationsplan zu nutzen: (1)
 später im Prozess, um die Ergebnisse von anderen Tools zusammenzutragen
 und zu synthetisieren oder (2) früher im Prozess, um vorläufige Ideen
-festzuhalten und Fragen oder "Löcher" zu identifizieren, die mit anderen
+festzuhalten und Fragen oder „Löcher“ zu identifizieren, die mit anderen
 Teilen des Toolkits weiter untersucht werden sollen. Wenn man die Zeilen
 für die wichtigsten Räume ausgefüllt hat, kann man dann in den Zellen
 nach Übereinstimmung/Konflikt, Dopplungen oder anderen Mustern suchen,

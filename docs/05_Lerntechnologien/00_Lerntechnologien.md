@@ -24,7 +24,7 @@ Spezifikationen der Technik selbst.  Es ist außerdem wichtig, die Rolle der Tec
 
 Die Darstellung der Beispiele beschränkt sich auf einige wenige - insbesondere im Technikbereich entwickeln sich Standards und Methoden sehr schnell weiter und Empfehlungen veralten schnell.
 
-*Unterabschnitte zu “Aufzeichnungssysteme für Vorlesungen”,
-“Elektronische Abstimmungssysteme”, “Videokonferenzen”,
-“Visualisierer”, “WLAN Apps”, “Interaktive Oberflächen”, “Augmented
+*Unterabschnitte zu „Aufzeichnungssysteme für Vorlesungen”,
+„Elektronische Abstimmungssysteme”, „Videokonferenzen”,
+„Visualisierer”, „WLAN Apps”, „Interaktive Oberflächen”, „Augmented
 Reality”* nicht in der deutschen Übertragung enthalten, da sie schnell veralten (bei Interesse, siehe [UK Toolkit](https://www.ucisa.ac.uk/learningspace), Kapitel 5)

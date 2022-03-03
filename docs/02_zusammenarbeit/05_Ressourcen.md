@@ -21,7 +21,7 @@ nav_order: 5
         & K. Werner (Ed.), *Praxishandbuch Bibliotheksbau* (pp.
         295-308). Berlin, Boston: De Gruyter Saur. doi: **[10.1515/9783110403183-022](https://doi.org/10.1515/9783110403183-022)**
 
-    -   Details zur "Innenarchitekt auf Zeit" - eine Methode Nutzern die
+    -   Details zur „Innenarchitekt auf Zeit“ - eine Methode Nutzern die
         Gestaltung von Lernräumen zu überlassen: Ilg, J. (2016).
         Innenarchitekt auf Zeit: Bibliotheksnutzer richten sich ein.
         *o-bib, 3*(4), 217-224. doi:
@@ -30,7 +30,7 @@ nav_order: 5
     -   Kellersohn, A. (2013). Alle sollen mitreden! Die Einbeziehung von
         Nutzern, Beschäftigten und der Öffentlichkeit bei der Neubausanierung
         der Universitätsbibliothek Freiburg. *Zeitschrift für Bibliothekswesen
-        und Bibliographie, 60*(3-4), 131-139. doi: **[10.3196/18642950131253445](https://doi.org/10.3196/18642950131253445)** 
+        und Bibliographie, 60*(3-4), 131-139. doi: **[10.3196/18642950131253445](https://doi.org/10.3196/18642950131253445)**
 
     -   Beispiel der University of Queensland Library, um herauszufinden,
         wie Studierende verschiedene Bibliothekstandorte für

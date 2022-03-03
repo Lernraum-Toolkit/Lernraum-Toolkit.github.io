@@ -52,8 +52,8 @@ der Nutzenden orientieren.*
 
 -   **Sicherstellen, dass man über genügend Supportpersonal mit den
     richtigen Fähigkeiten verfügt**, um die neu implementierte
-    Technologie zu warten. Daran denken: "Wenn man sie installiert, muss
-    man sie auch betreuen."
+    Technologie zu warten. Daran denken: „Wenn man sie installiert, muss
+    man sie auch betreuen.”
 
 -   **Entwicklung eines Plans zur Nachhaltigkeit von Hardware**, der ein
     robustes Lebenszyklusmanagement umfasst, einschließlich Einkauf,
@@ -64,4 +64,4 @@ der Nutzenden orientieren.*
     Benutzungszufriedenheit, Support-Service usw. - zur Verfeinerung und
     Verbesserung.
 
-*Abschnitt zu “Überdenken der Lehrpraxis mit Technologie”* in deutscher Übertragung nicht enthalten (bei Interesse, siehe [UK Toolkit](https://www.ucisa.ac.uk/learningspace), Kapitel 5.1)
+*Abschnitt zu „Überdenken der Lehrpraxis mit Technologie”* in deutscher Übertragung nicht enthalten (bei Interesse, siehe [UK Toolkit](https://www.ucisa.ac.uk/learningspace), Kapitel 5.1)

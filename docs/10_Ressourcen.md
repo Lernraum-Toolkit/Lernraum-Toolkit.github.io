@@ -52,7 +52,7 @@ permalink: /docs/
     Bibliotheksbau und -ausstattung verhaltenssteuernd wirken? *b.i.t.
     online*, *16*(2), 11. **[Link zu PDF](https://www.b-i-t-online.de/heft/2013-02/fachbeitrag-depping.pdf)**
 
--   "My Campus Studie" zum Verhalten von Studierenden und ihren Orten
+-   „My Campus Studie“ zum Verhalten von Studierenden und ihren Orten
     auf dem Campus, Nutzertypen, etc.: Gothe, K., & Pfadenhauer, M.
     (2010). *My Campus – Räume für die „Wissensgesellschaft“?*
     Wiesbaden: VS Verlag für Sozialwissenschaften. doi:
@@ -168,7 +168,7 @@ permalink: /docs/
 
 -   Projektbericht zur Umgestaltung vom Lesesaal zu multifunktionalen Lernräumen an der Pädagogischen Hochschule Ludwigsburg: Spary, C. (2021). Open Campus: Learning Commons an der PH Ludwigsburg. **[Link zum Projektbericht](https://phbl-opus.phlb.de/frontdoor/index/index/start/0/rows/10/sortfield/score/sortorder/desc/searchtype/simple/query/spary/docId/813)**
 
--   Beschreibung des Umgestaltungsprojektes für eine Arbeitsplatzlandschaft an der SLUB Dresden ("SLUB Forum"): Bonte, A. & Grohmann, A. (2017). #slubnochbesser - eine neue Arbeitsplatzlandschaft in der Zentralbibliothek der SLUB Dresden. *BIS, 1*, 12-15. **[Link zum Artikel](https://slub.qucosa.de/api/qucosa%3A7927/attachment/ATT-0/)**. Ein **[Blogbeitrag](https://blog.slub-dresden.de/beitrag/2018/03/28/slubnochbesser-slub-forum-wurde-eroeffnet)** und ein **[Video](https://www.youtube.com/watch?v=FN1iOekNcJY&t=1s)** veranschaulichen den Umbau und das Endprodukt zusätzlich.
+-   Beschreibung des Umgestaltungsprojektes für eine Arbeitsplatzlandschaft an der SLUB Dresden („SLUB Forum“): Bonte, A. & Grohmann, A. (2017). #slubnochbesser - eine neue Arbeitsplatzlandschaft in der Zentralbibliothek der SLUB Dresden. *BIS, 1*, 12-15. **[Link zum Artikel](https://slub.qucosa.de/api/qucosa%3A7927/attachment/ATT-0/)**. Ein **[Blogbeitrag](https://blog.slub-dresden.de/beitrag/2018/03/28/slubnochbesser-slub-forum-wurde-eroeffnet)** und ein **[Video](https://www.youtube.com/watch?v=FN1iOekNcJY&t=1s)** veranschaulichen den Umbau und das Endprodukt zusätzlich.
 
 -   Beschreibung des Umbaus Medizinbibliothek Bern in Lernraum:
     Schaffer, M. (2020). Transforming the medical library into a
@@ -194,7 +194,7 @@ permalink: /docs/
 
 -   Einblicke und Erfahrungen verschiedener Lernraumprojekte in den
     Präsentationsunterlagen der Fortbildung des VDB Landesverband
-    Bayern **["Bibliotheksbau: Menschen und Räume"](https://www.vdb-online.org/veranstaltungen/806/)** vom 05.12.2018 in der
+    Bayern **[„Bibliotheksbau: Menschen und Räume“](https://www.vdb-online.org/veranstaltungen/806/)** vom 05.12.2018 in der
     Universitätsbibliothek Augsburg (u.a. Einblicke in
     Lernraumforschung an der HdM Stuttgart, Gestaltung des neuen
     Lernraum24 an der Universitätsbibliothek Bamberg, das Parlatorium

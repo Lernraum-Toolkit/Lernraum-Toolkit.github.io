@@ -11,8 +11,8 @@ Die Technologiefachkraft ist ein wichtiges Mitglied des Lernraumteams. Während
 größere Organisationen eine Person haben, die sich voll dieser Rolle
 widmet, z.B. eine IT-Leitung oder eine designierte
 Technologie-Projektleitung, kann es in kleineren Organisationen eine
-Person geben, die mehrere "Hüte" trägt, darunter auch den der
-Technologiefachkraft. Der "Technologiehut" kann sogar während der Projektlaufzeit
+Person geben, die mehrere „Hüte” trägt, darunter auch den der
+Technologiefachkraft. Der „Technologiehut” kann sogar während der Projektlaufzeit
 von einer Person auf eine andere übertragen werden. Zum Beispiel kann
 ein Mitglied der zentralen IT-Abteilung zu Beginn eines Projekts als
 Technologiefachkraft fungieren, dann jedoch an eine Person übergeben, die mitten

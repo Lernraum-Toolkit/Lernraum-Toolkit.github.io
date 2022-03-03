@@ -28,7 +28,7 @@ Die Service Design Tools, die dieses Lernraum-Toolkit beinhaltet, sind:
 
 -   [**Customer Journey Map**](02_04_Journey-Map.md) um die Nutzung von Service/Raum
     über die Zeit aufzuzeichnen und Zeiten der Interaktion oder
-    “Berührungspunkte” zu identifizieren.
+    „Berührungspunkte” zu identifizieren.
 
 -   [**Service Blueprints**](02_05_Blueprints.md) zur Orientierung,
     wie sowohl „Front-Line“-Personal als auch diejenigen hinter den

@@ -35,18 +35,18 @@ erhalten.
 betonte die Notwendigkeit eines klaren Entscheidungsfindungsprozesses
 bei Projekten. Tessa wies darauf hin, dass im Laufe der RIBA-Phasen die
 Fragen, die man stellt, und damit auch die Optionen, die einem zur
-Verfügung stehen, immer begrenzter werden. Wie sie es ausdrückte: "Man
+Verfügung stehen, immer begrenzter werden. Wie sie es ausdrückte: „Man
 fängt bei Stufe null an, und denkt, Schweine könnten fliegen, und bei
 Stufe fünf wird einem klar, dass es nicht passieren wird, weil man keine
-Flügel an Schweine nageln kann." Für das Projektmanagement bedeutet dies,
+Flügel an Schweine nageln kann.“ Für das Projektmanagement bedeutet dies,
 dass die Leute genau wissen müssen, welche Autoritäts- und
 Entscheidungslinien es gibt (wobei zu bedenken ist, dass dies bei jedem
 Projekt anders ist). Sie müssen wissen, wie sie um Änderungen des
 Projektauftrages bitten können und wann vernünftigerweise zu erwarten
 ist, dass noch Anpassungen vorgenommen werden können. Tessa ist der
-Meinung, dass "wenn dies zu Beginn eines Projekts sehr klar ist, macht
+Meinung, dass „wenn dies zu Beginn eines Projekts sehr klar ist, macht
 dies den Unterschied zwischen einem erfolgreichen und einem nicht
-erfolgreichen Projekt aus."
+erfolgreichen Projekt aus.“
 
 **Sally Jorjani, Head of Academic and Business Liaison, Edinburgh Napier
 University**, hat einen Hintergrund im Projektmanagement. Sally meint,
@@ -70,9 +70,9 @@ wichtiger Tipp von Sally bei der Leitung von Projekten wie diesem ist,
 sich bewusst zu machen, wie lange es dauern kann, und darüber
 nachzudenken, wie man die Dinge herunterbricht. Man sollte nicht in Form
 eines dreijährigen Projekts denken, sondern es in Phasen unterteilen.
-Sie sagte: "Leute mitzunehmen, braucht Zeit und eine Menge Beratung.
+Sie sagte: „Leute mitzunehmen, braucht Zeit und eine Menge Beratung.
 Möglicherweise muss man sogar Richtlinien überprüfen und überarbeiten,
-um einige der gewünschten Änderungen vorzunehmen." Sally plädiert auch
+um einige der gewünschten Änderungen vorzunehmen.“ Sally plädiert auch
 dafür, selbst bei relativ kleinen Projekten jemanden aus der
 Finanzabteilung in das Projektteam aufzunehmen, damit man sicher sein
 kann, dass die Budgetierung solide ist und es keine Überraschungen gibt.
@@ -83,20 +83,20 @@ Arbeitsbeziehung mit der Projektleitung hat. Manche Projektleitungen sind
 der Ansicht, dass es ihre Aufgabe ist, das Projekt abzuschließen und es Ihnen
 zurückzugeben, wenn es fertig ist, während andere eher an Ihrer Seite
 stehen, die Grundregeln festlegen und auf eventuelle Handlungsspielräume
-hinweisen. Toni sagt: "Die erfolgreichsten und angenehmsten Projekte, an
+hinweisen. Toni sagt: „Die erfolgreichsten und angenehmsten Projekte, an
 denen ich beteiligt war, zeichneten sich durch eine Kombination aus
 strenger Zeit- und Kostenkontrolle in Verbindung mit der Fähigkeit aus,
 zuzuhören und meinen Anliegen oder Änderungswünschen (die nicht immer
 angenommen wurden!) während der Laufzeit des Projekts entsprechend zu
-handeln." Sie stellt fest, dass man, sobald man vor Ort ist, Dinge sieht,
+handeln.“ Sie stellt fest, dass man, sobald man vor Ort ist, Dinge sieht,
 die sich auf die Benutzererfahrung auswirken werden, so dass man
 verstehen muss, wo man konstruktive Vorschläge machen kann und wo
 Änderungen möglich sind. Toni wies darauf hin, dass Menschen im
 Hochschulbereich nicht sehr oft mit Baufachleuten arbeiten, sodass sie
 leicht in eine Situation geraten können, in der sie nicht wissen, ob sie
-ein Problem ansprechen sollen oder nicht. Toni sagte uns: "Mit der Zeit
-bin ich einfach ein bisschen mutiger geworden." Toni betont auch die
-Bedeutung des Managements und der Verfolgung von Veränderungen: "Wenn
+ein Problem ansprechen sollen oder nicht. Toni sagte uns: „Mit der Zeit
+bin ich einfach ein bisschen mutiger geworden.“ Toni betont auch die
+Bedeutung des Managements und der Verfolgung von Veränderungen: „Wenn
 Sie glauben, dass Sie sich auf etwas geeinigt haben und dann die
 Änderungen nicht verfolgt werden, kann es zu spät sein, etwas dagegen zu
-unternehmen."
+unternehmen.“

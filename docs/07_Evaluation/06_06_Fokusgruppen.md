@@ -36,7 +36,7 @@ Projektentwurf zu integrieren.
 -   Nicht so effektiv bei der Messung von Leistungsaspekten.
 
 -   Die Teilnehmenden können sich gegenseitig beeinflussen und dem
-    "Gruppendenken" unterliegen.
+    „Gruppendenken” unterliegen.
 
 -   Kann zeitaufwendig sein (4-6 Wochen für die Planung, Durchführung
     und Analyse der Daten).
@@ -66,8 +66,8 @@ Projektentwurf zu integrieren.
 -   Die Fragen sollten von allgemein zu spezifisch strukturiert werden,
     beginnend mit einer kurzen Eisbrecherfrage, um die Gruppe
     aufzulockern. Sie sollten ergebnisoffen sein, um eine
-    Diskussion zu ermöglichen, und man sollte "Ja"- und "Nein"-Fragen vermeiden.
-    Fragen, die mit "Was" oder "Wie" beginnen, werden häufig die
+    Diskussion zu ermöglichen, und man sollte „Ja”- und „Nein”-Fragen vermeiden.
+    Fragen, die mit „Was” oder „Wie” beginnen, werden häufig die
     Beteiligung der Gruppe am meisten fördern.
 
 -   Die Umgebung, in der die Fokusgruppe durchgeführt wird, sollte

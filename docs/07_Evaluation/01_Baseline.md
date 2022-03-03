@@ -72,7 +72,7 @@ Zu den Vorteilen der Erfassung einer Baseline gehören:
     müssen, bevor man weitermachen kann. Häufig sind dies
     unausgesprochene Annahmen darüber, welche Aspekte der Praxis, der
     Prozesse und der Systeme geändert werden können und welche nicht:
-    man sollte beachten, dass "Wir haben es immer so gemacht" weder ein
+    man sollte beachten, dass „Wir haben es immer so gemacht“ weder ein
     Grund noch eine Rechtfertigung ist.
 
 -   Belege für Verbesserungen aufzeigen - man kann nicht zeigen, wie

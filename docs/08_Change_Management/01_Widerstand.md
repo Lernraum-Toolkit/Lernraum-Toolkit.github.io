@@ -53,7 +53,7 @@ Veränderungen mitgeteilt haben:
     verbringt, Menschen zu beruhigen und sie durch Veränderungen zu
     führen.
 
--   "Man braucht eine harte Stirn, um Backsteinmauern standzuhalten."
+-   „Man braucht eine harte Stirn, um Backsteinmauern standzuhalten.”
 
 -   Man muss eine Vision haben, überlegen, wann es sich lohnt zu
     streiten und eine Leidenschaft für die Arbeit haben, um Barrieren zu

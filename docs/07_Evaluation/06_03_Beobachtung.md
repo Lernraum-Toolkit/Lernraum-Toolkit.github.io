@@ -62,8 +62,8 @@ der vorhandenen Räume durch die Lernenden führen.
 
 -   Man kann ein Kodierschema erstellen, das von verschiedenen
     Beobachtern verwendet wird, um das Verhalten und die Verwendung von
-    Werkzeugen, Technologien und Räumen zu dokumentieren, z.B. "C" für
-    "auf dem Computer" und "L" für "auf dem Laptop".
+    Werkzeugen, Technologien und Räumen zu dokumentieren, z.B. „C” für
+    „auf dem Computer” und „L” für „auf dem Laptop”.
 
 -   Das Fotografieren eines Raumes kann zusätzliche wertvolle
     Informationen erfassen.

@@ -92,7 +92,7 @@ Wirtschaften bedeuten, da es kostspielig sein kann, Fehler im Nachhinein
 zu beheben. Gute professionelle Beratung in einem frühen Stadium sollte
 helfen, diese Art von Fehlern zu vermeiden.
 
-*Ausführungen zu “Assistive listening systems”* in der deutschen Übertragung nicht enthalten (bei Interesse, siehe [UK Toolkit](https://www.ucisa.ac.uk/learningspace), Kapitel 4.7)
+*Ausführungen zu „Assistive listening systems”* in der deutschen Übertragung nicht enthalten (bei Interesse, siehe [UK Toolkit](https://www.ucisa.ac.uk/learningspace), Kapitel 4.7)
 
 ### Hinweise und Tipps
 
@@ -104,7 +104,7 @@ helfen, diese Art von Fehlern zu vermeiden.
 
 -   Die Verlegung von Beleuchtungs- und Audiokabeln und die Anordnung
     der Anschlüsse sollte beachtet und so weit wie möglich getrennt
-    werden, um Probleme zu vermeiden, wie etwa die Beeinflussung von 
+    werden, um Probleme zu vermeiden, wie etwa die Beeinflussung von
     Tonsignalen durch Lichtdimmer. Parallele Verlegung von Kabeln sollte
     vermieden werden. Stromquellen für Audio- und Umgebungsdienste, wie
     Beleuchtung, Heizung, Belüftung und Klimatisierung, sollten

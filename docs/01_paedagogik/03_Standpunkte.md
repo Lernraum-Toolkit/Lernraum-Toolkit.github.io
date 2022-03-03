@@ -14,11 +14,11 @@ Informationen zu dieser Forschung auf seinem Blog.[^6]
 
 James glaubt, dass die Unterfütterung mit pädagogischen Prinzipien dazu
 beitragen kann, eine Lernraumstrategie sinnvoll mit der Lern- und
-Lehrstrategie zu verknüpfen. "Prinzipien sind wirksamer als Strategien.
+Lehrstrategie zu verknüpfen. „Prinzipien sind wirksamer als Strategien.
 Strategie kann in den Köpfen mancher Leute ein bisschen schwammig sein:
 es ist etwas, das man sagen muss, aber es bedeutet nicht wirklich etwas.
 Prinzipien sind greifbarer und wirksamer für Menschen, die sich damit
-beschäftigen wollen". James ist sich darüber im Klaren, dass die
+beschäftigen wollen”. James ist sich darüber im Klaren, dass die
 Strategie im Hinblick auf das, was vor Ort geschieht, Sinn machen muss:
 In Birmingham wird zunehmend Wert auf forschendes und selbständiges
 Lernen gelegt, und James ist der Meinung, dass das [UK Toolkit](../11_Referenzen.md) nützlich
@@ -27,10 +27,10 @@ sein kann, um herauszufinden, wie das in der Praxis aussieht.
 **Bruce Rodger, Head of Infrastructure, University of Strathclyde,**
 berichtet, dass in Bezug auf die Gestaltung für bestimmte Arten von
 Lernaktivitäten, der Begriff der Flexibilität für ihn persönlich ein
-Ärgernis ist. "Wenn Leute sagen, dass sie Flexibilität wollen, und man
+Ärgernis ist. „Wenn Leute sagen, dass sie Flexibilität wollen, und man
 sie genau fragt, wie diese Flexibilität aussehen soll, dann wissen sie
 es nicht. Flexibilität ist immer mit Kompromissen verbunden, und
-manchmal zerstört man das, wofür sie ursprünglich gedacht war".
+manchmal zerstört man das, wofür sie ursprünglich gedacht war”.
 
 Ein Beispiel dafür ist ein flexibler Raum, der mit einer beweglichen
 Trennwand in der Mitte entworfen wurde, so dass er als ein großer Raum
@@ -56,8 +56,8 @@ Flexibilität. Es ist ganz praktisch, einen Raum so zu gestalten, dass er
 zwischen zwei oder drei definierten Zuständen anpassbar ist. Ein
 vollständig flexibler Ansatz erfordert eine Menge Unterstützung, die zu
 bestimmten Umstellungszeiten verfügbar ist. Nach Ansicht von Bruce stimmt ein oft
-wiederholter Satz: "Flexibilität ist das F-Wort in der
-Lernraumgestaltung".
+wiederholter Satz: „Flexibilität ist das F-Wort in der
+Lernraumgestaltung”.
 
 **Sally Jorjani, Head of Academic and Business Liaison, Edinburgh Napier
 University,** hat festgestellt, dass die Schaffung einiger neuer
@@ -68,9 +68,9 @@ Drei-Personen-Büros arbeiten, so dass es für sie schwierig ist, mit den
 Studierenden in ihrem Büro zu sprechen, da sie befürchten, ihre Kollegen/Kolleginnen
 zu stören. Bei der Bewertung der neuen Räume hörte Sally von einem
 Dozenten, der von den neuen Einrichtungen begeistert war, dass sich die
-Interaktion erheblich verbessert hat, während ein Student bemerkte: "Ich
+Interaktion erheblich verbessert hat, während ein Student bemerkte: „Ich
 mag die hohen 'Sofas' sehr, da sie Gruppen eine weitere Möglichkeit
-bieten, ein Projekt zu bearbeiten".
+bieten, ein Projekt zu bearbeiten”.
 
 **Eleanor Magennis, Head of Space Planning, University of Glasgow,** ist
 eine ausgewiesene Architektin, die in der Abteilung „Estates and
@@ -87,7 +87,7 @@ Schlüsselrolle für das [UK Toolkit](../11_Referenzen.md) darin, Architekten un
 unterstützen, zu sehen, wie sich das Lernen verändert, und auch die
 Auswirkungen der Technologie auf das Lernen der Studenten zu verstehen.
 Ohne diese Art von Unterstützung, so Eleanor, würden Projekte einfach
-"das liefern, was immer schon getan wurde".
+„das liefern, was immer schon getan wurde”.
 
 Eleanor meint, dass eine gute Möglichkeit, an jedes Lernraumprojekt
 heranzugehen, darin besteht, mit den Studienabschlüssen zu beginnen und
@@ -97,10 +97,10 @@ einen dazu, über den pädagogischen Ansatz nachzudenken und die Art des
 Raums zu definieren, der die erforderlichen Aktivitäten unterstützen
 kann. Es ist eine gute Möglichkeit, Hochschulpersonal einzubinden und zu
 zeigen, dass man die richtigen Fragen stellt und ihre Sprache spricht.
-Eleanor empfiehlt: "Es ist entscheidend, gute akademische Unterstützung
+Eleanor empfiehlt: „Es ist entscheidend, gute akademische Unterstützung
 zu haben. Sie treibt das Projekt voran. Sie konzentriert sich
 auf die Pädagogik und berücksichtigt die Stimme der Studierenden und
-bringt diese ein".
+bringt diese ein”.
 
 ---
 

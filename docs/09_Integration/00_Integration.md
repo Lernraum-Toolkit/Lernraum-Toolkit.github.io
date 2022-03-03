@@ -18,7 +18,7 @@ hilft, vier Verbindungen herzustellen:
 identifizierten Bedarf und den vorgeschlagenen Lösungen
 2. Zusammenhänge zwischen dem entworfenen Raum, den Möbeln, der Technologie
 und den Dienstleistungen
-3. physische Zusammenhänge zwischen ähnlichen oder angrenzenden Räumen, um "die Teile zusammenzufügen", und
+3. physische Zusammenhänge zwischen ähnlichen oder angrenzenden Räumen, um „die Teile zusammenzufügen”, und
 4. Zusammenhänge zwischen den Hauptbeteiligten, die an der Planung und
 Implementierung eines Lernraums beteiligt sind.
 

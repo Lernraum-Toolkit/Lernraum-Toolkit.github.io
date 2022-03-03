@@ -23,7 +23,7 @@ nav_order: 4
     in die Praxis beschäftigt.
 
 -   Die James Cook University in Australien hat eine Website mit dem
-    Titel **["Learning Spaces Snapshots"](https://sites.google.com/site/jculearningspaces/home)** erstellt, auf der eine Sammlung
+    Titel **[„Learning Spaces Snapshots”](https://sites.google.com/site/jculearningspaces/home)** erstellt, auf der eine Sammlung
     von kurzen Videos zu finden ist, die zeigen, wie unterschiedliche
     pädagogische Ansätze in verschiedenen Arten von Lernräumen umgesetzt werden.
 

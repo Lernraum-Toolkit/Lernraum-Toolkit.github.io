@@ -7,7 +7,7 @@ nav_order: 3
 
 ## 4.3 Langlebigkeit 
 
-Der Ausdruck „long life, loose fit, low energy“ (etwa “Langes Leben,
+Der Ausdruck „long life, loose fit, low energy“ (etwa „Langes Leben,
 lockerer Sitz, niedrige Energie”, [Langston, 2014](../11_Referenzen.md)), der 1972 durch den
 RIBA Präsidenten Sir Alex Gordon geprägt wurde, fasst gutes Design
 zusammen, das berücksichtigt, dass Gebäude ein gewisses Maß an
@@ -28,7 +28,7 @@ Zahlen in verschiedenen Fachbereichen variieren.
 
 ![Abbildung 3](../00_Abbildungen/04-03_Brands_sechs_S.png)
 
-Abbildung 3. Brands "Six S" ([Brand (1994)](../11_Referenzen.md), Darstellung übernommen aus dem [UK Toolkit](../11_Referenzen.md), lizenziert unter [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.de)).
+Abbildung 3. Brands „Six S“ ([Brand (1994)](../11_Referenzen.md), Darstellung übernommen aus dem [UK Toolkit](../11_Referenzen.md), lizenziert unter [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.de)).
 
 Die Flexibilität des Gebäudes beruht daher auf Bauelementen am unteren
 Ende der Liste in der Abbildung. Je besser die Elemente weiter oben in

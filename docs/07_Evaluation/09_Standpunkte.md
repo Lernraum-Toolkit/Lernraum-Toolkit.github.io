@@ -90,12 +90,12 @@ an welchen Orten auf jedem Campus verwendeten. Diese
 Evaluationsergebnisse waren hilfreich, um den Bedarf für das Projekt
 aufzuzeigen.
 
-**Toni Kelly, Associate Director, Learning Environments, University of Hong Kong**, betont, wie wichtig es ist, ein "lessons learned"-Protokoll
-zu führen. Sie sagte dazu: "Man braucht nicht nur die Erlaubnis, neue
+**Toni Kelly, Associate Director, Learning Environments, University of Hong Kong**, betont, wie wichtig es ist, ein „lessons learned”-Protokoll
+zu führen. Sie sagte dazu: „Man braucht nicht nur die Erlaubnis, neue
 Räume zu schaffen, sondern auch die Erlaubnis, zurückzugehen und die
-Dinge wieder in Ordnung zu bringen". Oft ist dies einfach darauf
+Dinge wieder in Ordnung zu bringen”. Oft ist dies einfach darauf
 zurückzuführen, dass die Studierenden neue und unerwartete Wege finden,
-den Raum, das Mobiliar oder die Technik zu nutzen. Toni sagte: "Ganz
+den Raum, das Mobiliar oder die Technik zu nutzen. Toni sagte: „Ganz
 gleich, wie sorgfältig wir darauf geachtet haben, Räume zu schaffen, die
 den Bedürfnissen und Erwartungen der Studierenden entsprechen, sie
 schaffen es immer, sie auf eine Art und Weise zu nutzen, an die wir

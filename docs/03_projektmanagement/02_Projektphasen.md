@@ -48,7 +48,7 @@ um einen Raum mit erheblichen Designproblemen anzupassen.
 
 In einigen Fällen ist die Unterscheidung zwischen Neubau und Renovierung
 weniger klar. Paul Burt, Learning Spaces Service Owner, University
-College London (UCL), berichtet “Renovierung an der UCL könnte genauso
+College London (UCL), berichtet „Renovierung an der UCL könnte genauso
 gut ein Neubau sein. Viele Räume werden bis auf ein paar Pfeiler und
 Betonplatten zurückgebaut.“
 

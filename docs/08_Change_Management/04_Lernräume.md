@@ -25,12 +25,12 @@ Fakultäten oder Fachbereichen befindet, kann in einigen Fällen recht
 hoch sein. Das [UK Toolkits](../11_Referenzen.md) berichtet von einem
 Beispiel, bei dem vor kurzem nur
 4% der allgemeinen Lehrräume zentral verwaltet wurden, und man sagte
-uns: "Wir wissen, dass es Diskrepanzen bei der Raumqualität und der
-Unterstützung der Studierenden gibt". Eine andere Einrichtung hat derzeit
+uns: „Wir wissen, dass es Diskrepanzen bei der Raumqualität und der
+Unterstützung der Studierenden gibt”. Eine andere Einrichtung hat derzeit
 etwa 50% zentral verwaltete Räume, sagt aber, dass sie bei den anderen
-"kein Mitspracherecht haben, was die einzelnen Fakultäten tun, kein
+„kein Mitspracherecht haben, was die einzelnen Fakultäten tun, kein
 Wissen darüber, was sie getan haben, und keinen Einblick in die Räume
-bekommen können".
+bekommen können”.
 
 Dieser Mangel an Transparenz über dezentrale Räume hat direkte
 Auswirkungen auf die Unterstützung und das Erleben der Studierenden.

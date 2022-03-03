@@ -49,8 +49,8 @@ dass es um Vielfalt in der Gestaltung geht. Viele Studierende wünschen
 sich immer noch stufenförmige Hörsäle, während andere mehr Raum für die
 Zusammenarbeit fordern. Caroline erzählte, dass die Node Chairs eines
 der besten Beispiele für eine Innovation mit polarisierten Ansichten
-sind. "Sie sind ein bisschen wie Marmite: Studierende und Mitarbeitende
-lieben sie entweder oder hassen sie". Die Stühle sind in verschiedenen
+sind. „Sie sind ein bisschen wie Marmite: Studierende und Mitarbeitende
+lieben sie entweder oder hassen sie”. Die Stühle sind in verschiedenen
 Farben erhältlich, was es einfach macht, Gruppen zu bilden, indem man
 z.B. sagt, dass sich Studierende mit orangefarbenen Stühlen
 zusammenfinden und eine Gruppe bilden, aber einige Studierende kommen
@@ -69,9 +69,9 @@ um (gegebenenfalls mit entsprechenden Anpassungen für bestimmte
 Nutzerbedürfnisse) Hörbarkeit, Sichtbarkeit und Nutzbarkeit in
 Lernräumen zu gewährleisten. Tessa vertritt diese Ansicht aufgrund
 umfangreicher Erfahrungen, schlecht gestaltete Lernräume geerbt zu haben
-und diese wieder in Ordnung bringen zu müssen. Sie sagte: "Mein ganzer
+und diese wieder in Ordnung bringen zu müssen. Sie sagte: „Mein ganzer
 Schmerz ist hier drin. Ich habe all diese Fehler geerbt und von jedem
-einzelnen gelernt".
+einzelnen gelernt”.
 
 Im Laufe ihrer Karriere hat Tessa viele Beispiele für schlechte
 Lernräume im gesamten Sektor gesehen. Sie ist der Meinung, dass viele

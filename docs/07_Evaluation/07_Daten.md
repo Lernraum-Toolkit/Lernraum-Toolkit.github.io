@@ -47,7 +47,7 @@ Schlüsselmerkmale von Zielgruppen
 
 Personas sind fiktive Charaktere, die geschaffen werden, um bestimmte
 Schlüsselmerkmale von Zielgruppen zu verkörpern. Mit Personas kann man
-Nutzendenforschungsdaten in Beispielnutzende "verpacken", die wiederum zur
+Nutzendenforschungsdaten in Beispielnutzende „verpacken”, die wiederum zur
 Entwicklung von use cases für den Lernraum und [Services](../06_Service/00_Service.md)
 genutzt werden können. Personas bieten einige Vorteile für diejenigen,
 die Designprojekte durchführen, darunter:
@@ -74,7 +74,7 @@ die Designprojekte durchführen, darunter:
 -   [Persona Creation Workshop Overview - deutsche Übersetzung (odp)](../../00_Tools/07_07_DE_Persona_Creation_Workshop.odp) oder [(pptx)](../../00_Tools/07_07_DE_Persona_Creation_Workshop.pptx)
    kann in einem Workshops zur Erstellung von Personas verwendet
     werden, um die Teilnehmenden über den Prozess zu informieren und
-    spezifische "Klebezettel"-Übungen zu beschreiben, die zur
+    spezifische „Klebezettel”-Übungen zu beschreiben, die zur
     Entwicklung von Personas verwendet werden.
 
 -   [Beispiel Undergraduate Personas (pdf, learningspacetoolkit.org)](https://learningspacetoolkit.org/wp-content/uploads/NCSU-Libraries-personas-IMLS-.pdf)

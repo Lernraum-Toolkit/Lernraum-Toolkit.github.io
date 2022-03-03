@@ -40,7 +40,7 @@ Seminarraum = 2,2-2,50 m² pro Person
 
 PC Pools = 2,75 m² pro Person
 
-*Abschnitt zu “Interaktiven Hörsälen”* in der deutschen Übertragung nicht enthalten (bei Interesse, siehe [UK Toolkit](https://www.ucisa.ac.uk/learningspace), Kapitel 4.6)
+*Abschnitt zu „Interaktiven Hörsälen”* in der deutschen Übertragung nicht enthalten (bei Interesse, siehe [UK Toolkit](https://www.ucisa.ac.uk/learningspace), Kapitel 4.6)
 
 ### 4.7.1 Unterrichtsräume für Aktives Lernen
 

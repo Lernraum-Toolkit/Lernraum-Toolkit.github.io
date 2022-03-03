@@ -29,13 +29,13 @@ Durchführung solcher Bewertungen, abgesehen von Datensammlungen über die
 Anzahl der Nutzenden und ihre Aktivitäten in Bibliotheken und
 Lernressourcenzentren:
 
-> “Die Berücksichtigung von Raum in der Hochschulbildung fand in der Regel entweder im Kontext der Raumplanung oder als Teil der Campus-Masterplanung und -Architektur statt, anstatt als eine Ressource angesehen zu werden, die als integraler Bestandteil der Lehr- und Lernaktivitäten und der Forschung zu behandeln ist.”  (übersetzt nach [Temple, 2008](../11_Referenzen.md))
+> „Die Berücksichtigung von Raum in der Hochschulbildung fand in der Regel entweder im Kontext der Raumplanung oder als Teil der Campus-Masterplanung und -Architektur statt, anstatt als eine Ressource angesehen zu werden, die als integraler Bestandteil der Lehr- und Lernaktivitäten und der Forschung zu behandeln ist.”  (übersetzt nach [Temple, 2008](../11_Referenzen.md))
 
 Einer der Gründe hängt mit der inhärenten Schwierigkeit eines solchen
 Unterfangens zusammen. Eine Studie für Jisc von 2009, in der untersucht
 wurde, wie Lernräume evaluiert wurden, hat folgendes ergeben:
 
-> “Die Bewertung des Lernens ist nicht zuletzt deshalb schwierig, weil es viele Vorstellungen davon gibt, was Lernen ausmacht und wie der Prozess abläuft. Es herrscht weitgehend Einigkeit darüber, dass die derzeitigen Bewertungsmethoden das Lernen nicht vollständig erfassen,  aber es gibt wenig Konsens darüber, wie sie zu diesem Zweck ergänzt oder ersetzt werden könnten. Daher verdanken Lernraum-Evaluationen oft mehr der Raum-Evaluation im Allgemeinen, wobei Lern- und Lehrprozesse oft nur in einem bescheidenen Maße, wenn überhaupt, evaluiert werden.” (übersetzt nach [Pearshouse et al., 2009](../11_Referenzen.md))
+> „Die Bewertung des Lernens ist nicht zuletzt deshalb schwierig, weil es viele Vorstellungen davon gibt, was Lernen ausmacht und wie der Prozess abläuft. Es herrscht weitgehend Einigkeit darüber, dass die derzeitigen Bewertungsmethoden das Lernen nicht vollständig erfassen,  aber es gibt wenig Konsens darüber, wie sie zu diesem Zweck ergänzt oder ersetzt werden könnten. Daher verdanken Lernraum-Evaluationen oft mehr der Raum-Evaluation im Allgemeinen, wobei Lern- und Lehrprozesse oft nur in einem bescheidenen Maße, wenn überhaupt, evaluiert werden.” (übersetzt nach [Pearshouse et al., 2009](../11_Referenzen.md))
 
 Wenn man akzeptiert, dass Lernraumprojekte Veränderungsprojekte sind,
 dann muss man sorgfältig überlegen, wie man den Erfolg eines solchen

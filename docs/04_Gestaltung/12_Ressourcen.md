@@ -11,7 +11,7 @@ nav_order: 12
 
 -   Die Firma Steelcase bietet auf ihrer Webseite ein **[Beispiel](https://www.steelcase.com/eu-de/forschung/artikel/themen/aktiv-lernen/universitaet-von-amsterdam-plant-zukunftsweisende-bibliothek/)** für die Gestaltung eines Lernraums in der Bibliothek der Universität Amsterdam mit Fokus auf Flexibilität, sowie eine Reihe von **[Anregungen zur Möblierung/Gestaltung von Lernumgebungen](https://www.steelcase.com/eu-de/entdecken/informationen/bildung-professionals/)**.
 
--   Die TU Delft hat ein "Cookbook" veröffentlicht mit Standards zur Gestaltung von Lehrräumen und informellen (Selbst-)Lernräumen an ihrer Einrichtung (**[Link zu PDF](http://homepage.tudelft.nl/9c41c/Cookbook_Education_Spaces_v2_0.pdf)**) und stellt außerdem ein **[Online-Tool](http://tudesc.com)** zur Planung von Lesbarkeit und Sichtlinien in Lehrräumen zur Verfügung.
+-   Die TU Delft hat ein „Cookbook” veröffentlicht mit Standards zur Gestaltung von Lehrräumen und informellen (Selbst-)Lernräumen an ihrer Einrichtung (**[Link zu PDF](http://homepage.tudelft.nl/9c41c/Cookbook_Education_Spaces_v2_0.pdf)**) und stellt außerdem ein **[Online-Tool](http://tudesc.com)** zur Planung von Lesbarkeit und Sichtlinien in Lehrräumen zur Verfügung.
 
 -   Einige Empfehlungen und Good-Practice Beispiele zur barrierefreien Gestaltung von Lehr- und Lernräumen bietet der **[DINI-Lernraum-Atlas](https://intern.dini.de/confluence/display/LEHO/Barrierefreiheit+und+Nutzerfreundlichkeit#expand-weiterfhrend)**.
 

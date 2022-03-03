@@ -19,13 +19,13 @@ beitragen.
 **Ein gemeinsames Verständnis der Prioritäten für die
 Entscheidungsfindung aufbauen**
 
--   **Die "Werkzeuge",** welche die Grundlage für die Entscheidungsfindung
+-   **Die „Werkzeuge”,** welche die Grundlage für die Entscheidungsfindung
     bilden (Missions- und Visionserklärungen, strategischer Plan usw.),
     **erstellen und/oder auf sie zurückgreifen**.
 
 -   **Ermittelte Ziele, Bedürfnisse und Aktivitäten überprüfen**, um
     sicherzustellen, dass die Raum-/Technik-/Personalausstattung diese
-    erfüllt (z.B. sind die Ergebnisse des "Use-Case-Tools" aus dem
+    erfüllt (z.B. sind die Ergebnisse des „Use-Case-Tools” aus dem
     Abschnitt ([Mit Daten arbeiten](../07_Evaluation/07_Daten.md)) ein guter Ausgangspunkt).
 
 -   **Sicherstellen, dass die integrierten Planungsentscheidungen** die

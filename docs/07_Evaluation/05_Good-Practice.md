@@ -62,7 +62,7 @@ Räume und der Erfüllung der ursprünglichen Projektziele zu beantworten.
 
 -   Bestimmen, welche Nutzendengruppen angesprochen werden sollen, z.B.
     Studierende im Erststudium, repräsentative Hauptfächer, Graduierte,
-    und dabei Untergruppen wie "Early Adopters of Technology" oder Pendelnde
+    und dabei Untergruppen wie „Early Adopters of Technology” oder Pendelnde
     in Betracht ziehen. Profile der verschiedenen Nutzendentypen
     erstellen und wie sie verschiedene Räumen nutzen könnten.
 

@@ -94,7 +94,7 @@ inakzeptabler Preis, der im Namen der Nachhaltigkeit zu zahlen war.“
 Außerdem schrieben sie: „Der Betrieb mancher der besuchten Gebäude war
 so eingeschränkt, dass geschlussfolgert wurde, dass nachhaltiges Design
 in den frühen Phasen jeglichen Projektes mit äußerster Vorsicht
-behandelt werden sollte.“ Systeme mit Mischbetrieb/“Blended Systems“,
+behandelt werden sollte.“ Systeme mit Mischbetrieb/„Blended Systems“,
 bei denen die Luftzuleitungswege durch die Nutzung von mechanischen
 Lüftern oder die Abdeckung bestimmter Bereiche mit lokalen künstlichen
 Systemen angepasst oder modifiziert werden können, würden größere
