@@ -11,17 +11,17 @@ nav_order: 2
 
 Die Gestaltung von Serviceangeboten innerhalb von Lernräumen erfordert
 eine spezielle Denkweise und Tools. Das bedeutet, dass man zunächst die
-Nutzer und deren Bedürfnisse berücksichtigt, ganzheitlich plant, die
+Nutzenden und deren Bedürfnisse berücksichtigt, ganzheitlich plant, die
 gesammelten Erfahrungen rechtzeitig durchdenkt und iterativ zwischen den
 einzelnen Schritten und Tools arbeitet.
 
-Die Service Design Tools, die dieser Lernraum-Toolkit beinhaltet, sind:
+Die Service Design Tools, die dieses Lernraum-Toolkit beinhaltet, sind:
 
 -   [**ServicePlot**](02_01_Service-Plot.md) um die eigene Service Philosophie, Wert
     und Vision zu verstehen.
 
 -   [**Personas Overview**](02_02_Personas.md) um die Motivationen und
-    Verhalten der Nutzer darzustellen.
+    Verhalten der Nutzenden darzustellen.
 
 -   [**Service Location Planner**](02_03_Location-Planner.md) um festzulegen
     welche Services wo, wann und durch wen angeboten werden.
@@ -31,7 +31,7 @@ Die Service Design Tools, die dieser Lernraum-Toolkit beinhaltet, sind:
     “Berührungspunkte” zu identifizieren.
 
 -   [**Service Blueprints**](02_05_Blueprints.md) zur Orientierung,
-    wie sowohl „Front-Line“-Mitarbeitende als auch diejenigen hinter den
+    wie sowohl „Front-Line“-Personal als auch diejenigen hinter den
     Kulissen Service durch verschiedene Kanäle anbieten werden
 
 Zusammengenommen können diese Tools iterativ genutzt werden, um sich

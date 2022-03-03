@@ -23,29 +23,29 @@ Um diesen Prozess umzusetzen, muss man vier Schlüsselfaktoren
 berücksichtigen:
 
 -   **VZÄ:** Die Gesamtzahl der benötigten Mitarbeiter, in
-    Vollzeitäquivalenten (VZÄ). Zum Beispiel könnte 1 studentischer
-    Praktikant als 0,5 VZÄ betrachtet werden.
+    Vollzeitäquivalenten (VZÄ). Zum Beispiel könnte 1 studentische/r
+    Praktikant/in als 0,5 VZÄ betrachtet werden.
 
 -   **Fachgebiet:** Wie sich das Personal nach Servicebereichen oder
     Fachgebieten aufteilt. Die grundlegendsten könnten öffentliche
     Dienste (z.B.: Serviceschalter), technische Unterstützung, Betreuung
-    der Anlagen oder andere Spezialisten sein.
+    der Anlagen oder andere Spezialdienste sein.
 
 -   **Level/Niveau:** Grad der erforderlichen Erfahrung, Kenntnisse und
     Fähigkeiten, im Allgemeinen in vier Stufen unterteilt, wobei Stufe 1
     die einfachste und Stufe 4 die fortgeschrittenste ist.
 
--   **Raum:** Die Zuordnung von Mitarbeitern zu Räumen oder
+-   **Raum:** Die Zuordnung von Mitarbeitenden zu Räumen oder
     Servicebereichen, z.B. das Verhältnis von Personal am
     Informationsschalter vs. Gruppenarbeitsräume vs. Infrastruktur
     hinter den Kulissen.
 
 Die Abbildung oben veranschaulicht, wie man unter Berücksichtigung
 dieser verschiedenen Faktoren vorgeht, und die Tabelle unten erklärt die
-Funktion und die Kenntnisse/Fähigkeiten, die von den Mitarbeitern je
+Funktion und die Kenntnisse/Fähigkeiten, die von den Mitarbeitenden je
 nach Fachgebiet und Niveau benötigt werden, um dies zu erreichen.
 
-**Mitarbeiterfunktion und -fähigkeiten nach Fachgebieten**
+**Mitarbeitendenfunktion und -fähigkeiten nach Fachgebieten**
 
 **Technisches Personal**
 
@@ -66,7 +66,7 @@ nach Fachgebiet und Niveau benötigt werden, um dies zu erreichen.
 <tr class="odd">
 <td> L1</td>
 <td><ul>
-<li><p>Front-Line-Interaktionen mit Benutzern</p></li>
+<li><p>Front-Line-Interaktionen mit Benutzenden</p></li>
 <li><p>Triage (Sichtung)</p></li>
 <li><p>Grundlegende Einrichtung</p></li>
 <li><p>Reagieren auf Probleme</p></li>
@@ -110,7 +110,7 @@ nach Fachgebiet und Niveau benötigt werden, um dies zu erreichen.
 <tr class="even">
 <td> L3</td>
 <td><ul>
-<li><p>Entwicklung kundenspezifischer Anwendungen</p></li>
+<li><p>Entwicklung kundschaftsspezifischer Anwendungen</p></li>
 <li><p>Schnittstellen und Grafiken</p></li>
 <li><p>Systementwicklung</p></li>
 </ul></td>
@@ -155,7 +155,7 @@ nach Fachgebiet und Niveau benötigt werden, um dies zu erreichen.
 <tr class="odd">
 <td>L1</td>
 <td><ul>
-<li><p>Frontline-Interaktion mit Nutzern am Serviceschalter</p></li>
+<li><p>Frontline-Interaktion mit Nutzenden am Serviceschalter</p></li>
 <li><p>Öffnen/Schließen von Gebäuden</p></li>
 <li><p>Überwachen der Sicherheit</p></li>
 <li><p>Terminplanung für Räume und Dienste</p></li>
@@ -175,7 +175,7 @@ nach Fachgebiet und Niveau benötigt werden, um dies zu erreichen.
 <li><p>Desktop-Support anbieten</p></li>
 <li><p>Führungen geben</p></li>
 <li><p>Hardware-Fehlersuche und -Wartung</p></li>
-<li><p>Dienstpläne der Mitarbeiter pflegen</p></li>
+<li><p>Dienstpläne des Personals pflegen</p></li>
 </ul></td>
 <td><ul>
 <li><p>Mittlere Kenntnisse über spezifische Computerprogramme</p></li>
@@ -186,7 +186,7 @@ nach Fachgebiet und Niveau benötigt werden, um dies zu erreichen.
 <tr class="odd">
 <td> L2+</td>
 <td><ul>
-<li><p>Erweiterter Support für Benutzer, komplexe Probleme beantworten/lösen</p></li>
+<li><p>Erweiterter Support für Nutzende, komplexe Probleme beantworten/lösen</p></li>
 <li><p>Personal einstellen, schulen und leiten</p></li>
 <li><p>Dokumentation pflegen</p></li>
 </ul></td>
@@ -218,7 +218,7 @@ Wenn man ein Learning Commons plant und schätzt, dass es mit 11 VZÄ
 besetzt sein wird, könnte man am Ende eine Tabelle wie diese erhalten:
 Wenn man folgendes weiß (oder abschätzt): (1) die erwartete Anzahl der
 VZÄ, (2) die Aufschlüsselung dieser VZÄ nach Disziplin/Bereich und
-Dienstalter, und (3) die Verteilung dieser Mitarbeiter nach Raumtyp,
+Dienstalter, und (3) die Verteilung dieser Mitarbeitenden nach Raumtyp,
 dann geht man direkt zum [**Integrated Budgeting Tool**](../09_Integration/02_Tool.md).
 
 <table>

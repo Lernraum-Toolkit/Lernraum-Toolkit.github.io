@@ -10,7 +10,7 @@ nav_order: 7
 ### 7.6.7 Umfragen
 
 Umfragen können eine Fülle von Informationen über die Präferenzen und
-das Verhalten der Nutzer bezüglich bestehender Lernräume und
+das Verhalten der Nutzenden bezüglich bestehender Lernräume und
 Technologien liefern, die als Entscheidungsgrundlage für die Planung
 neuer Räume dienen können. Umfragen sind auch nützlich, um Feedback zu
 sammeln, mit dem man beurteilt, wie gut die derzeitigen Räume funktionieren.
@@ -19,9 +19,9 @@ verwendet. Das Hinzufügen von offenen Fragen ermöglicht auch die
 Erfassung qualitativer Informationen. Sie erlauben die Erfassung von
 Daten eines Teils der Gruppe, um ein oder mehrere Merkmale einer ganzen
 Gruppe zu beschreiben. Umfragen dienen dazu, auf effiziente Weise viele
-Daten über die Benutzer zu erhalten und können über das Internet, per
+Daten über die Nutzenden zu erhalten und können über das Internet, per
 E-Mail, Telefon oder persönlich durchgeführt werden. Sie helfen
-Untersuchern, Informationen zu sammeln, um Wissen, Einstellungen und
+Untersuchenden, Informationen zu sammeln, um Wissen, Einstellungen und
 Verhalten zu beschreiben, zu vergleichen oder zu erklären. Die für die
 Umfrage ausgewählte Population hat mindestens ein gemeinsames Merkmal
 (z.B. Studierende im Grundstudium, Ingenieurstudierende, Studierende im
@@ -46,11 +46,11 @@ Gebäude X).
     Stichprobenpopulation getestet werden.
 
 -   Es kann schwierig sein, eine repräsentative Stichprobe der
-    benötigten Nutzerkategorien zu erhalten.
+    benötigten Nutzendenkategorien zu erhalten.
 
 -   Lange Umfragen werden zu einer geringeren Beteiligung führen.
 
--   Häufige Umfragen werden von der Nutzergemeinschaft möglicherweise
+-   Häufige Umfragen werden von der Nutzendengemeinschaft möglicherweise
     als Belästigung empfunden.
 
 **Zu berücksichtigende Punkte**
@@ -60,14 +60,14 @@ Gebäude X).
     die Umfrage motivieren. Die interessierenden Gruppen sollten gut
     definiert sein. Man sollte über Qualität versus Quantität
     nachdenken und eher Zeit in die sorgfältige Auswahl der
-    Teilnehmer investieren, anstatt zu versuchen, alle möglichen
+    Teilnehmenden investieren, anstatt zu versuchen, alle möglichen
     Personen zu befragen.
 
 -   Das zu untersuchende Problem klar und deutlich definieren, indem man
     grobe Kategorien von Themen festlegt und dann zu immer
     spezifischeren Themen innerhalb dieser Kategorien kommt.
 
--   Die Überprüfung früherer Untersuchungen kann bei der Planung einer
+-   Das Sichten schon durchgeführter Untersuchungen kann bei der Planung einer
     neuen Umfrage hilfreich sein. Man sollte Umfrageformate, die Art der
     gestellten Fragen und die Art und Weise, wie die Fragen formuliert
     werden, anschauen.
@@ -79,13 +79,13 @@ Gebäude X).
     beeinflussen. Fragen sollten mit einfachen Worten und ohne
     Fachjargon formuliert werden. Wenn es notwendig ist, Fachbegriffe zu
     verwenden, sollten Definitionen für diese Begriffe in das
-    Erhebungsinstrument aufgenommen werden. Referenzpunkte oder Hinweise
-    geben, wenn man Fragen nutzt, die von den Teilnehmern verlangen,
+    Erhebungsinstrument aufgenommen werden. Man sollte Referenzpunkte oder Hinweise
+    geben, wenn man Fragen nutzt, die von den Teilnehmenden verlangen,
     sich an Ereignisse oder andere Informationen zu erinnern.
 
 -   Die Länge der Umfrage steht in direktem Zusammenhang mit der
-    Teilnahme an einer Umfrage (je kürzer, desto besser). Allen
-    Befragten sollen Fragen vorgelegt werden, die sie auf genau die
+    Teilnahmebereitschaft an einer Umfrage (je kürzer, desto besser). Allen
+    Befragten sollen Fragen vorgelegt werden, die sie auf möglichst
     gleiche Weise interpretieren und verstehen.
 
 -   Es gibt mehr als eine Möglichkeit, Daten zu sammeln. Man sollte die
@@ -96,20 +96,20 @@ Gebäude X).
 -   Demographische Fragen einbeziehen.
 
 -   Man sollte in Betracht ziehen, die Umfrage für die Rekrutierung von
-    Teilnehmern für Interviews zu nutzen, um auf den Erkenntnissen aus
+    Teilnehmenden für Interviews zu nutzen, um auf den Erkenntnissen aus
     den Umfrage-Daten aufzubauen, die einer weiteren Untersuchung
     bedürfen.
 
--   Testlauf der Umfrage mit Vertretern der Population(en), die man
+-   Testlauf der Umfrage mit Mitgliedern der Population(en), die man
     ansprechen möchte.
 
 -   Online-Tools wie Survey Monkey und Google Forms sind für die
     Erfassung von Umfragedaten sehr nützlich.
 
--   Bei der Arbeit mit menschlichen Probanden ist die Zustimmung der
+-   Bei der Arbeit mit menschlichen Teilnehmenden ist die Zustimmung der
     lokalen Ethikkommission erforderlich. Man sollte mit der eigenen
     Institution zusammenarbeiten, um die entsprechenden Ausnahmen
-    und/oder Genehmigungen zu beantragen, bevor man mit den Teilnehmern
+    und/oder Genehmigungen zu beantragen, bevor man mit den Teilnehmenden
     arbeitet.
 
 **Ressourcen Umfragen**

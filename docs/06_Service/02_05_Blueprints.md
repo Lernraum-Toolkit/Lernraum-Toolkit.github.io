@@ -25,7 +25,7 @@ Servicekonzepte können verschiedene Formen annehmen - einige sind
 grafischer als andere - aber sie sollten die verschiedenen Mittel/Kanäle
 aufzeigen, über die die Dienste bereitgestellt werden, und die
 physischen Gegebenheiten des Dienstes, die Aktivitäten der
-„Front-Line“-Mitarbeitenden und hinter den Kulissen und die Supportsysteme
+„Front-Line“-Personals und hinter den Kulissen und die Supportsysteme
 aufzeigen. Sie werden in einem iterativen Prozess vervollständigt - in
 einem ersten Durchgang, in dem Erkenntnisse aus Personas, Journey Maps
 und der Standortplanung berücksichtigt werden, anschließend wird der

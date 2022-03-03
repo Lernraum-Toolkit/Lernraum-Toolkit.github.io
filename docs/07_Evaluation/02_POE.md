@@ -25,7 +25,7 @@ oder die technische Leistung des Gebäudes. Sie dienen mehreren Zwecken:
 
 -   Probleme in Gebäuden identifizieren und lösen;
 
--   Auf die Bedürfnisse der Nutzer reagieren;
+-   Auf die Bedürfnisse der Nutzenden reagieren;
 
 -   Raumnutzung durch Feedback aus der Nutzung verbessern;
 
@@ -41,7 +41,7 @@ oder die technische Leistung des Gebäudes. Sie dienen mehreren Zwecken:
 
 -   Neue Nutzungsmöglichkeiten für Gebäude finden;
 
--   Verantwortlichkeit der Planer für die Gebäudeleistung.
+-   Verantwortlichkeit der Planenden für die Gebäudeleistung.
 
 **Langfristige Vorteile von POE**
 

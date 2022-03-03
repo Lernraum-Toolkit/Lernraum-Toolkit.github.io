@@ -26,8 +26,8 @@ und Lernen beleuchten.
 
 [NESSE (National Survey of Student Engagement)](https://nsse.indiana.edu/)
 veröffentlicht einen jährlichen Bericht über die Qualität der
-studentischen Bildungserfahrungen. Sie erforschen auch die Wahrnehmung
-des studentischen Engagements durch die Dozenten.
+studentischen Bildungserfahrungen in den USA. Sie erforschen auch die Wahrnehmung
+des studentischen Engagements durch die Dozierende.
 
 Darüber hinaus kann es von Vorteil sein, eine Literaturübersicht über
 veröffentlichte Forschungsarbeiten zu Trends bei Räumen im
@@ -44,7 +44,7 @@ sein:
 
 -   Für Planung und Analyse zuständige institutionelle Einheit
 
--   Lerntechnologie-Berater auf dem Campus
+-   Lerntechnologie-Beratung auf dem Campus
 
 -   Informationstechnologie
 

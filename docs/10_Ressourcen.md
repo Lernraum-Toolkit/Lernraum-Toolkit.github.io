@@ -140,7 +140,7 @@ permalink: /docs/
 
 -   **[Blended Learning in der Lernwelt](https://www.liv-projekte.de/lernwelt)** des LIV Heilbronn
 
--   **[ExpLAB Schloss Schneckenhof](https://www.bib.uni-mannheim.de/standorte/explab-schloss-schneckenhof/)** der Universitätsbibliothek Mannheim mit Angeboten zu kreativem, gemeinschaftlichen Lernen mit moderner technischer Infrastruktur
+-   **[ExpLAB Schloss Schneckenhof](https://www.bib.uni-mannheim.de/standorte/explab-schloss-schneckenhof/)** der Universitätsbibliothek Mannheim mit Angeboten zu kreativem, gemeinschaftlichem Lernen mit moderner technischer Infrastruktur
 
 -   **[Selbstlernzentrum LEO](https://www.uni-kassel.de/einrichtung/servicecenter-lehre/besser-studieren/leo-lernort)** der Universität Kassel
 
@@ -198,6 +198,5 @@ permalink: /docs/
     Universitätsbibliothek Augsburg (u.a. Einblicke in
     Lernraumforschung an der HdM Stuttgart, Gestaltung des neuen
     Lernraum24 an der Universitätsbibliothek Bamberg, das Parlatorium
-    der Universitätsbibliothek Freiburg, Planung von
-    Benutzerarbeitsflächen, Erschließung von Lern- und
+    der Universitätsbibliothek Freiburg, Erschließung von Lern- und
     Arbeitsplätzen)

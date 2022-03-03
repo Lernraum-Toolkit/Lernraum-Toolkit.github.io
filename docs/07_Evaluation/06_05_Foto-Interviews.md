@@ -10,13 +10,13 @@ nav_order: 5
 ### 7.6.5 Foto-Interviews / Fototagebuch
 
 Das Foto-Interview oder Fototagebuch ist eine qualitative
-Forschungsmethode, bei welcher der Untersucher dem Befragten eine Kamera und
+Forschungsmethode, bei welcher der Untersuchende dem/der Befragten eine Kamera und
 eine Liste von Aufforderungen zum Fotografieren gibt. Nach dem
 Fotografieren über einen bestimmten Zeitraum (über kurze Zeit bis zu
-mehreren Tagen) führt der Untersucher ein Interview mit dem Teilnehmer
-durch, wobei er die Fotos zum Einholen von Informationen verwendet.
-Diese Methode führt die Bilder und Worte des Befragten zusammen und
-verleiht so seiner Perspektive mehrere Dimensionen. Sie kann verwendet
+mehreren Tagen) führt der Untersucher ein Interview mit dem Teilnehmenden
+durch, wobei die Fotos zum Einholen von Informationen verwendet werden.
+Diese Methode führt die Bilder und Worte der Befragten zusammen und
+verleiht so deren Perspektive mehrere Dimensionen. Sie kann verwendet
 werden, um etwas über die Arbeitspraktiken der Studierenden, ihre
 Erfahrungen als Mitglieder einer Campus-Gemeinschaft und ihr Verhalten
 in und Vorlieben für verschiedene Lernräume zu erfahren. Am häufigsten
@@ -32,23 +32,23 @@ zu erfahren, wie Studierende vorhandene Lernräume nutzen und wahrnehmen.
 
 -   Die Fotos und die Diskussion in einer synchronisierten Videodatei
     aufzuzeichnen, bietet den Beteiligten eine gute Möglichkeit, das
-    Verhalten, die Vorlieben und die Anforderungen der Benutzer sowohl
+    Verhalten, die Vorlieben und die Anforderungen der Nutzenden sowohl
     zu hören als auch zu sehen.
 
 **Schwächen**
 
--   Der Untersucher benötigt Zugang zu Kameras und ein Verfahren zur
+-   Der Untersuchende benötigt Zugang zu Kameras und ein Verfahren zur
     Ausleihe / Zuweisung an die Befragten.
 
 -   Wenn es einen Abstand zwischen der Übergabe einer Kamera an den
-    Teilnehmer und dem Interview gibt, kann das größere logistische
+    Teilnehmenden und dem Interview gibt, kann das größere logistische
     Herausforderungen bei der Planung der Treffpunktzeiten und des
     Interviews mit sich bringen.
 
 -   Die Methode ist zeitintensiv, da es sich um eine
     Eins-zu-Eins-Methode handelt.
 
--   Der Interviewer muss in der Lage sein, eine Beziehung zum Befragten
+-   Der Interviewende muss in der Lage sein, eine Beziehung zum Befragten
     aufzubauen.
 
 \* *Diese Methode wurde durch die Arbeit von Nancy Fried Foster und dem
@@ -63,7 +63,7 @@ Rochester](http://hdl.handle.net/1802/7520).*
     Fotoanweisungen (d.h. "Ihr Lieblingsplatz zum Lernen") erstellen,
     die eine Reihe von Themen abdecken. Siehe Beispiele im [Learning
     Space Toolkit’s Needs Assessment Data Gathering Tools](https://learningspacetoolkit.org/wp-content/uploads/2011/10/PhotoInterviews-Examples.pdf).
-    Vielleicht sollten die Evaluationsexperten der Universität
+    Vielleicht sollten die Evaluationsfachleute der Universität
     konsultiert werden, um das Design der Studie und die Interpretation
     der Ergebnisse zu besprechen.
 
@@ -74,35 +74,35 @@ Rochester](http://hdl.handle.net/1802/7520).*
     schicken.
 
 -   Die Foto-Interview-Methode erfordert, dass man (1) sich mit dem
-    Teilnehmer trifft, um den Ablauf zu erklären und ihm die Kamera und
-    die Liste der Aufforderungen zu geben, (2) die Kamera vom Teilnehmer
+    Teilnehmenden trifft, um den Ablauf zu erklären und ihm/ihr die Kamera und
+    die Liste der Aufforderungen zu geben, (2) die Kamera vom Teilnehmenden
     zurückerhält und (3) das Interview führt. Diese mehrstufige Methode
-    erfordert, dass man sich mehrmals mit dem Teilnehmer trifft. Um
+    erfordert, dass man sich mehrmals mit dem Teilnehmenden trifft. Um
     Terminkomplikationen zu vermeiden, sollten man gut vorausplanen.
 
--   Wenn sich die Studie darauf konzentriert, wie die Teilnehmer einen
+-   Wenn sich die Studie darauf konzentriert, wie die Teilnehmenden einen
     bestimmten Raum wahrnehmen und nutzen, kann der Prozess auf einen
     Tag oder sogar eine Stunde komprimiert werden, wodurch die Anzahl
-    der Treffen mit dem Teilnehmer verringert wird. Man trifft sich mit
-    dem Teilnehmer und übergibt die Kamera und die Aufforderungen. Nach
+    der Treffen mit dem Teilnehmenden verringert wird. Man trifft sich mit
+    dem Teilnehmenden und übergibt die Kamera und die Aufforderungen. Nach
     einer bestimmten Zeitspanne (z.B. 30 Minuten) trifft man sich wieder
     und führt das Interview durch.
 
--   Die Anwerbung von Teilnehmern und die Planung von Interviews kann
+-   Die Anwerbung von Teilnehmenden und die Planung von Interviews kann
     mehr Zeit in Anspruch nehmen als erwartet. Studierende benötigen in
     der Regel einen Anreiz zur Teilnahme.
 
 -   Das Interview sollte an einem Ort stattfinden, der für die befragte
     Person praktisch, ruhig und bequem ist. Vielleicht kann man das
-    Interview im Büro eines Teilnehmers oder in einer ruhigen Umgebung
-    in der Nähe seines Arbeitsplatzes oder Aufenthaltsorts auf dem Campus
+    Interview im Büro eines Teilnehmenden oder in einer ruhigen Umgebung
+    in der Nähe des Arbeitsplatzes oder Aufenthaltsorts auf dem Campus
     durchführen.
 
 -   Während des Interviews dienen die Fotos als Gesprächsgerüst. Die
     Fotos werden verwendet, um nützliche Informationen zu erhalten, die
-    in der ursprünglichen Aufforderung nicht direkt enthalten waren. Der
-    Befragte sollte ausreichend Zeit haben, um zu antworten. Man sollte sich
-    angewöhnen zu pausieren und den Befragten nachdenken und reden zu
+    in der ursprünglichen Aufforderung nicht direkt enthalten waren. Die
+    Befragten sollten ausreichend Zeit haben, um zu antworten. Man sollte sich
+    angewöhnen zu pausieren und die Befragten nachdenken und reden zu
     lassen.
 
 -   Man kann Screencast-Programme (Bildschirmaufzeichnungsprogramm)
@@ -113,10 +113,10 @@ Rochester](http://hdl.handle.net/1802/7520).*
     Diese Notizen können schon vor einer vertieften Analyse der
     Interviewdaten hilfreich sein.
 
--   Bei der Arbeit mit menschlichen Probanden ist die Zustimmung der
+-   Bei der Arbeit mit menschlichen Teilnehmenden ist die Zustimmung der
     lokalen Ethikkommission erforderlich. Man sollte mit der eigenen
     Institution zusammenarbeiten, um die entsprechenden Ausnahmen
-    und/oder Genehmigungen zu beantragen, bevor man mit den Teilnehmern
+    und/oder Genehmigungen zu beantragen, bevor man mit den Teilnehmenden
     arbeitet.
 
 **Ressourcen Fotographische Methoden**

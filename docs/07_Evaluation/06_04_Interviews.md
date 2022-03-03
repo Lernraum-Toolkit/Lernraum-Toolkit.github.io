@@ -9,19 +9,19 @@ nav_order: 4
 ### 7.6.4 Interviews
 
 Interviews können einen unschätzbaren Einblick in das Verhalten, die
-Einstellungen und die Präferenzen der aktuellen oder potenziellen Nutzer
+Einstellungen und die Präferenzen der aktuellen oder potenziellen Nutzenden
 eines Raums geben. Das Interview ist eine qualitative Forschungsmethode,
-die die Form eines Gesprächs zwischen einem Untersucher und einem
+die die Form eines Gesprächs zwischen einem Interviewenden und einem
 Befragten annimmt. Ein typisches Interview findet zwischen einem
-Interviewer und einem Befragten statt. Ein Kleingruppeninterview wird
+Interviewenden und einem Befragten statt. Ein Kleingruppeninterview wird
 häufiger als Fokusgruppe bezeichnet. Interviews sind effektiv, wenn sie
 während der Entwicklungsphase eines Projekts durchgeführt werden, da sie
-es den Forschern ermöglichen, das Feedback der Teilnehmer wieder in den
+es den Forschenden ermöglichen, das Feedback der Teilnehmenden wieder in den
 Projektentwurf einzubeziehen. Sie sind auch nützlich, um zu beurteilen,
 wie gut ein Raum funktioniert, wenn er einmal bezogen oder renoviert
 ist. Diese Methode ist besonders hilfreich, um die Designelemente zu
 identifizieren, die in einem Raum am nützlichsten sind, sowie die
-Elemente, die von den Benutzern als unzureichend empfunden werden.
+Elemente, die von den Nutzenden als unzureichend empfunden werden.
 
 **Stärken**
 
@@ -38,7 +38,7 @@ Elemente, die von den Benutzern als unzureichend empfunden werden.
 
 -   Zeitintensiv aufgrund der Eins-zu-eins-Natur der Methode.
 
--   Der Interviewer muss in der Lage sein, eine Beziehung zum Befragten
+-   Der Interviewende muss in der Lage sein, eine Beziehung zum Befragten
     aufzubauen.
 
 -   Angesichts der relativ kleinen Zahl der befragten Personen sind die
@@ -54,46 +54,46 @@ Elemente, die von den Benutzern als unzureichend empfunden werden.
     führen. Man sollte die Interviewfragen in einem oder mehreren
     Pilotinterviews testen.
 
--   Vielleicht sollten die Evaluationsexperten der Universität
+-   Vielleicht sollten die Evaluationsfachleute der Universität
     konsultiert werden, um das Design der Studie und die Interpretation
     der Ergebnisse zu besprechen.
 
--   Man sollte sich überlegen, welche Teile der Nutzerpopulation man in
-    die Interviews einschließen möchte und wie man Teilnehmer
-    rekrutieren könnte. Es kann hilfreich sein, Interviewpartner an
-    verschiedenen Orten der Einrichtung zu rekrutieren. Man sollte
-    potenzielle Teilnehmer auf Kernmerkmale hin überprüfen, die der
+-   Man sollte sich überlegen, welche Teile der Nutzendenpopulation man in
+    die Interviews einschließen möchte und wie man Teilnehmende
+    rekrutieren könnte. Es kann hilfreich sein, an
+    verschiedenen Orten der Einrichtung für die Interviews zu rekrutieren. Man sollte
+    potenzielle Teilnehmende auf Kernmerkmale hin überprüfen, die der
     Population entsprechen, die man untersuchen möchte (z.B.
     akademisches Niveau, Hauptfach, bevorzugt an einem Ort X zu lernen,
     viel Gruppenarbeit, usw.). Man sollte eine Liste potenzieller
-    Teilnehmer für zukünftige Projekte führen, auch wenn sie nicht die
+    Teilnehmende  für zukünftige Projekte führen, auch wenn sie nicht die
     Kriterien des aktuellen Projekts erfüllen. Man sollte mit der
     institutionellen Einheit sprechen, welche die Studierendenstatistik
     erstellt. Diese können möglicherweise E-Mail-Adressen und
     demografische Daten für bestimmte Studierendengruppen zur Verfügung
     stellen.
 
--   Die Rekrutierung von Teilnehmern und die Vereinbarung von
+-   Die Rekrutierung von Teilnehmenden und die Vereinbarung von
     Interviewterminen kann mehr Zeit in Anspruch nehmen, als man denkt.
     Studierende benötigen in der Regel einen Anreiz zur Teilnahme.
     Lehrkräfte werden oft ohne Anreiz einem Interview zustimmen.
 
 -   Da es sich in der Regel um Einzelgespräche handelt, sollte man eine
-    Reihe von Interviews führen, um von möglichst vielen Teilnehmern zu
+    Reihe von Interviews führen, um von möglichst vielen Teilnehmenden zu
     hören. Pro Populationssegment, das man untersuchen möchte, sind
     15-20 Interviews einzuplanen.
 
--   Das Interview sollte in einem Raum stattfindet, der für den
+-   Das Interview sollte in einem Raum stattfindet, der für die
     Befragten günstig liegt, ruhig und komfortabel ist. Vielleicht kann
-    man das Interview im Büro des Befragten oder an einem ruhigen Ort in
-    der Nähe seines Arbeitsplatzes oder seines häufigen Aufenthaltsortes
+    man das Interview im Büro der Befragten oder an einem ruhigen Ort in
+    der Nähe ihrer Arbeitsplätze oder ihrer häufigen Aufenthaltsorte
     auf dem Campus durchführen.
 
--   Es ist wichtig, dass der Interviewer eine Beziehung zu dem Befragten
+-   Es ist wichtig, dass der Interviewende eine Beziehung zu dem Befragten
     aufbaut, damit er/sie sich öffnen und frei sprechen kann. Vielleicht
-    möchte man, dass der Interviewer eine Person ist, die nicht direkt
-    in der Organisation arbeitet (z.B. ein Nicht-Bibliotheksmitarbeiter
-    für Projekte über Bibliotheksräume), damit sich der Befragte mit
+    möchte man, dass der Interviewende eine Person ist, die nicht direkt
+    in der Organisation arbeitet (z.B. ein Nicht-Bibliotheksmitarbeitender
+    für Projekte über Bibliotheksräume), damit sich der/die Befragte mit
     Kritik nicht zurückhält.
 
 -   Daran denken, dass das Interview ein Gespräch ist. Die
@@ -111,10 +111,10 @@ Elemente, die von den Benutzern als unzureichend empfunden werden.
     sind. Diese Notizen können schon vor einer vertieften Analyse der
     Interviewdaten hilfreich sein.
 
--   Bei der Arbeit mit menschlichen Probanden ist die Zustimmung der
+-   Bei der Arbeit mit menschlichen Teilnehmenden ist die Zustimmung der
     lokalen Ethikkommission erforderlich. Man sollte mit der eigenen
     Institution zusammenarbeiten, um die entsprechenden Ausnahmen
-    und/oder Genehmigungen zu beantragen, bevor man mit den Teilnehmern
+    und/oder Genehmigungen zu beantragen, bevor man mit den Teilnehmenden
     arbeitet.
 
 **Ressourcen Interviews**

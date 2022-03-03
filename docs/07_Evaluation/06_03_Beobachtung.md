@@ -9,9 +9,9 @@ nav_order: 3
 
 ### 7.6.3 Beobachtung
 
-Die formale Beobachtung der Benutzenden ist eine kostengünstige Methode, um
+Die formale Beobachtung der Nutzenden ist eine kostengünstige Methode, um
 mehr über das Verhalten der Lernenden und die Nutzung der vorhandenen
-Räume zu erfahren. Die Beobachtung kann neue Informationen über Benutzende
+Räume zu erfahren. Die Beobachtung kann neue Informationen über Nutzende
 liefern und uns in Bereiche innerhalb der Einrichtung führen, in die wir
 uns nicht oft begeben. Der Hauptzweck von Beobachtungen ist
 Beschreibung. Beschreibungen von Beobachtungen sollten eine Beschreibung
@@ -69,7 +69,7 @@ der vorhandenen Räume durch die Lernenden führen.
     Informationen erfassen.
 
 -   Die Genehmigung der lokalen Ethikkommission ist erforderlich, wenn
-    mit menschlichen Probanden gearbeitet wird. Man sollte mit der
+    mit menschlichen Teilnehmenden gearbeitet wird. Man sollte mit der
     eigenen Institution zusammenarbeiten, um die entsprechenden
     Ausnahmen und/oder Genehmigungen zu beantragen, bevor man mit den
     Teilnehmern arbeitet.

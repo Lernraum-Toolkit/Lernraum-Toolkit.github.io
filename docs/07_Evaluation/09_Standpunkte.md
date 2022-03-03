@@ -12,7 +12,7 @@ fest, dass es oft eine Diskrepanz gibt zwischen dem, was Studierende
 wollen und brauchen und dem, was Manager glauben, dass sie wollen.
 Ansätze zur Servicegestaltung (Baranova et al., 2010) können sehr
 hilfreich sein, wenn es darum geht, einen systematischen Ansatz zur
-Erfüllung der Nutzerbedürfnisse zu verfolgen. Jean ist bei Umfragen sehr
+Erfüllung der Nutzendenbedürfnisse zu verfolgen. Jean ist bei Umfragen sehr
 vorsichtig, weil man nur Antworten auf die Fragen erhält, die man
 stellt. Sie schlägt vor, dass man versuchen sollte, beim Entwurf von
 Evaluationsfragen sehr offen zu sein, so dass die Leute sagen, was sie
@@ -43,7 +43,7 @@ berichten nur über Hörsäle mit einer Kapazität von 100 oder mehr, die im
 Allgemeinen stark genutzt werden. Sie weist auch darauf hin, dass eine
 einfache Erhöhung der Auslastung nicht die vollständige Antwort auf eine
 bessere Raumnutzung ist. Es muss ein Gleichgewicht erreicht werden. Eine
-steigende Nutzung kann sich negativ auf die Erfahrungen der Studenten
+steigende Nutzung kann sich negativ auf die Erfahrungen der Studierenden
 auswirken, und dies wird anhand eines Kontinuums veranschaulicht.
 
 ![Pfeil Kontinuum](../00_Abbildungen/07-10_Standpunkte_Pfeil_Kontinuum.png)

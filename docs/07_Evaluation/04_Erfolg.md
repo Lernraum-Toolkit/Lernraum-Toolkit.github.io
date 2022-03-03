@@ -10,7 +10,7 @@ nav_order: 4
 
 Der Learning and Skills Council, der (bis zu seiner Auflösung im Jahr
 2010) für ein Hochschulbauprogramm in Bereich der Höheren
-Bildungseinrichtungen zuständig war, schlug vor, die folgenden Kriterien
+Bildungseinrichtungen in UK zuständig war, schlug vor, die folgenden Kriterien
 in allen neuen Projekten zu berücksichtigen[^25]:
 
 -   Innovation und Exzellenz - ist es eine innovative und qualitativ

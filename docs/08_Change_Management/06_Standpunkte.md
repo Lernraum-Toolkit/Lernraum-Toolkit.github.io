@@ -8,21 +8,21 @@ nav_order: 7
 ## Standpunkte und Perspektiven
 
 **Bruce Rodger, Head of Infrastructure, Information Services, University of Strathclyde,** spricht sich nachdrücklich für einen Portfolio-Ansatz
-bei der Gestaltung und Verwaltung von Unterrichtsräumen aus. Er betont,
+bei der Gestaltung und Verwaltung von Lehrräumen aus. Er betont,
 dass ein "One size fits all"-Ansatz nicht funktionieren wird und dass
 man eine Auswahl an Typen und Größen braucht, aber er weist darauf hin,
 dass "die Matrix niemals so groß sein sollte, dass man einzigartige
 Räume hat".
 
 In Strathclyde hat die Universität Schritte unternommen, um die
-fakultätseigenenen Räume in die zentrale Struktur zu integrieren, was bei
+fakultätseigenen Räume in die zentrale Struktur zu integrieren, was bei
 dieser Art von Portfoliomanagement hilft. Einer der Hauptgründe
 dafür war ein Brand im Jahr 2012, bei dem 50 Lehrräume 18 Monate lang
 nicht genutzt werden konnten. Der Brand machte Bruce klar, dass die
 Notfallpläne der Universitäten dazu neigen, nicht ernsthaft über
 Lernräume nachzudenken. Bestehende Pläne konzentrieren sich sehr stark
 auf geschäftliche Kontinuität und IT, aber selbst an einem Standort im
-Stadtzentrum, wo findet man da noch schnell 50 Unterrichtsräume?
+Stadtzentrum, wo findet man da noch schnell 50 Lehrräume?
 
 Zu einem Zeitpunkt, unmittelbar nach dem Brand, unterrichtete die
 Universität in Cafés und in einem Kino. Die Kosten für die Anmietung
@@ -59,7 +59,7 @@ regelmäßigen, aber weniger häufigen Bedürfnissen gerecht zu werden.
 Greet" ins Leben gerufen hat, um dem Lehrpersonal dabei zu helfen, die
 in den einzelnen Unterrichtsräumen vorhandenen Einrichtungen optimal zu
 nutzen. In den ersten beiden Semesterwochen ist in jedem Unterrichtsraum
-in den ersten 10 Minuten jeder Einheit ein erfahrener Mitarbeiter
+in den ersten 10 Minuten jeder Einheit ein erfahrener Mitarbeitender
 anwesend, der weiß, wie die Ausstattung in dem jeweiligen Raum
 funktioniert. Dies hilft Dozierenden, die entweder neu auf ihrer Stelle
 sind oder erstmals in einem bestimmten Raum unterrichten, eventuelle

@@ -19,17 +19,17 @@ verwiesen.
 **ServicePlot** ist ein Tool für Organisationen, um ihre
 Servicephilosophie zu erkennen und sich, basierend auf ihren Werten und
 Nutzerbedürfnissen, ihre zukünftige Philosophie vorzustellen. Dieses
-Tool beinhaltet zwei Hauptfaktoren, die Organisationen abhängig von ihren 
+Tool beinhaltet zwei Hauptfaktoren, die Organisationen abhängig von ihren
 Antworten auf einem Spektrum unterschiedlicher Philosophien positioniert:
 
 -   Verantwortlichkeit: Wofür übernimmt die Organisation Verantwortung
     in Bezug auf Bereitstellen oder Erbringen von Serviceangeboten – von
     der Übernahme der vollen Verantwortung auf der einen Seite hin zu
-    der Zusammenarbeit mit Partnern und Nutzern selbst (z.B.
+    der Zusammenarbeit mit Partnern/Partnerinnen und Nutzenden selbst (z.B.
     Selbstbedienung) auf der anderen.
 
 -   Angebot: wie und wo werden Services angeboten – mit einem verteilten
-    „Push“-Modell auf der einen Seite und einem zentralisierten „Pull“-Modell 
+    „Push“-Modell auf der einen Seite und einem zentralisierten „Pull“-Modell
     auf der anderen.
 
 
@@ -39,10 +39,10 @@ Abbildung 5. Beispiel für einen ausgefüllten ServicePlot, übernommen aus dem 
 
 Dafür bilden Organisationen ihre aktuellen und zukünftigen Antworten bezogen
 auf sechs Schlüsselthemen ab – Service-Schwerpunkt,
-Organisationsstruktur, Schlüsselqualifikationen der Mitarbeiter,
+Organisationsstruktur, Schlüsselqualifikationen des Personals,
 Angebot, Einstellung, Erfolgskriterien. Die daraus resultierende
 Darstellung vermittelt ein Bild davon, wo man steht und wo man mit
-seinem Service-Angebot hin will. ServicePlot ist nicht als ultimatives
+seinem Service-Angebot hinwill. ServicePlot ist nicht als ultimatives
 diagnostisches Werkzeug gedacht, sondern eher als Leitfaden zum
 Nachdenken und Diskutieren darüber, was die Service-Philosophie momentan
 ist und was man sich wünscht, wobei die notwendigen Veränderungen

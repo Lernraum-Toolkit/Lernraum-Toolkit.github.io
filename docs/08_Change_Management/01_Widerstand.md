@@ -19,13 +19,13 @@ Dieser Prozess wird psychologisch mit einem Trauerprozess verglichen,
 wobei jeder auf seine Weise mit solch großen Veränderungen umgeht. Jede
 Phase des Prozesses muss erkannt und entsprechend darauf reagiert
 werden. Es ist zum Beispiel nicht gut, die widerwillige Akzeptanz zu
-erwarten, wenn Mitarbeiter noch unter Schock stehen, dass ihr altes
+erwarten, wenn Mitarbeitenden noch unter Schock stehen, dass ihr altes
 Gebäude abgerissen werden soll.
 
 Veränderungen, insbesondere in Bereichen wie der Lehre oder der
 Verwaltungspraxis, können von einigen Menschen auch als Abwertung ihrer
 bisherigen Erfahrungen empfunden werden. Dies mag erklären, warum es
-jüngeren Mitarbeitern, die möglicherweise weniger Zeit und Mühe in das
+jüngeren Mitarbeitenden, die möglicherweise weniger Zeit und Mühe in das
 Erlernen der alten Methoden investiert haben, leichter fällt, sich an
 die neuen Gegebenheiten anzupassen.
 
@@ -33,20 +33,20 @@ Es ist wichtig, darüber nachzudenken, wo Widerstände liegen - sind es
 Individuen oder die Strukturen und Systeme, in denen sie sich befinden,
 die sich dem Wandel widersetzen? Wir müssen das vereinfachte Verständnis
 vermeiden, das dazu neigt, Lehrende entweder als Barrieren oder als
-Akteure des Wandels zu verorten ([Priestley, 2011](../11_Referenzen.md)).
+Akteure und Akteurinnen des Wandels zu verorten ([Priestley, 2011](../11_Referenzen.md)).
 
 Dies sind einige der Dinge, die uns Mitwirkenden des Toolkits über
 Veränderungen mitgeteilt haben:
 
--   Akademiker fühlen sich manchmal sehr unbehaglich, wenn sie sich von
-    ihren etablierten Strukturen entfernen: sie verfügen manchmal nicht
-    über die Fähigkeiten, die für den Unterricht in neuen Räumen
+-   Akademisches Personal fühlt sich manchmal sehr unbehaglich, wenn es sich von
+    seinen etablierten Strukturen entfernt: es verfügt manchmal nicht
+    über die Fähigkeiten, die für die Lehre in neuen Räumen
     erforderlich sind.
 
 -   Manche Menschen sind sehr darauf bedacht, Leute in Reihen vor sich
     zu haben und denken, dass sie nicht anders unterrichten können.
 
--   Ein Dozent, der den Raum ablehnt, kann eine vernichtende Wirkung auf
+-   Ein Dozierender, der den Raum ablehnt, kann eine vernichtende Wirkung auf
     die Studierenden haben.
 
 -   Man braucht sogar Beratungsfähigkeiten, da man viel Zeit damit
@@ -70,7 +70,7 @@ Veränderungen mitgeteilt haben:
     aber Veränderung ist bürokratisch und es ist einfacher, nicht vom
     ursprünglichen Plan abzuweichen.
 
-Jisc hat einige Bedingungen identifiziert, die Menschen eher dazu
+Jisc hat einige Bedingungen identifiziert, die uns Menschen eher dazu
 bewegen, Veränderungen anzunehmen und zu begrüßen[^29]:
 
 -   Wir haben die Veränderung angeregt;

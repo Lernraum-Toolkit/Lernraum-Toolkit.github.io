@@ -9,8 +9,8 @@ nav_order: 2
 ### 6.2.2 Personas
 
 Personas sind fiktive Charaktere, die geschaffen werden, um bestimmte
-Schlüsselmerkmale von Zielbenutzergruppen zu verkörpern. Mit Personas
-kann man Nutzerforschungsdaten in Beispielbenutzer verdichten, die
+Schlüsselmerkmale von Zielgruppen zu verkörpern. Mit Personas
+kann man Nutzungsforschungsdaten in Beispielbenutzende verdichten, die
 wiederum zur Entwicklung von Use Cases für den Lernraum und zur
 Gestaltung von Serviceangeboten verwendet werden können. Personas werden
 während des gesamten Prozesses der Servicegestaltung genutzt,

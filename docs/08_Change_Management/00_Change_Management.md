@@ -11,13 +11,13 @@ permalink: /docs/08_Change_Management
 
 **In Kürze**
 
--   Wir betrachten Ansätze für das Change Management und stellen die
-    heraus, die in einem Lernraumprojekt effektiv sein könnten
+-   Ansätze für das Change Management, insbesondere solche,
+    die in einem Lernraumprojekt effektiv sein könnten
 
--   Wir überlegen, welche Arten von Veränderungen notwendig sein könnten,
+-   Überlegungen, welche Arten von Veränderungen notwendig sein könnten,
     um neue Lernräume längerfristig effektiv zu verwalten;
 
--   Wir betrachten die erforderliche Unterstützung sowohl für das
+-   Erforderliche Unterstützung sowohl für das
     Personal als auch für die Studierenden, um den neuen Raum effektiv
     zu nutzen.
 
@@ -31,36 +31,36 @@ zutiefst persönliche und emotionale Reaktion der Stakeholder hervorrufen
 und zu Widerstand führen können, wenn sie nicht effektiv gehandhabt
 werden.
 
-Insbesondere schlagen wir vor, dass:
+Vorschläge im Einzelnen:
 
--   man die Zeit und die Ressourcen, die für die Durchführung von
+-   Man sollte die Zeit und die Ressourcen, die für die Durchführung von
     Veränderungsmanagement-Aktivitäten benötigt werden, nicht
-    unterschätzen sollte;
+    unterschätzen;
 
--   man nicht erwarten darf, dass Projektleiter mit einem
+-   Man darf nicht erwarten, dass Projektleitungen mit einem
     Hintergrund im Bauwesen (unabhängig davon, ob es sich um interne
-    Mitarbeiter der Organisation oder externe handelt) Spezialisten im
-    Bereich des Veränderungsmanagements sind: sie benötigen fachliche
+    Beschäftigte der Organisation oder externe handelt) Spezialwissen im
+    Bereich des Veränderungsmanagements mitbringen: sie benötigen fachliche
     Unterstützung;
 
--   wirksame Veränderung partizipatorisch ist, aber geleitet werden
-    muss. Die Führung und Unterstützung durch das obere Management
-    sollte konsequent und sichtbar sein.
+-   Wirksame Veränderung ist partizipatorisch, muss aber geleitet werden.
+    Die Führung und Unterstützung durch das obere Management
+    sollten konsequent und sichtbar sein.
 
 Neue Arten von Lernräumen zu schaffen, kann umfassende Maßnahmen des
 Veränderungsmanagements erfordern, um sicherzustellen, dass die
-Interessensgruppen den Raum effektiv nutzen können. In Abschnitt 2,
-[Partnerschaftliche Zusammenarbeit](../02_Zusammenarbeit/00_Zusammenarbeit.md), behandeln wir
+Interessensgruppen den Raum effektiv nutzen können. Der Abschnitt 2,
+[Partnerschaftliche Zusammenarbeit](../02_Zusammenarbeit/00_Zusammenarbeit.md), behandelt,
 wie man die richtigen Bedingungen für die Beteiligung der
 Interessengruppen schafft, damit alle relevanten Ansichten gehört und
 berücksichtigt werden können. Es ist zu hoffen, dass ein hochgradig
 partizipatorischer Ansatz bei der Entwicklung der Vision für einen neuen
-Lernraum an sich ermöglicht, viele Interessenvertreter schon in einem
+Lernraum an sich ermöglicht, viele Stakeholder schon in einem
 frühen Stadium mit ins Boot zu holen. Nichtsdestotrotz werden bei einem
 langen und komplexen Projekt während der gesamten Laufzeit des Projekts
 Stakeholder kommen und gehen, und die Anzahl der direkt an der Beratung
 beteiligten Personen stellt möglicherweise nur eine kleine Anzahl der
-Gesamtnutzer des Raums dar.
+Gesamtnutzenden des Raums dar.
 
 Für die optimale Nutzung eines neuen Raumtyps könnte eine beträchtliche
 Anzahl von Personen gefordert sein, neue Arbeitspraktiken zu entwickeln,
@@ -72,13 +72,13 @@ geschrieben worden. Im Jisc-Leitfaden[^28] zu diesem Thema wird ein
 gemeinsames Modell erörtert, das fünf verschiedene Strategien zur
 Bewältigung des Wandels aufzeigt:
 
-1.  *Direktive Strategien* – dieser Ansatz betont das Recht des Managers,
+1.  *Direktive Strategien* – dieser Ansatz betont das Recht des Managements,
     Veränderungen zu steuern, und den Gebrauch von Autorität, um
     Veränderungen mit wenig oder keiner Beteiligung anderer Personen
     durchzusetzen.
 
 2.  *Expertenstrategien* – dieser Ansatz sieht das Veränderungsmanagement
-    als einen Problemlösungsprozess, der von Experten gelöst werden
+    als einen Problemlösungsprozess, der von Experten und Expertinnen gelöst werden
     muss.
 
 3.  *Verhandlungsstrategien* – dieser Ansatz unterstreicht die
@@ -92,8 +92,8 @@ Bewältigung des Wandels aufzeigt:
 5.  *Partizipative Strategien* – dieser Ansatz betont die volle
     Einbeziehung aller, die an den erwarteten Veränderungen beteiligt
     und von ihnen betroffen sind. Die Ansichten aller werden
-    berücksichtigt, bevor Änderungen vorgenommen werden. Externe Berater
-    und Experten können zur Erleichterung des Prozesses eingesetzt
+    berücksichtigt, bevor Änderungen vorgenommen werden. Externe Beratiung
+    und Fachleute können zur Erleichterung des Prozesses eingesetzt
     werden, aber sie werden keine Entscheidungen über die Ergebnisse
     treffen.
 

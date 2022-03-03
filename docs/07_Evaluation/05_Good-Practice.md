@@ -21,7 +21,7 @@ Räume und der Erfüllung der ursprünglichen Projektziele zu beantworten.
 -   Die Ziele des Projekts sollten eine Grundlage für die Erarbeitung
     des Beurteilungsprozesses bilden. In der Phase der Bedarfsanalyse
     kann die Entwicklung von Zielen einen wiederholten Sammlungsprozess von
-    Informationen von den vorgesehenen Benutzergruppen und
+    Informationen von den vorgesehenen Nutzendengruppen und
     der Formulierung und Verfeinerung von Zielen beinhalten.
     Abschließend muss bei der POE eine Bewertung in Bezug auf diese
     Ziele vorgenommen werden.
@@ -35,7 +35,7 @@ Räume und der Erfüllung der ursprünglichen Projektziele zu beantworten.
     diesem Toolkit durchsehen, um zu schauen, ob es Modelle gibt, die man
     übernehmen oder anpassen möchte.
 
--   Bei der Evaluation sollte man sich mit Partnern zusammenschließen, um
+-   Bei der Evaluation sollte man Partnerschaften schließen, um
     von Fachleuten auf dem Campus zu profitieren; die meisten Einrichtungen
     haben beispielsweise eine Abteilung für Hochschuldaten und Kennzahlen,
     welche über Mitarbeitende verfügt, die mit Methoden und Protokollen vertraut
@@ -60,10 +60,10 @@ Räume und der Erfüllung der ursprünglichen Projektziele zu beantworten.
 -   Sowohl qualitative als auch quantitative Techniken nutzen; die Triangulation trägt dazu bei, ein umfassenderes
     Verständnis zu bekommen, was die Daten bedeuten.
 
--   Bestimmen, welche Nutzergruppen angesprochen werden sollen, z.B.
+-   Bestimmen, welche Nutzendengruppen angesprochen werden sollen, z.B.
     Studierende im Erststudium, repräsentative Hauptfächer, Graduierte,
-    und dabei Untergruppen wie "Early Adopters of Technology" oder Pendler
-    in Betracht ziehen. Profile der verschiedenen Benutzertypen
+    und dabei Untergruppen wie "Early Adopters of Technology" oder Pendelnde
+    in Betracht ziehen. Profile der verschiedenen Nutzendentypen
     erstellen und wie sie verschiedene Räumen nutzen könnten.
 
 -   Überlegen, wie der Zeitraum, in dem die Datensammlung (quantitativ
@@ -88,5 +88,5 @@ Räume und der Erfüllung der ursprünglichen Projektziele zu beantworten.
 
 -   Daran denken, dass die Evaluation iterativ und fortlaufend sein
     sollte; ein fortlaufendes Evaluationsprogramm einplanen, um am
-    Nutzerbedarf dran zu bleiben und zu prüfen, wie gut ein Raum den
+    Nutzendenbedarf dran zu bleiben und zu prüfen, wie gut ein Raum den
     Bedarf und die angestrebten Ergebnisse erfüllt.

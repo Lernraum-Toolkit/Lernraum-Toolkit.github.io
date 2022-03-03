@@ -25,14 +25,14 @@ darunter sind vor allem Zeit- und Budgetbeschränkungen zu nennen.
 Quantitative Informationen sind heutzutage relativ einfach zu erfassen,
 und die Datensammlung steht möglicherweise automatisch durch Systeme zur
 Verfügung, die z.B. den Zugang mit einer Magnetkarte erfassen oder
-Benutzer des Netzwerks registrieren. Die Wahl relativ traditioneller
+Nutzenden des Netzwerks registrieren. Die Wahl relativ traditioneller
 Evaluationstechniken und insbesondere automatisch generierter
 Auslastungsdaten ist für viele Evaluierende eine pragmatische
 Entscheidung, die zu schnellen Erfolgen führt.
 
 Solche Daten müssen jedoch durch Beobachtungs- und Verhaltensanalysen
 ergänzt werden, um wirkliche Einblicke in die Arbeitsweise von
-Studierenden und Dozenten in neuen Lernräumen zu gewinnen. In einigen
+Studierenden und Lerhpersonal in neuen Lernräumen zu gewinnen. In einigen
 Bereichen wurden ethnographische Ansätze[^26] verwendet: Die Edge Hill
 University entschied sich für einen ethnografischen Ansatz zur Bewertung
 ihres SOLSTICE-Raums[^27]; der Ansatz umfasste die Beobachtung von
@@ -47,7 +47,7 @@ unter anderem:
 
 -   Videotagebücher;
 
--   Benutzer-Blogs;
+-   Nutzenden-Blogs;
 
 -   Graffiti-Wände.
 
@@ -58,10 +58,10 @@ Forschungsethikkommission bedürfen.
 
 Der Bedarfsanalyse-Abschnitt des US Learning Space Toolkits beschreibt
 eine Reihe von konkreten Datenerfassungsmethoden und -tools, um mehr
-über die Bedürfnisse und Motivationen der Nutzer zu erfahren. Was müssen
+über die Bedürfnisse und Motivationen der Nutzenden zu erfahren. Was müssen
 die Benutzenden tun? Wo werden sie Aufgaben erledigen? Wie machen sie ihre
 Arbeit allein und mit anderen? Was sind ihre Motivationen und
-Bestrebungen? Das Beantworten solcher Fragen durch Nutzerforschung ist
+Bestrebungen? Das Beantworten solcher Fragen durch Nutzendenforschung ist
 für die Gestaltung effektiver Räume von entscheidender Bedeutung und
 fließt in Entscheidungen während des gesamten Prozesses der Gestaltung
 des Raumes und der Serviceangebote ein. Die Antworten helfen dabei,

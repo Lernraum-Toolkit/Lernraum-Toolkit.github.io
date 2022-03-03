@@ -23,14 +23,14 @@ werden und die Vision umgesetzt wird.*
 
 -   **Kritische Abhängigkeiten zwischen Gruppen und Disziplinen
     identifizieren** und von allen Stakeholdern bestätigen lassen (z.B.
-    Verbindungen zwischen Möbeln, Technik und Strom oder Mitarbeitern
+    Verbindungen zwischen Möbeln, Technik und Strom oder Personal
     und gewarteten Raumtypen).
 
 **Sicherstellen, dass der Bedarf erfüllt ist**
 
 -   **Schlüsselfaktoren auflisten, die die Entscheidungsfindung leiten**
     (z.B. Missions- und Visionserklärungen, Prioritäten, Strategische
-    Pläne, Nutzeraktivitäten, Nutzerbedürfnisse) und finale
+    Pläne, Nutzendenaktivitäten, Nutzendenbedürfnisse) und finale
     Entscheidungen überprüfen, um sicherzustellen, dass alle erfüllt
     werden.
 
@@ -41,7 +41,7 @@ werden und die Vision umgesetzt wird.*
     Veränderungen reagiert werden kann (z.B. mehr/weniger finanzielle
     Mittel).
 
--   **Designprüfungen mit den wichtigsten Benutzergruppen, Stakeholdern
+-   **Designprüfungen mit den wichtigsten Nutzendengruppen, Stakeholdern
     und anderen Personen,** die Input geliefert haben, durchführen.
     Dabei den Entscheidungsprozess erklären, Entscheidungen begründen
     und noch ausstehende Fragen klären. Mit den Personen, die Input
@@ -52,14 +52,14 @@ werden und die Vision umgesetzt wird.*
 **Die Teile zusammensetzen**
 
 -   **Geplante Nachbarschaften, Orte und Dienste** durch die
-    Beschreibung von Nutzererfahrungen **testen** (z.B. tatsächliche
+    Beschreibung von Nutzendenerfahrungen **testen** (z.B. tatsächliche
     Wege und geplante Aktivitäten aufschreiben). Tools verwenden, wie
     etwa Customer-Journey-Maps, um die geplante Erfahrung zu
     analysieren.
 
 -   **Servicekonzept überprüfen**, um sicherzustellen, dass die
     benötigten Räume und Technologie an den Service-Punkten vorhanden
-    sind und dass eine angemessene Zahl an Mitarbeitern zugewiesen oder
+    sind und dass eine angemessene Zahl an Mitarbeitenden zugewiesen oder
     neu eingestellt wird.
 
 -   **Konkrete, einfache operationale Fragen stellen** (z.B. Wenn dieser

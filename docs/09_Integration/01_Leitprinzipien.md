@@ -48,7 +48,7 @@ Entscheidungsfindung aufbauen**
     Gesamterfolg des Raums beeinflussen. Dabei sind folgende Aspekte zu
     beachten:
 
-    -   **Zirkulation und Strom der Nutzer**. Man sollte beachten, dass
+    -   **Zirkulation und Strom der Nutzenden**. Man sollte beachten, dass
         das Erdgeschoss höchstwahrscheinlich den größten
         Publikumsverkehr erzeugen wird.
 
@@ -58,7 +58,7 @@ Entscheidungsfindung aufbauen**
     -   **Zugangsebenen des Raums** und **Sicherheit**.
 
     -   **Angemessenes Gleichgewicht zwischen Vielfalt und
-        Wahlmöglichkeiten** aus Sicht der Nutzer.
+        Wahlmöglichkeiten** aus Sicht der Nutzenden.
 
 **Nachhaltigkeit beachten**
 

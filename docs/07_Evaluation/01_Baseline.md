@@ -56,7 +56,7 @@ Zu den Vorteilen der Erfassung einer Baseline gehören:
     stellt man fest, dass man ein bestimmtes Problem nicht lösen kann,
     ohne ein oder mehrere damit zusammenhängende Probleme anzugehen.
 
--   Identifizieren der Projektakteure - das Erstellen einer Baseline
+-   Identifizieren der Projektbeteiligten - das Erstellen einer Baseline
     kann verhindern, dass man später eine „Leiche im Keller“ in Form von
     Stakeholdern findet, die man hätte konsultieren sollen, aber dies
     versäumt hat.

@@ -9,24 +9,24 @@ nav_order: 3
 
 Eine typische POE, wie im Abschnitt [POE](02_POE.md) skizziert, erfüllt eine wesentliche Funktion in
 Bezug auf Bauprojekte und Immobilienverwaltung, aber dieser Abschnitt
-ist unter der Voraussetzung geschrieben, dass wir bei der Gestaltung
-eines neuen Lernraums darauf abzielen, das Lernen zu verbessern. Das mag
+wurde unter der Voraussetzung geschrieben, dass man bei der Gestaltung
+eines neuen Lernraums darauf abzielt, das Lernen zu verbessern. Das mag
 offensichtlich erscheinen, aber eine Standard-POE kann sehr detailliert
 auf verschiedene funktionelle und technische Fragen eingehen, ohne sich
 mit der grundlegenden Frage zu befassen, ob der Raum einen Einfluss auf
-das Lernen hat. In diesem Zusammenhang verwenden wir den Begriff Lernen
-ausdrücklich unabhängig davon, ob der Raum einen Einfluss auf die
+das Lernen hat. In diesem Zusammenhang wird der Begriff Lernen
+ausdrücklich unabhängig davon verwendet, ob der Raum einen Einfluss auf die
 Lehrpraxis hatte, da auch hier beides nicht dasselbe ist. Sie sind
 natürlich miteinander verbunden, und es ist zu erwarten, dass
 Veränderungen in der Lehrpraxis zu einer Veränderung der Ergebnisse
 führen werden. Pragmatisch gesehen kann es die Lehre sein, die man
-kurzfristig beobachten und bewerten kann. Insgesamt sollten wir jedoch
+kurzfristig beobachten und bewerten kann. Insgesamt sollte man jedoch
 versuchen, die Verwirklichung des Mehrwerts an den umfassenderen
 Projektzielen zu messen.
 
 Die britischen Hochschuleinrichtungen haben keine starke Tradition der
 Durchführung solcher Bewertungen, abgesehen von Datensammlungen über die
-Anzahl der Nutzer und ihre Aktivitäten in Bibliotheken und
+Anzahl der Nutzenden und ihre Aktivitäten in Bibliotheken und
 Lernressourcenzentren:
 
 > “Die Berücksichtigung von Raum in der Hochschulbildung fand in der Regel entweder im Kontext der Raumplanung oder als Teil der Campus-Masterplanung und -Architektur statt, anstatt als eine Ressource angesehen zu werden, die als integraler Bestandteil der Lehr- und Lernaktivitäten und der Forschung zu behandeln ist.”  (übersetzt nach [Temple, 2008](../11_Referenzen.md))
@@ -37,12 +37,12 @@ wurde, wie Lernräume evaluiert wurden, hat folgendes ergeben:
 
 > “Die Bewertung des Lernens ist nicht zuletzt deshalb schwierig, weil es viele Vorstellungen davon gibt, was Lernen ausmacht und wie der Prozess abläuft. Es herrscht weitgehend Einigkeit darüber, dass die derzeitigen Bewertungsmethoden das Lernen nicht vollständig erfassen,  aber es gibt wenig Konsens darüber, wie sie zu diesem Zweck ergänzt oder ersetzt werden könnten. Daher verdanken Lernraum-Evaluationen oft mehr der Raum-Evaluation im Allgemeinen, wobei Lern- und Lehrprozesse oft nur in einem bescheidenen Maße, wenn überhaupt, evaluiert werden.” (übersetzt nach [Pearshouse et al., 2009](../11_Referenzen.md))
 
-Wenn wir akzeptieren, dass Lernraumprojekte Veränderungsprojekte sind,
-dann müssen wir sorgfältig überlegen, wie wir den Erfolg eines solchen
-Raums messen können. Forschung zu diesem Thema wie [Watson et al. (2007)](../11_Referenzen.md) und [Pearshouse et al. (2009)](../11_Referenzen.md) empfiehlt eine Reihe von Maßnahmen:
+Wenn man akzeptiert, dass Lernraumprojekte Veränderungsprojekte sind,
+dann muss man sorgfältig überlegen, wie man den Erfolg eines solchen
+Raums messen kann. Forschung zu diesem Thema wie [Watson et al. (2007)](../11_Referenzen.md) und [Pearshouse et al. (2009)](../11_Referenzen.md) empfiehlt eine Reihe von Maßnahmen:
 
--   eine stärkere Anwendung von Baselines, sodass wir Vorher- und
-    Nachher-Evaluationen haben;
+-   eine stärkere Anwendung von Baselines, sodass man Vorher- und
+    Nachher-Evaluationen hat;
 
 -   eine stärkere Einbeziehung des Lehr- und Unterstützungspersonals;
 
@@ -87,16 +87,16 @@ uns helfen sollte, die folgenden Bedürfnisse zu erfüllen:
 
 Die technische Evaluation von AV-Systemen wird manchmal übersehen.
 Während Universitäten und Hochschulen immer besser in der Lage sind,
-nach anerkannten Standards zu entwerfen, bewerten wir die gelieferte
-Lösung nur selten anhand dieser Standards. Wir versäumen es auch, diese
+nach anerkannten Standards zu entwerfen, wird die gelieferte
+Lösung nur selten anhand dieser Standards bewertet. Wir versäumen es auch, diese
 Bewertung während der gesamten Lebensdauer des Systems regelmäßig zu
 wiederholen, was bedeutet, dass unsere Lebenszyklen mehr auf der
-Empfehlung und Kompatibilität der Hersteller als auf der gelieferten
+Empfehlung und Kompatibilität der herstellenden Unternehmen als auf der gelieferten
 Funktionalität basieren. Die Audioabdeckung, die Feldstärke der
 Induktionsschleife, das von Projektoren und Bildschirmen reflektierte
 Licht verdienen alle größere Aufmerksamkeit. Diese Technologien können
 mit Fernmanagementsystemen gemessen werden. Eine bessere Nutzung der
 automatisierten Auswertung wird Institutionen helfen, das nächste System
 zu entwerfen (sowie die gesamte Technologieanwendung zu entwickeln), und
-auf längere Sicht könnten relevante Daten an die Hersteller
+auf längere Sicht könnten relevante Daten an die herstellenden Unternehmen
 zurückgesandt werden.

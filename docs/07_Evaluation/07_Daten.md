@@ -8,28 +8,28 @@ nav_order: 7
 
 ## 7.7 Daten verarbeiten
 
-Nachdem die Daten über die Benutzer gesammelt wurden, müssen die
+Nachdem die Daten über die Nutzenden gesammelt wurden, müssen die
 Ergebnisse analysiert und zusammengefasst werden, damit man die
 wichtigsten Informationen für den Austausch mit den Projekt-Beteiligten
 herausarbeiten kann. Die Tiefe der Analyse und die Art und Weise, die
 Ergebnisse für die Weitergabe an andere zu verpacken, hängt vom
 Zeitrahmen, den Ressourcen und der Zielgruppe ab. Die folgenden
-Werkzeuge können dabei helfen, die Daten so zu verpacken, dass sie bei
+Werkzeuge können helfen, die Daten so zu verpacken, dass sie bei
 der Raum-, Service- und Technologieplanung hilfreich sind. Bevor diese
 Tools zur Anwendung kommen, sollte man schon ein paar Datenanalysen durchgeführt haben.
 
 **Use Case Tool** – zur Kommunikation der wichtigsten
-Benutzerbedürfnisse für Räume, Dienstleistungen und Technologien
+Nutzendenbedürfnisse für Räume, Dienstleistungen und Technologien
 
 Bei jedem Lernraumprojekt ist es wichtig, spezifische Beispiele dafür zu
-formulieren, wie die Arbeitsbedürfnisse und -präferenzen der Nutzer
+formulieren, wie die Arbeitsbedürfnisse und -präferenzen der Nutzenden
 einer bestimmten Art von Raum und den damit verbundenen Technologien und
 Dienstleistungen ihre Form geben. Diese Beispiele oder Use Cases
 (Anwendungsfälle) ermöglichen es einem Lernraumteam, Projektziele zu
 erstellen und sie mit den relevanten Interessengruppen zu teilen. Das
 Use Case-Tool ermöglicht es einem Projektteam, von anekdotischen
-Darstellungen der Benutzerbedürfnisse zu Szenarien überzugehen, die auf
-faktenbasierter Nutzerforschung beruhen, und so die Nutzerbedürfnisse in
+Darstellungen der Nutzendenbedürfnisse zu Szenarien überzugehen, die auf
+faktenbasierter Nutzendenforschung beruhen, und so die Nutzendenbedürfnisse in
 Raumnutzungsszenarien zu übersetzen. Diese Szenarien können sowohl bei
 der Raum- und Service-Dienstplanung verwendet werden als auch einen
 wichtigen Teil der Post-Occupancy / Redesign-Evaluation bilden.
@@ -43,37 +43,37 @@ wichtigen Teil der Post-Occupancy / Redesign-Evaluation bilden.
 [Download Template Use Case Tool (xlsx)](../../00_Tools/07_07_DE_Use_Case_Tool.xlsx){: .btn .btn-purple .fs-5 .mr-4}
 
 **Personas entwickeln -** zur Verkörperung spezifischer
-Schlüsselmerkmale von Zielnutzergruppen
+Schlüsselmerkmale von Zielgruppen
 
 Personas sind fiktive Charaktere, die geschaffen werden, um bestimmte
 Schlüsselmerkmale von Zielgruppen zu verkörpern. Mit Personas kann man
-Nutzerforschungsdaten in Beispielbenutzer "verpacken", die wiederum zur
+Nutzendenforschungsdaten in Beispielnutzende "verpacken", die wiederum zur
 Entwicklung von use cases für den Lernraum und [Services](../06_Service/00_Service.md)
 genutzt werden können. Personas bieten einige Vorteile für diejenigen,
 die Designprojekte durchführen, darunter:
 
--   Annahmen und Wissen über Benutzer explizit machen und dadurch dem
+-   Annahmen und Wissen über Nutzende explizit machen und dadurch dem
     Team eine gemeinsame Sprache geben, mit der es sinnvoll über
-    Benutzer sprechen kann.
+    Nutzende sprechen kann.
 
 -   Dem Projektteam die Möglichkeit geben, sich auf eine kleine Gruppe
-    von spezifischen Benutzern, die anders sind als die Teammitglieder
+    von spezifischen n, die anders sind als die Teammitglieder
     selbst, zu konzentrieren und für diese zu entwerfen.
 
--   Empathie gegenüber den Nutzern in einer Weise aufbauen, die Berichte
+-   Empathie gegenüber den Nutzenden in einer Weise aufbauen, die Berichte
     über qualitative und quantitative Daten nicht leisten können.
 
 **Tools**
 
 -   [Creating Personas Workshop Tool (learningspactoolkit.org)](https://learningspacetoolkit.org/needs-assessment/working-with-data/creating-personas-workshop-tool/index.html)
     bietet einen Überblick über den Prozess der Erstellung von Personas
-    und ist für einen Moderator gedacht, der mit einem Team
+    und ist für eine Moderation gedacht, die mit einem Team
     zusammenarbeitet, um Personas zu entwerfen, beginnend mit der
     Zusammenarbeit in einer Workshop-Situation.
 
 -   [Persona Creation Workshop Overview - deutsche Übersetzung (odp)](../../00_Tools/07_07_DE_Persona_Creation_Workshop.odp) oder [(pptx)](../../00_Tools/07_07_DE_Persona_Creation_Workshop.pptx)
    kann in einem Workshops zur Erstellung von Personas verwendet
-    werden, um die Teilnehmer über den Prozess zu informieren und
+    werden, um die Teilnehmenden über den Prozess zu informieren und
     spezifische "Klebezettel"-Übungen zu beschreiben, die zur
     Entwicklung von Personas verwendet werden.
 

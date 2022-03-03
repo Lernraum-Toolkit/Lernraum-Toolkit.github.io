@@ -7,8 +7,8 @@ nav_order: 2
 
 ## 8.2  Berufliche Weiterentwicklung
 
-Wir haben in den vorangegangenen Abschnitten über die Notwendigkeit
-gesprochen, dass eine Institution gemeinsame Werte über die zu fördernde
+In den vorherigen Abschnitten wurde die Notwendigkeit behandelt,
+dass eine Institution gemeinsame Werte über die zu fördernde
 Pädagogik hat und dass neue Räume entworfen werden müssen, die für die
 Benutzer sehr intuitiv sind. Trotzdem reicht es nicht aus, die Räume
 einfach nur zu schaffen und die Menschen dann damit alleine
@@ -18,7 +18,7 @@ bedeutet nicht unbedingt ein umfangreiches Schulungsprogramm, sondern
 kann so einfach sein, wie Inspirationsquellen für die neuen
 Möglichkeiten aufzuzeigen.
 
-*Ausführungen zu spezifischen Punkten zu akademischen Mitarbeitern* in der deutschen Übertragung nicht enthalten (bei Interesse, siehe [UK Toolkit](https://www.ucisa.ac.uk/learningspace), Kapitel 7.2)
+*Ausführungen zu spezifischen Punkten zu akademischem Personal* in der deutschen Übertragung nicht enthalten (bei Interesse, siehe [UK Toolkit](https://www.ucisa.ac.uk/learningspace), Kapitel 7.2)
 
 Die Serviceteams sämtlicher professioneller Dienste spielen ebenfalls
 eine wichtige Rolle, um den Einsatz von Technologie und flexiblen

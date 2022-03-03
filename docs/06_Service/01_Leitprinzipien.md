@@ -15,7 +15,7 @@ ihn nutzen, haben Service-Angebote einen entscheidenden Einfluss auf die
 Lernerfahrung. Zweitens, sollten Service-Angebote ganzheitlich mit
 Möbeln, Technologie und räumlichen Merkmalen eines Lernraums wie Größe,
 Proportionen, Aussicht, Beleuchtung und Farbe geplant werden. So
-bestimmt die Erfahrung, die man sich für seine Nutzer wünscht, die
+bestimmt die Erfahrung, die man sich für seine Nutzenden wünscht, die
 Service-Angebote, die nötig sind, und das kann bedeuten, dass das
 Personal anders arbeiten muss und auf eine völlige andere Art und Weise
 mit dem Raum und den Nutzern interagiert.
@@ -36,9 +36,9 @@ mit dem Raum und den Nutzern interagiert.
 
 -   **Sowohl Nutzende als auch Mitarbeitende sollten bezüglich des Lernraums eingewiesen und geschult werden** – dabei ist es hilfreich, den Raum, Möbel und Technik als „Hardware“ anzusehen und die Service-Angebote und vereinbarte Etikette/Protokolle als die notwendige, komplementäre „Software“, die die Hardware zum Laufen bringt. Dieses Training kann in „Hands-on sessions“ bei Bedarf bestehen oder durch Videos oder Beschilderung kommuniziert werden.
 
--   **Serviceangebote nutzen um eine Gemeinschaft aufzubauen und zu involvieren** indem man Veranstaltungen wie Workshops, Schulungen, Tutorials, Vorträge, Seminar, Wettbewerbe und soziale Zusammenkünfte plant. Diese Serviceangebote können die Nutzung und Anpassungsfähigkeit des Lernraums für seine Nutzergemeinschaft erhöhen.
+-   **Serviceangebote nutzen um eine Gemeinschaft aufzubauen und zu involvieren** indem man Veranstaltungen wie Workshops, Schulungen, Tutorials, Vorträge, Seminar, Wettbewerbe und soziale Zusammenkünfte plant. Diese Serviceangebote können die Nutzung und Anpassungsfähigkeit des Lernraums für seine Nutzendengemeinschaft erhöhen.
 
--   **Verstehen, dass für einen guten Service „Front-line“-Mitarbeitende benötigt werden, die auf eine natürliche und nicht skript-gebundene Art festgeschriebene Rollen spielen,** und dass sie spezielle Schulung und Vorbereitung brauchen, damit sie Nutzerbedürfnisse verstehen, sich in die Rolle hineinversetzen und sich auf verschiedene Szenarien oder Situationen vorbereiten, mit denen sie zu tun haben werden.
+-   **Verstehen, dass für einen guten Service „Front-line“-Mitarbeitende benötigt werden, die auf eine natürliche und nicht skript-gebundene Art festgeschriebene Rollen spielen,** und dass sie spezielle Schulung und Vorbereitung brauchen, damit sie Nutzendenbedürfnisse verstehen, sich in die Rolle hineinversetzen und sich auf verschiedene Szenarien oder Situationen vorbereiten, mit denen sie zu tun haben werden.
 
  
 

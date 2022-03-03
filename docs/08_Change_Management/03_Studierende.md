@@ -24,7 +24,7 @@ Vielzahl von Studierenden unbeliebt sein können, die sich mit dem Ansatz
 nicht auskennen und sich unwohl fühlen.
 
 Die Auseinandersetzung mit diesen Fragen ist Teil einer breiteren Agenda
-von Lernkompetenzen. Wir haben an anderer Stelle in diesem Toolkit
+von Lernkompetenzen. An anderer Stelle in diesem Toolkit wird
 vorgeschlagen, dass diejenigen, die Räume entwerfen, darüber nachdenken
 sollten, welche Art von Absolventenergebnissen sie erreichen wollen und
 wie bestimmte didaktische Ansätze und Lernräume dies unterstützen

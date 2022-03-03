@@ -11,17 +11,17 @@ permalink: /docs/06_Service
 
 **In Kürze**
 
--   Wir betrachten zunächst einige Leitprinzipien, die bei der Planung des Serviceangebots für einen Lernraum helfen können;
+-   Leitprinzipien, die bei der Planung des Serviceangebots für einen Lernraum helfen können;
 
--   Wir stellen einen Prozess zur Gestaltung des Serviceangebots vor, der auf einer Reihe von Methoden und Tools basiert. Auch wird dargestellt, wie man eine Abschätzung des benötigten Personals vornimmt.
+-   Vorstellung eines Prozesses zur Gestaltung des Serviceangebots, der auf einer Reihe von Methoden und Tools basiert. Auch wird dargestellt, wie man eine Abschätzung des benötigten Personals vornimmt.
 
 **Erwartungen an die Lektüre dieses Abschnitts**
 
 Serviceangebot und Räume müssen in integrierter Weise entworfen und
-durch Nutzerforschung gestützt werden. Serviceangebote sollten so
-gestaltet werden, dass sie nicht nur Anbieter-Effizienz, sondern auch
-Nutzer-Effektivität maximieren. Dieser Toolkit – aufbauend auf den
-[Instrumenten der Nutzerforschung](../07_Evaluation/06_00_Methoden.md), die im Abschnitt
+durch Nutzendenforschung gestützt werden. Serviceangebote sollten so
+gestaltet werden, dass sie nicht nur Anbietenden-Effizienz, sondern auch
+Nutzenden-Effektivität maximieren. Dieser Toolkit – aufbauend auf den
+[Instrumenten der Nutzendenforschung](../07_Evaluation/06_00_Methoden.md), die im Abschnitt
 Evaluation vorgestellt werden – zielt darauf ab, einen Prozess und die
 Werkzeuge zu bieten, um Serviceangebote innerhalb von Lernräume zu
 gestalten, zu betreiben und zu evaluieren.
