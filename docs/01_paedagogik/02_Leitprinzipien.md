@@ -126,7 +126,7 @@ ist, zu definieren, was man damit erreichen will (s. [Standpunkte](03_Standpunkt
 und [Kapitel 4 Konkrete Gestaltung verschiedener Arten von Lernräumen](../04_Gestaltung/00_Gestaltung.md)).
 
 ![Foto Gruppenkojen](../00_Abbildungen/01-02_Gruppenkojen_UB_Tuebingen.JPG)
-&copy; N.Schanz / Universitätsbibliothek Tübingen
+Foto von N.Schanz / Universitätsbibliothek Tübingen, lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)
 {: .fs-2 .text-right}
 
 **Eine angenehme Arbeitsumgebung anbieten**

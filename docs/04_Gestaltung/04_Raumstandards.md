@@ -106,7 +106,7 @@ Raumstandards sagten:
     auszuwählen, die zwar robuster aber weniger leicht zu bewegen sind.
 
     ![Foto Flexible Möbel](../00_Abbildungen/04-04_Flexible_Moebel_UB_Tuebingen.JPG)
-    &copy; N.Schanz / Universitätsbibliothek Tübingen
+    Foto von N.Schanz / Universitätsbibliothek Tübingen, lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)
     {: .fs-2 .text-right}
 
 -   Größer ist nicht notwendigerweise besser, wenn es um Tischfläche für
