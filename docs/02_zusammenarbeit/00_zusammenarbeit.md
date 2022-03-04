@@ -9,11 +9,6 @@ permalink: /docs/02_Zusammenarbeit
 
 # 2. Partnerschaftliche Zusammenarbeit
 
-![Meeting](../00_Abbildungen/02-00_Meeting.jpg)
-&copy; Meeting Vektor-Grafik, [Vecteezy](https://de.vecteezy.com/gratis-vektor/meeting)
-{: .fs-2 .text-right}
-
-
 **In Kürze**
 
 -   Bei Lernraumprojekten ist es notwendig,
