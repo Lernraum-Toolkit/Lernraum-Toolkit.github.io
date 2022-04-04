@@ -31,7 +31,7 @@ Markus Wust
 
 **Lizenz**
 
-Dieses Lernraum Toolkit ist lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)).
+Dieses Lernraum Toolkit ist lizenziert unter der Creative Commons Namensnennung-Nicht Kommerziell 4.0 International Lizenz ([CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.de)). Abweichend davon sind die begleitend veröffentlichten Tools lizenziert unter der Creative Commons Namensnennung 4.0 International Lizenz ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)).
 
 **Haftungsausschluss**
 
@@ -43,4 +43,4 @@ Alle im Toolkit zur Verfügung gestellten Informationen, Erklärungen, Abbildung
 
 Die Übersetzung, Zusammenstellung und Ergänzung von [UK Higher Education Toolkit](https://www.ucisa.ac.uk/learningspace) und [Learning Space Toolkit US](https://learningspacetoolkit.org) für das Lernraum Toolkit wurde erarbeitet im Rahmen des Projektes „Learning Space Toolkit: Best Practice Kreativräume entwickeln und evaluieren“ (Universitätsbibliothek Tübingen) innerhalb des Förderprogramms **„Wissenschaftliche Bibliotheken gestalten den digitalen Wandel (BW-Big diWa)“** des Ministeriums für Wissenschaft, Forschung und Kunst des Landes Baden-Württemberg [(MWK)](https://mwk.baden-wuerttemberg.de/).
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Toolkit Lernraumgestaltung</span> der <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Universitätbibliothek Tübingen</span> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Toolkit Lernraumgestaltung</span> der <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Universitätbibliothek Tübingen</span> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Namensnennung-Nicht Kommerziell 4.0 International Lizenz</a>.
