@@ -37,4 +37,6 @@ Tabellenblätter ein ganzheitliches Bild der Kosten über den Lebenszyklus
 des Projektes, um eine bessere Grundlage für Planung und Entscheidungen
 zu liefern.
 
+[Download Integrated Budgeting Tool (ods)](../../00_Tools/09_02_DE_Integrated_Budgeting_Tool.ods){: .btn .btn-purple .fs-5 .mr-4}
+
 [Download Integrated Budgeting Tool (xlsx)](../../00_Tools/09_02_DE_Integrated_Budgeting_Tool.xlsx){: .btn .btn-purple .fs-5 .mr-4}

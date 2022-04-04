@@ -38,7 +38,11 @@ werden, ggf. mit jeweils angepasstem Detailgrad.
 
 **Beispiel und Tool**
 
+[Download Beispiel Service Blueprint (odt)](../../00_Tools/06_02_05_DE_Service_Blueprint_Beispiel.odt){: .btn .btn-purple .fs-5 .mr-4}
+
 [Download Beispiel Service Blueprint (docx)](../../00_Tools/06_02_05_DE_Service_Blueprint_Beispiel.docx){: .btn .btn-purple .fs-5 .mr-4}
+
+[Download Template Service Blueprint (odt)](../../00_Tools/06_02_05_DE_Service_Blueprint.odt){: .btn .btn-purple .fs-5 .mr-4}
 
 [Download Template Service Blueprint (docx)](../../00_Tools/06_02_05_DE_Service_Blueprint.docx){: .btn .btn-purple .fs-5 .mr-4}
 

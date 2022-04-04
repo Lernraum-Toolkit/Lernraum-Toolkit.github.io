@@ -38,11 +38,13 @@ Servicekonzepte verwendet werden, um sicherzustellen, dass sie alle
 Fragen oder Bedenken, die die Journey Maps aufwerfen, beantworten.
 
 **Beispiel und Tool**
+[Download Beispiel Journey Map (odt)](../../00_Tools/06_02_04_DE_Journey_Map_Beispiel.odt){: .btn .btn-purple .fs-5 .mr-4}
 
 [Download Beispiel Journey Map (docx)](../../00_Tools/06_02_04_DE_Journey_Map_Beispiel.docx){: .btn .btn-purple .fs-5 .mr-4}
 
-[Download Template Journey Map (docx)](../../00_Tools/06_02_04_DE_Journey_Map.docx){: .btn .btn-purple .fs-5 .mr-4}
+[Download Template Journey Map (odt)](../../00_Tools/06_02_04_DE_Journey_Map.odt){: .btn .btn-purple .fs-5 .mr-4}
 
+[Download Template Journey Map (docx)](../../00_Tools/06_02_04_DE_Journey_Map.docx){: .btn .btn-purple .fs-5 .mr-4}
 
 **Weitere Ressourcen Journey Maps**
 
